@@ -1,0 +1,7025 @@
+{
+ "version": "1.0",
+ "built": "2026-09-04",
+ "sources": [
+  "Framesbase(镜像站)",
+  "React Bits",
+  "Aceternity UI",
+  "Anime.js",
+  "Uiverse(封锁标注)",
+  "Alche(超时标注)"
+ ],
+ "entries": [
+  {
+   "cat": "Sites",
+   "name": "Global gateway",
+   "tag": "Communication",
+   "style": "电影感3D超现实景观、暗紫橙色渐变与未来科技光门视觉；场景：科技品牌官网、AI/SaaS 产品落地页或沉浸式活动宣传页。",
+   "motion": "动效：全屏视频背景、光效脉冲、滚动视差、图层揭示、文字淡入上浮；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Skyflora",
+   "tag": "Creative",
+   "style": "高饱和蓝色渐变背景、极简大字号排版与超现实花卉 3D/AI 视觉融合的现代科技创意风；场景：AI 创意工作室、数字设计 agency、科技品牌官网落地页。",
+   "motion": "动效：花瓣/花朵粒子漂浮与散落、3D花束轻微旋转、鼠标视差交互、按钮悬浮微交互、文字渐入上移、背景云层缓慢流动；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Vectrus Energy",
+   "tag": "Editorial",
+   "style": "电影感自然摄影、冷灰蓝极简排版与高端环保科技质感；场景：新能源、能源集团与可持续发展企业品牌官网首页。",
+   "motion": "动效：全屏视频/动态雾气背景、缓慢镜头推进与视差、文字淡入上浮、导航悬停微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Crypto Vault",
+   "tag": "Fintech",
+   "style": "暗色极简未来科技风，结合高对比黑白、3D 金属质感与 Web3 视觉元素；场景：加密金融/数字银行品牌官网、金融科技产品落地页。",
+   "motion": "动效：3D卡片悬浮旋转、流体波浪变形、粒子/网格背景、光泽扫光、文字分层揭示、鼠标视差交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Obsidian",
+   "tag": "Interactive",
+   "style": "高端时尚杂志感的暗黑神圣奇幻视觉，以巨幅粗体排版、写实 3D 人物与羽翼、白金奢华配色呈现；场景：奢侈品牌官网、时尚设计工作室作品集、艺术展览/潮流活动专题页。",
+   "motion": "动效：3D场景微旋转、翅膀羽毛轻微摆动、人物衣袍与发丝飘动、金属王冠光泽流动、文字图层揭示、鼠标视差交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Fastshot",
+   "tag": "AI",
+   "style": "沉浸式自然风光背景结合暗色半透明玻璃拟态与极简科技感；场景：AI 应用/SaaS 产品官网落地页或创意工具宣传首页。",
+   "motion": "动效：全屏视频背景、缓慢视差漂移、光效脉冲、文字/表单淡入上移、按钮悬停反馈；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Geno Trace",
+   "tag": "Technology",
+   "style": "黑色极简底色结合高对比发光DNA微距视觉的科技暗色风；场景：基因检测、生物科技品牌官网或产品落地页。",
+   "motion": "动效：DNA 3D缓慢旋转、流体粒子飞溅、橙色能量光效脉冲、鼠标视差交互、文字渐显；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "3D Character Studio",
+   "tag": "3D",
+   "style": "高饱和红色渐变背景＋定格动画质感的 3D 卡通角色，兼具创意工作室式极简排版；场景：创意机构、动画/设计工作室或品牌官网首页。",
+   "motion": "动效：3D角色待机微动、鼠标视线/头部跟随、文字逐字显现、背景光效渐变流动、按钮悬停反馈；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Quantum Lucid",
+   "tag": "SaaS",
+   "style": "极简现代的黑白高对比 SaaS 设计，搭配蓝色抽象渐变背景与圆角卡片；场景：AI 办公工具、生产力 SaaS 产品官网或落地页。",
+   "motion": "动效：文字逐字入场、按钮悬浮反馈、卡片上浮揭示、背景流体光影缓慢漂移、滚动触发渐显；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "arc Summit",
+   "tag": "Cyberpunk",
+   "style": "赛博朋克未来都市插画风，蓝粉霓虹渐变与复古科幻质感；场景：科技峰会、创意活动、Web3/AI 产品发布及品牌官网落地页。",
+   "motion": "动效：多层城市视差滚动、悬浮飞行器循环移动、云层缓慢漂移、霓虹光效脉冲、标题文字渐显/上移、鼠标视差交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Pixel Muse",
+   "tag": "Creative Studio",
+   "style": "极简留白结合复古像素艺术、网格背景与编辑感衬线排版；场景：创意工作室、AI 艺术工具或设计品牌官网落地页。",
+   "motion": "动效：像素花朵逐帧绽放、像素粒子散落/聚合、轻微悬浮漂移、按钮悬停反馈；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Rare Gallery",
+   "tag": "Curated",
+   "style": "暗调电影感自然花境与奢华极简编辑风，结合聚光、颗粒质感和高对比衬线排版；场景：高端艺术画廊、奢侈品牌、精品收藏或限量活动预约落地页。",
+   "motion": "动效：全屏视频背景、花草微风摆动、漂浮粒子/尘埃光点、光效脉冲、文字渐显、鼠标视差；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Nexa Talent",
+   "tag": "Recruitment",
+   "style": "极简未来感的柔和渐变玻璃拟态，结合半透明 3D 球体与水波光晕；场景：创意咨询、人才服务、科技品牌官网或高端企业落地页。",
+   "motion": "动效：悬浮3D光球旋转、液面涟漪扩散、柔光脉冲/渐变流动、鼠标悬停视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Palomar Labs",
+   "tag": "AI",
+   "style": "自然风景融合极简排版的高端科技品牌视觉，采用柔和暖色调与留白；场景：AI/SaaS 产品官网或品牌落地页。",
+   "motion": "动效：全屏视频/自然场景微动、缓慢滚动视差、文字淡入上移、光影氛围流动；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Creative Matter",
+   "tag": "Creative",
+   "style": "暗色未来感 3D 抽象艺术、电影级光影与高对比排版；场景：创意工作室/品牌咨询公司的高端官网落地页或作品展示页。",
+   "motion": "动效：3D场景旋转、悬浮雕塑/流体变形、镜头缓慢推进、文字分层揭示、光效脉冲、鼠标交互视差；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Scaling Platform",
+   "tag": "SaaS",
+   "style": "未来科技感的极简黑白分屏设计，结合抽象3D球体、线框几何与高对比蓝色点缀；场景：科技公司、SaaS 平台、数字产品或创新品牌官网首屏落地页。",
+   "motion": "动效：3D场景旋转、悬浮粒子/球体漂浮、粒子网络连线、光效脉冲、文字分层入场、按钮悬停交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Angel Shield",
+   "tag": "Security",
+   "style": "轻奢新古典幻想 3D 视觉、奶油白金配色与玻璃拟态卡片结合；场景：高端 VPN/网络安全品牌官网落地页。",
+   "motion": "动效：滚动视差、光效脉冲、悬浮卡片、鼠标交互、图层揭示；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "BuildShield",
+   "tag": "Construction",
+   "style": "高饱和橙黄配色、粗犷工业感排版与纪实摄影结合的现代极简品牌风；场景：建筑工程、保险风控、工业制造等企业品牌官网或产品落地页。",
+   "motion": "动效：文字逐字揭示、图片图层滑入、按钮悬停反馈、轻微滚动视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Global Hubs",
+   "tag": "Agency",
+   "style": "极简明亮的企业官网风，结合柔焦抽象城市影像、玻璃拟态卡片与暖冷渐变；场景：品牌官网、全球化企业介绍页、SaaS/咨询公司落地页。",
+   "motion": "动效：悬浮卡片、鼠标悬停视差、光影/渐变流动、图层模糊揭示、卡片入场淡入上移；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "3D Future Flora",
+   "tag": "Threejs",
+   "style": "暗色未来感与梦幻霓虹渐变结合的沉浸式 3D 花海视觉；场景：AI/科技品牌官网、创新产品落地页或高端创意工作室宣传页",
+   "motion": "动效：3D场景缓慢漂移、花海粒子/光效脉冲、鼠标视差交互、流体光带、文字淡入上浮；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Nature Ritual",
+   "tag": "Wellness",
+   "style": "自然生态感与高端杂志风结合的沉浸式摄影、深色背景配清新植物色彩；场景：健康饮品、天然护肤或可持续生活方式品牌官网首页/品牌宣传页。",
+   "motion": "动效：全屏视频背景、悬浮产品漂浮、植物与水滴微动、文字分屏揭示、滚动视差、光影呼吸；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Cyber Defense",
+   "tag": "Security",
+   "style": "科技暗色调＋霓虹渐变光效＋玻璃拟态悬浮卡片的未来感视觉；场景：AI 网络安全/SaaS 产品官网落地页。",
+   "motion": "动效：流体光晕变形、光效脉冲、悬浮玻璃卡片、HUD数据动态更新、文字逐字显现、鼠标悬停交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Quantum Core",
+   "tag": "Data Intelligence",
+   "style": "电影感科技暗色视觉，融合超现实风暴渐变背景与玻璃拟态数据卡片；场景：AI 数据分析、企业 SaaS 平台及科技品牌官网落地页。",
+   "motion": "动效：全屏视频/动态背景、光效脉冲、HUD数据图表动态增长、悬浮玻璃卡片、文字与按钮淡入上浮、轻微视差；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Aurex Finance",
+   "tag": "Fintech",
+   "style": "科技暗色极简风，融合发光半透明 3D 花卉、生物感流线与金融终端式网格信息排版；场景：高端金融科技、Web3/加密资产、数字银行或创新品牌官网落地页。",
+   "motion": "动效：流体生物漂浮、半透明光效脉冲、丝状轨迹流动、HUD数据图层揭示、鼠标悬浮视差、文字淡入；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Agent Wave",
+   "tag": "AI",
+   "style": "科技感暗色、黑白颗粒与流动抽象背景结合的沉浸式极简风；场景：AI/SaaS 产品官网首页或高端科技品牌落地页。",
+   "motion": "动效：粒子网络、流体变形、全屏动态纹理背景、文字渐入上浮、光效脉冲、HUD数据动效；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Ascera AI",
+   "tag": "AI Technology",
+   "style": "电影感写实山景背景、暖棕复古色调与极简科技玻璃质感叠加的高端 AI 品牌风；场景：AI/数据基础设施 SaaS 落地页、科技品牌官网或产品发布页。",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "TerraVision",
+   "tag": "Nature",
+   "style": "极简留白的环保科技品牌风，搭配大字号排版、自然影像与半透明数据卡片；场景：AI 环境监测/ESG/智能建造类 SaaS 品牌官网或产品落地页。",
+   "motion": "动效：全屏视频背景、自然粒子飘浮、HUD数据动效、数字滚动、悬浮卡片、文字渐入；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Retro-Futurist",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Bloom",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Vision Reveal",
+   "tag": "Hero",
+   "style": "像素化 3D 角色插画、极简留白与轻量动效感的创意科技风；场景：设计师/动画师个人作品集、创意工作室官网或服务落地页。",
+   "motion": "动效：3D模型缓慢旋转、鼠标视差跟随、悬浮粒子/光点漂浮、眼神微动/眨眼、光效闪烁、文字渐入揭示；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Lead Funnel",
+   "tag": "Hero",
+   "style": "科技感暗黑极简风，融合高对比白色排版、金属质感 3D 元素与微妙动态光效；场景：数字营销/创意机构官网、品牌展示页或 SaaS 服务落地页。",
+   "motion": "动效：3D场景旋转、悬浮卡片、鼠标跟随/光标交互、文字渐显与分层揭示、光影扫过；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Future Studio",
+   "tag": "Creative",
+   "style": "电影感暗调时尚视觉、强对称构图与大胆超大字体的潮流杂志风；场景：创意工作室、AI 影像品牌、时尚摄影或导演作品集官网。",
+   "motion": "动效：全屏视频背景、电影级镜头推进/轻微摇移、文字分层揭示、导航悬停交互、胶片颗粒与光影闪烁；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Glass Orb",
+   "tag": "Threejs",
+   "style": "极简未来感科技风，融合半透明玻璃拟态、虹彩流体 3D 与柔和灰白渐变；场景：创新科技/环保研究品牌官网、实验室项目落地页或数字艺术作品集。",
+   "motion": "动效：流体变形、全息虹彩光效、悬浮漂移、3D场景旋转、HUD数据波形动态、光标交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Planetary Pulse",
+   "tag": "Science",
+   "style": "极简科技感排版结合半透明虹彩玻璃拟态与有机 3D 流体视觉；场景：环保科技、研究机构、创新实验室或创意品牌官网落地页。",
+   "motion": "动效：3D流体玻璃体旋转/变形、虹彩光效流动、HUD数据卡片渐显、波形绘制动画；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Growth Decisions",
+   "tag": "SaaS",
+   "style": "极简科技感 SaaS 视觉，暖冷渐变与梦幻 3D 山脉插画结合大胆排版；场景：B2B SaaS 产品官网或数据智能平台落地页。",
+   "motion": "动效：滚动视差、文字渐显/逐行揭示、光影流动、背景颗粒噪点、悬浮按钮微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "New Era Automotive Hero",
+   "tag": "Automotive",
+   "style": "暗黑高对比的汽车品牌视觉，结合超大粗体字、橙红渐变光影与写实跑车主视觉；场景：高端汽车销售平台、跑车品牌官网或车型营销落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Liquid Glass Agency",
+   "tag": "Landing Page",
+   "style": "暗色极简科技风，融合电影感花卉自然视觉、优雅衬线字体与高光渐变 3D 流体元素；场景：AI 网页设计/创意工作室品牌官网、高端 SaaS 落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Digitwist AI Builder",
+   "tag": "SaaS",
+   "style": "科技感暗黑风，搭配高饱和电光蓝渐变光柱与极简大字号排版；场景：AI 产品、数字创意机构或科技品牌官网的 SaaS 落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Buzzentic Agency",
+   "tag": "Agency",
+   "style": "暗色电影感渐变背景结合极简排版与高对比白色字体；场景：创意营销/短视频制作工作室的品牌官网或服务落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Viktor Portfolio",
+   "tag": "Portfolio",
+   "style": "暗黑暖橙渐变的赛博未来主义与科技极简风，融合沉浸式人物视觉和 HUD 信息界面；场景：创意开发者/数字建筑师个人作品集、科技品牌官网或交互项目展示页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Railroad.ai",
+   "tag": "Hero Section",
+   "style": "沉浸式 3D 写实场景结合玻璃拟态与极简大字排版；场景：效率工具、专注类 App 或创意科技品牌的产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "HR SaaS Hero",
+   "tag": "SaaS",
+   "style": "极简轻拟态结合柔和蓝紫粉渐变与半透明磨砂质感；场景：HR/远程团队管理类 SaaS 产品落地页或品牌官网首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Datacore SaaS Hero",
+   "tag": "SaaS",
+   "style": "深色科技感结合玻璃拟态、蓝紫渐变流体 3D 背景与大字排版；场景：SaaS 产品/项目管理工具的品牌官网或落地页首屏。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Bloom AI",
+   "tag": "Hero Section",
+   "style": "深色科幻宇宙背景、绿色渐变光效与玻璃拟态卡片结合的未来感 AI 视觉；场景：AI 产品官网、创意科技品牌落地页或数字艺术平台首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Velorah",
+   "tag": "Agency",
+   "style": "梦幻超现实的电影感插画风，深蓝星空与暖金光影营造诗意沉浸氛围；场景：创意工作室、设计品牌、数字产品或个人作品集官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Weblex Dark Hero",
+   "tag": "Landing Page",
+   "style": "暗黑科幻电影感视觉，大尺度陨石与星球背景搭配高对比荧光黄按钮的极简科技风；场景：AI/SaaS 产品落地页、创意工作室官网、科技品牌宣传首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Wealth Video Hero",
+   "tag": "Fintech",
+   "style": "科技感暗色极简风，搭配霓虹渐变星球视觉与大字号排版；场景：金融理财/FinTech SaaS 产品落地页或品牌官网首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Finlytic AI Agent",
+   "tag": "SaaS",
+   "style": "深色科技感未来主义风格，结合紫色霓虹渐变、3D 全息地球与玻璃拟态仪表盘；场景：AI/SaaS 产品落地页、自动化平台品牌官网或数据分析工具宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Synapse Dark Hero",
+   "tag": "SaaS",
+   "style": "极简科技暗色风，黑白高对比搭配抽象流光线条与轻玻璃拟态导航；场景：AI/科技 SaaS 产品落地页、数字创新服务品牌官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Web3 EOS Hero",
+   "tag": "Web3",
+   "style": "暗色未来科技风，结合宇宙星云背景、蓝色霓虹光效与极简高对比排版；场景：AI 产品/SaaS 平台的品牌官网或新品预热落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Planet Orbit",
+   "tag": "SaaS",
+   "style": "科技暗色宇宙感设计，融合蓝绿渐变光效、地球 3D 视觉与高对比极简排版；场景：AI/SaaS 增长平台、数据分析产品或科技品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Automation Hero",
+   "tag": "AI / SaaS",
+   "style": "暗色高级科技感、金属垂幕纹理与轻玻璃拟态结合的极简 AI 风；场景：AI 自动化/SaaS 产品官网首屏与企业服务落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Taskora SaaS Hero",
+   "tag": "SaaS",
+   "style": "蓝色科技感渐变叠加玻璃拟态与抽象 3D 金属质感视觉；场景：项目管理/效率工具类 SaaS 产品落地页或品牌官网首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "ClearInvoice SaaS Hero",
+   "tag": "SaaS",
+   "style": "科技暗色极简风，搭配高饱和流体虹彩渐变与醒目 CTA；场景：SaaS 产品官网、在线工具或电商管理平台落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Neuralyn",
+   "tag": "SaaS",
+   "style": "黑色极简科技风，融合透明玻璃拟态仪表盘、柔和渐变按钮与自然花植视觉元素；场景：数据分析/SaaS 产品官网落地页或 AI 工具品牌首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Apex SaaS",
+   "tag": "SaaS",
+   "style": "科技暗色调结合蓝紫霓虹渐变、流体玻璃质感与极简大字排版；场景：AI/SaaS 产品落地页、增长营销平台或高端科技品牌官网首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Grow AI Talent Platform",
+   "tag": "SaaS",
+   "style": "暗色科技感极简风，蓝色渐变光效与未来感 3D 流体视觉；场景：AI/SaaS 产品官网、科技品牌落地页与企业服务宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Orbit Engineers",
+   "tag": "Agency",
+   "style": "沉浸式科幻空间美学，结合电影级 3D 自然场景、深色舱体界面、未来工业框架与极简排版；场景：航天工程、战略咨询、前沿科技企业的品牌官网或高端项目展示落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Taskly",
+   "tag": "Hero Section",
+   "style": "极简现代 SaaS 风，白底留白搭配柔和蓝色渐变光晕与高光 3D 抽象球体；场景：项目管理、协作效率工具等 SaaS 产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Space Voyage",
+   "tag": "Landing Page",
+   "style": "电影感超现实自然风、柔焦光影与梦幻花海背景结合通透白色悬浮导航；场景：高端航天科技品牌官网、未来探索主题活动页或创意品牌落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "New Era Bold Hero",
+   "tag": "Agency",
+   "style": "蓝紫渐变科技感 3D 插画与未来主义拟物设计；场景：创意设计工作室、科技产品或数字品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Glassmorphism Agency Hero",
+   "tag": "Agency",
+   "style": "黑底极简科技感，搭配紫粉渐变流体 3D 抽象材质与大字号排版；场景：数字创意工作室、设计 agency 或 SaaS 品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "NeoVision",
+   "tag": "Landing Page",
+   "style": "极简黑白、未来科技感与沉浸式大图视觉；场景：VR/AI 科技品牌官网、未来产品宣传页或高端 SaaS 落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Loader Animation",
+   "tag": "Component",
+   "style": "纯黑极简暗色背景；场景：高端品牌官网开场、科技产品发布页或沉浸式视频/动画首屏。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "CodeNest Coding Platform",
+   "tag": "Landing Page",
+   "style": "科技暗色极简风，结合霓虹绿蓝数据波纹、故障艺术与高对比大标题；场景：编程教育平台、开发者训练营或科技品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Bold Portfolio Hero",
+   "tag": "Portfolio",
+   "style": "高饱和橙红渐变、未来感时尚视觉与超大粗体排版结合的创意极简风；场景：设计师/创意工作室作品集首页、个人品牌官网或潮流品牌落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Dark Portfolio Hero",
+   "tag": "Portfolio",
+   "style": "暗色极简与蓝黑渐变光影结合的高级编辑感个人品牌视觉，大尺寸衬线字体突出；场景：创意设计师/艺术总监个人作品集首页或高端品牌官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Datacore Booking",
+   "tag": "SaaS",
+   "style": "暗色科技感结合紫蓝霓虹渐变、玻璃拟态光效与大字号优雅衬线排版；场景：高端旅行预订平台、SaaS 产品落地页或品牌官网首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Investor Deck",
+   "tag": "Investor Presentations",
+   "style": "科技暗黑风、沉浸式宇宙光效与蓝紫渐变背景结合极简大字排版；场景：科技企业官网、创新品牌落地页、投资机构展示页或产品发布活动页",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "xPortfolio Hero",
+   "tag": "Hero Section",
+   "style": "极简高对比黑白排版结合未来感3D人物与橙色透明材质点缀；场景：品牌设计师作品集、创意工作室官网或个人服务落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Framelix 3D Studios",
+   "tag": "Agency",
+   "style": "暗色电影感 3D 视觉，融合蓝紫霓虹粒子、发光昆虫与沉浸式动态艺术；场景：影视特效/动效工作室官网、创意机构作品集或高端品牌展示落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Prioritize",
+   "tag": "Hero Section",
+   "style": "极简明亮的现代 SaaS 设计，结合轻拟物卡片、柔和阴影与蓝色科技点缀；场景：项目管理/效率工具类 SaaS 产品官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Terra Geo Map",
+   "tag": "SaaS",
+   "style": "极简白底的现代 SaaS 科技风，以高饱和蓝色渐变、醒目大标题和 3D 地球视觉强化空间数据感；场景：地图/GIS 平台、地理智能 SaaS 产品官网或落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "NOVA Space Systems",
+   "tag": "Landing Page",
+   "style": "黑白极简的高对比科技暗色风，结合超大无衬线字体、航天实拍视觉与杂志式网格排版；场景：航天科技、工业制造或高端创新品牌官网与产品展示落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Email Landing Page",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Targo Logistics Hero",
+   "tag": "SaaS",
+   "style": "红黑高对比的未来科技暗色风格，融合高速动态模糊、赛车 3D 渲染与大胆超大字体；场景：汽车/赛车品牌官网、物流运输服务落地页及高性能产品宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Reveal Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Stellar AI",
+   "tag": "Hero Section",
+   "style": "极简留白的现代 AI SaaS 风格，黑白排版搭配梦幻紫色 3D 场景与悬浮卡片；场景：AI 工具、效率自动化产品的 SaaS 落地页或品牌官网首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "CoderCrest",
+   "tag": "SaaS",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "WISA Space",
+   "tag": "Hero Section",
+   "style": "沉浸式航天科技暗色视觉、真实 3D 太空影像与半透明玻璃拟态界面；场景：航天科技品牌官网、创新企业展示页或高端项目落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Portfolio Cosmic",
+   "tag": "Portfolio",
+   "style": "暗黑科幻宇宙感、沉浸式动态纹理与极简高对比排版；场景：设计师/创意工作者个人作品集与高端品牌展示官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Zenith Realty",
+   "tag": "Landing Page",
+   "style": "极简高级的现代奢华地产视觉，以大幅建筑摄影、黑白中性色、留白排版和无衬线大标题营造高端感；场景：高端房地产中介/豪宅楼盘展示官网与房源营销落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "FlowMate",
+   "tag": "Landing Page",
+   "style": "清新蓝白渐变背景、极简编辑风排版与轻玻璃拟态卡片结合的 AI 科技感设计；场景：AI 自动化/SaaS 产品落地页、效率工具品牌官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Pro AI Deck",
+   "tag": "Presentation",
+   "style": "暗色电影感自然奇幻视觉、艺术排版与高质感沉浸式设计；场景：创意设计工作室、品牌官网、高端作品集或 AI 设计服务落地页",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Dot",
+   "tag": "Hero Section",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Nike Premium Landing",
+   "tag": "Landing Page",
+   "style": "沉浸式 3D 超现实岩石场景、暗色高对比与运动潮流品牌视觉；场景：运动鞋/潮牌产品官网首屏、品牌营销落地页或新品发布活动页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Nexto 404",
+   "tag": "404",
+   "style": "极简浅色科技风，融合柔和渐变光晕、3D 卡通插画与轻拟态卡片；场景：创意工作室/数字产品品牌官网的 404 页面或引导落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "NovaDesk Signup",
+   "tag": "Signup",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Orbit Web3",
+   "tag": "Web3",
+   "style": "宇宙星空背景结合金色 3D 资产币、柔和渐变光效与复古衬线字体的沉浸式金融科技风；场景：数字资产/加密金融品牌官网或产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Learnly",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Aetheris Voyage",
+   "tag": "Hero Section",
+   "style": "暗黑宇宙感与高质感 3D 液态金属、霓虹光影和电影级渐变；场景：太空探索、未来科技或高端品牌官网的沉浸式落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Orbis NFT",
+   "tag": "Landing Page",
+   "style": "梦幻科幻暗色调的高质感3D卡通插画，融合粗犷大字报排版、霓虹绿手写点缀与沉浸式太空叙事；场景：NFT/数字藏品展示页、创意工作室或潮流IP品牌官网、艺术作品集落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Automation Machines",
+   "tag": "Hero Section",
+   "style": "科技暗色、极简工业风与 3D 金属质感结合；场景：机器人/自动化品牌官网、科技产品落地页或开发者作品集。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "EcoVolta",
+   "tag": "Hero Section",
+   "style": "极简白底结合写实3D生态场景、自然绿色调与现代科技感排版；场景：新能源/环保品牌官网、清洁能源 SaaS 落地页及企业产品宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "BookedUp",
+   "tag": "SaaS",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "E-commerce Website",
+   "tag": "Landing Page",
+   "style": "现代极简医疗健康电商风，以大字号排版、留白、圆角卡片和暖调产品摄影营造专业且亲和的高级感；场景：在线医疗/减重诊疗平台、健康美容品牌官网及订阅制产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Mindloop",
+   "tag": "SaaS",
+   "style": "梦幻柔焦渐变插画风，融合蓝紫粉霞光、云海与治愈氛围；场景：冥想/效率工具类 SaaS 落地页、个人成长品牌官网或产品候补名单页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Acreage Farming",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Crypto Wealth",
+   "tag": "Hero Section",
+   "style": "极简白色 SaaS 风、柔和投影与自然摄影融合的轻拟物卡片设计；场景：内容管理平台、生产力工具或 B2B SaaS 产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Power AI",
+   "tag": "Hero Section",
+   "style": "科技暗色系 3D 抽象流体渐变，搭配极简大字与霓虹紫蓝光效；场景：AI/SaaS 品牌官网首屏、科技产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Slate",
+   "tag": "SaaS",
+   "style": "蓝紫渐变天空背景结合玻璃拟态与半透明磨砂卡片的轻盈科技感；场景：SaaS 协作/项目管理工具的品牌官网或产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Innovation",
+   "tag": "Landing Page",
+   "style": "暗色电影感超现实视觉、宇宙星空与自然意象融合，搭配极简排版和轻玻璃拟态；场景：创意工作室、科技创新品牌、艺术作品集或高端品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "NexaCore",
+   "tag": "Landing Page",
+   "style": "深色科技感极简界面，结合蓝紫橙渐变光影、抽象 3D 舞台透视与悬浮卡片质感；场景：企业级 SaaS、基础设施/工程科技公司品牌官网及产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Veloce Finance",
+   "tag": "Landing Page",
+   "style": "极简留白布局、柔和粉紫蓝渐变与轻拟态3D卡片结合的现代科技金融风；场景：支付/数字钱包类 FinTech 品牌官网或移动应用落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Prisma Creative Studio",
+   "tag": "Landing Page",
+   "style": "电影级超现实3D视觉、暗色极简排版与暖金光影结合；场景：影视调色师、创意工作室及高端视觉设计师作品集官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "EcoVolta V2",
+   "tag": "Hero Section",
+   "style": "极简白底结合自然系绿色调与高质感 3D/写实新能源场景插画；场景：清洁能源、环保科技品牌官网或企业 SaaS 落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Nickel Payments",
+   "tag": "SaaS",
+   "style": "明亮极简的科技感 3D 插画风，搭配橙色渐变按钮与大留白排版；场景：金融支付类 SaaS 品牌官网或产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "SpeakUp Venture Hero",
+   "tag": "Hero",
+   "style": "极简留白排版结合高质感 3D 自然生态视觉与有机绿色调；场景：创意数字工作室、品牌咨询公司或可持续创新企业官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cybersecurity Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Nexora Automation",
+   "tag": "SaaS",
+   "style": "自然意境融合极简科技感的明亮 SaaS 设计，搭配高对比衬线大标题与柔和产品界面展示；场景：AI 自动化/金融科技类 SaaS 品牌官网或产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Sync AI",
+   "tag": "Hero Section",
+   "style": "极简现代排版结合高饱和自然感 3D 草地花海视觉与轻柔渐变背景；场景：AI 自动化/SaaS 产品官网落地页或创新科技品牌宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Futuristic Cinematic",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "EMBER.dsgn",
+   "tag": "Hero Section",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Email Marketing",
+   "tag": "Email Marketing",
+   "style": "科技暗色与星空渐变背景结合沉浸式大图、杂志感衬线字体和荧光黄 CTA；场景：AI/科技品牌官网、课程推广落地页或活动宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "ClubX Investors",
+   "tag": "Landing Page",
+   "style": "自然电影感背景结合极简高端排版与轻玻璃拟态数据卡片；场景：高端投资人社群、金融科技品牌官网或会员招募落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Logoisum Video Agency",
+   "tag": "Agency",
+   "style": "清新梦幻的自然景观视觉、柔和渐变配色与极简大字排版；场景：创意视频剪辑机构、内容营销工作室或个人品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Focus AI",
+   "tag": "Landing Page",
+   "style": "电影感梦幻渐变插画、暗色极简排版与高端编辑感字体结合；场景：新能源出行/智能硬件品牌官网或产品发布落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Vitara",
+   "tag": "Landing Page",
+   "style": "极简高级医疗科技风，浅灰留白搭配深墨绿区块与大字号衬线标题；场景：数字医疗、健康管理 SaaS 品牌官网或产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Guardnet",
+   "tag": "Landing Page",
+   "style": "暗色未来科技风，融合高对比排版、流体3D渐变材质与轻玻璃拟态组件；场景：网络安全、数据隐私、AI/SaaS 产品品牌官网或营销落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Bionova Biotech",
+   "tag": "SaaS",
+   "style": "极简现代的生物科技品牌官网风，白底大字排版结合柔和渐变、半透明流体 3D 视觉与圆角卡片；场景：生物科技/医疗健康咨询公司的品牌官网或 SaaS 服务落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Impressive Hero",
+   "tag": "Hero Section",
+   "style": "科技暗色、星空粒子与微光渐变结合的极简未来感；场景：创投机构/科技品牌官网首页或高端企业落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Naturecore SaaS",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Sentinel AI",
+   "tag": "Hero Section",
+   "style": "暗黑科技感极简设计，搭配立体模块化方块背景与荧光绿色高亮；场景：AI 安防/企业安全服务品牌官网或 SaaS 产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Waitlist Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Nexus IT Solutions",
+   "tag": "Hero Section",
+   "style": "极简白底结合蓝色科技光环与未来感渐变视觉；场景：IT 咨询、数字化转型或科技服务公司的品牌官网/SaaS 落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Designer Agency",
+   "tag": "Landing Page",
+   "style": "沉浸式科技暗色风，融合超现实 3D 自然视觉、紫粉霓虹渐变与高端极简排版；场景：AI 创意工作室、数字设计 agency、品牌官网及作品集落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Transform Data",
+   "tag": "Hero Section",
+   "style": "自然风景沉浸式背景结合极简黑白 UI、轻量玻璃拟态与现代科技感；场景：AI/SaaS 产品落地页、数据分析工具官网或智能助手首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Creative Agency",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Duolingo Styleguide",
+   "tag": "Hero Section",
+   "style": "明亮活泼的扁平化卡通插画与圆润 UI 设计，搭配高饱和绿色及轻拟物组件；场景：语言学习等教育类 App 的品牌官网、产品落地页与设计规范页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Designer Portfolio",
+   "tag": "Landing Page",
+   "style": "极简留白排版、黑白高对比与编辑感衬线字体结合的精品创意工作室风格；场景：设计工作室/个人品牌官网与作品集落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "VertexAI Hero",
+   "tag": "Hero Section",
+   "style": "自然建筑摄影融合极简高端排版、暖棕大地色与轻玻璃拟态质感；场景：AI 空间设计/家居设计 SaaS 品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Luminex",
+   "tag": "Hero Section",
+   "style": "科技暗色调、蓝橙流光渐变与极简大字排版的高端未来感；场景：AI 设计工具、SaaS 产品或创意科技品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "VEX Ventures",
+   "tag": "Hero Section",
+   "style": "大幅沉浸式城市自然融合摄影背景、现代极简深色透明导航与高对比白色排版；场景：投资咨询、创投机构、金融科技或高端品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Equilibrium",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Yacht Club",
+   "tag": "Landing Page",
+   "style": "电影级沉浸式自然影像与高对比大字号衬线排版，深蓝海洋氛围、动态模糊与奢华编辑感；场景：高端帆船/海洋运动品牌官网、旅游体验落地页或创意品牌活动页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Image Generator UI",
+   "tag": "AI",
+   "style": "极简浅色 SaaS 卡片设计，搭配柔和渐变、轻拟物 3D 插画与圆角阴影；场景：AI 工具或创意生成类 SaaS 产品官网功能介绍页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Securify Data Security",
+   "tag": "SaaS",
+   "style": "暗色高对比潮流视觉、超大排版与运动摄影结合的科技品牌风；场景：网络安全/数据保护类 SaaS 品牌官网或产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "SAAS Software",
+   "tag": "SaaS",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AKOR Security",
+   "tag": "Landing Page",
+   "style": "科技暗色极简风，黑绿霓虹点缀、几何线条与3D建筑模型结合；场景：AI安防、智能楼宇、自动化与企业级科技服务品牌官网/落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "SkyElite Private Jets",
+   "tag": "Landing Page",
+   "style": "高端极简航空视觉，浅色云端背景结合写实飞机特写与大字号排版；场景：私人航空包机、奢华旅行服务或高端品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "RIVR",
+   "tag": "Hero Section",
+   "style": "高质感 3D 自然景观拟物设计，融合低饱和蓝灰渐变、柔和玻璃质感与轻奢金属元素；场景：Web3/DeFi 金融产品官网、SaaS 品牌落地页或高端数字资产平台首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Digital Epoch",
+   "tag": "Hero Section",
+   "style": "极简未来感的浅色拟态 3D 设计，结合柔和渐变、磨砂质感与悬浮卡片；场景：Web3／科技企业品牌官网、SaaS 产品落地页及数字服务展示页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AuraMail",
+   "tag": "SaaS",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "RIVR DeFi",
+   "tag": "Landing Page",
+   "style": "高端极简的 3D 超现实自然景观视觉，融合柔雾玻璃拟态、浅色科技感与大留白卡片式排版；场景：DeFi/Web3 协议、金融科技产品或高端 SaaS 品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "USD Halo",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "DesignPro Academy",
+   "tag": "Hero Section",
+   "style": "科技暗色极简风，结合蓝紫渐变的流体 3D 玻璃质感与大字号排版；场景：设计教育课程、创意培训机构或高端 SaaS 品牌落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "EVR Ventures",
+   "tag": "Hero Section",
+   "style": "科技感暗黑背景搭配高质感 3D 透明晶体、霓虹光束与极简排版；场景：高端品牌官网、创投机构/可持续发展企业落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Mindloop Landing",
+   "tag": "Landing Page",
+   "style": "暗色科幻梦境感的超现实3D自然生态插画，融合星空、发光植物与精致玻璃质感元素；场景：AI/科技产品、创意工作室或高端品牌的沉浸式官网与营销落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Luxury Ecommerce Design",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Yoga Coach",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Book Hero",
+   "tag": "Hero",
+   "style": "黑白极简奢华编辑风，结合大字号衬线排版与3D立体书籍陈列；场景：图书阅读平台、出版社品牌官网或书单推荐落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "IntelligentX",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "FinancialFocus",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cursor Follow",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Automation",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Scroll Landing Page",
+   "tag": "Interactive",
+   "style": "电影感暗色摄影、大幅沉浸式视觉叙事与极简排版；场景：高端体育品牌官网、赛事推广及俱乐部形象落地页",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Luxury Botanical",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Stellar Launch",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Solar Energy Hero",
+   "tag": "Hero",
+   "style": "科技感暗色渐变与沉浸式写实场景结合，搭配高对比大标题和简洁导航；场景：太阳能/新能源品牌官网首页或 SaaS 服务落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "No-Code Waitlist",
+   "tag": "Waitlist",
+   "style": "暗色未来科技风，搭配蓝紫渐变流体 3D 抽象背景与轻玻璃拟态导航；场景：AI／SaaS 产品落地页、创新科技品牌官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cybersecurity Hero v2",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "3D Jack Portfolio",
+   "tag": "Portfolio",
+   "style": "暗色高对比的潮流 3D 卡通角色作品集风格，搭配超大粗体排版与霓虹渐变按钮；场景：3D 设计师/数字艺术家的个人作品集、创意工作室品牌官网或项目展示落地页。",
+   "motion": "动效：3D角色头部跟随鼠标旋转、光标交互、文字入场揭示、按钮霓虹光效脉冲、悬浮微动；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Velorix IIC",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Build With Us",
+   "tag": "Contact us",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cinematic Brand",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Wanderful Hero",
+   "tag": "Travel",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AeroCore",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Urban Jungle",
+   "tag": "Landing Page",
+   "style": "沉浸式自然超现实视觉、复古交通场景与大胆实验性字体结合；场景：环保公益活动页、可持续品牌官网或创意营销落地页。",
+   "motion": "动效：滚动视差、植物微风摇曳、光影呼吸/闪烁、文字分裂入场、悬浮导航交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Growth Marketing SaaS",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Visual Hero",
+   "tag": "Hero",
+   "style": "暗色高级编辑风、超现实自然3D视觉与大幅艺术字体结合；场景：AI 图像生成工具或创意设计平台的品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Nimbus Grid",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Minimal Workflow SaaS",
+   "tag": "SaaS",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Luxury Real Estate",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Evergreen Finance",
+   "tag": "Fintech",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Prosthetics Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Modern Agency",
+   "tag": "Agency",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Slam Dunk",
+   "tag": "Hero Section",
+   "style": "暗色高对比电商视觉、橙红渐变点缀与3D质感产品主视觉；场景：潮流运动品牌官网、球鞋/装备电商落地页及新品推广页",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Contact Cybernetic",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Mythic Naturecore",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "VaultShield",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Creative Studio",
+   "tag": "Agency",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Bio-Digital",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Shamoni",
+   "tag": "Hero Section",
+   "style": "梦幻超现实摄影拼贴、明亮花卉自然色彩与复古艺术排版；场景：香氛花艺品牌官网、创意作品集或生活方式活动落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Art Landing",
+   "tag": "Landing Page",
+   "style": "古典油画拼贴与故障像素效果融合的超现实艺术风，叠加科技数据可视化排版；场景：创意型 AI/SaaS 品牌官网、营销落地页或数字艺术活动页。",
+   "motion": "动效：滚动视差、粒子/连线数据网络、HUD数据动效、数字滚动、光效脉冲、鼠标悬浮交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Daisy Shop",
+   "tag": "Ecommerce",
+   "style": "高饱和水果静物结合时尚人像的极简编辑风与轻奢美妆视觉；场景：香水、美妆、护肤及生活方式品牌官网首页或产品营销落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Bold Studio",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Dreamcore Landing",
+   "tag": "Landing Page",
+   "style": "电影级暗色奇幻 3D 插画与沉浸式梦幻光影风格；场景：创意工作室、数字艺术品牌、游戏/影视项目及高端作品集官网首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Workflow Hero",
+   "tag": "Hero",
+   "style": "自然电影感视觉融合极简排版与柔和暖色渐变的高端科技风；场景：AI/SaaS 产品官网落地页、创新品牌宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Asme",
+   "tag": "Hero Section",
+   "style": "暗色极简编辑感结合超现实星轨光效与 AI 视觉合成；场景：创意科技品牌官网、AI 产品落地页或个人作品集首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Scenic Travel",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cinematic Landing Page",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Aethera Studio",
+   "tag": "Hero Section",
+   "style": "极简留白排版结合诗意自然风插画与高对比衬线字体；场景：创意工作室、品牌官网、冥想疗愈或高端数字产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Futuristic Tech",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "FinFlow",
+   "tag": "Fintech",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Neo Museum",
+   "tag": "Website",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Layered Depth",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Interactive Portfolio",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Lending AI Agents",
+   "tag": "SaaS Website",
+   "style": "极简黑白编辑风与点阵插画结合的高端科技感；场景：AI 金融科技/SaaS 品牌官网落地页。",
+   "motion": "动效：点阵手部粒子/形态渐显、轻微漂浮与视差、文字淡入上移、按钮悬停微缩放/磁吸、滚动区块揭示；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Immersive Ocean",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Integration SaaS",
+   "tag": "Hero",
+   "style": "梦幻超现实 3D 云海场景、粉紫渐变柔光与极简科技排版；场景：数据平台/SaaS 品牌官网的产品落地页首屏。",
+   "motion": "动效：全屏视频背景、云雾流体变形、光效脉冲、图层视差、文字渐入；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Luxury Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Digital Experiences",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Investment Gate",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Clarity Core",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Sky Estate",
+   "tag": "Real Estate",
+   "style": "梦幻超现实的 3D CGI 视觉、紫粉渐变天空与高端极简排版；场景：高端房地产/豪宅项目品牌官网落地页。",
+   "motion": "动效：滚动视差、全屏视频背景/云层流动、文字分裂渐入、环境光效脉冲、鼠标视差交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Bio-Age Dashboard",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Celestial Renewal",
+   "tag": "Wellness",
+   "style": "深色宇宙星空视觉、电影感蓝色渐变与高级衬线排版结合的沉浸式极简风；场景：高端美容疗愈、健康 wellness 品牌官网或预约咨询落地页。",
+   "motion": "动效：星空粒子闪烁、地球缓慢旋转/推进、地球边缘光效脉冲、文字淡入上移、按钮悬浮微光、鼠标视差；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cosmic",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "SaaS Value",
+   "tag": "SaaS",
+   "style": "极简科技感 SaaS 视觉，蓝天草地实景渐变背景结合深色玻璃拟态产品界面；场景：AI 内容工具、营销 SaaS 或品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Wellbeing OS",
+   "tag": "Hero",
+   "style": "暗色极简科技感结合高质感花卉 3D/摄影视觉与暖金点缀；场景：健康疗愈、效率工具或 SaaS 品牌官网落地页。",
+   "motion": "动效：花瓣飘落/粒子漂浮、前中后景景深视差、微风摇曳植物动画、文字渐显、按钮悬浮光效；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Pulse 3D",
+   "tag": "3D Website",
+   "style": "高饱和粉红渐变背景结合潮玩3D角色、涂鸦纹理与时尚未来感排版；场景：创意工作室/品牌官网、潮流活动页、作品集落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Neon Logic",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cyberpunk Reveal",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cosmos Interface",
+   "tag": "Landing Page",
+   "style": "电影级写实 3D 太空科幻视觉、深色沉浸式大图首屏；场景：航天科技品牌官网、AI/创新产品落地页、未来主题活动页。",
+   "motion": "动效：全屏视频背景、电影级镜头推进、3D太空场景视差、宇航员缓慢漂浮、地球云层与光影流动、HUD/导航微交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "CozyPaws",
+   "tag": "Hero",
+   "style": "清新治愈的自然色电商视觉，大图萌宠摄影结合留白排版、复古衬线标题与圆润图标；场景：宠物用品品牌官网首页、电商落地页及产品推广页",
+   "motion": "动效：图层揭示、宠物元素上浮/弹性入场、悬浮卡片、按钮与产品卡片悬停、数字滚动计数、视频播放交互、轻微视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "3D Collectible Hero",
+   "tag": "3D Website",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Tech-Forward",
+   "tag": "Hero",
+   "style": "极简留白、黑白单色与高质感3D机械手视觉的未来科技风；场景：金融科技/数字银行品牌官网或高端产品落地页。",
+   "motion": "动效：3D场景旋转、机械手悬浮微动、光影渐变/雾化揭示、文字淡入上移、鼠标交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Wellness Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Interface",
+   "tag": "Landing Page",
+   "style": "深色科技感3D玻璃拟态，融合蓝青渐变、发光透明材质与未来感环形机械视觉；场景：AI/脑机接口/医疗科技等创新产品的品牌官网或高端SaaS落地页。",
+   "motion": "动效：3D场景旋转、HUD数据动效、光效脉冲、图层视差、文字淡入揭示；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Apex Pulse",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Neural Interface",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Synthesis",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Gateway Portal",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "3D Story",
+   "tag": "Landing Page",
+   "style": "暗色宇宙感的沉浸式 3D 艺术风，搭配半透明花瓣材质、微光粒子与极简科技排版；场景：3D WebGL/创意工具产品官网、开发者平台落地页或数字艺术作品集。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Luxury Focus",
+   "tag": "E-commerce",
+   "style": "暗调电影感时尚大片，以珠宝特写与高对比光影营造奢华神秘氛围；场景：珠宝/美妆/高端时尚品牌官网、广告活动页与产品宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Financial Suite",
+   "tag": "Landing Page",
+   "style": "科技暗色电影感、玻璃拟态与高质感 3D 金属卡片视觉；场景：高端金融/数字银行信用卡产品的品牌官网或营销落地页。",
+   "motion": "动效：3D卡片悬浮旋转、鼠标视差交互、环境云层/雾气缓慢流动、月光与卡片边缘光效脉冲、文字淡入揭示；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Health Portal",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Organic Odyssey",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "PROMPT",
+   "tag": "Landing Page",
+   "style": "极简白底、前卫实验字体与高质感虚拟人像结合的潮流时尚视觉；场景：服装潮牌官网、电商产品首屏、限量系列发售页。",
+   "motion": "动效：全屏视频/人物微动、鼠标视差跟随、文字图层揭示、价格数字滚动、悬浮导航交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "CleanTech",
+   "tag": "Sustainability",
+   "style": "自然生态主题的沉浸式 3D 视觉、暗色背景与极简排版；场景：环保科技品牌官网、可持续发展项目落地页或创新产品宣传页。",
+   "motion": "动效：3D场景旋转、缓慢悬浮漂移、苔藓/植物微风摆动、光影呼吸、文字淡入揭示、鼠标视差交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Glitch Pulse",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Jewelry Store",
+   "tag": "Ecommerce",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Interactive Discovery",
+   "tag": "Hero",
+   "style": "科技暗色调的沉浸式 3D 地形视觉、电影感光影与高对比编辑排版；场景：地质科普/自然探索品牌官网、互动教育课程落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Subscription Agency",
+   "tag": "Hero",
+   "style": "极简现代风，融合柔和蓝绿色渐变光晕与黑白高对比排版；场景：创意设计服务品牌官网或 SaaS 落地页。",
+   "motion": "动效：渐变光效流动、背景细线粒子/网格呼吸、标题文字分段入场、按钮悬停微交互、品牌 Logo 横向滚动；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Performance Eyewear",
+   "tag": "Ecommerce",
+   "style": "高端潮流的产品视觉、写实摄影与深蓝渐变背景结合，搭配极简排版和运动科技感；场景：眼镜/运动装备品牌官网首页、产品发布页或电商落地页。",
+   "motion": "动效：鼠标视差交互、3D产品/镜片悬浮旋转、文字图层揭示、滚动驱动排版转场、镜面渐变光效；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Conversion",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Stillmind",
+   "tag": "Hero",
+   "style": "电影感超现实插画、暗色复古金属框架与梦幻粉紫渐变的沉浸式艺术风；场景：冥想疗愈、创作者社区、效率工具或高端品牌产品的落地页。",
+   "motion": "动效：全屏视频/动态风景背景、缓慢视差、云雾流动、星光粒子闪烁、文字淡入上移、悬浮光效脉冲、鼠标悬停微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Network Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Obsidian Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Innovation Studio",
+   "tag": "Hero",
+   "style": "黑白极简科技暗色风，融合3D粒子波浪、参数化/神经网络视觉与实验性排版；场景：AI创意工作室、数字艺术作品集、科技品牌官网或创新产品落地页。",
+   "motion": "动效：3D粒子网格波浪、流体变形、鼠标悬停扰动、缓慢场景旋转、文字淡入揭示、HUD数据微动效；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Wellness Balance",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Golden Portal",
+   "tag": "Landing Page",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Audio Showcase",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Product Studio",
+   "tag": "Agency Website",
+   "style": "极简科技感与半透明玻璃/流体 3D 视觉结合，低饱和灰蓝背景配大字排版；场景：数字创意工作室、设计咨询公司或交互产品服务的品牌官网首页。",
+   "motion": "动效：流体变形、光效脉冲、鼠标交互、缓慢悬浮视差、文字揭示；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Unwind Hero",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cargo Group",
+   "tag": "Hero",
+   "style": "高对比商业摄影结合粗犷超大字体、暖橙渐变与物流信息图的现代工业品牌风；场景：物流运输企业官网首页、供应链服务落地页或品牌宣传页。",
+   "motion": "动效：全屏视频背景、文字分层入场、地图节点连线动画、数据数字滚动、按钮悬浮光效；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Meeting Notes",
+   "tag": "SaaS",
+   "style": "现代极简的浅色渐变 SaaS 视觉，融合 AI 会议界面卡片与柔和拟态元素；场景：AI 办公工具、会议记录/协作类 SaaS 产品落地页。",
+   "motion": "动效：悬浮卡片、音频波形/HUD数据动效、光效脉冲、鼠标光标交互、文字渐入揭示；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Outdoor Apparel",
+   "tag": "Fashion",
+   "style": "极简高端时尚杂志风，以大幅户外人物摄影、留白背景和克制黑白导航呈现；场景：户外服饰/潮流品牌官网、产品系列展示页与品牌型作品集。",
+   "motion": "动效：全屏视觉背景、轻微视差滚动、导航悬停反馈、文字/图片淡入揭示；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Vertex Sci",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Future-State",
+   "tag": "Landing Page",
+   "style": "深蓝科技暗色调、3D 粒子流光与未来感数据网格视觉；场景：AI 产品品牌官网、科技 SaaS 落地页或创新技术活动宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Eco Intelligence",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Impact Ventures",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Wellness Devicex",
+   "tag": "Health",
+   "style": "暗色电影感与自然微缩景观结合的高质感 3D/写实视觉；场景：高端品牌官网、艺术展览页、生态科技或沉浸式产品落地页。",
+   "motion": "动效：3D场景旋转、滚动视差、光效脉冲、图层揭示、悬浮微动；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Modern Dental Clinic",
+   "tag": "Healthcare",
+   "style": "蓝色极简医疗科技风，结合超现实 3D 牙齿场景与大字号排版；场景：牙科诊所、口腔医疗品牌官网或服务落地页。",
+   "motion": "动效：3D场景轻微旋转/视差、工具施工循环动画、磨砂粒子飞溅、牙齿高光扫光、人物与卡片悬浮、鼠标悬停交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Driving Assistant",
+   "tag": "AI SaaS Website",
+   "style": "未来科技暗色调、电影感 3D 座舱视觉与极简半透明 UI；场景：智能汽车/自动驾驶品牌官网、科技产品发布页或高端概念展示落地页。",
+   "motion": "动效：全屏视频背景、第一人称驾驶场景推进、雨滴/光轨粒子、HUD文字扫描/分裂动画、环境光效脉冲；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Luminara",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "OYLA",
+   "tag": "Ecommerce",
+   "style": "高奢极简时尚风，以高曝光纯白摄影、冷感银饰与酒红细字体营造艺术化未来感；场景：珠宝/奢侈品品牌官网、时尚视觉大片落地页。",
+   "motion": "动效：图层揭示、鼠标视差、产品微光闪烁、按钮悬停反馈、文字淡入；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Creative Portfolio",
+   "tag": "Hero",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Mostar Guide",
+   "tag": "Travel",
+   "style": "沉浸式旅行摄影结合大字排版与轻玻璃拟态卡片的自然清新设计；场景：旅游目的地官网、城市文化宣传页、旅行专题落地页。",
+   "motion": "动效：滚动视差、悬浮玻璃卡片、全屏视频/慢速环境背景、文字渐入、光标悬停交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Remote Dev Collective",
+   "tag": "Agency Website",
+   "style": "紫色霓虹渐变的 3D 抽象几何视觉，融合暗色科技感与玻璃拟态卡片；场景：创意数字工作室、外包开发团队或科技服务品牌官网落地页。",
+   "motion": "动效：3D场景旋转、光效脉冲、悬浮玻璃卡片、鼠标视差交互、文字渐入、图层揭示；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Trip Planner",
+   "tag": "Travel",
+   "style": "复古手绘插画与纸张颗粒质感结合的极简暖色旅行风；场景：AI 旅行规划产品落地页、旅游品牌官网或行程生成工具首页。",
+   "motion": "动效：图层视差、手绘场景缓慢横移、地标插画分层揭示、按钮悬浮微交互、背景纸张颗粒轻微漂浮；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Shipping Infrastructure",
+   "tag": "Developer",
+   "style": "轻拟物 3D 抽象艺术结合低饱和粉蓝渐变与极简排版；场景：物流/供应链 SaaS 品牌官网或产品落地页。",
+   "motion": "动效：3D场景旋转、悬浮卡片波浪摆动、滚动视差、粒子漂浮、文字渐入/分裂动画、鼠标交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Relocation Card",
+   "tag": "Finance",
+   "style": "沉浸式自然风光摄影、暖橙青色电影感渐变与轻玻璃拟态极简 UI；场景：高端金融卡、旅行服务或生活方式品牌官网落地页。",
+   "motion": "动效：全屏视频/动态背景、视差滚动、悬浮玻璃卡片、光效渐变；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Talent Collective",
+   "tag": "Agency",
+   "style": "极简编辑感人像视觉，低饱和灰米色背景搭配大字号排版与轻杂志质感；场景：人才经纪、品牌咨询、个人作品集或创意机构官网首页。",
+   "motion": "动效：人物肖像微动/视频背景、文字淡入上移、头像轮播切换、鼠标悬浮人物切换、柔和光影呼吸；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Creative Designer Portfolio",
+   "tag": "Portfolio",
+   "style": "极简留白排版、复古优雅衬线字体与柔焦紫橙渐变抽象图形结合；场景：设计师/创意工作者个人作品集与品牌官网首页。",
+   "motion": "动效：流体渐变变形、光影呼吸脉冲、文字淡入上浮、鼠标悬停视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Workflow Agents",
+   "tag": "SaaS",
+   "style": "梦幻柔和渐变色调、自然景观大图与极简玻璃感 UI 结合的高级科技风；场景：AI 自动化/SaaS 产品落地页、创新科技品牌官网。",
+   "motion": "动效：全屏视频/动态自然背景、滚动视差、文字渐入上浮、按钮悬浮微交互、柔光色彩呼吸；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Sentinel",
+   "tag": "Cybersecurity",
+   "style": "暗黑科幻与未来感极简设计，融合颗粒噪点、霓虹光环、像素字体及沉浸式人物剪影；场景：AI 网络安全、数据防护类 SaaS 品牌官网或产品落地页。",
+   "motion": "动效：粒子漂浮、光环脉冲/呼吸光效、全屏视频背景、人物剪影微动态、像素文字逐字显现、HUD噪点闪烁、鼠标悬浮交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Portal",
+   "tag": "Hero",
+   "style": "电影感暗色沉浸式大图视觉，结合末日科幻氛围、暖橙渐变光影与极简透明导航；场景：影视流媒体平台首页、电影专题落地页或高端品牌叙事官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Film Studio",
+   "tag": "Creative",
+   "style": "电影感暗色视觉、实验性排版与沉浸式影像叙事；场景：AI 创意工作室、影视制作公司或先锋品牌官网落地页。",
+   "motion": "动效：全屏电影视频背景、镜头缓慢推进/景深变化、文字图层揭示、导航悬浮交互、环境光效闪烁；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Tokyo Nocturne",
+   "tag": "Lifestyle",
+   "style": "暗色复古胶片感与鱼眼监控镜头视觉结合的实验性街头潮流风；场景：摩托车品牌官网、时尚创意作品集、城市夜生活主题活动页。",
+   "motion": "动效：全屏视频背景、电影级镜头运动、鱼眼/镜头畸变、胶片噪点闪烁、文字淡入揭示、滚动驱动场景切换；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Synth Mode",
+   "tag": "Fashion",
+   "style": "未来主义极简时尚风，以高留白、冷白灰色调、科技感无衬线字体与人像视觉为主；场景：潮流服饰品牌官网、电商新品落地页或时尚创意活动页。",
+   "motion": "动效：图层揭示、文字逐字入场、轻微视差、HUD扫描/光效脉冲、鼠标悬浮交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Sea Serenade",
+   "tag": "Lifestyle",
+   "style": "沉浸式全屏摄影结合动态模糊与极简大字排版的高端旅行视觉风格；场景：旅游度假品牌官网、精品酒店/游艇宣传页、目的地体验活动落地页。",
+   "motion": "动效：全屏视频背景、镜头推进/径向模糊、滚动视差、文字渐显、光标/鼠标交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Real-Time Alerts",
+   "tag": "Sign in",
+   "style": "极简现代、自然摄影与黑白高对比结合的 SaaS 登录页；场景：数据监控/团队协作类 SaaS 产品官网及登录入口。",
+   "motion": "动效：全屏视频背景、轻微视差、光效脉冲、悬浮卡片；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Sparkform",
+   "tag": "Creative",
+   "style": "高饱和橙蓝撞色、3D 潮流人物渲染与复古叠层字体结合的街头艺术视觉；场景：潮牌/音乐艺人官网、创意作品集、活动宣传落地页。",
+   "motion": "动效：文字分层揭示、3D人像轻微视差/悬浮、彩色错位拖影、背景关键词淡入滑动、光标交互视差；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Spatial Mapping Platform",
+   "tag": "Data",
+   "style": "未来科技感的 3D 抽象金属雕塑视觉，结合深紫导航、柔灰渐变背景与极简大字排版；场景：AI/地图数据/SaaS 科技品牌官网或产品落地页首屏。",
+   "motion": "动效：3D场景旋转、流体变形、光泽反射流动、文字渐入、悬浮按钮微交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Mountain Retreat",
+   "tag": "Travel",
+   "style": "沉浸式自然摄影叠加极简大字排版与半透明玻璃拟态信息卡的高端暗调风格；场景：高端民宿、度假地产、建筑设计或精品酒店品牌官网落地页。",
+   "motion": "动效：全屏视频背景、慢速视差、雾气/环境粒子流动、文字分层揭示、悬浮信息卡片、光标滚动引导；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Sky Cookie",
+   "tag": "Food",
+   "style": "超现实拼贴感的清新天空视觉、大字标题与趣味产品悬浮构图；场景：零食/食品品牌官网首页、创意营销活动落地页。",
+   "motion": "动效：滚动视差、悬浮物体漂浮、云层缓慢移动、文字入场/遮罩揭示、鼠标视差交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Intelligence Layer",
+   "tag": "Technology",
+   "style": "电影感科技暗色极简风，以发光门户、烟雾氛围与高对比留白营造未来感；场景：AI/SaaS 基础设施产品官网、科技品牌落地页或创新产品发布页。",
+   "motion": "动效：电影级光影呼吸、体积雾流动、门户光效脉冲、人物剪影缓慢位移、文字/按钮淡入上浮、滚动视差；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Personal Showcase",
+   "tag": "Portfolio",
+   "style": "极简灰调时尚编辑风，大字排版与人物摄影结合；场景：个人作品集、摄影师/创意从业者品牌官网。",
+   "motion": "动效：文字分裂/横向滑入、人物图层视差、鼠标悬浮微位移、页面转场揭示；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cardia 3D",
+   "tag": "Medical",
+   "style": "科技感暗色背景结合高精度 3D 心脏主体、霓虹蓝紫渐变与极简排版；场景：医疗健康品牌官网、心血管护理产品展示页或医疗科技作品集。",
+   "motion": "动效：3D场景旋转、心脏脉冲/呼吸光效、文字分层揭示、鼠标视差交互、HUD微光粒子；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "3D Bloom Layer",
+   "tag": "Analytics",
+   "style": "清新自然系3D毛绒草地插画、明亮蓝绿渐变与轻玻璃拟态导航；场景：环保/农业科技品牌官网、创意产品落地页或品牌故事展示页。",
+   "motion": "动效：滚动视差、3D场景旋转/层级揭示、草地微风摆动、文字渐入、光效氛围流动；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Imperial VPN",
+   "tag": "Cybersecurity",
+   "style": "奢华史诗感的复古艺术风，融合米白金色调、精致插画与轻微玻璃拟态；场景：VPN/网络安全品牌官网首页或高端产品落地页。",
+   "motion": "动效：图层视差、布料流体飘动、光效折射/虹彩、悬浮玻璃卡片、鼠标视差交互、文字渐入揭示；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Systema",
+   "tag": "SaaS",
+   "style": "极简科技暗色风，以黑白高对比、线框 3D 抽象花朵和现代无衬线排版营造未来感；场景：AI／数据平台／企业级 SaaS 产品官网落地页。",
+   "motion": "动效：3D线框花朵缓慢旋转/呼吸形变、线框粒子流动、首屏文字分段淡入上移、卡片悬浮与鼠标跟随微倾斜、图标描边/节点脉冲、滚动渐显；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Model Infrastructure",
+   "tag": "Developer Platform",
+   "style": "电影感科技暗色风格，融合未来宇宙视觉、极简排版与高对比品牌界面；场景：AI/算力平台、深科技 SaaS 产品官网及融资发布型落地页。",
+   "motion": "动效：全屏视频/动态星空背景、缓慢视差分层、文字与按钮渐入上移、鼠标悬停卡片高亮、光效微脉冲；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Worldwide Hubs",
+   "tag": "Business",
+   "style": "复古印刷颗粒质感与高对比粗体排版结合的黑白彩色拼贴风；场景：创意品牌官网、全球办公地点展示页、设计工作室作品集。",
+   "motion": "动效：悬浮卡片、鼠标悬停交互、图层揭示、轻微视差、光标跟随；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cyber Layer",
+   "tag": "Cybersecurity",
+   "style": "科技暗黑风结合红色霓虹、数字故障与赛博安全视觉；场景：网络安全产品官网、企业级 SaaS 落地页或科技品牌官网。",
+   "motion": "动效：HUD数据流、故障闪烁/扫描线、红色光效脉冲、图层渐显、数字滚动、鼠标悬浮交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Data Signal",
+   "tag": "Analytics",
+   "style": "暗色科技感的数据可视化风格，融合红橙渐变、像素栅格纹理与高对比极简排版；场景：数据分析/BI SaaS 产品落地页、AI 科技品牌官网或企业软件宣传页",
+   "motion": "动效：粒子/像素矩阵流动、数据可视化图层揭示、光效脉冲、悬浮视频卡片交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "F1 Driver Profile",
+   "tag": "Sports",
+   "style": "暗色电影感体育视觉、红黑渐变与杂志式大字排版；场景：赛车运动员个人主页、赛事专题页或品牌宣传落地页",
+   "motion": "动效：图层视差、人物/文字揭示、数字滚动、赛道路径描边、光效脉冲、鼠标悬浮交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Avant Studio",
+   "tag": "Creative",
+   "style": "科技暗色极简排版结合超现实自然系 3D 视觉；场景：创意工作室、AI/品牌设计公司作品集及高端品牌官网落地页。",
+   "motion": "动效：3D场景缓慢旋转、滚动视差、文字渐显/分裂入场、悬浮微动、光标交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Custom Spaces",
+   "tag": "Design",
+   "style": "极简高端编辑风、黑白大字排版与沉浸式室内摄影画廊；场景：建筑设计事务所、室内设计品牌及高端地产项目官网落地页。",
+   "motion": "动效：3D场景旋转、横向图片轮播、悬浮卡片、滚动视差、文字淡入上移；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Automotive AI",
+   "tag": "Driving",
+   "style": "电影感暗色科技风，融合高质感实拍、雾化光影与极简未来主义排版；场景：AI 智能出行/汽车品牌官网的产品预热或落地页。",
+   "motion": "动效：全屏视频背景、电影级光影流动、缓慢镜头推进、文字淡入揭示、悬浮导航/按钮微交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Frontier",
+   "tag": "Finance",
+   "style": "极简科技暗色风格，搭配高对比白色排版、圆角玻璃质感导航与底部繁花装饰的高级视觉；场景：AI/数据洞察类 SaaS 产品落地页、创新科技品牌官网。",
+   "motion": "动效：文字渐入上浮、界面卡片悬浮/依次揭示、花卉前景视差漂浮、光标交互、HUD数据图表动态增长；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Data Relay",
+   "tag": "SaaS",
+   "style": "极简黑白科技风，搭配高对比粗体排版与抽象3D颗粒螺旋视觉；场景：数据基础设施、SaaS 平台及企业级技术产品官网落地页。",
+   "motion": "动效：3D场景旋转、粒子/球体流动变形、滚动视差、文字与模块渐入揭示、悬浮按钮交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Deep Neural Interface",
+   "tag": "Artificial Intelligence",
+   "style": "沉浸式电影感深海摄影、科技暗色与极简排版；场景：高端科技品牌官网、AI/神经科技产品落地页或概念展示页。",
+   "motion": "动效：全屏视频背景、水下粒子漂浮、人物/背景缓慢视差、文字淡入揭示、光影波动；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "DeepThink",
+   "tag": "AI Assistant",
+   "style": "极简科技暗色风，搭配大字号排版、微弱渐变光晕与玻璃质感交互卡片；场景：AI SaaS 产品落地页、智能助手/效率工具品牌官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Digital Director",
+   "tag": "Portfolio",
+   "style": "黑白极简科技暗色风格，结合实验性排版、时尚人像与数字故障字体；场景：创意设计师/数字工作室个人作品集与品牌服务官网首页。",
+   "motion": "动效：全屏视频背景、文字分裂/故障感入场、图层揭示、光效脉冲、光标/鼠标交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Data Storytelling",
+   "tag": "SaaS",
+   "style": "自然实景主视觉结合杂志感大字号排版、清透蓝色渐变与轻玻璃拟态导航；场景：环保科技、数据管理或品牌故事型产品官网落地页。",
+   "motion": "动效：滚动视差、图层揭示、文字淡入/逐字出现、自然场景微动（苔藓/光影）、悬浮导航与按钮交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Performance Run",
+   "tag": "Fitness",
+   "style": "沉浸式运动摄影大图结合极简白字与深蓝冷色调的高端活力风；场景：跑步健身类 App、运动数据 SaaS 或运动品牌官网落地页。",
+   "motion": "动效：全屏视频背景、横向运动模糊/速度线、文字渐入上浮、按钮悬浮微交互、数据/HUD信息淡入；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Arctic Lab",
+   "tag": "Portfolio",
+   "style": "极简冷白科技感的 3D 冰岩雕塑视觉，搭配实验性大字排版与雾面质感；场景：创意工作室、建筑/艺术作品集及高端品牌官网首页。",
+   "motion": "动效：3D场景旋转、鼠标交互、滚动视差、图层揭示、文字渐显；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Orbit Flora",
+   "tag": "AI",
+   "style": "暗色极简排版结合高饱和像素艺术花卉与时尚渐变视觉；场景：创意品牌官网、数字艺术作品集或高端 SaaS 落地页。",
+   "motion": "动效：3D花朵悬浮旋转、像素粒子闪烁、鼠标视差交互、文字图层揭示、微光脉冲；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Futuristic Eyewear",
+   "tag": "Ecommerce",
+   "style": "高端时尚摄影结合极简未来感与冷调科技美学；场景：眼镜/美妆/奢侈品等品牌官网首页或新品营销落地页。",
+   "motion": "动效：全屏视频背景、滚动视差、光标/鼠标交互、悬浮卡片；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Mind-Body Healing",
+   "tag": "Medicine",
+   "style": "梦幻渐变玻璃拟态结合半透明3D医学人体模型的未来科技风；场景：健康医疗、心理疗愈、生物科技与高端诊所品牌官网落地页。",
+   "motion": "动效：3D场景轻微旋转、脑部发光脉冲、流体/半透明材质呼吸、背景渐变光晕流动、文字淡入上移、HUD数据渐显、鼠标视差交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Breathstone",
+   "tag": "Wellness",
+   "style": "自然主义 3D 场景结合柔和水彩质感与高级衬线排版；场景：生态科技产品、可持续品牌官网或沉浸式营销落地页。",
+   "motion": "动效：滚动视差、自然环境微动效（鸟飞/草木轻摆）、图层渐显、光影氛围变化、鼠标悬浮交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "TrustFlow",
+   "tag": "Finance",
+   "style": "极简高端的黑白留白排版，融合大字号衬线字体、建筑线稿与轻微冷灰渐变；场景：金融科技/SaaS 品牌官网落地页与 B2B 产品宣传页。",
+   "motion": "动效：图层揭示、柔和滚动视差、文字淡入上移、悬浮按钮微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Mythic VPN",
+   "tag": "VPN",
+   "style": "电影级 3D 写实奇幻、暗色金属质感与流体玻璃特效结合的高端科技视觉；场景：VPN/网络安全品牌官网首页、产品落地页或高端数字服务宣传页",
+   "motion": "动效：滚动视差、3D/流体场景微动、悬浮卡片、光效流动、鼠标交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Runtime",
+   "tag": "AI",
+   "style": "暗色未来科技风，融合数字矩阵背景、颗粒质感、霓虹渐变与像素字体；场景：AI 平台、SaaS 产品或前沿科技品牌官网落地页。",
+   "motion": "动效：粒子/字符矩阵流动、流体渐变变形、文字逐字显现、光效脉冲、HUD数据数字滚动、鼠标悬浮微交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Innovation Lab",
+   "tag": "Technology",
+   "style": "暗色未来主义梦幻 3D 插画风，融合紫蓝渐变、发光球体与超现实花海；场景：创意科技品牌官网、AI/虚拟现实产品落地页、数字艺术工作室作品集。",
+   "motion": "动效：全屏视频/动态自然场景背景、3D光球缓慢漂浮、蝴蝶飞行动画、景深视差、花丛粒子摇曳、文字淡入上移、按钮悬浮微交互、光晕脉冲；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Mindful Companion",
+   "tag": "Wellness",
+   "style": "梦幻柔和渐变、轻玻璃拟态与古典拱门空间结合的治愈感视觉；场景：冥想疗愈/心理健康类 App 品牌官网或产品落地页。",
+   "motion": "动效：缓慢云层漂移、柔和光晕呼吸、手机界面悬浮、文字淡入上浮、页面滚动视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Agent Crew",
+   "tag": "AI",
+   "style": "复古手绘插画与极简排版结合的暖色科技风，带航空旅行叙事感；场景：AI 产品/SaaS 落地页、创意科技品牌官网或智能助手展示页。",
+   "motion": "动效：横向滚动/滑入的角色头像、飞机与云层视差滚动、手绘线稿逐帧/路径描边、文字淡入上移、按钮悬停微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Signal ID",
+   "tag": "Technology",
+   "style": "暗色未来科技风，结合抽象3D玻璃球体、霓虹蓝光与极简高对比排版；场景：AI/语音产品、Web3 或高端科技品牌的官网首屏与注册登录页。",
+   "motion": "动效：3D场景旋转、光效脉冲与镜面流光、悬浮漂移、鼠标视差交互、表单/HUD渐显；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Bitcoin Yield",
+   "tag": "Crypto",
+   "style": "暗色奢华极简风，结合古典衬线字体、深蓝夜景与艺术化自然插画；场景：高端 Web3/加密金融产品官网、DeFi 收益协议落地页或品牌活动页。",
+   "motion": "动效：缓慢景深视差、树木层次漂移、文字淡入揭示、按钮悬停微光、背景颗粒/暗光呼吸；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Intelligent Systems",
+   "tag": "SaaS",
+   "style": "极简现代的 SaaS 科技风，留白排版、柔和渐变与数据仪表盘卡片结合；场景：AI 自动化/数据分析类 SaaS 产品落地页或品牌官网。",
+   "motion": "动效：文字分段揭示、数据数字滚动、图表描线增长、悬浮卡片微浮动、渐变光效流动、按钮悬停反馈、滚动触发入场；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Halo Sound",
+   "tag": "Ecommerce",
+   "style": "高端时尚杂志感的极简艺术摄影风，冷灰自然背景配青绿色排版；场景：潮流耳机、奢侈品与生活方式品牌官网首屏或产品宣传落地页。",
+   "motion": "动效：全屏视频/微动态背景、水面波纹与漂浮花朵、人物与产品视差分层、文字淡入/逐字揭示、光标悬浮交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "AI Companions",
+   "tag": "AI",
+   "style": "电影感暗色叙事视觉、AI 人像拼贴与沉浸式高级排版；场景：AI 陪伴/语音助手类产品官网、应用落地页或品牌宣传页。",
+   "motion": "动效：3D场景旋转、悬浮照片卡片、光效脉冲、缓慢镜头推进、文字淡入揭示；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Immersive Studio",
+   "tag": "Agency",
+   "style": "超现实 3D 生物艺术与暗色电影感渐变，融合发光花卉、巨型月亮和高级实验性排版；场景：创意工作室/品牌设计机构官网、作品集首页或高端品牌活动落地页。",
+   "motion": "动效：3D场景视差、花瓣/粒子漂浮、光球柔和脉冲、花朵生长散落、文字渐显分裂动画、鼠标悬浮微交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Silent Velocity",
+   "tag": "Technology",
+   "style": "极简高级的汽车科技品牌视觉，以大字号排版、留白、黑白中性色与产品主视图突出质感；场景：新能源汽车品牌官网首页、车型产品落地页或新品发布宣传页。",
+   "motion": "动效：3D车型旋转展示、图层揭示、文字分裂入场、悬浮按钮微交互、HUD分页切换；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Fun 404 Page",
+   "tag": "Education Website",
+   "style": "暖橙色渐变的 3D 卡通黏土拟态风，搭配大字号数字与趣味吉祥物；场景：儿童教育、亲子品牌官网或创意产品的 404 错误页。",
+   "motion": "动效：3D角色悬浮/轻微呼吸、角色入场弹性动画、404数字图层揭示、星光闪烁、按钮悬停反馈；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Agent Grove",
+   "tag": "SaaS",
+   "style": "电影感自然实景背景结合暗色半透明玻璃拟态与极简科技排版；场景：AI/SaaS 产品品牌官网或落地页首屏。",
+   "motion": "动效：全屏视频背景、缓慢镜头推进/视差、光影氛围流动、悬浮卡片淡入上浮、文字渐显、数字滚动、按钮悬停交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Inner Quest",
+   "tag": "Mindfulness",
+   "style": "极简黑白单色、点阵像素插画与轻科技艺术感；场景：创意工作室/品牌官网、数字艺术作品集或理念型落地页。",
+   "motion": "动效：粒子点阵/网格形态渐显、滚动视差、光标悬浮交互、文字淡入上移；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Aesthetic Dental Clinic",
+   "tag": "Healthcare",
+   "style": "高端写实摄影、暖色调、极简排版与医疗美容品牌感；场景：牙科诊所官网/医疗美容服务落地页。",
+   "motion": "动效：图层揭示、文字逐字入场、悬浮信息标注、光标/鼠标交互、轻微视差缩放；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Coastal Estate",
+   "tag": "Real Estate",
+   "style": "高饱和度度假海岛摄影结合极简大字排版、半透明玻璃拟态导航与柔雾渐隐效果；场景：高端酒店/度假村、旅游地产及奢华旅行品牌官网落地页。",
+   "motion": "动效：全屏视频/微动态背景、文字分层揭示、滚动视差、光影与薄雾漂浮、按钮悬浮交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Intelligent Operations",
+   "tag": "Agency",
+   "style": "浅蓝雾面渐变结合玻璃拟态、极简排版与抽象科技 3D 视觉；场景：AI 自动化/科技咨询类 SaaS 品牌官网落地页。",
+   "motion": "动效：悬浮粒子光点、光效脉冲、图层渐入揭示、文字淡入上移、鼠标视差互动；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cybersecurity",
+   "tag": "SaaS",
+   "style": "科技感暗黑风、3D 抽象数据可视化、霓虹渐变与故障字体；场景：数据分析/网络安全类 SaaS 落地页或科技品牌官网。",
+   "motion": "动效：3D场景旋转、流体/机械结构变形、粒子漂浮、文字分裂/扫描动画、HUD数据动效、光效脉冲；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Skybridge 404",
+   "tag": "404",
+   "style": "二次元动漫插画风、电影感自然景观与极简大字排版；场景：品牌官网 404 错误页、游戏/创意工作室活动页。",
+   "motion": "动效：粒子漂浮、云层缓慢流动、光点闪烁、文字/数字淡入揭示、轻微景深视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Editorial Eyewear",
+   "tag": "Fashion",
+   "style": "极简留白排版与时尚 editorial 视觉结合，搭配高饱和艺术摄影和先锋字体；场景：眼镜/服饰等潮流品牌官网、电商落地页及创意作品展示页。",
+   "motion": "动效：全屏视频背景、文字图层揭示、悬停按钮微交互、滚动视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Routine Coach",
+   "tag": "Wellness",
+   "style": "清新蓝天实拍融合半透明玻璃拟态 UI 的现代极简风；场景：习惯养成、健康生活类 App/SaaS 品牌落地页。",
+   "motion": "动效：全屏视频背景、人物/云层轻微视差、文字渐入上移、悬浮手机卡片、按钮悬停微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Open Agent",
+   "tag": "AI",
+   "style": "超现实 3D 自然景观结合极简白色排版、明亮梦幻的科技品牌视觉；场景：AI 智能体/SaaS 产品落地页或创新科技品牌官网首屏。",
+   "motion": "动效：全屏视频背景、草地与云层环境微动效、3D场景轻视差、门户光效脉冲、文字渐显、按钮悬浮反馈；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Augmented Sight",
+   "tag": "Technology",
+   "style": "极简留白结合未来科技感与赛博视觉、圆角卡片式排版；场景：智能硬件/AI 穿戴设备品牌官网或产品落地页。",
+   "motion": "动效：视差分层、悬浮卡片、光效脉冲、图层揭示、鼠标交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Creator Guild",
+   "tag": "Community",
+   "style": "高饱和紫粉渐变的 3D 毛绒抽象视觉，搭配极简排版与柔和科技感；场景：创意社群/品牌官网首页、艺术工作室作品集、会员招募或活动落地页。",
+   "motion": "动效：3D毛绒球缓慢旋转、毛发流体摆动、鼠标悬浮微交互、数字滚动增长、渐变光效呼吸；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Cloud Kicks",
+   "tag": "Fashion",
+   "style": "梦幻超现实的 3D 产品视觉，蓝粉渐变云海与高饱和运动潮流质感；场景：球鞋/服饰品牌官网、电商新品发布页与潮流营销活动落地页。",
+   "motion": "动效：全屏视频/动态背景、3D产品悬浮旋转、云层流动、文字淡入/位移动画、鼠标悬停交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Form Study",
+   "tag": "Art",
+   "style": "暗黑实验性科技美学，融合抽象3D玻璃雕塑、颗粒噪点、彩色色散光效与杂志式排版；场景：创意工作室/艺术展览/设计作品集/高端品牌概念官网落地页。",
+   "motion": "动效：3D场景旋转、粒子/线框轨迹、光效脉冲与色散闪烁、鼠标悬浮交互、图层揭示、HUD数据切换；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Build Unit",
+   "tag": "Agency",
+   "style": "暗黑科技感 3D 抽象视觉，红黑渐变光效搭配玻璃拟态卡片与极简排版；场景：创意技术团队、数字工作室或 SaaS 服务品牌官网落地页。",
+   "motion": "动效：3D场景旋转、金属环形结构缓慢浮动、中心红色光效脉冲、鼠标视差交互、玻璃卡片悬浮/渐入、文字分段揭示；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Adaptive Learning",
+   "tag": "Education",
+   "style": "极简留白、科技感生物医学视觉与现代排版结合；场景：EdTech 教育科技品牌官网或产品落地页。",
+   "motion": "动效：DNA螺旋3D缓慢旋转、粒子/微尘漂浮、滚动视差、文字与卡片渐显上移、按钮悬停光效；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Portal",
+   "tag": "Hero Section",
+   "style": "电影感暗色沉浸式大图视觉，结合末日科幻氛围、暖橙渐变光影与极简透明导航；场景：影视流媒体平台首页、电影专题落地页或高端品牌叙事官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Motion Frame",
+   "tag": "Film",
+   "style": "电影级 3D 动画视觉、日系赛博动作美学与大胆超大排版；场景：AI 创意影像工作室、影视制作品牌官网或作品集首页。",
+   "motion": "动效：全屏视频背景、电影级镜头推进、人物奔跑动作、动态光影、文字入场/揭示、鼠标悬浮导航交互；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sites",
+   "name": "Ink Dynasty",
+   "tag": "Culture",
+   "style": "新中式水墨国风与传统书法排版结合的极简复古设计；场景：文化艺术品牌官网、古建/旅游专题页、国风展览活动页。",
+   "motion": "动效：水墨山景滚动视差、图层渐显/卷轴揭示、文字逐字淡入、屋檐轻微悬浮；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Footballer Portfolio",
+   "tag": "Sports",
+   "style": "高对比红黑白配色的极简运动杂志风、粗体排版与卡片化移动端界面；场景：足球运动员个人品牌官网、体育赛事宣传页或运动内容资讯应用。",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Cross-Border",
+   "tag": "Transportation",
+   "style": "暖色渐变背景结合全屏实景摄影、粗体高对比排版与鲜黄色点缀的现代工业品牌风；场景：物流运输、货运供应链等企业官网或移动端品牌宣传落地页。",
+   "motion": "动效：全屏视频背景、文字逐字/分裂入场、图层揭示、按钮光效脉冲、悬浮卡片/手机微浮动；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Aurora Onboard",
+   "tag": "Sign Up",
+   "style": "暗色极简科技风，搭配紫蓝颗粒渐变背景与高对比黑白表单；场景：SaaS 产品注册/登录页、创作者平台或品牌官网的用户引导流程。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "CARGOX Mobile",
+   "tag": "Transportation",
+   "style": "暖橙渐变背景、深色高对比与亮黄点缀的现代工业物流品牌移动端设计；场景：物流运输/供应链企业官网、品牌宣传落地页与联系表单页面。",
+   "motion": "动效：卡片悬浮入场、文字分段揭示、数字滚动计数、地图节点/路径脉冲、按钮悬停光效、页面切换滑动；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Place Saver",
+   "tag": "Travel",
+   "style": "沉浸式科幻暗色视觉，融合宇宙爆炸、AI 手部、霓虹光效与高对比极简 UI；场景：AI 创意工具、数字内容收藏/灵感管理类移动应用的引导页与订阅付费页。",
+   "motion": "动效：电影感全屏视频背景、粒子爆发/星尘流动、光效脉冲、文字淡入分层、卡片与按钮渐入、订阅选项交互高亮；强度：电影级",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Remit Race",
+   "tag": "Fintech",
+   "style": "暗色科技感结合高饱和紫色渐变、3D 地球与玻璃拟态卡片的未来感移动端视觉；场景：金融科技/支付应用活动页、品牌营销落地页或全球化主题宣传页。",
+   "motion": "动效：3D地球旋转、粒子网络流动、光环扫光、数字倒计时滚动、卡片浮层切换、文字分屏/逐字入场、轮播滑动、按钮悬浮交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Mood Tracker",
+   "tag": "Wellness",
+   "style": "自然疗愈系玻璃拟态 UI，低饱和植物渐变背景与半透明磨砂卡片；场景：冥想、情绪记录、健康管理及习惯追踪类移动应用。",
+   "motion": "动效：柔和背景视差、半透明玻璃卡片悬浮/渐入、页面滑动切换、进度条/数据增长、按钮轻微缩放反馈、植物背景慢速漂移；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "AI Calorie Tracker",
+   "tag": "Health",
+   "style": "暖色极简拟物化移动端 UI，融合圆角卡片、柔和阴影与美食摄影；场景：健康饮食管理、AI 食物识别、卡路里追踪类移动应用。",
+   "motion": "动效：卡片悬浮切换、页面滑动转场、热量数字滚动、圆环进度动画、食物图片缩放/渐显、底部导航微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Supplement Shop",
+   "tag": "Health",
+   "style": "极简现代电商 UI，白底黑字搭配产品实物展示与自然绿色渐变背景；场景：健康营养品/保健品品牌的移动端商城、商品详情页或购买落地页。",
+   "motion": "动效：3D场景旋转、产品瓶罐悬浮/轮播、景深背景光影流动、页面元素淡入上滑；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "ADHD Planner",
+   "tag": "App",
+   "style": "温暖自然光摄影结合极简大字排版的情绪化品牌视觉；场景：生活方式、心理健康、效率工具或个人规划类 App/SaaS 落地页。",
+   "motion": "动效：全屏视频背景、人物微动态、文字渐入/分段揭示、光影呼吸、悬浮按钮交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "LearnHub",
+   "tag": "Education",
+   "style": "暗色科技感移动端 UI，融入紫黑渐变、柔光玻璃质感与高饱和卡片点缀；场景：在线教育/课程学习类 App、技能培训平台或知识付费产品。",
+   "motion": "动效：手机界面轮播/滑入、渐变光影流动、卡片悬浮入场、文字淡入上移、按钮微光脉冲、页面切换转场；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Church Community",
+   "tag": "Church",
+   "style": "极简现代编辑感移动端设计，深色底配暖米白与宗教人文摄影；场景：教会/公益组织品牌官网、活动日历与社区服务应用。",
+   "motion": "动效：手机界面切换、卡片/内容滑入、图片淡入与轻微缩放、播放按钮脉冲、日程列表滚动、悬浮微动；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Luxury Escapes",
+   "tag": "Travel App",
+   "style": "高饱和渐变背景结合沉浸式旅行摄影、超大粗体排版的现代奢华移动端视觉；场景：高端旅行度假预订应用、精品酒店/旅游品牌活动落地页。",
+   "motion": "动效：文字逐字/分裂入场、全屏视频背景、图层揭示、滚动视差、光标/鼠标交互、数字滚动、卡片悬浮；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Places Organizer",
+   "tag": "Travel",
+   "style": "暗色科幻氛围、超现实 3D 光效与电影感渐变插画的高端移动端 UI；场景：AI/创意工具、旅行地点收藏、社交内容订阅类 App 的引导页与会员付费页。",
+   "motion": "动效：全屏视频背景、光效粒子爆发、文字渐显/分层入场、3D手部与图形悬浮、订阅卡片浮现；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Movie Premiere",
+   "tag": "Entertainment",
+   "style": "暗色科技感与电影海报视觉结合的极简高对比移动端 UI；场景：影视票务/电影资讯类 App 展示页或品牌宣传落地页。",
+   "motion": "动效：3D设备悬浮/缓慢旋转、滚动视差、界面图层揭示、光效脉冲；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Lodge Booking App",
+   "tag": "Booking",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Dental Implant Clinic",
+   "tag": "Healthcare",
+   "style": "清新蓝绿渐变背景搭配3D超现实牙科视觉与极简大字排版；场景：牙科诊所、医疗美容健康品牌的移动端落地页或宣传活动页。",
+   "motion": "动效：3D物件悬浮/旋转、文字渐入上移、图层揭示、轻微视差、数字/数据弹出；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Coffee Rewards",
+   "tag": "Loyalty App",
+   "style": "暗色奢华渐变、3D 拟物卡片与磨砂玻璃质感的沉浸式移动端 UI；场景：精品咖啡店/餐饮会员积分与个人消费成就页面。",
+   "motion": "动效：悬浮卡片、数字滚动、渐变光效脉冲、分层入场揭示、轻微3D视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Fine Jewelry Shop",
+   "tag": "Ecommerce",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Travel Explorer",
+   "tag": "Travel",
+   "style": "极简高级的移动端旅行视觉风格，采用大幅自然风景摄影、柔和蓝白渐变与衬线大标题；场景：旅行探索类 App 的启动页、引导页或品牌落地页。",
+   "motion": "动效：手机3D悬浮旋转、背景视差、山景缓慢推移/缩放、按钮微光脉冲、文字淡入上移；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Wellness Companion",
+   "tag": "Wellness",
+   "style": "蓝色渐变流体背景结合玻璃拟态、半透明磨砂卡片与柔和光晕的未来感极简 3D 风格；场景：健康医疗、冥想睡眠、健身营养等移动端 App 引导页或品牌产品展示页。",
+   "motion": "动效：3D手机悬浮、流体渐变背景、玻璃拟态卡片选中反馈、光效脉冲、按钮微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Travel Journal",
+   "tag": "Travel",
+   "style": "沉浸式旅行影像风、深色背景与高饱和自然渐变结合的移动端卡片界面；场景：旅行/生活方式 App 首页、旅游产品展示页或品牌宣传页。",
+   "motion": "动效：卡片列表滚动、图片视差、文字叠层揭示、手机模型悬浮；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Gear Shop",
+   "tag": "Ecommerce App",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Pet Products",
+   "tag": "Ecommerce App",
+   "style": "清新自然的绿色系电商移动端设计，搭配大幅宠物摄影、圆角卡片与轻拟物产品展示；场景：宠物用品电商 App、品牌官网移动端落地页及商品促销页。",
+   "motion": "动效：宠物图片/卡片悬浮入场、商品卡片上滑揭示、数字计数滚动、按钮微缩放反馈、评分星标闪烁、视频播放交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Innovation Summit",
+   "tag": "Mobile App",
+   "style": "科技暗色极简风，搭配抽象3D流体视觉与高对比排版；场景：创意峰会、音乐节或高端品牌活动的移动端落地页/报名购票页。",
+   "motion": "动效：3D流体光泽形体缓慢旋转、悬浮光效脉冲、页面/卡片滑入揭示、FAQ手风琴展开、标签筛选切换；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Fitness Dashboard",
+   "tag": "Wellness",
+   "style": "清新明亮的现代极简健康科技仪表盘风格，采用大圆角卡片、蓝绿渐变、数据可视化与生活方式摄影；场景：健身健康管理 App、运动课程平台、营养追踪后台或智能穿戴数据中心。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Nexar",
+   "tag": "Productivity",
+   "style": "明亮柔和的现代 SaaS 仪表盘风，融合轻拟物卡片、圆角设计、清新渐变与自然背景；场景：团队协作平台、生产力工具或企业后台首页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Forecast Center",
+   "tag": "Utility",
+   "style": "沉浸式自然影像背景结合暗色玻璃拟态卡片的现代天气科技界面；场景：天气预报 App、智慧城市信息看板或数据仪表盘。",
+   "motion": "动效：全屏视频天气背景、闪电光效脉冲、雨雾粒子、温度数据滚动、天气曲线绘制、玻璃拟态卡片悬浮；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Bite-Sized Courses",
+   "tag": "Learning",
+   "style": "奶油暖色极简、柔和渐变光晕与圆角卡片的轻拟态移动端设计；场景：在线教育/课程学习类 App 首页或内容推荐页。",
+   "motion": "动效：悬浮卡片、机器人轻微漂浮/3D摆动、按钮点击微交互、底部导航切换、卡片内容淡入；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "F1 Racing Hub",
+   "tag": "Statistics App",
+   "style": "科技感暗色系的高对比运动数据视觉，融合黑红渐变、荧光黄点缀、沉浸式赛车摄影与模块化信息卡片；场景：赛车赛事/车队品牌官网、体育数据应用、移动端赛事资讯与车迷社区。",
+   "motion": "动效：图层揭示、赛车/人物视觉视差、赛道路径描边动画、数字滚动计数、卡片切换、红色光效脉冲、悬浮微交互；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Modern HR Dashboard",
+   "tag": "HR Management",
+   "style": "现代极简的暖色系 SaaS 仪表盘，结合柔和渐变、圆角卡片与数据可视化；场景：HR 人力资源管理、员工门户及企业内部运营后台。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Social Hangouts",
+   "tag": "Community App",
+   "style": "暖色柔和渐变背景、圆角卡片与轻拟物质感结合的现代社交 App UI；场景：兴趣社群、即时聊天、多人语音/视频房间及活动匹配类移动应用。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Album App",
+   "tag": "Music",
+   "style": "暗调霓虹渐变、未来感音乐视觉与极简排版；场景：音乐专辑发布页、艺术家作品集或创意工作室品牌官网。",
+   "motion": "动效：黑胶唱片旋转、播放按钮光效/脉冲、按钮悬停交互、封面与文字淡入揭示；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Sweet Question",
+   "tag": "Events",
+   "style": "甜美浪漫的粉色水彩渐变与柔光卡片 UI，搭配爱心装饰和圆润拟物细节；场景：情人节互动邀请页、恋爱告白 H5、节日活动落地页。",
+   "motion": "动效：漂浮爱心粒子、柔光脉冲、卡片轻微悬浮、文字渐显、按钮悬停反馈；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Dental Care App",
+   "tag": "Health App",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Website Builder",
+   "tag": "SaaS",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Freight Command",
+   "tag": "Logistics",
+   "style": "暗色极简科技感的物流指挥台/终端界面风格，采用高对比细线框、等宽小字与数据表格布局；场景：物流运输调度后台、车队管理系统、供应链监控平台及工业 SaaS 控制台。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Reading Library",
+   "tag": "Books",
+   "style": "暖灰棕色调的玻璃拟态与轻奢写实 3D 书房背景结合，采用半透明磨砂面板、柔和阴影和沉浸式暗色阅读视觉；场景：电子书阅读平台、数字图书馆、内容订阅类 SaaS 或文学品牌官网。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "AI Assistant App",
+   "tag": "AI App",
+   "style": "柔和米色渐变背景＋3D 卡通机器人插画的极简科技风；场景：语言学习类 App 的移动端引导页、教育产品落地页或 AI 助手宣传页。",
+   "motion": "动效：3D角色轻微摇摆/旋转、文字渐入上浮、进度条加载、按钮悬浮反馈、背景柔和光晕脉冲；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Finance Assistant",
+   "tag": "Fintech",
+   "style": "暗色玻璃拟态金融仪表盘，叠加城市夜景人像背景、半透明卡片与霓虹渐变数据可视化；场景：财富管理/银行金融 SaaS、个人理财应用及高端数据分析后台。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "3D Property",
+   "tag": "Real Estate",
+   "style": "深色科技感仪表盘结合等距视角3D房产模型与轻玻璃拟态；场景：房地产房源展示、在线看房及房产估值/中介管理平台。",
+   "motion": "动效：3D户型场景旋转、镜头缩放与平移、房间/楼层图层揭示、HUD数据面板渐入、悬浮高亮与鼠标交互、房源卡片滚动；强度：强动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Robot Battle Arena",
+   "tag": "Game UI",
+   "style": "赛博科幻写实 3D 角色展示界面，冷灰极简配色搭配红色发光点缀；场景：机甲/游戏角色选择页、战斗养成系统或科幻题材应用展示页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Apps",
+   "name": "Live Language Classes",
+   "tag": "Learning SaaS",
+   "style": "浅色柔和渐变与圆角卡片结合的现代极简 SaaS UI，带轻拟物阴影和视频社交氛围；场景：在线教育、语言学习、视频课堂及实时协作聊天平台。",
+   "motion": "动效：实时视频画面、音频波形跳动、字幕逐句高亮、聊天消息/输入状态、通话控制悬浮反馈；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Nietzsche sustainibilty",
+   "tag": "Footer",
+   "style": "极简现代排版结合全屏自然风光摄影、柔和冷暖渐变氛围；场景：环保可持续品牌官网、企业落地页或创意作品集页。",
+   "motion": "动效：全屏视频/自然场景微动态、滚动视差、文字淡入揭示、导航悬停交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Gridcore",
+   "tag": "Features",
+   "style": "黑白极简线稿插画、网格化工业科技风；场景：B2B SaaS 产品官网功能介绍页或开发者工具落地页。",
+   "motion": "动效：悬浮卡片、鼠标悬停高亮/描边、图标微浮动与局部旋转、文字/按钮淡入揭示；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Mistveil",
+   "tag": "Footer",
+   "style": "黑白极简编辑风、复古网点印刷质感与粗细描边排版；场景：开发者工具或 AI SaaS 品牌官网落地页。",
+   "motion": "动效：滚动视差、颗粒/半色调山景缓慢漂移、雾气流动、文字淡入上移、按钮悬停微交互、图层揭示；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Max Reed Portfolio",
+   "tag": "Features",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Arceage Contact Us",
+   "tag": "Form",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Spectrum Grid",
+   "tag": "Technology",
+   "style": "暗色科技感与彩虹霓虹渐变结合，融入像素点阵、光幕模糊与极简排版；场景：科技品牌官网、数字创意工作室作品集或 Web3/SaaS 落地页。",
+   "motion": "动效：渐变光幕流动、点阵/像素闪烁、光效脉冲、悬浮按钮微交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Price Calculator",
+   "tag": "SaaS",
+   "style": "极简科技暗色风格，黑底卡片化表单搭配粉橙渐变强调色；场景：创意工作室/数字服务商的报价计算器、SaaS 落地页或项目询价页面。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Community CTA",
+   "tag": "CTA Section",
+   "style": "梦幻水彩插画背景结合轻玻璃拟态与柔和渐变；场景：社区订阅页、品牌官网落地页或创意活动招募页",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Keep Ahead Features",
+   "tag": "Features Section",
+   "style": "暗色科技感网格背景＋霓虹渐变玻璃拟态卡片；场景：AI/SaaS 产品官网、功能介绍落地页或创新科技品牌宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Dashboard UI",
+   "tag": "Dashboard",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Social Media Posts",
+   "tag": "Social Media",
+   "style": "暗色点阵背景结合高质感 AI 插画、自然渐变与大字号排版的现代创意科技风；场景：AI 产品/SaaS 落地页、创意工作室官网及品牌营销活动页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Lumina",
+   "tag": "Footer Section",
+   "style": "电影感宇宙科幻视觉、暗色渐变与半透明玻璃拟态；场景：科技品牌官网、AI/SaaS 产品落地页、创意工作室或高端活动宣传页",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Glow Features",
+   "tag": "Features Section",
+   "style": "科技暗色风格，黑色留白配霓虹渐变描边与柔光卡片；场景：创意工作室、设计工具或 SaaS 品牌官网的功能介绍区。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Benefits Features",
+   "tag": "Features Section",
+   "style": "极简轻拟态卡片风，暖橙运动摄影与大字号排版结合；场景：运动品牌官网、健身/赛事活动落地页或会员服务宣传页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Zenith Footer",
+   "tag": "Footer Section",
+   "style": "清新自然摄影结合大字极简排版与半透明圆角卡片的轻运动生活方式风格；场景：健身健康品牌官网、运动社群落地页或 Wellness 活动宣传页",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Digital Reality",
+   "tag": "Social Media",
+   "style": "梦幻电影感插画与深色半透明卡片结合的极简玻璃拟态风；场景：创意工作室、个人设计师作品集或品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Vize Footer",
+   "tag": "Footer Section",
+   "style": "极简、柔和中性灰调与轻拟物阴影的现代品牌风格；场景：品牌官网、营销机构官网或 SaaS 落地页页脚。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Kresna Footer",
+   "tag": "Footer Section",
+   "style": "极简轻拟态卡片设计，结合深蓝科技渐变、柔和阴影与现代无衬线排版；场景：AI/SaaS 产品官网落地页或品牌网站页脚。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "What Package Fits You",
+   "tag": "Pricing",
+   "style": "极简轻奢编辑风，米白留白背景搭配柔和阴影卡片与优雅衬线标题；场景：设计工作室、自由职业者或创意服务品牌的报价/套餐落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "HAUL!",
+   "tag": "Footer Section",
+   "style": "极简白色卡片 UI 叠加暖橙色摄影背景，带轻柔阴影与现代品牌感；场景：物流运输、移动应用或企业品牌官网的页脚/落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Nexora Features",
+   "tag": "Features Section",
+   "style": "科技暗色极简风，搭配高饱和蓝橙渐变、电影感超现实 3D 视觉与杂志式卡片排版；场景：AI 搜索/知识工具类 SaaS 品牌官网或产品落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Blog Showcase",
+   "tag": "Blog",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "SaaS Pricing Flow",
+   "tag": "Pricing",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Velorah Focus",
+   "tag": "Social Media",
+   "style": "暗色电影感超现实视觉，结合复古衬线字体、朦胧光影与轻玻璃拟态按钮；场景：创意工作室、个人品牌、艺术/设计作品集及沉浸式品牌官网落地页。",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Nex Max Upgrade",
+   "tag": "Pricing",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "FAQ CTA",
+   "tag": "CTA",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Beauty Products",
+   "tag": "Products",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "FlowMate Carousal",
+   "tag": "Carousal",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Botanical Shadow About",
+   "tag": "About",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Orbis Hello",
+   "tag": "About",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "LaunchEx Submissions",
+   "tag": "Features",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "NexaCore Results",
+   "tag": "Features",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Capabilities Overview",
+   "tag": "Features",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Technical Specifications",
+   "tag": "Tabs",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Stark Minimal Footer",
+   "tag": "Footer",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Mouse Trail CTA",
+   "tag": "CTA",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "NimBus Pricing",
+   "tag": "Pricing",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Projects Catalog",
+   "tag": "Projects",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Rocket FAQ",
+   "tag": "FAQ",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Guardnet Benefits",
+   "tag": "Benefits",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Halo Benefits",
+   "tag": "Why Us",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Nike Hover",
+   "tag": "Features",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Bento Grid Stats",
+   "tag": "Bento",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "NexaCore Process",
+   "tag": "Process",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Portfolio About",
+   "tag": "About",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Apex Program Accordion",
+   "tag": "Accordion",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Feedback Slider",
+   "tag": "Slider",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Halo Use Case",
+   "tag": "Use Case",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Radial Diagram",
+   "tag": "Testimonials",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Nimbus Ops",
+   "tag": "CTA",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Scroll Marquee",
+   "tag": "Marquee",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Rocket Pricing",
+   "tag": "Pricing",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Global CTA Footer",
+   "tag": "CTA",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "NexaCore Control",
+   "tag": "Features",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Nimbus Demo",
+   "tag": "Dashboard Demo",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Axion About",
+   "tag": "About",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Editorial Collection CTA",
+   "tag": "CTA",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Kova Features",
+   "tag": "Benefits",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Media Card Carousel",
+   "tag": "Slider",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Orbis Cards",
+   "tag": "Cards",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Arceage Stats",
+   "tag": "Stats",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Kova Testimonial",
+   "tag": "Testimonial",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Cognitra Offer",
+   "tag": "Cards",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Tech-Noir About",
+   "tag": "About",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Cognitra Feature",
+   "tag": "Feature",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Agency Services",
+   "tag": "Services",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Pixel Grid Hover",
+   "tag": "Case Studies",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Nimbus Sticky Cards",
+   "tag": "Cards",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "LaunchEx About",
+   "tag": "About",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Daisy Wild",
+   "tag": "Product",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Rocket CTA",
+   "tag": "CTA",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Glassmorphic Feature Tabs",
+   "tag": "Tabs",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Guardnet Demo",
+   "tag": "Info",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Daisy Sweet",
+   "tag": "Product",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Nimbus Security",
+   "tag": "Cards",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Orbis CTA",
+   "tag": "CTA",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Beauty Categories",
+   "tag": "Categories",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Solace sign-in",
+   "tag": "Sign In Form",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Arceage Testimonial",
+   "tag": "Testimonials",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Liquid Glass Features",
+   "tag": "Features",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Liquid Glass CTA",
+   "tag": "CTA",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Veloce Cards",
+   "tag": "Cards",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Animated Cards",
+   "tag": "Component",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "404 Planet",
+   "tag": "404",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Interior Features",
+   "tag": "Features",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Arceage Services",
+   "tag": "Services",
+   "style": "NO-MEDIA",
+   "motion": "",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "3D Studio Pricing",
+   "tag": "Pricing",
+   "style": "黑色沉浸式3D视觉、电影级渲染、自然奇幻元素与荧光绿点缀的高端实验性设计；场景：3D/CG视觉工作室官网、创意制作服务落地页或高端作品集。",
+   "motion": "动效：3D场景旋转、滚动视差、光效脉冲、悬浮卡片/鼠标交互、图层揭示；强度：强动效（电影级视觉）",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Autonomous Ops",
+   "tag": "SaaS",
+   "style": "极简浅色科技风，搭配暖橙渐变、柔和阴影与卡片式数据可视化；场景：AI/SaaS 产品官网落地页、智能自动化平台功能展示页。",
+   "motion": "动效：数据图表数字滚动、柱状图动态增长、悬浮卡片、光效脉冲/渐变流动、鼠标悬停交互；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Growth Analytics",
+   "tag": "SaaS",
+   "style": "极简现代的 SaaS 科技风，白底排版搭配蓝色强调、半透明渐变数据图表与轻拟态卡片；场景：企业级 SaaS 产品官网落地页、团队协作/数据分析平台介绍页。",
+   "motion": "动效：标签/菜单切换、图表柱状增长、数字递增、内容淡入切换；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Task Engine",
+   "tag": "SaaS",
+   "style": "浅色渐变背景、圆角卡片式极简 SaaS UI，结合柔和阴影与轻拟物/玻璃感；场景：AI 自动化与效率工具的 SaaS 落地页、产品功能展示页。",
+   "motion": "动效：悬浮卡片、通知弹窗滑入、流程连线/图标微动、柱状图增长、数字滚动、鼠标交互、柔和光晕呼吸；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Sections",
+   "name": "Pet Diagnostics",
+   "tag": "Healthcare",
+   "style": "暖色自然摄影结合半透明玻璃拟态与极简悬浮信息卡；场景：宠物健康/兽医服务品牌官网或订阅型 SaaS 落地页。",
+   "motion": "动效：全屏视频/环境背景微动、图层渐显、悬浮价格卡片、光标悬停交互、滚动视差；强度：轻动效",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "Backgrounds",
+   "name": "",
+   "tag": "none",
+   "style": "低饱和自然风景摄影叠加复古像素网点质感；场景：户外旅行品牌官网、自然纪录片专题页或沉浸式作品集首页",
+   "motion": "ERR:524",
+   "strength": "?",
+   "source": "Framesbase"
+  },
+  {
+   "cat": "组件",
+   "name": "Scales",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "背景网格呈斜向缩放扩散，营造持续呼吸感",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "scales",
+   "url": "https://ui.aceternity.com/components/scales"
+  },
+  {
+   "cat": "组件",
+   "name": "Parallax Hero Images",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标驱动英雄图多层视差、模糊淡入与深度位移",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "parallax-hero-images",
+   "url": "https://ui.aceternity.com/components/parallax-hero-images"
+  },
+  {
+   "cat": "组件",
+   "name": "Images Badge",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停图片徽章展开更多叠放图片预览",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "images-badge",
+   "url": "https://ui.aceternity.com/components/images-badge"
+  },
+  {
+   "cat": "组件",
+   "name": "Webcam Pixel Grid",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "大标题文案逐行上移并渐显，形成连续的入场滚动效果",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "webcam-pixel-grid",
+   "url": "https://ui.aceternity.com/components/webcam-pixel-grid"
+  },
+  {
+   "cat": "组件",
+   "name": "Dotted Glow Background",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "点阵背景中柔和光晕缓慢漂移扩散，形成动态聚光效果",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "dotted-glow-background",
+   "url": "https://ui.aceternity.com/components/dotted-glow-background"
+  },
+  {
+   "cat": "组件",
+   "name": "Background Ripple Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标悬停/点击时，背景网格从触点扩散波纹扰动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "background-ripple-effect",
+   "url": "https://ui.aceternity.com/components/background-ripple-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Sparkles",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "文字下方粒子星屑沿水平光带闪烁流动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "sparkles",
+   "url": "https://ui.aceternity.com/components/sparkles"
+  },
+  {
+   "cat": "组件",
+   "name": "Background Gradient",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "背景渐变光晕沿卡片边缘缓慢流动，呈现彩色霓虹呼吸效果",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "background-gradient",
+   "url": "https://ui.aceternity.com/components/background-gradient"
+  },
+  {
+   "cat": "组件",
+   "name": "Background Gradient Animation",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "彩色模糊渐变光斑平滑流动变换位置",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "background-gradient-animation",
+   "url": "https://ui.aceternity.com/components/background-gradient-animation"
+  },
+  {
+   "cat": "组件",
+   "name": "Background Beams",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "背景中光束缓慢流动扫过，形成细微动态氛围",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "background-beams",
+   "url": "https://ui.aceternity.com/components/background-beams"
+  },
+  {
+   "cat": "组件",
+   "name": "Wavy Background",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "多层彩色波浪背景缓慢横向流动起伏",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "wavy-background",
+   "url": "https://ui.aceternity.com/components/wavy-background"
+  },
+  {
+   "cat": "组件",
+   "name": "Background Boxes",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标悬停时背景网格方块随机亮起渐变光效",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "background-boxes",
+   "url": "https://ui.aceternity.com/components/background-boxes"
+  },
+  {
+   "cat": "组件",
+   "name": "Background Lines",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "标题背景放射线条渐显扩散",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "background-lines",
+   "url": "https://ui.aceternity.com/components/background-lines"
+  },
+  {
+   "cat": "组件",
+   "name": "Aurora Background",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "极光般彩色光晕在背景中缓慢流动变幻",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "aurora-background",
+   "url": "https://ui.aceternity.com/components/aurora-background"
+  },
+  {
+   "cat": "组件",
+   "name": "Meteors",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片背景流星光线斜向划过并渐隐循环",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "meteors",
+   "url": "https://ui.aceternity.com/components/meteors"
+  },
+  {
+   "cat": "组件",
+   "name": "Background Beams With Collision",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "背景光束移动碰撞并爆裂成紫色光效",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "background-beams-with-collision",
+   "url": "https://ui.aceternity.com/components/background-beams-with-collision"
+  },
+  {
+   "cat": "组件",
+   "name": "Cloud Shader",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "蓝天白云随时间平滑漂移变化，营造动态天空背景",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "cloud-shader",
+   "url": "https://ui.aceternity.com/components/cloud-shader"
+  },
+  {
+   "cat": "组件",
+   "name": "Vortex",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "紫色粒子波纹在背景中流动聚散成涡旋",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "vortex",
+   "url": "https://ui.aceternity.com/components/vortex"
+  },
+  {
+   "cat": "组件",
+   "name": "Glowing Stars Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片背景星点缓慢闪烁漂移，营造深邃动态氛围",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "glowing-stars-effect",
+   "url": "https://ui.aceternity.com/components/glowing-stars-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Shooting Stars And Stars Background",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "深色星空中星点闪烁，流星划过形成动态星轨效果",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "shooting-stars-and-stars-background",
+   "url": "https://ui.aceternity.com/components/shooting-stars-and-stars-background"
+  },
+  {
+   "cat": "组件",
+   "name": "Canvas Reveal Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "黑色画布分栏线与箭头平滑横向位移揭示",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "canvas-reveal-effect",
+   "url": "https://ui.aceternity.com/components/canvas-reveal-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Spotlight",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "聚光灯光晕缓慢扫过网格背景，突出中心文案",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "spotlight",
+   "url": "https://ui.aceternity.com/components/spotlight"
+  },
+  {
+   "cat": "组件",
+   "name": "Chromatic Image",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "图片产生RGB色彩分离、位移与倾斜的动态故障效果",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "chromatic-image",
+   "url": "https://ui.aceternity.com/components/chromatic-image"
+  },
+  {
+   "cat": "组件",
+   "name": "Spotlight New",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标移动时聚光灯光晕跟随移动，照亮文字与背景",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "spotlight-new",
+   "url": "https://ui.aceternity.com/components/spotlight-new"
+  },
+  {
+   "cat": "组件",
+   "name": "Tracing Beam",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "左侧边缘光点随滚动向下追踪移动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "tracing-beam",
+   "url": "https://ui.aceternity.com/components/tracing-beam"
+  },
+  {
+   "cat": "组件",
+   "name": "Lamp Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "青色灯条横向延展，中心光晕渐亮扩散",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "lamp-effect",
+   "url": "https://ui.aceternity.com/components/lamp-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Svg Mask Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标移动触发SVG遮罩，动态揭示容器下方隐藏内容",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "svg-mask-effect",
+   "url": "https://ui.aceternity.com/components/svg-mask-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Grid And Dot Backgrounds",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "网格与圆点背景缓慢流动闪烁，营造动态空间感",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "grid-and-dot-backgrounds",
+   "url": "https://ui.aceternity.com/components/grid-and-dot-backgrounds"
+  },
+  {
+   "cat": "组件",
+   "name": "Glowing Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片边框柔和流光呼吸，悬停时光晕增强",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "glowing-effect",
+   "url": "https://ui.aceternity.com/components/glowing-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Keyboard",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "虚拟键盘按键点击下沉并触发机械键盘音效",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "keyboard",
+   "url": "https://ui.aceternity.com/components/keyboard"
+  },
+  {
+   "cat": "组件",
+   "name": "Google Gemini Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "滚动页面时底部SVG逐步绘制并显现",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "google-gemini-effect",
+   "url": "https://ui.aceternity.com/components/google-gemini-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Terminal",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "终端命令文字逐字输入，带语法高亮与光标闪烁",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "terminal",
+   "url": "https://ui.aceternity.com/components/terminal"
+  },
+  {
+   "cat": "组件",
+   "name": "Pixelated Canvas",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "像素颗粒画布随鼠标悬停扭曲流动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "pixelated-canvas",
+   "url": "https://ui.aceternity.com/components/pixelated-canvas"
+  },
+  {
+   "cat": "组件",
+   "name": "3d Card Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标悬停时卡片产生3D透视倾斜，内部文字与图片分层浮起",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "3d-card-effect",
+   "url": "https://ui.aceternity.com/components/3d-card-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Ascii Art",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "ASCII字符逐步重排，网格人像产生动态变换",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "ascii-art",
+   "url": "https://ui.aceternity.com/components/ascii-art"
+  },
+  {
+   "cat": "组件",
+   "name": "Tooltip Card",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停时提示卡片跟随鼠标指针移动显示",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "tooltip-card",
+   "url": "https://ui.aceternity.com/components/tooltip-card"
+  },
+  {
+   "cat": "组件",
+   "name": "Wobble Card",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停时卡片随鼠标产生轻微3D倾斜与内容视差",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "wobble-card",
+   "url": "https://ui.aceternity.com/components/wobble-card"
+  },
+  {
+   "cat": "组件",
+   "name": "Card Stack",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片按固定间隔平滑滑入并堆叠轮播",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "card-stack",
+   "url": "https://ui.aceternity.com/components/card-stack"
+  },
+  {
+   "cat": "组件",
+   "name": "Card Hover Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停卡片横向展开，其他卡片收缩让位",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "card-hover-effect",
+   "url": "https://ui.aceternity.com/components/card-hover-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Evervault Card",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标悬停卡片，暗色圆形光晕随指针平滑移动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "evervault-card",
+   "url": "https://ui.aceternity.com/components/evervault-card"
+  },
+  {
+   "cat": "组件",
+   "name": "Card Spotlight",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片背景的径向光晕持续移动，形成聚光灯扫过的高亮效果",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "card-spotlight",
+   "url": "https://ui.aceternity.com/components/card-spotlight"
+  },
+  {
+   "cat": "组件",
+   "name": "Focus Cards",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停卡片聚焦高亮，其余卡片模糊弱化",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "focus-cards",
+   "url": "https://ui.aceternity.com/components/focus-cards"
+  },
+  {
+   "cat": "组件",
+   "name": "Infinite Moving Cards",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片横向连续循环滚动，内容依次滑入滑出形成无限轮播",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "infinite-moving-cards",
+   "url": "https://ui.aceternity.com/components/infinite-moving-cards"
+  },
+  {
+   "cat": "组件",
+   "name": "Expandable Card",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "音乐列表卡片由紧凑居中平滑横向展开为全宽布局",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "expandable-card",
+   "url": "https://ui.aceternity.com/components/expandable-card"
+  },
+  {
+   "cat": "组件",
+   "name": "Draggable Card",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片在限定区域内随拖拽平滑移动与旋转",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "draggable-card",
+   "url": "https://ui.aceternity.com/components/draggable-card"
+  },
+  {
+   "cat": "组件",
+   "name": "Glare Card",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停时卡片表面出现斜向高光扫过并增强边缘光晕",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "glare-card",
+   "url": "https://ui.aceternity.com/components/glare-card"
+  },
+  {
+   "cat": "组件",
+   "name": "Direction Aware Hover",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标悬停时遮罩根据进入方向从对应边缘滑入，离开时反向退出",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "direction-aware-hover",
+   "url": "https://ui.aceternity.com/components/direction-aware-hover"
+  },
+  {
+   "cat": "组件",
+   "name": "Comet Card",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片内星云纹理缓慢流动闪烁，呈现彗星掠过般的动态",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "comet-card",
+   "url": "https://ui.aceternity.com/components/comet-card"
+  },
+  {
+   "cat": "组件",
+   "name": "Parallax Scroll",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "滚动时网格图片向不同方向错位平移形成视差",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "parallax-scroll",
+   "url": "https://ui.aceternity.com/components/parallax-scroll"
+  },
+  {
+   "cat": "组件",
+   "name": "Sticky Scroll Reveal",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "滚动时文字内容分段切换，右侧彩色面板保持吸附并随之渐变",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "sticky-scroll-reveal",
+   "url": "https://ui.aceternity.com/components/sticky-scroll-reveal"
+  },
+  {
+   "cat": "组件",
+   "name": "Container Scroll Animation",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "滚动时容器内大字号文案纵向位移并产生层叠变化",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "container-scroll-animation",
+   "url": "https://ui.aceternity.com/components/container-scroll-animation"
+  },
+  {
+   "cat": "组件",
+   "name": "Macbook Scroll",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "滚动驱动麦克风屏幕内页面上移，内容从屏幕中立体展开",
+   "strength": "电影级",
+   "source": "Aceternity UI",
+   "slug": "macbook-scroll",
+   "url": "https://ui.aceternity.com/components/macbook-scroll"
+  },
+  {
+   "cat": "组件",
+   "name": "Layout Text Flip",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "标题中的关键词翻转切换，周围文字自适应重排",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "layout-text-flip",
+   "url": "https://ui.aceternity.com/components/layout-text-flip"
+  },
+  {
+   "cat": "组件",
+   "name": "Canvas Text",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "文字内部的蓝紫渐变流光持续流动，呈现霓虹发光效果",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "canvas-text",
+   "url": "https://ui.aceternity.com/components/canvas-text"
+  },
+  {
+   "cat": "组件",
+   "name": "Encrypted Text",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "文字由乱码逐步解密，最终显现为完整内容的加密文字动画",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "encrypted-text",
+   "url": "https://ui.aceternity.com/components/encrypted-text"
+  },
+  {
+   "cat": "组件",
+   "name": "Hero Parallax",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "滚动时英雄图层视差位移、缩放旋转并渐显",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "hero-parallax",
+   "url": "https://ui.aceternity.com/components/hero-parallax"
+  },
+  {
+   "cat": "组件",
+   "name": "Typewriter Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "标题文字逐字打字机显示，末尾光标闪烁",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "typewriter-effect",
+   "url": "https://ui.aceternity.com/components/typewriter-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Squiggly Text",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "文字局部橙色波浪扭曲抖动循环",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "squiggly-text",
+   "url": "https://ui.aceternity.com/components/squiggly-text"
+  },
+  {
+   "cat": "组件",
+   "name": "Text Generate Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "文字逐字打字显现，内容从前半句逐步生成至完整句子",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "text-generate-effect",
+   "url": "https://ui.aceternity.com/components/text-generate-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Colourful Text",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "文字渐变色流动并伴随轻微缩放，呈现鲜明的彩色动态效果",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "colourful-text",
+   "url": "https://ui.aceternity.com/components/colourful-text"
+  },
+  {
+   "cat": "组件",
+   "name": "Flip Words",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "短语中关键词垂直翻转切换（better→cute）",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "flip-words",
+   "url": "https://ui.aceternity.com/components/flip-words"
+  },
+  {
+   "cat": "组件",
+   "name": "Text Hover Effect",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "文字悬停时渐变描边与填充光效平滑流动切换",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "text-hover-effect",
+   "url": "https://ui.aceternity.com/components/text-hover-effect"
+  },
+  {
+   "cat": "组件",
+   "name": "Hero Highlight",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "文字高亮色块从首词横向扩展覆盖整段",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "hero-highlight",
+   "url": "https://ui.aceternity.com/components/hero-highlight"
+  },
+  {
+   "cat": "组件",
+   "name": "Container Text Flip",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "容器内文字在不同词语间平滑切换，伴随宽度自适应变化",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "container-text-flip",
+   "url": "https://ui.aceternity.com/components/container-text-flip"
+  },
+  {
+   "cat": "组件",
+   "name": "Text Flipping Board",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "翻牌板字符逐格翻转，切换为多行励志文字",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "text-flipping-board",
+   "url": "https://ui.aceternity.com/components/text-flipping-board"
+  },
+  {
+   "cat": "组件",
+   "name": "Noise Background",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "按钮背景流动渐变与噪点光晕缓慢变化，呈现动态发光效果",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "noise-background",
+   "url": "https://ui.aceternity.com/components/noise-background"
+  },
+  {
+   "cat": "组件",
+   "name": "Magnetic Button",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标靠近时按钮产生磁吸偏移并跟随，移开后弹簧回弹",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "magnetic-button",
+   "url": "https://ui.aceternity.com/components/magnetic-button"
+  },
+  {
+   "cat": "组件",
+   "name": "Text Reveal Card",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "鼠标移动卡片，底部隐藏文字由暗模糊渐显清晰",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "text-reveal-card",
+   "url": "https://ui.aceternity.com/components/text-reveal-card"
+  },
+  {
+   "cat": "组件",
+   "name": "Moving Border",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "按钮边框高光沿轮廓循环移动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "moving-border",
+   "url": "https://ui.aceternity.com/components/moving-border"
+  },
+  {
+   "cat": "组件",
+   "name": "Hover Border Gradient",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停时渐变光晕沿容器边框扩散高亮",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "hover-border-gradient",
+   "url": "https://ui.aceternity.com/components/hover-border-gradient"
+  },
+  {
+   "cat": "组件",
+   "name": "Stateful Button",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "点击按钮后显示加载，完成后切换成功状态",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "stateful-button",
+   "url": "https://ui.aceternity.com/components/stateful-button"
+  },
+  {
+   "cat": "组件",
+   "name": "Tailwindcss Buttons",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "黄色按钮悬停时硬边投影位移，形成按压反馈",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "tailwindcss-buttons",
+   "url": "https://ui.aceternity.com/components/tailwindcss-buttons"
+  },
+  {
+   "cat": "组件",
+   "name": "Multi Step Loader",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "点击后按步骤依次切换加载状态",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "multi-step-loader",
+   "url": "https://ui.aceternity.com/components/multi-step-loader"
+  },
+  {
+   "cat": "组件",
+   "name": "Floating Navbar",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "导航栏下滑隐藏，上滑时平滑显现并固定在顶部",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "floating-navbar",
+   "url": "https://ui.aceternity.com/components/floating-navbar"
+  },
+  {
+   "cat": "组件",
+   "name": "Loader",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "三点加载器依次明暗/缩放脉动，循环提示加载中",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "loader",
+   "url": "https://ui.aceternity.com/components/loader"
+  },
+  {
+   "cat": "组件",
+   "name": "Notch",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片顶部凹口随激活项平滑切换定位",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "notch",
+   "url": "https://ui.aceternity.com/components/notch"
+  },
+  {
+   "cat": "组件",
+   "name": "Sidebar",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停时侧栏平滑展开，图标导航显现文字菜单",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "sidebar",
+   "url": "https://ui.aceternity.com/components/sidebar"
+  },
+  {
+   "cat": "组件",
+   "name": "Floating Dock",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬浮胶囊工具栏随悬停切换图标高亮并平滑放大",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "floating-dock",
+   "url": "https://ui.aceternity.com/components/floating-dock"
+  },
+  {
+   "cat": "组件",
+   "name": "Navbar Menu",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停导航栏时子菜单平滑展开并呈胶囊高亮",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "navbar-menu",
+   "url": "https://ui.aceternity.com/components/navbar-menu"
+  },
+  {
+   "cat": "组件",
+   "name": "Tabs",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "标签激活态背景平滑滑动切换，并伴随内容渐变",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "tabs",
+   "url": "https://ui.aceternity.com/components/tabs"
+  },
+  {
+   "cat": "组件",
+   "name": "Placeholders And Vanish Input",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "输入框占位文字渐隐并切换为新提示语",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "placeholders-and-vanish-input",
+   "url": "https://ui.aceternity.com/components/placeholders-and-vanish-input"
+  },
+  {
+   "cat": "组件",
+   "name": "Resizable Navbar",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "导航栏随容器宽度平滑伸缩，菜单自适应排布",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "resizable-navbar",
+   "url": "https://ui.aceternity.com/components/resizable-navbar"
+  },
+  {
+   "cat": "组件",
+   "name": "Sticky Banner",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "页面滚动时公告横幅吸附在顶部，持续保持可见",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "sticky-banner",
+   "url": "https://ui.aceternity.com/components/sticky-banner"
+  },
+  {
+   "cat": "组件",
+   "name": "Signup Form",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "注册表单字段依次上移淡入",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "signup-form",
+   "url": "https://ui.aceternity.com/components/signup-form"
+  },
+  {
+   "cat": "组件",
+   "name": "Dither Shader",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "黑白图像网点颗粒持续抖动闪烁",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "dither-shader",
+   "url": "https://ui.aceternity.com/components/dither-shader"
+  },
+  {
+   "cat": "组件",
+   "name": "Animated Modal",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "居中预约按钮静态展示，无明显帧间变化",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "animated-modal",
+   "url": "https://ui.aceternity.com/components/animated-modal"
+  },
+  {
+   "cat": "组件",
+   "name": "Gooey Input",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "搜索按钮以黏液般形变并伴随弹性布局过渡，平滑展开/收缩",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "gooey-input",
+   "url": "https://ui.aceternity.com/components/gooey-input"
+  },
+  {
+   "cat": "组件",
+   "name": "File Upload",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "上传区背景网格缓慢流动，中心图标微弱呼吸闪烁",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "file-upload",
+   "url": "https://ui.aceternity.com/components/file-upload"
+  },
+  {
+   "cat": "组件",
+   "name": "Images Slider",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "英雄区幻灯片背景平滑切换，文案随页面淡入",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "images-slider",
+   "url": "https://ui.aceternity.com/components/images-slider"
+  },
+  {
+   "cat": "组件",
+   "name": "Animated Tooltip",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停头像时展开提示卡并跟随鼠标移动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "animated-tooltip",
+   "url": "https://ui.aceternity.com/components/animated-tooltip"
+  },
+  {
+   "cat": "组件",
+   "name": "Carousel",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "轮播卡片横向滑动切换，主图与相邻卡片同步位移",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "carousel",
+   "url": "https://ui.aceternity.com/components/carousel"
+  },
+  {
+   "cat": "组件",
+   "name": "Link Preview",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停链接时弹出图片预览，伴随淡入、缩放与位移过渡",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "link-preview",
+   "url": "https://ui.aceternity.com/components/link-preview"
+  },
+  {
+   "cat": "组件",
+   "name": "Apple Cards Carousel",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "苹果风格信息卡片横向轮播滑动切换",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "apple-cards-carousel",
+   "url": "https://ui.aceternity.com/components/apple-cards-carousel"
+  },
+  {
+   "cat": "组件",
+   "name": "Bento Grid",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "Bento卡片网格悬停微抬升并增强阴影",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "bento-grid",
+   "url": "https://ui.aceternity.com/components/bento-grid"
+  },
+  {
+   "cat": "组件",
+   "name": "Layout Grid",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "图片网格中主次图片平滑重排，尺寸与位置过渡变化",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "layout-grid",
+   "url": "https://ui.aceternity.com/components/layout-grid"
+  },
+  {
+   "cat": "组件",
+   "name": "Animated Testimonials",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "推荐卡片头像平滑放大并横向位移",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "animated-testimonials",
+   "url": "https://ui.aceternity.com/components/animated-testimonials"
+  },
+  {
+   "cat": "组件",
+   "name": "World Map",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "世界地图节点与连线动态绘制、持续流动连接",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "world-map",
+   "url": "https://ui.aceternity.com/components/world-map"
+  },
+  {
+   "cat": "组件",
+   "name": "Github Globe",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "3D地球旋转，青色轨道光环环绕扫过",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "github-globe",
+   "url": "https://ui.aceternity.com/components/github-globe"
+  },
+  {
+   "cat": "组件",
+   "name": "Timeline",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "滚动时年份节点吸顶，进度光束沿时间线跟随",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "timeline",
+   "url": "https://ui.aceternity.com/components/timeline"
+  },
+  {
+   "cat": "组件",
+   "name": "Container Cover",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停时光束扫过文字，逐字高亮显现",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "container-cover",
+   "url": "https://ui.aceternity.com/components/container-cover"
+  },
+  {
+   "cat": "组件",
+   "name": "Pointer Highlight",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "蓝色指针滑入，文字词语出现描边高亮框聚焦",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "pointer-highlight",
+   "url": "https://ui.aceternity.com/components/pointer-highlight"
+  },
+  {
+   "cat": "组件",
+   "name": "Compare",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "拖动中线滑块左右切换两张对比图的显示区域",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "compare",
+   "url": "https://ui.aceternity.com/components/compare"
+  },
+  {
+   "cat": "组件",
+   "name": "Following Pointer",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "卡片随鼠标移动跟随定位，内部图文产生视差偏移",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "following-pointer",
+   "url": "https://ui.aceternity.com/components/following-pointer"
+  },
+  {
+   "cat": "组件",
+   "name": "Code Block",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "代码块高亮行动态切换，模拟代码阅读交互",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "code-block",
+   "url": "https://ui.aceternity.com/components/code-block"
+  },
+  {
+   "cat": "组件",
+   "name": "3d Globe",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "3D地球由加载文字渐显生成，并持续缓慢自转",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "3d-globe",
+   "url": "https://ui.aceternity.com/components/3d-globe"
+  },
+  {
+   "cat": "组件",
+   "name": "Lens",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬浮卡片随鼠标平滑横向跟随移动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "lens",
+   "url": "https://ui.aceternity.com/components/lens"
+  },
+  {
+   "cat": "组件",
+   "name": "3d Marquee",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "3D卡片网格透视斜向无缝滚动",
+   "strength": "轻",
+   "source": "Aceternity UI",
+   "slug": "3d-marquee",
+   "url": "https://ui.aceternity.com/components/3d-marquee"
+  },
+  {
+   "cat": "组件",
+   "name": "3d Pin",
+   "tag": "Aceternity",
+   "style": "",
+   "motion": "悬停时渐变信息卡以3D透视浮起并轻微旋转",
+   "strength": "强",
+   "source": "Aceternity UI",
+   "slug": "3d-pin",
+   "url": "https://ui.aceternity.com/components/3d-pin"
+  },
+  {
+   "cat": "组件",
+   "name": "Aero Shards",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "紫色碎片粒子从中心爆散并持续漂浮掠过",
+   "strength": "强",
+   "source": "React Bits",
+   "slug": "aero-shards",
+   "url": "https://www.reactbits.dev/backgrounds/aero-shards"
+  },
+  {
+   "cat": "组件",
+   "name": "Blob Cursor",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "紫色 Blob 光标在画布中平滑跟随鼠标横向移动",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "blob-cursor",
+   "url": "https://www.reactbits.dev/animations/blob-cursor"
+  },
+  {
+   "cat": "组件",
+   "name": "Dot Field",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "背景点阵随时间流动并轻微扭曲，形成动态粒子场",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "dot-field",
+   "url": "https://www.reactbits.dev/backgrounds/dot-field"
+  },
+  {
+   "cat": "组件",
+   "name": "Line Waves",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "黑白流线持续波动变形，形成动态波浪背景效果",
+   "strength": "强",
+   "source": "React Bits",
+   "slug": "line-waves",
+   "url": "https://www.reactbits.dev/backgrounds/line-waves"
+  },
+  {
+   "cat": "组件",
+   "name": "Magnet Lines",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "线条随鼠标靠近产生磁场吸附与弯曲偏移",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "magnet-lines",
+   "url": "https://www.reactbits.dev/animations/magnet-lines"
+  },
+  {
+   "cat": "组件",
+   "name": "Soft Aurora",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "粉紫极光光带缓慢流动变形，持续产生柔和辉光",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "soft-aurora",
+   "url": "https://www.reactbits.dev/backgrounds/soft-aurora"
+  },
+  {
+   "cat": "组件",
+   "name": "Ballpit",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "彩色与白色球体在容器内受物理碰撞自由滚动、弹跳聚散",
+   "strength": "强",
+   "source": "React Bits",
+   "slug": "ballpit",
+   "url": "https://www.reactbits.dev/backgrounds/ballpit"
+  },
+  {
+   "cat": "组件",
+   "name": "Antigravity",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "蓝紫粒子围绕中心旋转聚散，形成反重力涡旋",
+   "strength": "强",
+   "source": "React Bits",
+   "slug": "antigravity",
+   "url": "https://www.reactbits.dev/animations/antigravity"
+  },
+  {
+   "cat": "组件",
+   "name": "Magic Rings",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "紫色能量波纹向中心收拢，凝聚成发光圆环循环脉动",
+   "strength": "强",
+   "source": "React Bits",
+   "slug": "magic-rings",
+   "url": "https://www.reactbits.dev/animations/magic-rings"
+  },
+  {
+   "cat": "组件",
+   "name": "Pixel Trail",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "鼠标移动时文字产生像素化拖尾与闪烁变化",
+   "strength": "强",
+   "source": "React Bits",
+   "slug": "pixel-trail",
+   "url": "https://www.reactbits.dev/animations/pixel-trail"
+  },
+  {
+   "cat": "组件",
+   "name": "Shape Grid",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "网格中的方块沿路径平滑移动，形成循环几何动画",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "shape-grid",
+   "url": "https://www.reactbits.dev/backgrounds/shape-grid"
+  },
+  {
+   "cat": "组件",
+   "name": "Radar",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "雷达圆环与射线持续旋转扫描并发出紫色脉冲光晕",
+   "strength": "强",
+   "source": "React Bits",
+   "slug": "radar",
+   "url": "https://www.reactbits.dev/backgrounds/radar"
+  },
+  {
+   "cat": "组件",
+   "name": "Grainient",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "背景渐变色与颗粒噪声缓慢流动，营造柔和动态氛围",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "grainient",
+   "url": "https://www.reactbits.dev/backgrounds/grainient"
+  },
+  {
+   "cat": "组件",
+   "name": "Metallic Paint",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "金属徽标表面由暗银渐变提亮为高光白色",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "metallic-paint",
+   "url": "https://www.reactbits.dev/animations/metallic-paint"
+  },
+  {
+   "cat": "组件",
+   "name": "Ribbons",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "悬停区域文字淡入并呈现漂浮丝带效果",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "ribbons",
+   "url": "https://www.reactbits.dev/animations/ribbons"
+  },
+  {
+   "cat": "组件",
+   "name": "Orbit Images",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "多张图片沿椭圆轨道循环环绕运动，呈现动态路径效果",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "orbit-images",
+   "url": "https://www.reactbits.dev/animations/orbit-images"
+  },
+  {
+   "cat": "组件",
+   "name": "Balatro",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "红蓝液态抽象纹理持续流动扭曲变形",
+   "strength": "强",
+   "source": "React Bits",
+   "slug": "balatro",
+   "url": "https://www.reactbits.dev/backgrounds/balatro"
+  },
+  {
+   "cat": "组件",
+   "name": "Splash Cursor",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "鼠标移动时中心文字随光晕水波轻微浮动",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "splash-cursor",
+   "url": "https://www.reactbits.dev/animations/splash-cursor"
+  },
+  {
+   "cat": "组件",
+   "name": "Aurora",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "背景渐变光晕缓慢流动，呈现极光呼吸效果",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "aurora",
+   "url": "https://www.reactbits.dev/backgrounds/aurora"
+  },
+  {
+   "cat": "组件",
+   "name": "Beams",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "黑色背景中的斜向光束缓慢移动变换，营造流动的辐射光效",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "beams",
+   "url": "https://www.reactbits.dev/backgrounds/beams"
+  },
+  {
+   "cat": "组件",
+   "name": "Shiny Text",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "文字亮度渐变并有高光扫过的闪耀效果",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "shiny-text",
+   "url": "https://www.reactbits.dev/text-animations/shiny-text"
+  },
+  {
+   "cat": "组件",
+   "name": "Dock",
+   "tag": "React Bits",
+   "style": "",
+   "motion": "Dock图标横向排列，悬停时弹性放大并错位",
+   "strength": "轻",
+   "source": "React Bits",
+   "slug": "dock",
+   "url": "https://www.reactbits.dev/components/dock"
+  }
+ ],
+ "updated": "2026-09-03 全量补录（Framesbase 动效描述 + React Bits/Aceternity 组件）"
+}

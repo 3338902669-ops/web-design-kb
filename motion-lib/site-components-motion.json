@@ -1,0 +1,1042 @@
+[
+ {
+  "site": "aceternity",
+  "slug": "scales",
+  "name": "Scales",
+  "url": "https://ui.aceternity.com/components/scales",
+  "motion": "背景网格呈斜向缩放扩散，营造持续呼吸感",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "parallax-hero-images",
+  "name": "Parallax Hero Images",
+  "url": "https://ui.aceternity.com/components/parallax-hero-images",
+  "motion": "鼠标驱动英雄图多层视差、模糊淡入与深度位移",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "images-badge",
+  "name": "Images Badge",
+  "url": "https://ui.aceternity.com/components/images-badge",
+  "motion": "悬停图片徽章展开更多叠放图片预览",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "webcam-pixel-grid",
+  "name": "Webcam Pixel Grid",
+  "url": "https://ui.aceternity.com/components/webcam-pixel-grid",
+  "motion": "大标题文案逐行上移并渐显，形成连续的入场滚动效果",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "dotted-glow-background",
+  "name": "Dotted Glow Background",
+  "url": "https://ui.aceternity.com/components/dotted-glow-background",
+  "motion": "点阵背景中柔和光晕缓慢漂移扩散，形成动态聚光效果",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "background-ripple-effect",
+  "name": "Background Ripple Effect",
+  "url": "https://ui.aceternity.com/components/background-ripple-effect",
+  "motion": "鼠标悬停/点击时，背景网格从触点扩散波纹扰动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "sparkles",
+  "name": "Sparkles",
+  "url": "https://ui.aceternity.com/components/sparkles",
+  "motion": "文字下方粒子星屑沿水平光带闪烁流动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "background-gradient",
+  "name": "Background Gradient",
+  "url": "https://ui.aceternity.com/components/background-gradient",
+  "motion": "背景渐变光晕沿卡片边缘缓慢流动，呈现彩色霓虹呼吸效果",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "background-gradient-animation",
+  "name": "Background Gradient Animation",
+  "url": "https://ui.aceternity.com/components/background-gradient-animation",
+  "motion": "彩色模糊渐变光斑平滑流动变换位置",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "background-beams",
+  "name": "Background Beams",
+  "url": "https://ui.aceternity.com/components/background-beams",
+  "motion": "背景中光束缓慢流动扫过，形成细微动态氛围",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "wavy-background",
+  "name": "Wavy Background",
+  "url": "https://ui.aceternity.com/components/wavy-background",
+  "motion": "多层彩色波浪背景缓慢横向流动起伏",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "background-boxes",
+  "name": "Background Boxes",
+  "url": "https://ui.aceternity.com/components/background-boxes",
+  "motion": "鼠标悬停时背景网格方块随机亮起渐变光效",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "background-lines",
+  "name": "Background Lines",
+  "url": "https://ui.aceternity.com/components/background-lines",
+  "motion": "标题背景放射线条渐显扩散",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "aurora-background",
+  "name": "Aurora Background",
+  "url": "https://ui.aceternity.com/components/aurora-background",
+  "motion": "极光般彩色光晕在背景中缓慢流动变幻",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "meteors",
+  "name": "Meteors",
+  "url": "https://ui.aceternity.com/components/meteors",
+  "motion": "卡片背景流星光线斜向划过并渐隐循环",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "background-beams-with-collision",
+  "name": "Background Beams With Collision",
+  "url": "https://ui.aceternity.com/components/background-beams-with-collision",
+  "motion": "背景光束移动碰撞并爆裂成紫色光效",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "cloud-shader",
+  "name": "Cloud Shader",
+  "url": "https://ui.aceternity.com/components/cloud-shader",
+  "motion": "蓝天白云随时间平滑漂移变化，营造动态天空背景",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "vortex",
+  "name": "Vortex",
+  "url": "https://ui.aceternity.com/components/vortex",
+  "motion": "紫色粒子波纹在背景中流动聚散成涡旋",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "glowing-stars-effect",
+  "name": "Glowing Stars Effect",
+  "url": "https://ui.aceternity.com/components/glowing-stars-effect",
+  "motion": "卡片背景星点缓慢闪烁漂移，营造深邃动态氛围",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "shooting-stars-and-stars-background",
+  "name": "Shooting Stars And Stars Background",
+  "url": "https://ui.aceternity.com/components/shooting-stars-and-stars-background",
+  "motion": "深色星空中星点闪烁，流星划过形成动态星轨效果",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "canvas-reveal-effect",
+  "name": "Canvas Reveal Effect",
+  "url": "https://ui.aceternity.com/components/canvas-reveal-effect",
+  "motion": "黑色画布分栏线与箭头平滑横向位移揭示",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "spotlight",
+  "name": "Spotlight",
+  "url": "https://ui.aceternity.com/components/spotlight",
+  "motion": "聚光灯光晕缓慢扫过网格背景，突出中心文案",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "chromatic-image",
+  "name": "Chromatic Image",
+  "url": "https://ui.aceternity.com/components/chromatic-image",
+  "motion": "图片产生RGB色彩分离、位移与倾斜的动态故障效果",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "spotlight-new",
+  "name": "Spotlight New",
+  "url": "https://ui.aceternity.com/components/spotlight-new",
+  "motion": "鼠标移动时聚光灯光晕跟随移动，照亮文字与背景",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "tracing-beam",
+  "name": "Tracing Beam",
+  "url": "https://ui.aceternity.com/components/tracing-beam",
+  "motion": "左侧边缘光点随滚动向下追踪移动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "lamp-effect",
+  "name": "Lamp Effect",
+  "url": "https://ui.aceternity.com/components/lamp-effect",
+  "motion": "青色灯条横向延展，中心光晕渐亮扩散",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "svg-mask-effect",
+  "name": "Svg Mask Effect",
+  "url": "https://ui.aceternity.com/components/svg-mask-effect",
+  "motion": "鼠标移动触发SVG遮罩，动态揭示容器下方隐藏内容",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "grid-and-dot-backgrounds",
+  "name": "Grid And Dot Backgrounds",
+  "url": "https://ui.aceternity.com/components/grid-and-dot-backgrounds",
+  "motion": "网格与圆点背景缓慢流动闪烁，营造动态空间感",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "glowing-effect",
+  "name": "Glowing Effect",
+  "url": "https://ui.aceternity.com/components/glowing-effect",
+  "motion": "卡片边框柔和流光呼吸，悬停时光晕增强",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "keyboard",
+  "name": "Keyboard",
+  "url": "https://ui.aceternity.com/components/keyboard",
+  "motion": "虚拟键盘按键点击下沉并触发机械键盘音效",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "google-gemini-effect",
+  "name": "Google Gemini Effect",
+  "url": "https://ui.aceternity.com/components/google-gemini-effect",
+  "motion": "滚动页面时底部SVG逐步绘制并显现",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "terminal",
+  "name": "Terminal",
+  "url": "https://ui.aceternity.com/components/terminal",
+  "motion": "终端命令文字逐字输入，带语法高亮与光标闪烁",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "pixelated-canvas",
+  "name": "Pixelated Canvas",
+  "url": "https://ui.aceternity.com/components/pixelated-canvas",
+  "motion": "像素颗粒画布随鼠标悬停扭曲流动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "3d-card-effect",
+  "name": "3d Card Effect",
+  "url": "https://ui.aceternity.com/components/3d-card-effect",
+  "motion": "鼠标悬停时卡片产生3D透视倾斜，内部文字与图片分层浮起",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "ascii-art",
+  "name": "Ascii Art",
+  "url": "https://ui.aceternity.com/components/ascii-art",
+  "motion": "ASCII字符逐步重排，网格人像产生动态变换",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "tooltip-card",
+  "name": "Tooltip Card",
+  "url": "https://ui.aceternity.com/components/tooltip-card",
+  "motion": "悬停时提示卡片跟随鼠标指针移动显示",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "wobble-card",
+  "name": "Wobble Card",
+  "url": "https://ui.aceternity.com/components/wobble-card",
+  "motion": "悬停时卡片随鼠标产生轻微3D倾斜与内容视差",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "card-stack",
+  "name": "Card Stack",
+  "url": "https://ui.aceternity.com/components/card-stack",
+  "motion": "卡片按固定间隔平滑滑入并堆叠轮播",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "card-hover-effect",
+  "name": "Card Hover Effect",
+  "url": "https://ui.aceternity.com/components/card-hover-effect",
+  "motion": "悬停卡片横向展开，其他卡片收缩让位",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "evervault-card",
+  "name": "Evervault Card",
+  "url": "https://ui.aceternity.com/components/evervault-card",
+  "motion": "鼠标悬停卡片，暗色圆形光晕随指针平滑移动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "card-spotlight",
+  "name": "Card Spotlight",
+  "url": "https://ui.aceternity.com/components/card-spotlight",
+  "motion": "卡片背景的径向光晕持续移动，形成聚光灯扫过的高亮效果",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "focus-cards",
+  "name": "Focus Cards",
+  "url": "https://ui.aceternity.com/components/focus-cards",
+  "motion": "悬停卡片聚焦高亮，其余卡片模糊弱化",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "infinite-moving-cards",
+  "name": "Infinite Moving Cards",
+  "url": "https://ui.aceternity.com/components/infinite-moving-cards",
+  "motion": "卡片横向连续循环滚动，内容依次滑入滑出形成无限轮播",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "expandable-card",
+  "name": "Expandable Card",
+  "url": "https://ui.aceternity.com/components/expandable-card",
+  "motion": "音乐列表卡片由紧凑居中平滑横向展开为全宽布局",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "draggable-card",
+  "name": "Draggable Card",
+  "url": "https://ui.aceternity.com/components/draggable-card",
+  "motion": "卡片在限定区域内随拖拽平滑移动与旋转",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "glare-card",
+  "name": "Glare Card",
+  "url": "https://ui.aceternity.com/components/glare-card",
+  "motion": "悬停时卡片表面出现斜向高光扫过并增强边缘光晕",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "direction-aware-hover",
+  "name": "Direction Aware Hover",
+  "url": "https://ui.aceternity.com/components/direction-aware-hover",
+  "motion": "鼠标悬停时遮罩根据进入方向从对应边缘滑入，离开时反向退出",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "comet-card",
+  "name": "Comet Card",
+  "url": "https://ui.aceternity.com/components/comet-card",
+  "motion": "卡片内星云纹理缓慢流动闪烁，呈现彗星掠过般的动态",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "parallax-scroll",
+  "name": "Parallax Scroll",
+  "url": "https://ui.aceternity.com/components/parallax-scroll",
+  "motion": "滚动时网格图片向不同方向错位平移形成视差",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "sticky-scroll-reveal",
+  "name": "Sticky Scroll Reveal",
+  "url": "https://ui.aceternity.com/components/sticky-scroll-reveal",
+  "motion": "滚动时文字内容分段切换，右侧彩色面板保持吸附并随之渐变",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "container-scroll-animation",
+  "name": "Container Scroll Animation",
+  "url": "https://ui.aceternity.com/components/container-scroll-animation",
+  "motion": "滚动时容器内大字号文案纵向位移并产生层叠变化",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "macbook-scroll",
+  "name": "Macbook Scroll",
+  "url": "https://ui.aceternity.com/components/macbook-scroll",
+  "motion": "滚动驱动麦克风屏幕内页面上移，内容从屏幕中立体展开",
+  "strength": "电影级"
+ },
+ {
+  "site": "aceternity",
+  "slug": "layout-text-flip",
+  "name": "Layout Text Flip",
+  "url": "https://ui.aceternity.com/components/layout-text-flip",
+  "motion": "标题中的关键词翻转切换，周围文字自适应重排",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "canvas-text",
+  "name": "Canvas Text",
+  "url": "https://ui.aceternity.com/components/canvas-text",
+  "motion": "文字内部的蓝紫渐变流光持续流动，呈现霓虹发光效果",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "encrypted-text",
+  "name": "Encrypted Text",
+  "url": "https://ui.aceternity.com/components/encrypted-text",
+  "motion": "文字由乱码逐步解密，最终显现为完整内容的加密文字动画",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "hero-parallax",
+  "name": "Hero Parallax",
+  "url": "https://ui.aceternity.com/components/hero-parallax",
+  "motion": "滚动时英雄图层视差位移、缩放旋转并渐显",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "typewriter-effect",
+  "name": "Typewriter Effect",
+  "url": "https://ui.aceternity.com/components/typewriter-effect",
+  "motion": "标题文字逐字打字机显示，末尾光标闪烁",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "squiggly-text",
+  "name": "Squiggly Text",
+  "url": "https://ui.aceternity.com/components/squiggly-text",
+  "motion": "文字局部橙色波浪扭曲抖动循环",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "text-generate-effect",
+  "name": "Text Generate Effect",
+  "url": "https://ui.aceternity.com/components/text-generate-effect",
+  "motion": "文字逐字打字显现，内容从前半句逐步生成至完整句子",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "colourful-text",
+  "name": "Colourful Text",
+  "url": "https://ui.aceternity.com/components/colourful-text",
+  "motion": "文字渐变色流动并伴随轻微缩放，呈现鲜明的彩色动态效果",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "flip-words",
+  "name": "Flip Words",
+  "url": "https://ui.aceternity.com/components/flip-words",
+  "motion": "短语中关键词垂直翻转切换（better→cute）",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "text-hover-effect",
+  "name": "Text Hover Effect",
+  "url": "https://ui.aceternity.com/components/text-hover-effect",
+  "motion": "文字悬停时渐变描边与填充光效平滑流动切换",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "hero-highlight",
+  "name": "Hero Highlight",
+  "url": "https://ui.aceternity.com/components/hero-highlight",
+  "motion": "文字高亮色块从首词横向扩展覆盖整段",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "container-text-flip",
+  "name": "Container Text Flip",
+  "url": "https://ui.aceternity.com/components/container-text-flip",
+  "motion": "容器内文字在不同词语间平滑切换，伴随宽度自适应变化",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "text-flipping-board",
+  "name": "Text Flipping Board",
+  "url": "https://ui.aceternity.com/components/text-flipping-board",
+  "motion": "翻牌板字符逐格翻转，切换为多行励志文字",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "noise-background",
+  "name": "Noise Background",
+  "url": "https://ui.aceternity.com/components/noise-background",
+  "motion": "按钮背景流动渐变与噪点光晕缓慢变化，呈现动态发光效果",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "magnetic-button",
+  "name": "Magnetic Button",
+  "url": "https://ui.aceternity.com/components/magnetic-button",
+  "motion": "鼠标靠近时按钮产生磁吸偏移并跟随，移开后弹簧回弹",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "text-reveal-card",
+  "name": "Text Reveal Card",
+  "url": "https://ui.aceternity.com/components/text-reveal-card",
+  "motion": "鼠标移动卡片，底部隐藏文字由暗模糊渐显清晰",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "moving-border",
+  "name": "Moving Border",
+  "url": "https://ui.aceternity.com/components/moving-border",
+  "motion": "按钮边框高光沿轮廓循环移动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "hover-border-gradient",
+  "name": "Hover Border Gradient",
+  "url": "https://ui.aceternity.com/components/hover-border-gradient",
+  "motion": "悬停时渐变光晕沿容器边框扩散高亮",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "stateful-button",
+  "name": "Stateful Button",
+  "url": "https://ui.aceternity.com/components/stateful-button",
+  "motion": "点击按钮后显示加载，完成后切换成功状态",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "tailwindcss-buttons",
+  "name": "Tailwindcss Buttons",
+  "url": "https://ui.aceternity.com/components/tailwindcss-buttons",
+  "motion": "黄色按钮悬停时硬边投影位移，形成按压反馈",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "multi-step-loader",
+  "name": "Multi Step Loader",
+  "url": "https://ui.aceternity.com/components/multi-step-loader",
+  "motion": "点击后按步骤依次切换加载状态",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "floating-navbar",
+  "name": "Floating Navbar",
+  "url": "https://ui.aceternity.com/components/floating-navbar",
+  "motion": "导航栏下滑隐藏，上滑时平滑显现并固定在顶部",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "loader",
+  "name": "Loader",
+  "url": "https://ui.aceternity.com/components/loader",
+  "motion": "三点加载器依次明暗/缩放脉动，循环提示加载中",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "notch",
+  "name": "Notch",
+  "url": "https://ui.aceternity.com/components/notch",
+  "motion": "卡片顶部凹口随激活项平滑切换定位",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "sidebar",
+  "name": "Sidebar",
+  "url": "https://ui.aceternity.com/components/sidebar",
+  "motion": "悬停时侧栏平滑展开，图标导航显现文字菜单",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "floating-dock",
+  "name": "Floating Dock",
+  "url": "https://ui.aceternity.com/components/floating-dock",
+  "motion": "悬浮胶囊工具栏随悬停切换图标高亮并平滑放大",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "navbar-menu",
+  "name": "Navbar Menu",
+  "url": "https://ui.aceternity.com/components/navbar-menu",
+  "motion": "悬停导航栏时子菜单平滑展开并呈胶囊高亮",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "tabs",
+  "name": "Tabs",
+  "url": "https://ui.aceternity.com/components/tabs",
+  "motion": "标签激活态背景平滑滑动切换，并伴随内容渐变",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "placeholders-and-vanish-input",
+  "name": "Placeholders And Vanish Input",
+  "url": "https://ui.aceternity.com/components/placeholders-and-vanish-input",
+  "motion": "输入框占位文字渐隐并切换为新提示语",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "resizable-navbar",
+  "name": "Resizable Navbar",
+  "url": "https://ui.aceternity.com/components/resizable-navbar",
+  "motion": "导航栏随容器宽度平滑伸缩，菜单自适应排布",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "sticky-banner",
+  "name": "Sticky Banner",
+  "url": "https://ui.aceternity.com/components/sticky-banner",
+  "motion": "页面滚动时公告横幅吸附在顶部，持续保持可见",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "signup-form",
+  "name": "Signup Form",
+  "url": "https://ui.aceternity.com/components/signup-form",
+  "motion": "注册表单字段依次上移淡入",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "dither-shader",
+  "name": "Dither Shader",
+  "url": "https://ui.aceternity.com/components/dither-shader",
+  "motion": "黑白图像网点颗粒持续抖动闪烁",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "animated-modal",
+  "name": "Animated Modal",
+  "url": "https://ui.aceternity.com/components/animated-modal",
+  "motion": "居中预约按钮静态展示，无明显帧间变化",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "gooey-input",
+  "name": "Gooey Input",
+  "url": "https://ui.aceternity.com/components/gooey-input",
+  "motion": "搜索按钮以黏液般形变并伴随弹性布局过渡，平滑展开/收缩",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "file-upload",
+  "name": "File Upload",
+  "url": "https://ui.aceternity.com/components/file-upload",
+  "motion": "上传区背景网格缓慢流动，中心图标微弱呼吸闪烁",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "images-slider",
+  "name": "Images Slider",
+  "url": "https://ui.aceternity.com/components/images-slider",
+  "motion": "英雄区幻灯片背景平滑切换，文案随页面淡入",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "animated-tooltip",
+  "name": "Animated Tooltip",
+  "url": "https://ui.aceternity.com/components/animated-tooltip",
+  "motion": "悬停头像时展开提示卡并跟随鼠标移动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "carousel",
+  "name": "Carousel",
+  "url": "https://ui.aceternity.com/components/carousel",
+  "motion": "轮播卡片横向滑动切换，主图与相邻卡片同步位移",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "link-preview",
+  "name": "Link Preview",
+  "url": "https://ui.aceternity.com/components/link-preview",
+  "motion": "悬停链接时弹出图片预览，伴随淡入、缩放与位移过渡",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "apple-cards-carousel",
+  "name": "Apple Cards Carousel",
+  "url": "https://ui.aceternity.com/components/apple-cards-carousel",
+  "motion": "苹果风格信息卡片横向轮播滑动切换",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "bento-grid",
+  "name": "Bento Grid",
+  "url": "https://ui.aceternity.com/components/bento-grid",
+  "motion": "Bento卡片网格悬停微抬升并增强阴影",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "layout-grid",
+  "name": "Layout Grid",
+  "url": "https://ui.aceternity.com/components/layout-grid",
+  "motion": "图片网格中主次图片平滑重排，尺寸与位置过渡变化",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "animated-testimonials",
+  "name": "Animated Testimonials",
+  "url": "https://ui.aceternity.com/components/animated-testimonials",
+  "motion": "推荐卡片头像平滑放大并横向位移",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "world-map",
+  "name": "World Map",
+  "url": "https://ui.aceternity.com/components/world-map",
+  "motion": "世界地图节点与连线动态绘制、持续流动连接",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "github-globe",
+  "name": "Github Globe",
+  "url": "https://ui.aceternity.com/components/github-globe",
+  "motion": "3D地球旋转，青色轨道光环环绕扫过",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "timeline",
+  "name": "Timeline",
+  "url": "https://ui.aceternity.com/components/timeline",
+  "motion": "滚动时年份节点吸顶，进度光束沿时间线跟随",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "container-cover",
+  "name": "Container Cover",
+  "url": "https://ui.aceternity.com/components/container-cover",
+  "motion": "悬停时光束扫过文字，逐字高亮显现",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "pointer-highlight",
+  "name": "Pointer Highlight",
+  "url": "https://ui.aceternity.com/components/pointer-highlight",
+  "motion": "蓝色指针滑入，文字词语出现描边高亮框聚焦",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "compare",
+  "name": "Compare",
+  "url": "https://ui.aceternity.com/components/compare",
+  "motion": "拖动中线滑块左右切换两张对比图的显示区域",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "following-pointer",
+  "name": "Following Pointer",
+  "url": "https://ui.aceternity.com/components/following-pointer",
+  "motion": "卡片随鼠标移动跟随定位，内部图文产生视差偏移",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "code-block",
+  "name": "Code Block",
+  "url": "https://ui.aceternity.com/components/code-block",
+  "motion": "代码块高亮行动态切换，模拟代码阅读交互",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "3d-globe",
+  "name": "3d Globe",
+  "url": "https://ui.aceternity.com/components/3d-globe",
+  "motion": "3D地球由加载文字渐显生成，并持续缓慢自转",
+  "strength": "强"
+ },
+ {
+  "site": "aceternity",
+  "slug": "lens",
+  "name": "Lens",
+  "url": "https://ui.aceternity.com/components/lens",
+  "motion": "悬浮卡片随鼠标平滑横向跟随移动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "3d-marquee",
+  "name": "3d Marquee",
+  "url": "https://ui.aceternity.com/components/3d-marquee",
+  "motion": "3D卡片网格透视斜向无缝滚动",
+  "strength": "轻"
+ },
+ {
+  "site": "aceternity",
+  "slug": "3d-pin",
+  "name": "3d Pin",
+  "url": "https://ui.aceternity.com/components/3d-pin",
+  "motion": "悬停时渐变信息卡以3D透视浮起并轻微旋转",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "aero-shards",
+  "name": "Aero Shards",
+  "url": "https://www.reactbits.dev/backgrounds/aero-shards",
+  "motion": "紫色碎片粒子从中心爆散并持续漂浮掠过",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "blob-cursor",
+  "name": "Blob Cursor",
+  "url": "https://www.reactbits.dev/animations/blob-cursor",
+  "motion": "紫色 Blob 光标在画布中平滑跟随鼠标横向移动",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "dot-field",
+  "name": "Dot Field",
+  "url": "https://www.reactbits.dev/backgrounds/dot-field",
+  "motion": "背景点阵随时间流动并轻微扭曲，形成动态粒子场",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "line-waves",
+  "name": "Line Waves",
+  "url": "https://www.reactbits.dev/backgrounds/line-waves",
+  "motion": "黑白流线持续波动变形，形成动态波浪背景效果",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "magnet-lines",
+  "name": "Magnet Lines",
+  "url": "https://www.reactbits.dev/animations/magnet-lines",
+  "motion": "线条随鼠标靠近产生磁场吸附与弯曲偏移",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "soft-aurora",
+  "name": "Soft Aurora",
+  "url": "https://www.reactbits.dev/backgrounds/soft-aurora",
+  "motion": "粉紫极光光带缓慢流动变形，持续产生柔和辉光",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "ballpit",
+  "name": "Ballpit",
+  "url": "https://www.reactbits.dev/backgrounds/ballpit",
+  "motion": "彩色与白色球体在容器内受物理碰撞自由滚动、弹跳聚散",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "antigravity",
+  "name": "Antigravity",
+  "url": "https://www.reactbits.dev/animations/antigravity",
+  "motion": "蓝紫粒子围绕中心旋转聚散，形成反重力涡旋",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "magic-rings",
+  "name": "Magic Rings",
+  "url": "https://www.reactbits.dev/animations/magic-rings",
+  "motion": "紫色能量波纹向中心收拢，凝聚成发光圆环循环脉动",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "pixel-trail",
+  "name": "Pixel Trail",
+  "url": "https://www.reactbits.dev/animations/pixel-trail",
+  "motion": "鼠标移动时文字产生像素化拖尾与闪烁变化",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "shape-grid",
+  "name": "Shape Grid",
+  "url": "https://www.reactbits.dev/backgrounds/shape-grid",
+  "motion": "网格中的方块沿路径平滑移动，形成循环几何动画",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "radar",
+  "name": "Radar",
+  "url": "https://www.reactbits.dev/backgrounds/radar",
+  "motion": "雷达圆环与射线持续旋转扫描并发出紫色脉冲光晕",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "grainient",
+  "name": "Grainient",
+  "url": "https://www.reactbits.dev/backgrounds/grainient",
+  "motion": "背景渐变色与颗粒噪声缓慢流动，营造柔和动态氛围",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "metallic-paint",
+  "name": "Metallic Paint",
+  "url": "https://www.reactbits.dev/animations/metallic-paint",
+  "motion": "金属徽标表面由暗银渐变提亮为高光白色",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "ribbons",
+  "name": "Ribbons",
+  "url": "https://www.reactbits.dev/animations/ribbons",
+  "motion": "悬停区域文字淡入并呈现漂浮丝带效果",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "orbit-images",
+  "name": "Orbit Images",
+  "url": "https://www.reactbits.dev/animations/orbit-images",
+  "motion": "多张图片沿椭圆轨道循环环绕运动，呈现动态路径效果",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "balatro",
+  "name": "Balatro",
+  "url": "https://www.reactbits.dev/backgrounds/balatro",
+  "motion": "红蓝液态抽象纹理持续流动扭曲变形",
+  "strength": "强"
+ },
+ {
+  "site": "reactbits",
+  "slug": "splash-cursor",
+  "name": "Splash Cursor",
+  "url": "https://www.reactbits.dev/animations/splash-cursor",
+  "motion": "鼠标移动时中心文字随光晕水波轻微浮动",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "aurora",
+  "name": "Aurora",
+  "url": "https://www.reactbits.dev/backgrounds/aurora",
+  "motion": "背景渐变光晕缓慢流动，呈现极光呼吸效果",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "beams",
+  "name": "Beams",
+  "url": "https://www.reactbits.dev/backgrounds/beams",
+  "motion": "黑色背景中的斜向光束缓慢移动变换，营造流动的辐射光效",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "shiny-text",
+  "name": "Shiny Text",
+  "url": "https://www.reactbits.dev/text-animations/shiny-text",
+  "motion": "文字亮度渐变并有高光扫过的闪耀效果",
+  "strength": "轻"
+ },
+ {
+  "site": "reactbits",
+  "slug": "dock",
+  "name": "Dock",
+  "url": "https://www.reactbits.dev/components/dock",
+  "motion": "Dock图标横向排列，悬停时弹性放大并错位",
+  "strength": "轻"
+ }
+]
