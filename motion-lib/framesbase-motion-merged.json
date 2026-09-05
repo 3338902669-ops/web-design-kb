@@ -3,3106 +3,6640 @@
   "cat": "Sites",
   "name": "Global gateway",
   "key": "media/motionsites/sites/global-gateway/poster/media-pipeline-v1/3881314b255643c325ce25ef50aa9abfc1995fc2fe0910ae49178766cdb6cbad",
-  "motion": "动效：全屏视频背景、光效脉冲、滚动视差、图层揭示、文字淡入上浮；强度：电影级"
+  "motion": "动效：全屏视频背景、光效脉冲、滚动视差、图层揭示、文字淡入上浮；强度：电影级",
+  "id": "f8e25246-daa3-42c6-9502-2e0895a676af",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "文字动画",
+   "视频背景",
+   "滚动触发",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Skyflora",
   "key": "media/motionsites/sites/skyflora/poster/media-pipeline-v1/c8382dbb9dea7f4bb5b7dcf646a98594d2e732ea543e71b3e0ef74f48b27e487",
-  "motion": "动效：花瓣/花朵粒子漂浮与散落、3D花束轻微旋转、鼠标视差交互、按钮悬浮微交互、文字渐入上移、背景云层缓慢流动；强度：强动效"
+  "motion": "动效：花瓣/花朵粒子漂浮与散落、3D花束轻微旋转、鼠标视差交互、按钮悬浮微交互、文字渐入上移、背景云层缓慢流动；强度：强动效",
+  "id": "3958342c-d2b0-45ac-bf03-3ece33eca11b",
+  "tags": [
+   "粒子",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Vectrus Energy",
   "key": "media/motionsites/sites/vectrus-energy/poster/media-pipeline-v1/c568c38ebda67c2565cbe5f3017ee57fa86bbad885f3ce9f80cf002dc1359f2a",
-  "motion": "动效：全屏视频/动态雾气背景、缓慢镜头推进与视差、文字淡入上浮、导航悬停微交互；强度：轻动效"
+  "motion": "滚动驱动航拍视频逐帧推进，三段文字依次淡入淡出",
+  "id": "60e0c19f-9900-4b7b-bf4f-3ead89515226",
+  "tags": [
+   "视频背景",
+   "滚动触发",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Crypto Vault",
   "key": "media/motionsites/sites/crypto-vault/poster/media-pipeline-v1/c9a8d896f4e401982ebe01ab507c9497daed21f9434c6c0dca5eca5b3512dbfa",
-  "motion": "动效：3D卡片悬浮旋转、流体波浪变形、粒子/网格背景、光泽扫光、文字分层揭示、鼠标视差交互；强度：强动效"
+  "motion": "动效：3D卡片悬浮旋转、流体波浪变形、粒子/网格背景、光泽扫光、文字分层揭示、鼠标视差交互；强度：强动效",
+  "id": "871ba2c2-9def-4366-87f0-26b5f1e577ac",
+  "tags": [
+   "粒子",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "扫描/划屏",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Obsidian",
   "key": "media/motionsites/sites/obsidian/poster/media-pipeline-v1/f469589268a8af164f6546841c2e280e158131a82cb80c61d2bc83f2b3f70ec0",
-  "motion": "动效：3D场景微旋转、翅膀羽毛轻微摆动、人物衣袍与发丝飘动、金属王冠光泽流动、文字图层揭示、鼠标视差交互；强度：强动效"
+  "motion": "动效：3D场景微旋转、翅膀羽毛轻微摆动、人物衣袍与发丝飘动、金属王冠光泽流动、文字图层揭示、鼠标视差交互；强度：强动效",
+  "id": "ccd32abe-cb7c-4802-a90c-c462821ea69f",
+  "tags": [
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Fastshot",
   "key": "media/motionsites/sites/fastshot/poster/media-pipeline-v1/58a0b257d5b1f9c44c6ca90d71c3bbba984dbf2687f2df4596600b1a8e684559",
-  "motion": "动效：全屏视频背景、缓慢视差漂移、光效脉冲、文字/表单淡入上移、按钮悬停反馈；强度：轻动效"
+  "motion": "动效：全屏视频背景、缓慢视差漂移、光效脉冲、文字/表单淡入上移、按钮悬停反馈；强度：轻动效",
+  "id": "bb9cee0c-c3c6-49d8-b5ad-fefe4190a1f2",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "文字动画",
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Geno Trace",
   "key": "media/motionsites/sites/geno-trace/poster/media-pipeline-v1/e9d60766db9d14e65fb79ca7cdd54f18c3b608838fb8d68845597f84938ffc1a",
-  "motion": "动效：DNA 3D缓慢旋转、流体粒子飞溅、橙色能量光效脉冲、鼠标视差交互、文字渐显；强度：强动效"
+  "motion": "动效：DNA 3D缓慢旋转、流体粒子飞溅、橙色能量光效脉冲、鼠标视差交互、文字渐显；强度：强动效",
+  "id": "63cb876e-3b95-4243-a52e-2d9c3136236f",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "3D Character Studio",
   "key": "media/motionsites/sites/3d-character-studio/poster/media-pipeline-v1/a7ce185f3e21b44481818db4f8a4bfad3671f1762c329c9afff184cf237d15ec",
-  "motion": "动效：3D角色待机微动、鼠标视线/头部跟随、文字逐字显现、背景光效渐变流动、按钮悬停反馈；强度：轻动效"
+  "motion": "鼠标水平移动时，全屏背景视频随指针左右拖拽前后擦动播放。",
+  "id": "9f64e330-7177-41f5-b3ca-94597f00d571",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Quantum Lucid",
   "key": "media/motionsites/sites/quantum-lucid/poster/media-pipeline-v1/0cb186c7ac81a5bae6b4915ab74c31901ae27c33e86cbb03e590ab17e106b7f2",
-  "motion": "动效：文字逐字入场、按钮悬浮反馈、卡片上浮揭示、背景流体光影缓慢漂移、滚动触发渐显；强度：轻动效"
+  "motion": "全幅青色视频背景持续播放，产品卡片固定叠放其上",
+  "id": "797b2e5f-6dd5-4994-8943-6c2fdc529e2a",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "arc Summit",
   "key": "media/motionsites/sites/arc-summit/poster/media-pipeline-v1/a4d275481618d2fe8e83be6705a901a0f620b0c7379fc4845e71e61feee8ab43",
-  "motion": "动效：多层城市视差滚动、悬浮飞行器循环移动、云层缓慢漂移、霓虹光效脉冲、标题文字渐显/上移、鼠标视差交互；强度：强动效"
+  "motion": "动效：多层城市视差滚动、悬浮飞行器循环移动、云层缓慢漂移、霓虹光效脉冲、标题文字渐显/上移、鼠标视差交互；强度：强动效",
+  "id": "99fe6d9b-e0ea-4cea-90a7-f91ae5c327a7",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Pixel Muse",
   "key": "media/motionsites/sites/pixel-muse/poster/media-pipeline-v1/7adcea8dff2b0e26be31949678973539745ea829197aa23e3e96f1cc2ff4397f",
-  "motion": "动效：像素花朵逐帧绽放、像素粒子散落/聚合、轻微悬浮漂移、按钮悬停反馈；强度：轻动效"
+  "motion": "动效：像素花朵逐帧绽放、像素粒子散落/聚合、轻微悬浮漂移、按钮悬停反馈；强度：轻动效",
+  "id": "7b4a9ab1-0269-4a44-b655-85e83d7f1721",
+  "tags": [
+   "粒子",
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Rare Gallery",
   "key": "media/motionsites/sites/rare-gallery/poster/media-pipeline-v1/ef2b60fae62a353e420c80204b2ca9ab724a08738463fa1e3e5f9337b59152ea",
-  "motion": "动效：全屏视频背景、花草微风摆动、漂浮粒子/尘埃光点、光效脉冲、文字渐显、鼠标视差；强度：强动效"
+  "motion": "导航栏加载下滑入场，滚动后变黑，点击按钮遮罩揭示菜单并汉堡线变形。",
+  "id": "63505def-be71-4e54-8caa-7d42f90bce82",
+  "tags": [
+   "入场离场",
+   "滚动触发",
+   "遮罩揭示",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Nexa Talent",
   "key": "media/motionsites/sites/nexa-talent/poster/media-pipeline-v1/a83b057f2e3424500065ceb5008711ca302b79643662ee7a111150c04f37e3d5",
-  "motion": "动效：悬浮3D光球旋转、液面涟漪扩散、柔光脉冲/渐变流动、鼠标悬停视差；强度：轻动效"
+  "motion": "动效：悬浮3D光球旋转、液面涟漪扩散、柔光脉冲/渐变流动、鼠标悬停视差；强度：轻动效",
+  "id": "f76dd7d0-10ed-46c8-926c-03924abef4b7",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "流体",
+   "悬停交互",
+   "渐变"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Palomar Labs",
   "key": "media/motionsites/sites/palomar-labs/poster/media-pipeline-v1/919f5968141c5c267084de450d3cf96b4cb83a629f9377f4e38fd26b0175dbbc",
-  "motion": "动效：全屏视频/自然场景微动、缓慢滚动视差、文字淡入上移、光影氛围流动；强度：轻动效"
+  "motion": "首屏视频背景循环播放，导航与文案依次淡入上移，滚动后导航毛玻璃化",
+  "id": "88473704-8b70-469b-b6c2-eeb1d38aeee9",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "入场离场",
+   "滚动触发",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Creative Matter",
   "key": "media/motionsites/sites/creative-matter/poster/media-pipeline-v1/2118cc0f58a2144dad56d13bcf0fdeb09e945b1fb2ba4e4af465019498e41158",
-  "motion": "动效：3D场景旋转、悬浮雕塑/流体变形、镜头缓慢推进、文字分层揭示、光效脉冲、鼠标交互视差；强度：电影级"
+  "motion": "动效：3D场景旋转、悬浮雕塑/流体变形、镜头缓慢推进、文字分层揭示、光效脉冲、鼠标交互视差；强度：电影级",
+  "id": "1322193f-9344-4844-a511-e488e071e33c",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Scaling Platform",
   "key": "media/motionsites/sites/scaling-platform/poster/media-pipeline-v1/f3927889838901d2f7fa4647df47c4b4281686c11b48dad087cacac085cd4650",
-  "motion": "动效：3D场景旋转、悬浮粒子/球体漂浮、粒子网络连线、光效脉冲、文字分层入场、按钮悬停交互；强度：强动效"
+  "motion": "背景视频循环播放并带左侧渐隐遮罩；CTA悬停发光，汉堡点击展开菜单。",
+  "id": "2d182339-975a-4a63-b5c1-24656e3d9eff",
+  "tags": [
+   "视频背景",
+   "遮罩揭示",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Angel Shield",
   "key": "media/motionsites/sites/angel-shield/poster/media-pipeline-v1/52084aae1f69635617d0dbe1d3f46c3a2163e5c16f916822c07bf19426659ea3",
-  "motion": "动效：滚动视差、光效脉冲、悬浮卡片、鼠标交互、图层揭示；强度：轻动效"
+  "motion": "动效：滚动视差、光效脉冲、悬浮卡片、鼠标交互、图层揭示；强度：轻动效",
+  "id": "afa791e1-5649-4a43-8c0c-adf81d91dde8",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "BuildShield",
   "key": "media/motionsites/sites/buildshield/poster/media-pipeline-v1/38a85c23f0ff67a653559b0829daf1d756e6063c8fe6c4437477e22f82c6618d",
-  "motion": "动效：文字逐字揭示、图片图层滑入、按钮悬停反馈、轻微滚动视差；强度：轻动效"
+  "motion": "动效：文字逐字揭示、图片图层滑入、按钮悬停反馈、轻微滚动视差；强度：轻动效",
+  "id": "62a82529-a9b5-4dc6-8a64-ea7905aa9f39",
+  "tags": [
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Global Hubs",
   "key": "media/motionsites/sites/global-hubs/poster/media-pipeline-v1/d26f825d6da233e4e1b6c19c46a46a595f5ae52b302bbb0f3d212987e8a14c06",
-  "motion": "动效：悬浮卡片、鼠标悬停视差、光影/渐变流动、图层模糊揭示、卡片入场淡入上移；强度：轻动效"
+  "motion": "动效：悬浮卡片、鼠标悬停视差、光影/渐变流动、图层模糊揭示、卡片入场淡入上移；强度：轻动效",
+  "id": "3bc0da03-c46d-4969-a170-0a01da933386",
+  "tags": [
+   "视差",
+   "流体",
+   "悬停交互",
+   "渐变",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "3D Future Flora",
   "key": "media/motionsites/sites/3d-future-flora/poster/media-pipeline-v1/1d58b3707380298b34c9dbc965747a2db113fdf442bc8b81d9ca27a5fa9bc7ea",
-  "motion": "动效：3D场景缓慢漂移、花海粒子/光效脉冲、鼠标视差交互、流体光带、文字淡入上浮；强度：强动效"
+  "motion": "动效：3D场景缓慢漂移、花海粒子/光效脉冲、鼠标视差交互、流体光带、文字淡入上浮；强度：强动效",
+  "id": "9b0e79ff-3d63-41f4-aeee-b28528db6b32",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Nature Ritual",
   "key": "media/motionsites/sites/nature-ritual/poster/media-pipeline-v1/62d9fb8f4390b2062aa6cb9323538cdd601f129074c7fa93f2bf0b3636399875",
-  "motion": "动效：全屏视频背景、悬浮产品漂浮、植物与水滴微动、文字分屏揭示、滚动视差、光影呼吸；强度：电影级"
+  "motion": "动效：全屏视频背景、悬浮产品漂浮、植物与水滴微动、文字分屏揭示、滚动视差、光影呼吸；强度：电影级",
+  "id": "75806499-a2b1-49aa-9345-f290f65907cb",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景",
+   "滚动触发",
+   "遮罩/揭示",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Cyber Defense",
   "key": "media/motionsites/sites/ai-cyber-defense/poster/media-pipeline-v1/01ec180556ee89840bddd4ea9edf0f0303920d0e99e5c6f70711a0a34ba4b633",
-  "motion": "动效：流体光晕变形、光效脉冲、悬浮玻璃卡片、HUD数据动态更新、文字逐字显现、鼠标悬停交互；强度：强动效"
+  "motion": "动效：流体光晕变形、光效脉冲、悬浮玻璃卡片、HUD数据动态更新、文字逐字显现、鼠标悬停交互；强度：强动效",
+  "id": "58c49076-610b-4596-ac08-c4f4f954e7c6",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "玻璃拟态",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Quantum Core",
   "key": "media/motionsites/sites/quantum-core/poster/media-pipeline-v1/d5a9aa67ca949773c8a366c10848710fac34e174cb2bfdc582802a1e7f7bfcb9",
-  "motion": "动效：全屏视频/动态背景、光效脉冲、HUD数据图表动态增长、悬浮玻璃卡片、文字与按钮淡入上浮、轻微视差；强度：强动效"
+  "motion": "未提供具体动效描述，规格在全局 CSS 处截断，无法判断运动与触发方式",
+  "id": "63032715-18a2-4424-a7f9-3474d004b3a1",
+  "tags": [
+   "入场离场",
+   "滚动触发"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Aurex Finance",
   "key": "media/motionsites/sites/aurex-finance/poster/media-pipeline-v1/8fcb6b9c4e0a89c642eb784012f8bdeadcbb5e75b89c8a590dd5284ccf960e44",
-  "motion": "动效：流体生物漂浮、半透明光效脉冲、丝状轨迹流动、HUD数据图层揭示、鼠标悬浮视差、文字淡入；强度：轻动效"
+  "motion": "未描述明确动效或触发方式，呈现无滚动全屏首屏",
+  "id": "a8257415-cb61-444b-b4b3-2f12299d2ada",
+  "tags": [
+   "HUD数据",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Agent Wave",
   "key": "media/motionsites/sites/agent-wave/poster/media-pipeline-v1/844396eb60b49a8e4ceb75cf20a08a33f1a7f7a525f35426eb0d65d8807118b7",
-  "motion": "动效：粒子网络、流体变形、全屏动态纹理背景、文字渐入上浮、光效脉冲、HUD数据动效；强度：强动效"
+  "motion": "全屏英雄区背景视频自动循环播放，菜单点击展开收起",
+  "id": "30fd89b1-b165-41d2-bacf-c49f1fc479ab",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Ascera AI",
   "key": "media/motionsites/sites/ascera-ai/poster/media-pipeline-v1/1343f044d2e8c42a6c09f7f28faa9b2bdf2b9ea6bf7c2a3b2b292349d4cb0a3a",
-  "motion": "ERR:524"
+  "motion": "ERR:524",
+  "id": "809189f2-a6b3-4e2e-a4a6-1da16fb57d1e",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "TerraVision",
   "key": "media/motionsites/sites/terravision/poster/media-pipeline-v1/f0a7a68a820f4b5800e742a72e2b33867234d09096eea4421446d88df7cc73ea",
-  "motion": "动效：全屏视频背景、自然粒子飘浮、HUD数据动效、数字滚动、悬浮卡片、文字渐入；强度：强动效"
+  "motion": "动效：全屏视频背景、自然粒子飘浮、HUD数据动效、数字滚动、悬浮卡片、文字渐入；强度：强动效",
+  "id": "674db326-417d-410b-a784-1b2e9e2c7d48",
+  "tags": [
+   "粒子",
+   "文字动画",
+   "视频背景",
+   "滚动触发",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Retro-Futurist",
   "key": "",
-  "motion": "人物电视头肖像缩小并右移",
-  "strength": "轻"
+  "motion": "鼠标横向移动控制全屏背景视频前后倒播",
+  "strength": "轻",
+  "id": "e82e527e-8739-4341-ad66-6fc642094dd6",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Bloom",
   "key": "",
   "motion": "花朵粒子轻微飘动，文字卡片横向滑入",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b1dd3d54-896f-4580-a4e6-073ca9fbb753",
+  "tags": [
+   "粒子",
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Vision Reveal",
   "key": "media/motionsites/sites/vision-reveal/poster/first-frame-v1/deb49643cb1005feee843ce1a11f214a3604e1f7a91663a495835767ec546f9d",
-  "motion": "动效：3D模型缓慢旋转、鼠标视差跟随、悬浮粒子/光点漂浮、眼神微动/眨眼、光效闪烁、文字渐入揭示；强度：强动效"
+  "motion": "蓝色分屏错列上下退场，首屏图文缩放模糊入场，加载触发",
+  "id": "74a3a1d3-45cc-4eab-87cd-d97aaf489f27",
+  "tags": [
+   "分屏切换",
+   "遮罩揭示",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Lead Funnel",
   "key": "media/motionsites/sites/lead-funnel/poster/first-frame-v1/6cf60dbc3a0e6c2a748c028183f10ebbaaa6cd2ed4c5bde055334ef9f7b6a320",
-  "motion": "动效：3D场景旋转、悬浮卡片、鼠标跟随/光标交互、文字渐显与分层揭示、光影扫过；强度：强动效"
+  "motion": "动效：3D场景旋转、悬浮卡片、鼠标跟随/光标交互、文字渐显与分层揭示、光影扫过；强度：强动效",
+  "id": "5dc36f48-4cf0-4ea5-98bf-d7bdebc18006",
+  "tags": [
+   "3D",
+   "文字动画",
+   "扫描/划屏",
+   "悬停交互",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Future Studio",
   "key": "media/motionsites/sites/ai-future-studio/poster/media-pipeline-v1/fe2580fc24a6e5be03338ce0b8c2132a9344d3c8f0396ca9f7aaf77dccf5f551",
-  "motion": "动效：全屏视频背景、电影级镜头推进/轻微摇移、文字分层揭示、导航悬停交互、胶片颗粒与光影闪烁；强度：电影级"
+  "motion": "动效：全屏视频背景、电影级镜头推进/轻微摇移、文字分层揭示、导航悬停交互、胶片颗粒与光影闪烁；强度：电影级",
+  "id": "d5c77552-d47a-4d88-90e8-bcd610da5ff6",
+  "tags": [
+   "粒子",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Glass Orb",
   "key": "media/motionsites/sites/glass-orb/poster/media-pipeline-v1/fa6085f16dc6d8f458384464aff80f541b195783f175a0f1a21a2b3974aadc46",
-  "motion": "动效：流体变形、全息虹彩光效、悬浮漂移、3D场景旋转、HUD数据波形动态、光标交互；强度：强动效"
+  "motion": "动效：流体变形、全息虹彩光效、悬浮漂移、3D场景旋转、HUD数据波形动态、光标交互；强度：强动效",
+  "id": "e399ab56-5fd5-4af6-a247-c4c3d5e7118e",
+  "tags": [
+   "光效脉冲",
+   "3D",
+   "流体",
+   "悬停交互",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Planetary Pulse",
   "key": "media/motionsites/sites/planetary-pulse/poster/media-pipeline-v1/6f9827a827c9264b7d09b9bf8ee0175b8e5d38ce8a22a12cf9ee1e4656c6c0ee",
-  "motion": "动效：3D流体玻璃体旋转/变形、虹彩光效流动、HUD数据卡片渐显、波形绘制动画；强度：强动效"
+  "motion": "循环泡泡视频上悬浮液态玻璃卡片实时折射，菜单触发全屏滑入。",
+  "id": "127a6c46-776c-4ceb-841e-414b93844084",
+  "tags": [
+   "视频背景",
+   "玻璃拟态",
+   "流体",
+   "悬停交互",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Growth Decisions",
   "key": "media/motionsites/sites/growth-decisions/poster/media-pipeline-v1/3354ec985c2fc2955990b0b4586f917fcf5240ccd537c25ea9e2879a68a310bb",
-  "motion": "动效：滚动视差、文字渐显/逐行揭示、光影流动、背景颗粒噪点、悬浮按钮微交互；强度：轻动效"
+  "motion": "全屏山景视频背景自动静音循环播放",
+  "id": "4cc914ea-5034-4777-b532-fce9e779f87a",
+  "tags": [
+   "视频背景",
+   "3D"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "New Era Automotive Hero",
   "key": "",
-  "motion": ""
+  "motion": "",
+  "id": "d4a50ec8-ab17-4170-9ed5-d17b774cd211",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Liquid Glass Agency",
   "key": "",
-  "motion": ""
+  "motion": "",
+  "id": "19fb254c-1e7a-4897-bc2d-a5ff350f7ac6",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Digitwist AI Builder",
   "key": "",
-  "motion": ""
+  "motion": "暗色抽象视频背景循环播放，叠加模糊渐变光晕营造氛围｜视频背景,渐变,玻璃拟态",
+  "id": "25bb4b63-2ffc-463f-b203-8885d84bf16b",
+  "tags": [],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Buzzentic Agency",
   "key": "",
-  "motion": ""
+  "motion": "",
+  "id": "31e620ae-b45c-4254-a5a9-7c163c11f9f5",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Viktor Portfolio",
   "key": "",
   "motion": "画面全黑，未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "e9cdbaed-d836-4a8b-93ca-24af8614be66",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Railroad.ai",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d5755bbb-9872-4f27-a833-83aa4005a66f",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "HR SaaS Hero",
   "key": "",
   "motion": "页面整体由黑场淡入，背景渐变光效与文字同步出现",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "6ebb101d-80f8-43bb-9420-36668de8c75f",
+  "tags": [
+   "光效脉冲",
+   "文字动画",
+   "渐变"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Datacore SaaS Hero",
   "key": "",
   "motion": "抽象光影视频背景渐显，导航与文案淡入上移",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "767c762f-8867-4951-86c2-2e42be6b8943",
+  "tags": [
+   "视频背景",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Bloom AI",
   "key": "",
-  "motion": "星空与行星背景缓慢漂移，光晕粒子闪烁，界面轻微呼吸",
-  "strength": "电影级"
+  "motion": "全屏视频背景循环播放，CTA悬停弹性缩放触发交互。",
+  "strength": "电影级",
+  "id": "4823a413-c013-43e7-a979-c9ee61b4af12",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "玻璃拟态",
+   "分屏切换"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Velorah",
   "key": "",
-  "motion": "星空粒子闪烁漂移，标题轻微位移缩放",
-  "strength": "轻"
+  "motion": "全屏背景视频自动循环播放，玻璃导航与按钮悬停缩放",
+  "strength": "轻",
+  "id": "6928160f-2d98-4172-8c88-6a8c3ca0a4ea",
+  "tags": [
+   "视频背景",
+   "玻璃拟态",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Weblex Dark Hero",
   "key": "",
   "motion": "背景星球、烟雾与碎屑缓慢运动，伴随光影变化",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "a57af091-d9ff-4426-84af-6afba58cc59f",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Wealth Video Hero",
   "key": "",
   "motion": "霓虹星球/光带背景缓慢横向位移与流光扫描",
-  "strength": "强"
+  "strength": "强",
+  "id": "f9b223e9-e805-4471-b22b-f63eedf1428a",
+  "tags": [
+   "光效脉冲",
+   "扫描/划屏"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Finlytic AI Agent",
   "key": "",
   "motion": "无可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "2240048e-a081-4edc-b744-b9731ba7a7d4",
+  "tags": [],
+  "nature": "visual",
+  "status": "suspect"
  },
  {
   "cat": "Sites",
   "name": "Synapse Dark Hero",
   "key": "",
   "motion": "背景光带缓慢位移并产生光影流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "798da891-7b7d-44a3-9bf3-deab91c60177",
+  "tags": [
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Web3 EOS Hero",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "460357e5-3cdd-4895-a38a-8160eb86e221",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Planet Orbit",
   "key": "",
   "motion": "地球背景视频缓慢旋转，云层与青绿色光晕流动",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "e4e1feae-e074-4ce4-ba9c-69a4ef54936e",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Automation Hero",
   "key": "",
   "motion": "画面全黑，未检测到可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "84218497-6273-45bc-900c-684b7429073d",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Taskora SaaS Hero",
   "key": "",
   "motion": "蓝色抽象视频背景与光影流动，卡片轻微视差位移",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "af806bcb-0a59-48c6-a44f-ef0c05b072cb",
+  "tags": [
+   "视差",
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "ClearInvoice SaaS Hero",
   "key": "",
   "motion": "底部彩色流体波纹缓慢位移流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "4a6b9be7-dd41-4201-8881-30439fa2935b",
+  "tags": [
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Neuralyn",
   "key": "",
-  "motion": "未见可辨识动效",
-  "strength": "轻"
+  "motion": "全屏视频衬底中仪表盘随滚动上移视差，CTA悬停微放大",
+  "strength": "轻",
+  "id": "c9b95dce-8e86-4c87-acf6-d393f2189d2d",
+  "tags": [
+   "视频背景",
+   "视差",
+   "滚动触发",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Apex SaaS",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "c3f5b0da-9a54-465e-926c-7d8bd9fb1655",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Grow AI Talent Platform",
   "key": "",
   "motion": "蓝色光带波纹流动并伴随扫描线光效",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "b3da480d-8366-4ede-8aca-359fcd5fb5a2",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "扫描/划屏",
+   "噪声/纹理"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Orbit Engineers",
   "key": "",
   "motion": "场景与文字轻微横向视差漂移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "3b161556-fdf7-453e-869e-474994785681",
+  "tags": [
+   "视差",
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Taskly",
   "key": "",
-  "motion": "蓝色3D主体持续旋转并形变，内部高光随之流动",
-  "strength": "强"
+  "motion": "右侧玻璃光球视频自动循环播放，悬停主按钮时平滑放大。",
+  "strength": "强",
+  "id": "81191770-444a-4c54-8a71-f4d4e3a4a4e4",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Space Voyage",
   "key": "",
   "motion": "樱花山谷视频背景缓慢流动，花瓣轻飘",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "10084ab3-f346-462d-a061-b0fe274edba4",
+  "tags": [
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "New Era Bold Hero",
   "key": "",
   "motion": "蓝色背景光影纹理流动，悬浮物轻微视差位移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "cee492b4-da2c-46e7-a91c-654b4568c26e",
+  "tags": [
+   "视差",
+   "流体",
+   "噪声/纹理"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Glassmorphism Agency Hero",
   "key": "",
   "motion": "底部抽象流体背景缓慢位移与形变",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "21fddb29-22c2-4a2b-98ae-9f3eca155455",
+  "tags": [
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "NeoVision",
   "key": "",
   "motion": "人物与VR头显图像轻微横向视差位移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "da149ab1-5c86-46da-93f1-0af8dc13f662",
+  "tags": [
+   "视差"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Loader Animation",
   "key": "",
   "motion": "画面全黑，无法识别可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "63ea3545-3d0b-4f66-bf33-9ac43cb4ce69",
+  "tags": [],
+  "nature": "visual",
+  "status": "suspect"
  },
  {
   "cat": "Sites",
   "name": "CodeNest Coding Platform",
   "key": "",
-  "motion": "未见可辨识元素变化",
-  "strength": "轻"
+  "motion": "背景视频播放，导航悬停变色，点击汉堡展开全屏菜单",
+  "strength": "轻",
+  "id": "3bcacb1b-bb2b-42c3-881f-77a543c509fd",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Bold Portfolio Hero",
   "key": "",
   "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "20880223-c2cd-47bf-b8c5-006829ec39a8",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Dark Portfolio Hero",
   "key": "",
   "motion": "画面全黑，无可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "730adc7c-5879-42d0-9944-d2c8a06c4a38",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Datacore Booking",
   "key": "",
-  "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "motion": "全屏视频背景循环播放，导航悬停变淡，移动端菜单点击展开黑色全屏层",
+  "strength": "轻",
+  "id": "dc63cc04-ff4c-4b2c-bdb5-0766387e8468",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Investor Deck",
   "key": "",
   "motion": "画面全黑，无可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "7bc4b52a-bb68-4ce7-be12-327e7cd6d7a7",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "xPortfolio Hero",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9b542609-a6d7-4d4f-89dc-661fc7f590c6",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Framelix 3D Studios",
   "key": "",
   "motion": "画面全黑，无可识别动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "49faf7a1-62f5-4e48-8a07-5e907d3525bf",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Prioritize",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "c334b760-7100-4912-8e36-9c6d26c0bbc4",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Terra Geo Map",
   "key": "",
   "motion": "无明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "eff3fa86-6796-400f-a752-a631ff5b6829",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "NOVA Space Systems",
   "key": "",
   "motion": "无可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "72bc83ea-aefe-4efa-aa60-7e9627151c85",
+  "tags": [],
+  "nature": "visual",
+  "status": "suspect"
  },
  {
   "cat": "Sites",
   "name": "Email Landing Page",
   "key": "",
-  "motion": "画面全黑，未检测到可见动效",
-  "strength": "轻"
+  "motion": "全屏视频背景循环播放，渐变标题带噪声质感呈现",
+  "strength": "轻",
+  "id": "aaf5f982-6ac6-49fa-a181-eb26dac7ab79",
+  "tags": [
+   "视频背景",
+   "渐变",
+   "噪声纹理",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Targo Logistics Hero",
   "key": "",
   "motion": "画面全黑，无可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "7cb7d03b-54d4-49a1-9deb-46c62f4b0f89",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Reveal Hero",
   "key": "",
   "motion": "人物与面部装置轻微缩放位移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "561704b4-2ed3-46c9-b67e-2d02ee6c4bd0",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Stellar AI",
   "key": "",
-  "motion": "画面全黑，未检测到可见动效",
-  "strength": "轻"
+  "motion": "页面各区块加载时按延时自下而上淡入依次显现",
+  "strength": "轻",
+  "id": "6f97bc05-87b2-4b88-9d4e-d7b3b3e0ad2b",
+  "tags": [
+   "入场离场",
+   "文字动画",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "CoderCrest",
   "key": "",
   "motion": "主标题文字渐显提亮，AI图标微粒闪动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "ab6409fb-68cc-4bff-9d0d-7c3c7484e6f8",
+  "tags": [
+   "文字动画",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "WISA Space",
   "key": "",
   "motion": "背景星空、地球与卫星轻微视差位移，光晕变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae",
+  "tags": [
+   "光效脉冲",
+   "视差"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Portfolio Cosmic",
   "key": "",
-  "motion": "漩涡背景流动旋转，星点漂浮，内容轻微位移",
-  "strength": "强"
+  "motion": "加载计数与轮播文字入场，完成后切入全屏视频首屏",
+  "strength": "强",
+  "id": "9e8ed655-6ab9-479b-9499-4cf1676a7cc2",
+  "tags": [
+   "文字动画",
+   "渐变",
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Zenith Realty",
   "key": "",
   "motion": "画面静止，无明显元素动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d5064e77-ffc6-40e4-b54c-a2ff632b8b19",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "FlowMate",
   "key": "",
   "motion": "背景风景视频/视差缓慢位移，页面内容基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "525a6b21-3883-43b8-8ec8-be44162bd851",
+  "tags": [
+   "视差",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Pro AI Deck",
   "key": "",
   "motion": "森林背景微视差，萤火粒子与中心光源闪烁",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9a365d37-b4bf-4260-b1df-1bfd870d4686",
+  "tags": [
+   "粒子",
+   "视差"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Dot",
   "key": "",
-  "motion": "海浪与云层背景轻微流动，手机有细微浮动",
-  "strength": "轻"
+  "motion": "视频背景自动循环播放，主标题加载时淡入放大，按钮悬停触发顶部光泽伸展",
+  "strength": "轻",
+  "id": "b974d59a-6517-4cc5-b9b3-f20ff83185d8",
+  "tags": [
+   "视频背景",
+   "入场离场",
+   "悬停交互",
+   "文字动画"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Nike Premium Landing",
   "key": "",
   "motion": "鞋子轻微位移/浮动，背景山体与文字基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "562a4221-9e7b-4920-a1d9-30ef9d92a324",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Nexto 404",
   "key": "",
-  "motion": "飞碟轻微漂浮，紫色光晕与粒子闪烁，背景线条微弱视差",
-  "strength": "轻"
+  "motion": "移动端点击汉堡，导航遮罩从右侧滑入，按钮同步变为叉号",
+  "strength": "轻",
+  "id": "9e87b015-0ea2-4fd5-a5ab-fca0eefe2556",
+  "tags": [
+   "入场离场",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "NovaDesk Signup",
   "key": "",
   "motion": "未见可辨识的动效元素",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "43ee8f49-c39c-4b87-9919-5ba3b5fb677b",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Orbit Web3",
   "key": "",
   "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "342e272a-3039-4b73-a678-cc3e3a5b5361",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Learnly",
   "key": "",
   "motion": "未观察到可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b71d99d2-af9e-47f4-b365-f6bbe407f13e",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Aetheris Voyage",
   "key": "",
-  "motion": "无明显可见动效",
-  "strength": "轻"
+  "motion": "Hero与Capabilities背景视频循环播放并交叉淡入淡出，页面进入时内容入场",
+  "strength": "轻",
+  "id": "84bd9153-ffa5-4b42-a128-a85ec5ab07e9",
+  "tags": [
+   "视频背景",
+   "渐变",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Orbis NFT",
   "key": "",
-  "motion": "未检测到可见动效",
-  "strength": "轻"
+  "motion": "全屏视频背景静音循环播放，页面叠加纹理与液态玻璃效果｜视频背景,玻璃拟态,噪声纹理",
+  "strength": "轻",
+  "id": "5ba0755e-daa5-48aa-98d7-1c2e466006cf",
+  "tags": [],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Automation Machines",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "833d6d90-b967-4bef-9afd-81823537330a",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "EcoVolta",
   "key": "",
   "motion": "无明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "20709516-f309-426f-af32-8e42c8e819ac",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "BookedUp",
   "key": "",
   "motion": "无明显可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "739098a7-ee0a-4c66-8408-7c42ca27da25",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "E-commerce Website",
   "key": "",
   "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "0ac09789-7e7f-4235-b4f7-59aa044caee8",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Mindloop",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "4363376d-b968-4fe9-8f35-1d04a6b0def8",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Acreage Farming",
   "key": "",
   "motion": "画面全黑，未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "3c8f451f-9163-4426-a00b-c670a8dfc6d2",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Crypto Wealth",
   "key": "",
   "motion": "花环植物轻微横向视差漂移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d9c6b9d3-7289-45c5-aa18-fd95290196d6",
+  "tags": [
+   "视差"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Power AI",
   "key": "",
-  "motion": "彩色管状背景缓慢位移旋转，前景光带产生视差",
-  "strength": "电影级"
+  "motion": "全屏视频背景自动淡入淡出循环，底部品牌Logo持续横向滚动｜视频背景,入场离场,文字动画",
+  "strength": "电影级",
+  "id": "5b00cc63-8fbb-43a3-9e18-fae8368443fb",
+  "tags": [
+   "视差"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Slate",
   "key": "",
   "motion": "云层与山景视频背景缓慢横向视差",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b5ad789a-9219-475a-9465-3a09304b59ef",
+  "tags": [
+   "视差",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Innovation",
   "key": "",
-  "motion": "星空粒子微闪与背景光效流动",
-  "strength": "轻"
+  "motion": "全屏背景视频自动播放循环，首尾以500ms渐隐渐显切换",
+  "strength": "轻",
+  "id": "54078ffa-0e18-4d8d-a5f2-02a7c89c8f02",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "NexaCore",
   "key": "",
   "motion": "底部抽象光束与彩色辉光流动变换",
-  "strength": "强"
+  "strength": "强",
+  "id": "e7078def-f612-45c4-be23-fd06692b6666",
+  "tags": [
+   "光效脉冲",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Veloce Finance",
   "key": "",
   "motion": "信用卡元素轻微漂浮位移，伴随细微旋转与光影变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b0af2960-2168-4c44-a031-ea6e65ceb2f1",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Prisma Creative Studio",
   "key": "",
-  "motion": "云层背景视频轻微位移，其他元素基本静止",
-  "strength": "轻"
+  "motion": "Hero背景视频自动播放并循环，进入页面即持续动态呈现",
+  "strength": "轻",
+  "id": "08d773cd-ac28-492f-8116-9d3abb0478b1",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "EcoVolta V2",
   "key": "",
   "motion": "风机叶片旋转，绿色能源场景视频背景微动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "c49d7249-952b-4a5e-94b4-d976b63a6105",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Nickel Payments",
   "key": "",
   "motion": "机器人主体轻微漂浮位移，其他元素基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "20d2a860-b294-4120-8032-2ff0f2e79f41",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "SpeakUp Venture Hero",
   "key": "",
   "motion": "草坡花朵与嫩芽轻微摇曳，光影细微变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "61e61f95-79ef-4bea-85d5-f056124799b1",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cybersecurity Hero",
   "key": "",
-  "motion": "底部紫色光晕与网格背景缓慢流动",
-  "strength": "轻"
+  "motion": "点击汉堡菜单，全屏导航自右滑入，双线旋转成X；链接按钮悬停变色",
+  "strength": "轻",
+  "id": "9e3b2c64-ce73-4bb3-b6c0-c924158a91f6",
+  "tags": [
+   "悬停交互",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Nexora Automation",
   "key": "",
-  "motion": "森林背景轻微视差与光影变化，前景面板基本静止",
-  "strength": "轻"
+  "motion": "全屏视频背景上，徽章与文案依次上移淡入",
+  "strength": "轻",
+  "id": "be66f2cf-26ae-4a52-ba65-b9f235529479",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Sync AI",
   "key": "",
   "motion": "草地花朵与云层背景缓慢位移，文字按钮基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "0c662d51-9352-4e48-9711-7196e9af7742",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Futuristic Cinematic",
   "key": "",
   "motion": "未见可辨识的位移、光效或其他动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "1d67a09c-c7d9-4322-b765-dcd9f754f577",
+  "tags": [
+   "光效脉冲"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "EMBER.dsgn",
   "key": "",
   "motion": "未观察到可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "946cdbdf-f3e7-4c7d-b60e-2dd38761cc10",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Email Marketing",
   "key": "",
-  "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "motion": "首屏背景视频循环播放，CTA悬停上浮并变色",
+  "strength": "轻",
+  "id": "b68ca730-81b8-4407-85c5-a79dc1dc2949",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "ClubX Investors",
   "key": "",
   "motion": "画面全黑，未检测到可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "92633e8b-87fc-4bae-85a2-46403e60fa8d",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Logoisum Video Agency",
   "key": "",
   "motion": "画面全黑，无可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "18063261-0f57-4627-80bb-d5de8d98be05",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Focus AI",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "7ea7aec1-499d-46f6-ad90-2d3fcacf71fe",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Vitara",
   "key": "",
   "motion": "画面全黑，未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "fb4a9eeb-b713-4827-b7eb-ab0e9c2c97c9",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Guardnet",
   "key": "",
   "motion": "画面全黑，无可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9fe3b9f8-0157-4407-88ee-e3243922ae20",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Bionova Biotech",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "183981b4-0f68-4471-88f5-3d6bf03c4f2b",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Impressive Hero",
   "key": "",
   "motion": "画面全黑，未见可识别动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "6505caae-0936-471b-a5c0-5ad0b44a2a70",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Naturecore SaaS",
   "key": "",
   "motion": "未检测到可见动效变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "bdd48d4b-142a-4742-8e98-9f6d7e3257ba",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Sentinel AI",
   "key": "",
-  "motion": "背景立体方块与绿色扫描光线轻微位移，文字基本静止",
-  "strength": "轻"
+  "motion": "全屏3D安全场景作背景，底部文案错峰上移淡入",
+  "strength": "轻",
+  "id": "59bd37f0-4cc4-4e2b-97b8-df41153ec5d0",
+  "tags": [
+   "3D",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Waitlist Hero",
   "key": "",
   "motion": "背景山景轻微位移/视差，其他元素基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "4765c768-bc52-486b-bddf-5fba1c74d7e7",
+  "tags": [
+   "视差"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Nexus IT Solutions",
   "key": "",
   "motion": "两侧蓝色环形光波缓慢流动/脉冲",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "19d7954d-5c2c-47df-b9a3-8f9d50400451",
+  "tags": [
+   "光效脉冲",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Designer Agency",
   "key": "",
   "motion": "背景视频与底部抽象光影缓慢位移，文字卡片基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "4b8b2bd3-30c0-4d83-b30f-471df9157905",
+  "tags": [
+   "文字动画",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Transform Data",
   "key": "",
-  "motion": "山谷视频背景缓慢横移视差",
-  "strength": "轻"
+  "motion": "视频背景加载及每次循环前后淡入淡出，临近结束自动重播",
+  "strength": "轻",
+  "id": "7c553857-ca5d-4640-92d7-2b6d84016f5b",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Creative Agency",
   "key": "",
   "motion": "人物与背景基本静止，仅有轻微光影/视频纹理变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "6801fabf-6176-4ddc-8dae-b79aab1c93e8",
+  "tags": [
+   "视频背景",
+   "噪声/纹理"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Duolingo Styleguide",
   "key": "",
-  "motion": "主视觉插画角色轻微位移，其他元素基本静止",
-  "strength": "轻"
+  "motion": "按钮按下下移4px并去除阴影，导航悬停变绿显底色。",
+  "strength": "轻",
+  "id": "bac2c974-f18a-4efd-ab88-a1da622a4122",
+  "tags": [
+   "悬停交互",
+   "3D",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Designer Portfolio",
   "key": "",
-  "motion": "作品卡片视频背景（涡旋/云层）动态变化",
-  "strength": "轻"
+  "motion": "页面加载后文字分层淡入，GIF画廊持续横向循环滚动",
+  "strength": "轻",
+  "id": "bc090770-5ea2-4fb2-972b-71917db2133e",
+  "tags": [
+   "入场离场",
+   "滚动触发"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "VertexAI Hero",
   "key": "",
   "motion": "背景视频与建筑光影缓慢位移，前景文字按钮轻微视差平移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "31ce4379-2da0-44d3-b9a1-416ef831b3a2",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Luminex",
   "key": "",
   "motion": "抽象光丝背景静态，无明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "e7433dcb-6008-423c-991d-a69cc99c609d",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "VEX Ventures",
   "key": "",
-  "motion": "城市与云层横向视差缓移",
-  "strength": "轻"
+  "motion": "全屏视频循环播放，标题文字按字符从左淡入错峰显现",
+  "strength": "轻",
+  "id": "ee1ff68b-fec0-41a1-927b-5255350ab1e7",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Equilibrium",
   "key": "",
-  "motion": "能量球轻微漂浮，背景光束流动闪烁",
-  "strength": "强"
+  "motion": "全屏背景视频自动循环播放，导航悬停变色，菜单点击展开收起",
+  "strength": "强",
+  "id": "13285902-2e23-4eee-84f6-9f0e7685e8a9",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Yacht Club",
   "key": "",
   "motion": "海浪视频流动，水花光束粒子扫动",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "7cb83158-1003-451e-badc-8975b0ef715e",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "流体",
+   "视频背景",
+   "扫描/划屏"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Image Generator UI",
   "key": "",
-  "motion": "画面全黑，无法辨识动效",
-  "strength": "轻"
+  "motion": "三张卡片渐变呈现，提示词重点文字以渐变色高亮，无明确触发方式。",
+  "strength": "轻",
+  "id": "e82fbae7-0c67-4d7a-8ad7-57ab16a97ca7",
+  "tags": [
+   "渐变",
+   "文字动画"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Securify Data Security",
   "key": "",
-  "motion": "未见可辨识的动效或元素变化",
-  "strength": "轻"
+  "motion": "全屏背景视频自动循环，巨型标题错位入场呈现",
+  "strength": "轻",
+  "id": "7287fe2a-aa13-4a65-97bd-3ae3b25bfe4b",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "SAAS Software",
   "key": "",
-  "motion": "未观察到可辨识动效",
-  "strength": "轻"
+  "motion": "全屏背景视频自动循环播放，点击汉堡菜单展开导航",
+  "strength": "轻",
+  "id": "61b88072-c64a-4045-a305-362c935a408f",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AKOR Security",
   "key": "",
   "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9aaf3e8d-888c-4c6b-a20e-c88515b85037",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "SkyElite Private Jets",
   "key": "",
-  "motion": "画面全黑，未见可识别动效",
-  "strength": "轻"
+  "motion": "背景视频自动静音循环播放，移动端点击汉堡菜单展开/收起，按钮悬停变色",
+  "strength": "轻",
+  "id": "5481c2f2-6a21-4359-8c11-68f71cdb2857",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "RIVR",
   "key": "",
-  "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "motion": "首屏加载后循环播放视频背景，标题自动入场动效",
+  "strength": "轻",
+  "id": "cc5e5574-d62e-4464-a232-b16f4e2725bc",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "入场离场",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Digital Epoch",
   "key": "",
-  "motion": "黑屏切换为网页内容，整体页面淡入显示",
-  "strength": "轻"
+  "motion": "视频背景循环播放并轻微缩放；文字与底部导航淡入上移，按钮悬停放大。",
+  "strength": "轻",
+  "id": "e3914165-8dc8-4a66-81e1-4394c6dbd3a4",
+  "tags": [
+   "视频背景",
+   "入场离场",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AuraMail",
   "key": "",
   "motion": "背景斜向光束与彩色辉光缓慢位移，伴随微弱粒子闪烁",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9c3c4578-0a35-43a4-bf48-31e6c4ce9143",
+  "tags": [
+   "光效脉冲",
+   "粒子"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "RIVR DeFi",
   "key": "",
   "motion": "横幅熔岩山景视频流动，英雄水面微波光效",
-  "strength": "强"
+  "strength": "强",
+  "id": "34844aec-9b9e-4a8c-ab41-3b9b3e5561aa",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "USD Halo",
   "key": "",
-  "motion": "悬浮硬币轻微位移漂浮，底部场景有微弱视差",
-  "strength": "轻"
+  "motion": "英雄区背景视频自动循环播放，导航与按钮悬停变色",
+  "strength": "轻",
+  "id": "b7105b8c-1501-4269-a7eb-fd16f0bd9c02",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "DesignPro Academy",
   "key": "",
-  "motion": "抽象渐变光影背景缓慢位移流动",
-  "strength": "轻"
+  "motion": "渐变光泽持续从左向右扫过主标题文字",
+  "strength": "轻",
+  "id": "85a94eb4-f04d-444d-860f-875681a42d6f",
+  "tags": [
+   "文字动画",
+   "渐变",
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "EVR Ventures",
   "key": "",
   "motion": "棱镜主体缓慢旋转，彩色光束与背景光效流动，文字静止",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "c1a28e23-4473-4bc4-b201-20359862f5a2",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Mindloop Landing",
   "key": "",
-  "motion": "星空粒子与背景光效缓慢漂移，主体内容基本静止",
-  "strength": "轻"
+  "motion": "各区块滚动进入视口时由下向上淡入，并按延迟依次出现",
+  "strength": "轻",
+  "id": "1ebbc0e8-993f-4591-8982-14a64aa52ad5",
+  "tags": [
+   "滚动触发",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Luxury Ecommerce Design",
   "key": "",
   "motion": "主视觉及下方图片视频背景轻微变化，文字商品静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "c644c3ce-0172-4767-be08-92696f951fde",
+  "tags": [
+   "文字动画",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Yoga Coach",
   "key": "",
   "motion": "人物轻微横移，蝴蝶飞行与花草微动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b371f550-9988-4908-8013-9fc5b4ee1c17",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Book Hero",
   "key": "",
   "motion": "书籍与标题整体缓慢横向位移，带轻微视差",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "29e21ea6-3b85-459a-bd3e-7d4e6a2d2fe9",
+  "tags": [
+   "视差",
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "IntelligentX",
   "key": "",
-  "motion": "机械头部插画内部细节与高光轻微变化，无明显位移缩放",
-  "strength": "轻"
+  "motion": "背景视频自动循环播放，点击移动端汉堡菜单触发导航抽屉向下滑入或收起，顶部渐变遮罩平滑衔接。",
+  "strength": "轻",
+  "id": "3a7cbf39-10ab-40f1-b865-cf409afb628d",
+  "tags": [
+   "视频背景",
+   "入场离场",
+   "遮罩揭示"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "FinancialFocus",
   "key": "",
   "motion": "信用卡与背景光效轻微漂浮位移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "7b821738-a59f-41b8-b3fb-592be9beaf56",
+  "tags": [
+   "光效脉冲"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cursor Follow",
   "key": "",
   "motion": "背景云层与角色轻微位移，疑似视频背景动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "a72cfcac-ef50-46fb-9d31-1a03694f3d53",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Automation",
   "key": "",
   "motion": "下方抽象球体视频中的火焰与发光粒子流动，其他元素基本静止",
-  "strength": "强"
+  "strength": "强",
+  "id": "3b993816-576e-43fa-bc2d-b4178087fcdf",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Scroll Landing Page",
   "key": "",
   "motion": "车内撞击视频背景与玻璃碎片飞溅",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "801690d8-4a7d-42fd-b164-2dd4aa19fc65",
+  "tags": [
+   "视频背景",
+   "玻璃拟态"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Luxury Botanical",
   "key": "",
   "motion": "花卉草坪视频背景缓慢位移，产品轻微漂移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "50a1f0a2-ad46-40b2-9f63-1dee3f63d3d1",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Stellar Launch",
   "key": "",
   "motion": "抽象金属背景缓慢位移流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "c480ad28-0836-4f62-a79e-5c1760a2531b",
+  "tags": [
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Solar Energy Hero",
   "key": "",
   "motion": "雨幕粒子与背景微弱光影变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "3f3c5354-832c-40a2-9b4a-da06b857e72e",
+  "tags": [
+   "粒子"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "No-Code Waitlist",
   "key": "",
-  "motion": "未见可辨识动效",
-  "strength": "轻"
+  "motion": "全屏背景视频加载后自动播放并循环，持续营造动态英雄区",
+  "strength": "轻",
+  "id": "74c38d70-b12a-48e0-8a8e-193d30dca2bb",
+  "tags": [
+   "视频背景",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cybersecurity Hero v2",
   "key": "",
   "motion": "画面全黑，未观察到可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d6fdd0b0-2825-42d1-aedc-a7eff06a8a4b",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "3D Jack Portfolio",
   "key": "media/motionsites/sites/3d-jack-portfolio-hero/poster/media-pipeline-v1/6ec0b707a9254d3618039cbd0e97f43d4de96810e7667423b7ffa08dd8256d36",
-  "motion": "动效：3D角色头部跟随鼠标旋转、光标交互、文字入场揭示、按钮霓虹光效脉冲、悬浮微动；强度：强动效"
+  "motion": "鼠标移动时人物图像磁吸跟随，导航、标题与文案依次淡入入场",
+  "id": "29af4f43-2758-4c92-9e0b-43707fdc8f49",
+  "tags": [
+   "磁吸弹性",
+   "悬停交互",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Velorix IIC",
   "key": "",
   "motion": "未观察到可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "3ef61078-b239-4c3e-adb3-cbcec1fcb9bf",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Build With Us",
   "key": "",
-  "motion": "气泡粒子缓慢漂浮，背景轻微视差",
-  "strength": "轻"
+  "motion": "全屏圆角卡片内视频循环播放，按钮悬停变亮。",
+  "strength": "轻",
+  "id": "1c65a19b-c091-4f80-8d2a-7700573f1b9b",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cinematic Brand",
   "key": "",
   "motion": "彩色能量环电流粒子流动、光晕闪烁，星点漂移",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "8e9e6078-ad0a-44fa-bb89-b07deb555012",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Wanderful Hero",
   "key": "",
-  "motion": "背景视频与光雾流动，人物轻微位移，草地产生视差",
-  "strength": "电影级"
+  "motion": "全屏旅行视频循环播放，鼠标移动驱动背景平滑视差漂移。",
+  "strength": "电影级",
+  "id": "40d4dd6d-39ee-4c87-ac03-bbde9a56b92e",
+  "tags": [
+   "视频背景",
+   "视差",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AeroCore",
   "key": "",
   "motion": "发动机轻微缩放位移，标题文字同步滑动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "94442dc0-b9e6-4b84-90fc-d9c2b1bde990",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Urban Jungle",
   "key": "media/motionsites/sites/urban-jungle-hero/poster/media-pipeline-v1/de262547dd0a7440043eb4772f5b64699be62bec1a22d50141c910c718b6cc5a",
-  "motion": "动效：滚动视差、植物微风摇曳、光影呼吸/闪烁、文字分裂入场、悬浮导航交互；强度：强动效"
+  "motion": "动效：滚动视差、植物微风摇曳、光影呼吸/闪烁、文字分裂入场、悬浮导航交互；强度：强动效",
+  "id": "0191170f-7b80-4f99-9d73-d504767b62fa",
+  "tags": [
+   "视差",
+   "文字动画",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Growth Marketing SaaS",
   "key": "",
   "motion": "植物轻微摆动，雾气与萤光粒子流动，背景光效渐变",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "cf7111be-de60-494b-b49b-befbdd556e0a",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "流体",
+   "渐变"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Visual Hero",
   "key": "",
-  "motion": "主体与文字轻微位移缩放，背景光晕渐变",
-  "strength": "轻"
+  "motion": "未明确描述动态触发与运动效果，仅呈现玻璃质感英雄区",
+  "strength": "轻",
+  "id": "86c2a591-7c9a-4bfb-9990-e910a7a059f0",
+  "tags": [
+   "玻璃拟态",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Nimbus Grid",
   "key": "",
   "motion": "背景云雾与光影缓慢流动，界面光效轻微变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "0d647e69-06a1-4653-bcb9-a5a400aad8b9",
+  "tags": [
+   "光效脉冲",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Minimal Workflow SaaS",
   "key": "",
   "motion": "人物视频背景与光雾微动，伴随轻微视差",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "018266d8-89e5-44c6-8051-3d7bf08eda26",
+  "tags": [
+   "视差",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Luxury Real Estate",
   "key": "",
   "motion": "背景云层缓慢飘动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9b67fdf3-96e8-4a42-9824-519b0a1f2f22",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Evergreen Finance",
   "key": "",
   "motion": "山水背景与数据卡片横向视差位移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "2dd33d25-fbda-4705-8061-b14462c47f8b",
+  "tags": [
+   "视差",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Prosthetics Hero",
   "key": "",
-  "motion": "机械义肢视频背景轻微手指/手臂动作",
-  "strength": "轻"
+  "motion": "全屏视频背景静音循环播放，导航与CTA悬停变色、箭头微移。",
+  "strength": "轻",
+  "id": "dbf496e5-bf65-42c9-a64f-c8d5b6845ca6",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Modern Agency",
   "key": "",
-  "motion": "首屏抽象斜向光影纹理缓慢流动",
-  "strength": "轻"
+  "motion": "首屏橙白流体玻璃噪声缓动，按钮悬停文字上卷箭头旋转，菜单触发底部弹入",
+  "strength": "轻",
+  "id": "e760094c-978e-4f3e-9e3a-11f6d0e83f5a",
+  "tags": [
+   "流体",
+   "噪声纹理",
+   "玻璃拟态",
+   "悬停交互",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Slam Dunk",
   "key": "",
   "motion": "篮球横向位移并旋转，主标题轻微视差",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
+  "tags": [
+   "视差",
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Contact Cybernetic",
   "key": "",
-  "motion": "人物面部彩色光效与高光流动变化，主体轻微位移",
-  "strength": "强"
+  "motion": "桌面鼠标横移逐帧擦洗背景视频，移动端自动播放并可展开菜单",
+  "strength": "强",
+  "id": "5237f4a3-5db6-477c-91a6-ecabf6c52121",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "扫描划屏",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Mythic Naturecore",
   "key": "",
   "motion": "森林视频背景与光束明暗变化，叠加轻微粒子/雾效",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "b0d60757-c9d6-44e0-86c1-45acfa86d9ad",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "VaultShield",
   "key": "",
-  "motion": "彩色几何体沿轨道轻微位移，容器蓝光变化",
-  "strength": "轻"
+  "motion": "全屏视频循环播放，按钮悬停变透明度，点击移动菜单右侧滑入",
+  "strength": "轻",
+  "id": "58ba480c-6500-4b71-9b09-7cf09621b582",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Creative Studio",
   "key": "",
-  "motion": "中央彩色交叉长条轻微位移旋转，伴随高光流动",
-  "strength": "轻"
+  "motion": "全屏视频背景自动循环播放，点击汉堡菜单展开全屏导航覆盖层。",
+  "strength": "轻",
+  "id": "07a691b2-5ebf-445e-8283-c8d9bbe390e5",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Bio-Digital",
   "key": "",
   "motion": "背景彩色光环轻微位移/旋转并呼吸变亮，文字基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "c6247e69-2677-4a4c-9386-a775b183bacf",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Shamoni",
   "key": "",
   "motion": "黑场淡入猫咪花卉画面与标题文字",
-  "strength": "强"
+  "strength": "强",
+  "id": "aa62f097-877f-4089-9945-aae5d5e2f918",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Art Landing",
   "key": "media/motionsites/sites/art-landing/poster/first-frame-v1/50527ab55e125d188e9c437c7f8af63efd792c9ecf65fbdf9b01872c9df43c75",
-  "motion": "动效：滚动视差、粒子/连线数据网络、HUD数据动效、数字滚动、光效脉冲、鼠标悬浮交互；强度：强动效"
+  "motion": "动效：滚动视差、粒子/连线数据网络、HUD数据动效、数字滚动、光效脉冲、鼠标悬浮交互；强度：强动效",
+  "id": "288baab1-70c0-4386-b174-66ec4854450e",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Daisy Shop",
   "key": "",
   "motion": "未见可辨识动效（画面全黑）",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "7a83723f-8aa3-426f-9edf-9faea823be12",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Bold Studio",
   "key": "",
-  "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "motion": "全屏视频循环播放，移动端菜单点击展开，链接依次上移淡入",
+  "strength": "轻",
+  "id": "9709eb49-e34d-4dcc-957d-18297a7d4fda",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Dreamcore Landing",
   "key": "",
   "motion": "未观察到明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "6206c264-649d-4354-acf7-1a79a869eca4",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Workflow Hero",
   "key": "",
-  "motion": "未检测到明显动效",
-  "strength": "轻"
+  "motion": "背景视频帧以30fps正反向无缝循环播放，构成持续动态背景",
+  "strength": "轻",
+  "id": "28e2a619-ea11-4143-b8a7-8aef4e4de740",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Asme",
   "key": "",
-  "motion": "环绕星环旋转流光与粒子闪烁",
-  "strength": "强"
+  "motion": "全屏视频背景自动循环，加载与每次循环时淡入淡出",
+  "strength": "强",
+  "id": "c5078d23-4d3b-4fd6-8754-14085e15b163",
+  "tags": [
+   "视频背景",
+   "入场离场",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Scenic Travel",
   "key": "",
   "motion": "背景风景与云雾光影轻微变化，中心文字点阵渐显",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "360e0f1d-af3a-4b32-843c-71690e95202f",
+  "tags": [
+   "文字动画",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cinematic Landing Page",
   "key": "",
   "motion": "背景帷幕光影与虚化人物轻微位移，前景静物基本不动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "af51429c-9eb9-4cbe-82bd-758824901784",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Aethera Studio",
   "key": "",
-  "motion": "风景背景轻微视差位移，水面与植被有细微动态",
-  "strength": "轻"
+  "motion": "视频背景循环淡入淡出，标题文案与按钮依次上移入场，悬停按钮轻微放大",
+  "strength": "轻",
+  "id": "66ea2b32-5fb7-42af-ab93-25a98b0fa800",
+  "tags": [
+   "视频背景",
+   "渐变",
+   "文字动画",
+   "入场离场",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Futuristic Tech",
   "key": "",
   "motion": "背景视频中人物、草叶与光雾轻微变化，伴随光影流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "80609126-2f89-46e0-9353-6aef03ae79cf",
+  "tags": [
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "FinFlow",
   "key": "",
   "motion": "地球表面光点闪烁流动、微弱光晕变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "6ed918c2-32cc-461a-b199-d82cdf81c66c",
+  "tags": [
+   "光效脉冲",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Neo Museum",
   "key": "",
-  "motion": "恐龙骨架轻微横向位移，背景与文字基本静止",
-  "strength": "轻"
+  "motion": "巨型标题入场，背景视频延迟显现，章节图文每3.5秒轮播切换",
+  "strength": "轻",
+  "id": "7e6f4922-6fcb-4192-a9fb-7d7a1083bfe5",
+  "tags": [
+   "文字动画",
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Layered Depth",
   "key": "",
   "motion": "背景叶影与光效流动，鸟轻微变化，主体基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "44e96e6c-04fd-49c4-a43a-4a6af311fb84",
+  "tags": [
+   "光效脉冲",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Interactive Portfolio",
   "key": "",
   "motion": "人物背景缓慢横向位移，图标静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "f410a716-3e14-42a5-9f44-cb7beae24866",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Lending AI Agents",
   "key": "media/motionsites/sites/lending-ai-agents/poster/media-pipeline-v1/fecd087acb83739b728a5096bfb775567f827d018ef3f4708d72134a4b5caed0",
-  "motion": "动效：点阵手部粒子/形态渐显、轻微漂浮与视差、文字淡入上移、按钮悬停微缩放/磁吸、滚动区块揭示；强度：轻动效"
+  "motion": "动效：点阵手部粒子/形态渐显、轻微漂浮与视差、文字淡入上移、按钮悬停微缩放/磁吸、滚动区块揭示；强度：轻动效",
+  "id": "b4c610f0-2332-41ac-a84c-de52645bbca5",
+  "tags": [
+   "粒子",
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "磁吸/弹性",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Immersive Ocean",
   "key": "",
-  "motion": "鱼群游动，水下光束与底部光影微动",
-  "strength": "电影级"
+  "motion": "页面加载时英雄文案错落上浮入场，背景视频循环播放；点击汉堡展开菜单",
+  "strength": "电影级",
+  "id": "bcdefd54-da34-4571-860e-ed6ab6888269",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "入场离场",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Integration SaaS",
   "key": "media/motionsites/sites/integration-saas/poster/first-frame-v1/302d45d4a2e16535b6812a3e46fd7a9a0de568d2c77973ac3e731e7ec6d0d511",
-  "motion": "动效：全屏视频背景、云雾流体变形、光效脉冲、图层视差、文字渐入；强度：电影级"
+  "motion": "动效：全屏视频背景、云雾流体变形、光效脉冲、图层视差、文字渐入；强度：电影级",
+  "id": "222d5740-9056-41ba-bed0-9920dabcfe8c",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "流体",
+   "文字动画",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Luxury Hero",
   "key": "",
   "motion": "海岸别墅视频背景缓慢横移/微缩放，前景文字Logo固定",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "08596d45-9af3-417b-9f46-9544893f2f05",
+  "tags": [
+   "文字动画",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Digital Experiences",
   "key": "",
-  "motion": "页面内容横移，前景与岩石背景视差",
-  "strength": "轻"
+  "motion": "全屏视频循环淡入淡出，标题滚入视区后逐词模糊显现",
+  "strength": "轻",
+  "id": "85ccd9f8-6a9a-4013-b054-e67c68d58e2b",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "滚动触发",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Investment Gate",
   "key": "",
   "motion": "钥匙主体几乎静止，仅有细微光影变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "1daf8483-ff23-4af5-a9e3-decc5be2d7e5",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Clarity Core",
   "key": "",
   "motion": "天空背景视频缓慢位移，边缘呈视差流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9a34a1e6-fbf6-4a67-bb69-b0abb9bec60c",
+  "tags": [
+   "视差",
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Sky Estate",
   "key": "media/motionsites/sites/sky-estate/poster/media-pipeline-v1/c07c064a1d933760bf1be245e0a20a2fc8029ac956775b4afc2e66cc6cedb508",
-  "motion": "动效：滚动视差、全屏视频背景/云层流动、文字分裂渐入、环境光效脉冲、鼠标视差交互；强度：强动效"
+  "motion": "动效：滚动视差、全屏视频背景/云层流动、文字分裂渐入、环境光效脉冲、鼠标视差交互；强度：强动效",
+  "id": "5e4c3aad-d51f-4405-b537-22117c3642d5",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "流体",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "滚动触发"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Bio-Age Dashboard",
   "key": "",
   "motion": "DNA粒子流动，光晕闪烁，背景视频轻微变化",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "b1d9266f-e8d0-408d-aa23-130acb01b497",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Celestial Renewal",
   "key": "media/motionsites/sites/celestial-renewal/poster/media-pipeline-v1/5d6208df172c43a4a5d6c1ae9a76ed4b4ad006648764d2775edc172410315aa4",
-  "motion": "动效：星空粒子闪烁、地球缓慢旋转/推进、地球边缘光效脉冲、文字淡入上移、按钮悬浮微光、鼠标视差；强度：强动效"
+  "motion": "未明确具体元素如何运动及触发，仅给出玻璃渐变样式",
+  "id": "97be8f74-6305-4896-bb8b-b24b1d70d446",
+  "tags": [
+   "玻璃拟态",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cosmic",
   "key": "",
   "motion": "未见可辨识的位移、光效或粒子变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "0152f0b3-14b7-4095-8397-e9cba9b67849",
+  "tags": [
+   "光效脉冲",
+   "粒子"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "SaaS Value",
   "key": "",
-  "motion": "未观察到可辨识动效",
-  "strength": "轻"
+  "motion": "导航栏加载时向下淡入，点击汉堡菜单展开下拉导航并向上淡入",
+  "strength": "轻",
+  "id": "facb373d-65f3-4987-8674-fd1ec3b6f305",
+  "tags": [
+   "入场离场",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Wellbeing OS",
   "key": "media/motionsites/sites/wellbeing-os/poster/first-frame-v1/8710b7d357575c386a307d865228631423043b495a24788facf5ad3bb6bc829b",
-  "motion": "动效：花瓣飘落/粒子漂浮、前中后景景深视差、微风摇曳植物动画、文字渐显、按钮悬浮光效；强度：强动效"
+  "motion": "全屏视频背景循环播放，导航悬停展开液态菜单，移动端点击滑入菜单",
+  "id": "675a7ff7-fab9-4645-8c2c-bcc450124094",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "玻璃拟态",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Pulse 3D",
   "key": "",
   "motion": "画面全黑，无法识别动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "ce169659-7033-4e97-a4c7-429fd5e851a2",
+  "tags": [],
+  "nature": "visual",
+  "status": "suspect"
  },
  {
   "cat": "Sites",
   "name": "Neon Logic",
   "key": "",
-  "motion": "霓虹护目镜光效与背景渐变轻微变化",
-  "strength": "轻"
+  "motion": "鼠标擦控首屏视频，滚动切换全屏循环视频并解码文字入场",
+  "strength": "轻",
+  "id": "9885c972-ba86-4d5c-b2e1-9287a8a61218",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "滚动触发",
+   "扫描划屏",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cyberpunk Reveal",
   "key": "",
-  "motion": "人物肖像轻微位移，背景光影渐变",
-  "strength": "轻"
+  "motion": "移动端点击菜单按钮展开/收起下拉导航，桌面导航悬停变亮并显示背景",
+  "strength": "轻",
+  "id": "4e489328-cb73-462a-9950-becca04bc807",
+  "tags": [
+   "悬停交互",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cosmos Interface",
   "key": "media/motionsites/sites/cosmos-interface/poster/first-frame-v1/18c25184cb4a85f072d1a7dc5b3abb3295e2dbb108a007196b7d2ec9dcba4ba5",
-  "motion": "动效：全屏视频背景、电影级镜头推进、3D太空场景视差、宇航员缓慢漂浮、地球云层与光影流动、HUD/导航微交互；强度：电影级"
+  "motion": "动效：全屏视频背景、电影级镜头推进、3D太空场景视差、宇航员缓慢漂浮、地球云层与光影流动、HUD/导航微交互；强度：电影级",
+  "id": "90b6c742-7e69-4d6d-88a5-8bdbab057e86",
+  "tags": [
+   "视差",
+   "3D",
+   "流体",
+   "视频背景",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "CozyPaws",
   "key": "media/motionsites/sites/cozypaws/poster/first-frame-v1/ad8b44efc5f9c99849dd167fde66237fb61e46ee067648781ec8ed1049f9db91",
-  "motion": "动效：图层揭示、宠物元素上浮/弹性入场、悬浮卡片、按钮与产品卡片悬停、数字滚动计数、视频播放交互、轻微视差；强度：轻动效"
+  "motion": "按钮悬停时配色切换，未规定其他动效",
+  "id": "65452494-e776-4138-869d-1e7e8a041a7e",
+  "tags": [
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "3D Collectible Hero",
   "key": "",
-  "motion": "人物与小元素轻微位移，呈现呼吸/视差动效",
-  "strength": "轻"
+  "motion": "点击前后导航切换角色，卡片分层位移并伴随背景渐变，动画期间锁定650ms",
+  "strength": "轻",
+  "id": "b5f7605d-8937-4060-80c6-03971b9012f3",
+  "tags": [
+   "分屏切换",
+   "渐变",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Tech-Forward",
   "key": "media/motionsites/sites/tech-forward/poster/first-frame-v1/a923cd1434e241927f7939896e5eefb364fa60481590b394719ba780e7e9c694",
-  "motion": "动效：3D场景旋转、机械手悬浮微动、光影渐变/雾化揭示、文字淡入上移、鼠标交互；强度：强动效"
+  "motion": "全屏背景视频自动播放，固定导航与底部内容叠加其上",
+  "id": "fc025f19-16ff-4675-8d9f-cdec747abcb2",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Wellness Hero",
   "key": "",
-  "motion": "人物与背景轻微位移形成视差，文字按钮基本静止",
-  "strength": "轻"
+  "motion": "全屏视频背景自动循环播放，玻璃导航叠加，点击菜单展开移动端导航。",
+  "strength": "轻",
+  "id": "1090915f-3612-42d9-8283-34822366ee2f",
+  "tags": [
+   "视频背景",
+   "玻璃拟态",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Interface",
   "key": "media/motionsites/sites/ai-interface/poster/first-frame-v1/1ddc531225113a71b4a6276d960ff8c4e993637db58df31c7a817fabb5dbd457",
-  "motion": "动效：3D场景旋转、HUD数据动效、光效脉冲、图层视差、文字淡入揭示；强度：强动效"
+  "motion": "动效：3D场景旋转、HUD数据动效、光效脉冲、图层视差、文字淡入揭示；强度：强动效",
+  "id": "2e0b73b0-7b5b-47ff-aa35-24423fc48f9f",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "文字动画",
+   "HUD/数据",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Apex Pulse",
   "key": "",
   "motion": "花卉与人像背景轻微位移，呈视差/视频动态，文字基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "599d5e1a-40f3-4f0d-819a-24814d3fefc4",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Neural Interface",
   "key": "",
   "motion": "绿色网格流光闪烁，鼠标微移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "0c4c0ad2-ff02-4422-b1a4-f72d7ac5d9a6",
+  "tags": [
+   "光效脉冲",
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Synthesis",
   "key": "",
   "motion": "DNA背景缓慢横向位移与微光流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b45fed17-bf32-4085-a1c0-94fc2f98a28d",
+  "tags": [
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Gateway Portal",
   "key": "",
   "motion": "门户装置轻微横向视差位移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9e7cac80-402e-4150-affe-79964f98dd1e",
+  "tags": [
+   "视差"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "3D Story",
   "key": "",
   "motion": "星空粒子闪烁，花朵缓慢旋转形变，漂浮花瓣与光晕轻微移动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "be027362-7f71-4e35-b11a-9ae8bac997f4",
+  "tags": [
+   "光效脉冲",
+   "粒子"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Luxury Focus",
   "key": "",
   "motion": "人物画面轻微位移，耳饰与面部光影变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "60b22f78-41c4-469b-8036-d6bd9bdd0eb1",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Financial Suite",
   "key": "media/motionsites/sites/financial-suite/poster/first-frame-v1/ffd0abbf52638efe29cb007109da247f117b6298c38c6626ef52bdcbb85aa112",
-  "motion": "动效：3D卡片悬浮旋转、鼠标视差交互、环境云层/雾气缓慢流动、月光与卡片边缘光效脉冲、文字淡入揭示；强度：强动效"
+  "motion": "动效：3D卡片悬浮旋转、鼠标视差交互、环境云层/雾气缓慢流动、月光与卡片边缘光效脉冲、文字淡入揭示；强度：强动效",
+  "id": "de7f455a-69f9-4620-8d0a-69607ec70084",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Health Portal",
   "key": "",
-  "motion": "数字“100”位置基本不变，无明显动效",
-  "strength": "轻"
+  "motion": "加载时启动页切换进入三屏全屏页面，导航栏始终固定。",
+  "strength": "轻",
+  "id": "01f8d904-c8f5-4e08-b1ac-c4450bcc6b51",
+  "tags": [
+   "入场离场",
+   "分屏切换"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Organic Odyssey",
   "key": "",
-  "motion": "背景视频轻微位移，伴随自然光影变化",
-  "strength": "轻"
+  "motion": "全屏视频循环播放，标题字符错峰淡入，点击汉堡展开玻璃菜单",
+  "strength": "轻",
+  "id": "2facb1c5-7e7f-475b-a6cb-4b58bde1b33f",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "玻璃拟态",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "PROMPT",
   "key": "media/motionsites/sites/prompt-hero/poster/media-pipeline-v1/571624e7e744d0c2e4a490fda2e4124aa7418209dcea2ed306245eaa3acae56b",
-  "motion": "动效：全屏视频/人物微动、鼠标视差跟随、文字图层揭示、价格数字滚动、悬浮导航交互；强度：强动效"
+  "motion": "滚动驱动视频被黑幕上推覆盖，错落商品图进出视口缩放，末尾白层淡入CTA。",
+  "id": "f3bd46c2-eb66-40f5-ac4c-5b77dc86b259",
+  "tags": [
+   "视频背景",
+   "滚动触发",
+   "扫描划屏",
+   "入场离场",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "CleanTech",
   "key": "media/motionsites/sites/cleantech/poster/first-frame-v1/92e2b23d5cc6616a6ade7aa795d6cf54ebcce12622db461331954ef893b1c46d",
-  "motion": "动效：3D场景旋转、缓慢悬浮漂移、苔藓/植物微风摆动、光影呼吸、文字淡入揭示、鼠标视差交互；强度：强动效"
+  "motion": "动效：3D场景旋转、缓慢悬浮漂移、苔藓/植物微风摆动、光影呼吸、文字淡入揭示、鼠标视差交互；强度：强动效",
+  "id": "b420ed46-a311-4fcf-9da3-c4f6ce350dff",
+  "tags": [
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Glitch Pulse",
   "key": "",
   "motion": "未见明显动效，画面元素基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "f892efd4-0fd7-4f73-8528-d62956626b84",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Jewelry Store",
   "key": "",
   "motion": "未见可辨识的元素变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "2419f979-5d80-437a-bf7d-840d1d1b1c4a",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Interactive Discovery",
   "key": "",
-  "motion": "未发现可辨识动效",
-  "strength": "轻"
+  "motion": "鼠标移动触发柔和圆形聚光遮罩，跟随光标平滑揭示底图下的另一地质图像",
+  "strength": "轻",
+  "id": "1cf51035-b2fb-4b70-b665-8b2763f0a2df",
+  "tags": [
+   "舞台聚光",
+   "遮罩揭示",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Subscription Agency",
   "key": "media/motionsites/sites/subscription-agency/poster/first-frame-v1/398a15a2cec7cb2c2610ce2a9d805ff703e4395f0b41ce0e95c598da40db8a53",
-  "motion": "动效：渐变光效流动、背景细线粒子/网格呼吸、标题文字分段入场、按钮悬停微交互、品牌 Logo 横向滚动；强度：轻动效"
+  "motion": "两侧曲线错峰脉冲显隐、服务文字循环横移，点击菜单淡入全屏抽屉",
+  "id": "eb359734-20eb-4cd2-90f7-c3fa43a04473",
+  "tags": [
+   "光效脉冲",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Performance Eyewear",
   "key": "media/motionsites/sites/performance-eyewear/poster/media-pipeline-v1/8de20408dfc0d37a302bde1ba2b1da8640c936e7dfb533a9ba4c9330dee7cdee",
-  "motion": "动效：鼠标视差交互、3D产品/镜片悬浮旋转、文字图层揭示、滚动驱动排版转场、镜面渐变光效；强度：强动效"
+  "motion": "动效：鼠标视差交互、3D产品/镜片悬浮旋转、文字图层揭示、滚动驱动排版转场、镜面渐变光效；强度：强动效",
+  "id": "d3a1aac5-6a48-4957-ae8a-80777da6b935",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "渐变",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Conversion",
   "key": "",
   "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "87e90531-d3ef-4131-950a-32239fc6ba74",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Stillmind",
   "key": "media/motionsites/sites/stillmind/poster/first-frame-v1/f7a2321a9524e739ff1e9ebaca82d306dc46575e79e7f218ea31f40782803c72",
-  "motion": "动效：全屏视频/动态风景背景、缓慢视差、云雾流动、星光粒子闪烁、文字淡入上移、悬浮光效脉冲、鼠标悬停微交互；强度：轻动效"
+  "motion": "四段视频循环自动淡入淡出切换，前景叠层持续上下轻摆。",
+  "id": "319b3f14-8a14-4406-a9cb-3cf324c25068",
+  "tags": [
+   "视频背景",
+   "入场离场",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Network Hero",
   "key": "",
-  "motion": "中心黑色图标轻微旋转，背景光晕缓慢流动",
-  "strength": "轻"
+  "motion": "页面载入标题逐字打字，按钮悬停填色与旋转渐变边框",
+  "strength": "轻",
+  "id": "59197331-d4b4-4812-8f55-550d000f3c47",
+  "tags": [
+   "文字动画",
+   "悬停交互",
+   "渐变",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Obsidian Hero",
   "key": "",
   "motion": "背景岩石、雾气与颗粒光效持续流动",
-  "strength": "电影级"
+  "strength": "电影级",
+  "id": "708037ca-9dc1-4cb0-b2f9-e8cf53ef1459",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Innovation Studio",
   "key": "media/motionsites/sites/innovation-studio/poster/first-frame-v1/171e864ced3c1176693ac6ef1819492e87c631945196c3fa34097e4892e67d0e",
-  "motion": "动效：3D粒子网格波浪、流体变形、鼠标悬停扰动、缓慢场景旋转、文字淡入揭示、HUD数据微动效；强度：强动效"
+  "motion": "动效：3D粒子网格波浪、流体变形、鼠标悬停扰动、缓慢场景旋转、文字淡入揭示、HUD数据微动效；强度：强动效",
+  "id": "697977ed-47ea-4b07-baef-d26211655ba4",
+  "tags": [
+   "粒子",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "HUD/数据",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Wellness Balance",
   "key": "",
-  "motion": "模糊自然视频背景缓慢位移，标题文字显现",
-  "strength": "轻"
+  "motion": "标题文字按词依次揭示入场，加载时触发。",
+  "strength": "轻",
+  "id": "9d1c8bb5-f08f-47a1-95aa-e9ee0174f7b6",
+  "tags": [
+   "文字动画",
+   "遮罩揭示",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Golden Portal",
   "key": "",
   "motion": "飞鸟横向位移，云雾背景轻微流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b55f8354-2640-4343-ba97-707f20a6eb9d",
+  "tags": [
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Audio Showcase",
   "key": "",
-  "motion": "背景自然影像与漂浮花瓣缓慢位移，播放器轻微变化",
-  "strength": "轻"
+  "motion": "加载时全屏黑胶视频正倒放循环，文字与玻璃控件依次上移淡入",
+  "strength": "轻",
+  "id": "f4ded56d-d79f-4724-96cb-513f96b6e1b8",
+  "tags": [
+   "视频背景",
+   "玻璃拟态",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Product Studio",
   "key": "media/motionsites/sites/product-studio/poster/media-pipeline-v1/986fcb5135b1da7c69607a9da3f0cd817049b0a8a4488ed593da0f1db4c270ae",
-  "motion": "动效：流体变形、光效脉冲、鼠标交互、缓慢悬浮视差、文字揭示；强度：强动效"
+  "motion": "动效：流体变形、光效脉冲、鼠标交互、缓慢悬浮视差、文字揭示；强度：强动效",
+  "id": "0ff56575-1b56-4018-a871-d8bb5d48f961",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Unwind Hero",
   "key": "",
   "motion": "森林雾气与背景微妙流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9dd6d02c-9056-4e28-94c8-985b7beab634",
+  "tags": [
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cargo Group",
   "key": "media/motionsites/sites/cargo-group/poster/first-frame-v1/07d1c06c1053e3607af1a953b07b586cbbe2ee07a0a32e6f414f1dd5d5e3f77c",
-  "motion": "动效：全屏视频背景、文字分层入场、地图节点连线动画、数据数字滚动、按钮悬浮光效；强度：强动效"
+  "motion": "动效：全屏视频背景、文字分层入场、地图节点连线动画、数据数字滚动、按钮悬浮光效；强度：强动效",
+  "id": "e290e4f4-b171-4bed-83c6-be91b333ee57",
+  "tags": [
+   "光效脉冲",
+   "文字动画",
+   "视频背景",
+   "滚动触发",
+   "HUD/数据",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Meeting Notes",
   "key": "media/motionsites/sites/ai-meeting-notes/poster/media-pipeline-v1/6e770f017454d5070015d7e13b949c2e5c593955568cb701d49ad9fb89236bfc",
-  "motion": "动效：悬浮卡片、音频波形/HUD数据动效、光效脉冲、鼠标光标交互、文字渐入揭示；强度：轻动效"
+  "motion": "动效：悬浮卡片、音频波形/HUD数据动效、光效脉冲、鼠标光标交互、文字渐入揭示；强度：轻动效",
+  "id": "ef420235-f4cb-446e-b9b6-726cc0c1b4f8",
+  "tags": [
+   "光效脉冲",
+   "文字动画",
+   "悬停交互",
+   "HUD/数据",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Outdoor Apparel",
   "key": "media/motionsites/sites/outdoor-apparel/poster/media-pipeline-v1/2f2206fdccf8c57a0c33d888c17e686d9bc3a583dfac978fd8ddecd75f04d6c3",
-  "motion": "动效：全屏视觉背景、轻微视差滚动、导航悬停反馈、文字/图片淡入揭示；强度：轻动效"
+  "motion": "动效：全屏视觉背景、轻微视差滚动、导航悬停反馈、文字/图片淡入揭示；强度：轻动效",
+  "id": "e5608f6e-32c7-46e0-984c-b44ed2296b0b",
+  "tags": [
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Vertex Sci",
   "key": "",
   "motion": "天空视频背景：飞机掠过、云层缓移",
-  "strength": "强"
+  "strength": "强",
+  "id": "9797c2ea-ce70-4ffd-a5f9-675a009e3930",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Future-State",
   "key": "",
   "motion": "蓝色粒子与光丝流动闪烁、光团漂移",
-  "strength": "强"
+  "strength": "强",
+  "id": "5ea82dfc-8ef9-4628-97d1-d0a0ebc90d3c",
+  "tags": [
+   "粒子",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Eco Intelligence",
   "key": "",
   "motion": "岩石与花朵轻微漂浮位移，叠加透明光影扫描",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "2239e0a4-2fde-4f57-b7a4-9eb10a4578c3",
+  "tags": [
+   "扫描/划屏"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Impact Ventures",
   "key": "",
-  "motion": "云层与农田视频背景缓慢横移",
-  "strength": "轻"
+  "motion": "全屏循环视频背景，移动端点击汉堡展开模糊菜单并渐显导航",
+  "strength": "轻",
+  "id": "ee296445-e2d7-4bf9-b9d0-3b637ad11707",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "玻璃拟态",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Wellness Devicex",
   "key": "media/motionsites/sites/wellness-device/poster/media-pipeline-v1/2c118cfca05c2695eed62d2acd0b92312dd028a02972b57dd5914555c64a2f71",
-  "motion": "动效：3D场景旋转、滚动视差、光效脉冲、图层揭示、悬浮微动；强度：强动效"
+  "motion": "鼠标移动触发聚光遮罩，跟随指针揭示层叠画面",
+  "id": "8c953938-990d-4dee-bb23-0afd88dbfbd7",
+  "tags": [
+   "舞台聚光",
+   "遮罩揭示",
+   "悬停交互",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Modern Dental Clinic",
   "key": "media/motionsites/sites/modern-dental-clinic/poster/first-frame-v1/3313240bb8bcd02628b758dadd2043dfd1d19f8212d3f4a2d6715963446f04c7",
-  "motion": "动效：3D场景轻微旋转/视差、工具施工循环动画、磨砂粒子飞溅、牙齿高光扫光、人物与卡片悬浮、鼠标悬停交互；强度：强动效"
+  "motion": "动效：3D场景轻微旋转/视差、工具施工循环动画、磨砂粒子飞溅、牙齿高光扫光、人物与卡片悬浮、鼠标悬停交互；强度：强动效",
+  "id": "ee7d148b-d17d-40a7-bcdc-e41e57bd241d",
+  "tags": [
+   "粒子",
+   "视差",
+   "3D",
+   "扫描/划屏",
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Driving Assistant",
   "key": "media/motionsites/sites/ai-driving-assistant/poster/media-pipeline-v1/eb1db89ac66fbd8490997a22e6a32b63ea459ceb6bd744b842f4468d752b6c82",
-  "motion": "动效：全屏视频背景、第一人称驾驶场景推进、雨滴/光轨粒子、HUD文字扫描/分裂动画、环境光效脉冲；强度：电影级"
+  "motion": "动效：全屏视频背景、第一人称驾驶场景推进、雨滴/光轨粒子、HUD文字扫描/分裂动画、环境光效脉冲；强度：电影级",
+  "id": "87b66c91-59d2-4d92-a49c-ec8bd1efc877",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "文字动画",
+   "视频背景",
+   "扫描/划屏",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Luminara",
   "key": "",
   "motion": "未见明显动效或元素变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "feadd465-1fa9-4bab-b4f5-133d23631a56",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "OYLA",
   "key": "media/motionsites/sites/oyla/poster/media-pipeline-v1/d9d2cf735a492f6cea966449a18ed955a2a84a7eb6da1e21e583751d183f1717",
-  "motion": "动效：图层揭示、鼠标视差、产品微光闪烁、按钮悬停反馈、文字淡入；强度：轻动效"
+  "motion": "动效：图层揭示、鼠标视差、产品微光闪烁、按钮悬停反馈、文字淡入；强度：轻动效",
+  "id": "2926b160-b146-49bb-b1f8-d92e8d6f5676",
+  "tags": [
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Creative Portfolio",
   "key": "",
-  "motion": "未见明显动态元素",
-  "strength": "轻"
+  "motion": "三段视频循环交叉淡入淡出；导航悬停下划线滑入，移动端点击菜单展开收起",
+  "strength": "轻",
+  "id": "51e3c173-3df0-4e72-9c25-db0b2baaee6c",
+  "tags": [
+   "视频背景",
+   "分屏切换",
+   "悬停交互",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Mostar Guide",
   "key": "media/motionsites/sites/mostar-guide/poster/media-pipeline-v1/6015d44bb13a3fa201c637f18bd0c732b9fefe17846e0ec9102c1b438e8a320e",
-  "motion": "动效：滚动视差、悬浮玻璃卡片、全屏视频/慢速环境背景、文字渐入、光标悬停交互；强度：轻动效"
+  "motion": "滚动触发多层城市图像视差，分屏遮罩切换并带文字卡片入场",
+  "id": "0975afb7-d08e-42cb-8b80-bfb1b7b5aa5f",
+  "tags": [
+   "视差",
+   "滚动触发",
+   "遮罩揭示",
+   "分屏切换",
+   "文字动画"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Remote Dev Collective",
   "key": "media/motionsites/sites/remote-dev-collective/poster/media-pipeline-v1/3b591c2acd4dcf6c90fc179717ad98298cc3cc590a7d5fe2cc54a29d7e0d8144",
-  "motion": "动效：3D场景旋转、光效脉冲、悬浮玻璃卡片、鼠标视差交互、文字渐入、图层揭示；强度：强动效"
+  "motion": "动效：3D场景旋转、光效脉冲、悬浮玻璃卡片、鼠标视差交互、文字渐入、图层揭示；强度：强动效",
+  "id": "3571697c-aa44-4764-aac3-44c6b2a1a05a",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "玻璃拟态",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Trip Planner",
   "key": "media/motionsites/sites/ai-trip-planner/poster/media-pipeline-v1/990d9849e33f30a6abc8d9af622871593e5b6e140634d81058faf2e93439d3b4",
-  "motion": "动效：图层视差、手绘场景缓慢横移、地标插画分层揭示、按钮悬浮微交互、背景纸张颗粒轻微漂浮；强度：轻动效"
+  "motion": "全屏旅行视频自动循环播放，作为首屏动态背景",
+  "id": "93ece08a-d937-4f0e-ab65-f5e5010cba71",
+  "tags": [
+   "视频背景",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Shipping Infrastructure",
   "key": "media/motionsites/sites/shipping-infrastructure/poster/media-pipeline-v1/fee3795542a9d5d7e6eb2e2c50a7ffd43226931ef31111cfd2f90c291a73b42c",
-  "motion": "动效：3D场景旋转、悬浮卡片波浪摆动、滚动视差、粒子漂浮、文字渐入/分裂动画、鼠标交互；强度：强动效"
+  "motion": "动效：3D场景旋转、悬浮卡片波浪摆动、滚动视差、粒子漂浮、文字渐入/分裂动画、鼠标交互；强度：强动效",
+  "id": "e939171b-1d5c-4e45-a28e-827658a6b706",
+  "tags": [
+   "粒子",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "滚动触发"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Relocation Card",
   "key": "media/motionsites/sites/relocation-card/poster/media-pipeline-v1/b0dbbce90a03fd752dba8de8509ab75569af1f8772a9082233fce99c60994a5e",
-  "motion": "动效：全屏视频/动态背景、视差滚动、悬浮玻璃卡片、光效渐变；强度：电影级"
+  "motion": "动效：全屏视频/动态背景、视差滚动、悬浮玻璃卡片、光效渐变；强度：电影级",
+  "id": "d5b4d70e-a78f-4a92-9fa0-29ec38f17ae9",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "视频背景",
+   "滚动触发",
+   "玻璃拟态",
+   "渐变"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Talent Collective",
   "key": "media/motionsites/sites/talent-collective/poster/media-pipeline-v1/c65966bb3e4292badb90f416188beaa710f1d0ad26920d6f51e9e4dd154e4720",
-  "motion": "动效：人物肖像微动/视频背景、文字淡入上移、头像轮播切换、鼠标悬浮人物切换、柔和光影呼吸；强度：轻动效"
+  "motion": "点击成员头像切换全屏肖像，背景700ms淡入淡出，文案轻微上移显现",
+  "id": "ca95f185-6df7-4bd0-bde3-c69582f33023",
+  "tags": [
+   "文字动画",
+   "渐变",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Creative Designer Portfolio",
   "key": "media/motionsites/sites/creative-designer-portfolio/poster/media-pipeline-v1/ba58e8ee25ff3d7bd005ee906abf6f2cc61bcac6f56a69b7b5a62b608153f877",
-  "motion": "动效：流体渐变变形、光影呼吸脉冲、文字淡入上浮、鼠标悬停视差；强度：轻动效"
+  "motion": "动效：流体渐变变形、光影呼吸脉冲、文字淡入上浮、鼠标悬停视差；强度：轻动效",
+  "id": "5b1dec03-7944-4883-9a15-7e2e075ea9c7",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "渐变",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Workflow Agents",
   "key": "media/motionsites/sites/ai-workflow-agents/poster/media-pipeline-v1/627c46e1c45265ef9727f786c044b142eb73e90921c6b5cd89cec27ceda73b92",
-  "motion": "动效：全屏视频/动态自然背景、滚动视差、文字渐入上浮、按钮悬浮微交互、柔光色彩呼吸；强度：轻动效"
+  "motion": "循环背景视频铺满首屏，玻璃导航与按钮悬停微变阴影",
+  "id": "b8c67ef1-42d8-4e4e-9b72-a1955913ffe1",
+  "tags": [
+   "视频背景",
+   "玻璃拟态",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Sentinel",
   "key": "media/motionsites/sites/sentinel/poster/media-pipeline-v1/469323ed69a8d2f089f00eea13b0d1dc6a98f4d5cec119eac952abb1f5a36492",
-  "motion": "动效：粒子漂浮、光环脉冲/呼吸光效、全屏视频背景、人物剪影微动态、像素文字逐字显现、HUD噪点闪烁、鼠标悬浮交互；强度：电影级"
+  "motion": "动效：粒子漂浮、光环脉冲/呼吸光效、全屏视频背景、人物剪影微动态、像素文字逐字显现、HUD噪点闪烁、鼠标悬浮交互；强度：电影级",
+  "id": "ad42285c-ab93-4884-a40b-f46a231c09bd",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "HUD/数据",
+   "噪声/纹理"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Portal",
   "key": "",
-  "motion": "云雾与云层缓慢漂移，背景轻微视差",
-  "strength": "轻"
+  "motion": "全屏循环视频作背景，移动端点击菜单后遮罩淡入、侧栏从右滑入，导航逐项错峰显现",
+  "strength": "轻",
+  "id": "6dfac064-364c-42fe-b9f1-db0fcdf4f836",
+  "tags": [
+   "视频背景",
+   "悬停交互",
+   "入场离场",
+   "文字动画",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Film Studio",
   "key": "media/motionsites/sites/ai-film-studio/poster/media-pipeline-v1/89393daf56c7af5ec095d17e2698392ade774710a270cd7b8db22cb74549b944",
-  "motion": "动效：全屏电影视频背景、镜头缓慢推进/景深变化、文字图层揭示、导航悬浮交互、环境光效闪烁；强度：电影级"
+  "motion": "动效：全屏电影视频背景、镜头缓慢推进/景深变化、文字图层揭示、导航悬浮交互、环境光效闪烁；强度：电影级",
+  "id": "9349c46b-dd1f-4be3-9623-4337778598fc",
+  "tags": [
+   "光效脉冲",
+   "文字动画",
+   "视频背景",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Tokyo Nocturne",
   "key": "media/motionsites/sites/tokyo-nocturne/poster/media-pipeline-v1/7300202c361e85ead7b423dca6887392c2f9075ccf9297a31b5d2a56372ee2f2",
-  "motion": "动效：全屏视频背景、电影级镜头运动、鱼眼/镜头畸变、胶片噪点闪烁、文字淡入揭示、滚动驱动场景切换；强度：电影级"
+  "motion": "动效：全屏视频背景、电影级镜头运动、鱼眼/镜头畸变、胶片噪点闪烁、文字淡入揭示、滚动驱动场景切换；强度：电影级",
+  "id": "3391516a-2ff0-4ad4-8aee-89acbfbae077",
+  "tags": [
+   "文字动画",
+   "视频背景",
+   "滚动触发",
+   "遮罩/揭示",
+   "噪声/纹理",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Synth Mode",
   "key": "media/motionsites/sites/synth-mode/poster/media-pipeline-v1/acad9c713241fa1fdc50b4279e31edf2114e1218ffcf89a8170b9ecc240b7999",
-  "motion": "动效：图层揭示、文字逐字入场、轻微视差、HUD扫描/光效脉冲、鼠标悬浮交互；强度：轻动效"
+  "motion": "当前片段未描述具体动效或触发方式，仅规定纯白静态界面",
+  "id": "38aba76a-a12d-4d8a-a8c1-919c9b030157",
+  "tags": [
+   "悬停交互",
+   "滚动触发"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Sea Serenade",
   "key": "media/motionsites/sites/sea-serenade/poster/media-pipeline-v1/45f9e3de825d385be63388c6530bcf4bc5faa82e066f9f5580ab19447db71863",
-  "motion": "动效：全屏视频背景、镜头推进/径向模糊、滚动视差、文字渐显、光标/鼠标交互；强度：电影级"
+  "motion": "动效：全屏视频背景、镜头推进/径向模糊、滚动视差、文字渐显、光标/鼠标交互；强度：电影级",
+  "id": "0fb9b45c-c7fb-4abb-9fd8-b56135da07af",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Real-Time Alerts",
   "key": "media/motionsites/sites/real-time-alerts/poster/media-pipeline-v1/cf96264534b48abb999c9df6ee972aeb197fdbc63b8e90598be242e5f691ec0a",
-  "motion": "动效：全屏视频背景、轻微视差、光效脉冲、悬浮卡片；强度：轻动效"
+  "motion": "左侧猎鹰俯冲视频循环播放并缓慢推进，字体加载完成后页面入场",
+  "id": "e73d4b7e-ad1f-4412-b00c-5bc9085f0fae",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Sparkform",
   "key": "media/motionsites/sites/sparkform/poster/media-pipeline-v1/374356f9f85f126f4fa5fa281da4e7ff6d047bd1b8a94183d8ab95f0cf8e2753",
-  "motion": "动效：文字分层揭示、3D人像轻微视差/悬浮、彩色错位拖影、背景关键词淡入滑动、光标交互视差；强度：强动效"
+  "motion": "未明确规定具体动效，仅提到Hero分层与Marquee结构，无法确定触发方式。",
+  "id": "784f18cf-4090-4a99-9bd3-78fc115e6da5",
+  "tags": [
+   "视差",
+   "文字动画"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Spatial Mapping Platform",
   "key": "media/motionsites/sites/spatial-mapping-platform/poster/media-pipeline-v1/f2d1cd1f15e879a153e5131584de3c3875281fbb37259cbba3403cf63d9e2c12",
-  "motion": "动效：3D场景旋转、流体变形、光泽反射流动、文字渐入、悬浮按钮微交互；强度：强动效"
+  "motion": "动效：3D场景旋转、流体变形、光泽反射流动、文字渐入、悬浮按钮微交互；强度：强动效",
+  "id": "9e852e08-1485-4ae9-8aa1-1c85077448b4",
+  "tags": [
+   "3D",
+   "流体",
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Mountain Retreat",
   "key": "media/motionsites/sites/mountain-retreat/poster/media-pipeline-v1/6811e0b73bf4b22c5be66374096132399819a4200e61836549b032f27fa87279",
-  "motion": "动效：全屏视频背景、慢速视差、雾气/环境粒子流动、文字分层揭示、悬浮信息卡片、光标滚动引导；强度：电影级"
+  "motion": "动效：全屏视频背景、慢速视差、雾气/环境粒子流动、文字分层揭示、悬浮信息卡片、光标滚动引导；强度：电影级",
+  "id": "dc2bff12-092e-488c-8e55-3ea965d2bd18",
+  "tags": [
+   "粒子",
+   "视差",
+   "流体",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Sky Cookie",
   "key": "media/motionsites/sites/sky-cookie/poster/media-pipeline-v1/1b6712d7d2eebb8140bd68c682eb61043750f9b00d68b132f4b8c89a9cda0346",
-  "motion": "动效：滚动视差、悬浮物体漂浮、云层缓慢移动、文字入场/遮罩揭示、鼠标视差交互；强度：强动效"
+  "motion": "动效：滚动视差、悬浮物体漂浮、云层缓慢移动、文字入场/遮罩揭示、鼠标视差交互；强度：强动效",
+  "id": "e8e4b3e8-fe8d-46c6-be04-864b3e682100",
+  "tags": [
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Intelligence Layer",
   "key": "media/motionsites/sites/intelligence-layer/poster/media-pipeline-v1/9b8e9db2d38190fdef3b364266dec61156f25978b576ddf0b934311c8fde7d61",
-  "motion": "动效：电影级光影呼吸、体积雾流动、门户光效脉冲、人物剪影缓慢位移、文字/按钮淡入上浮、滚动视差；强度：电影级"
+  "motion": "全屏英雄区视频背景持续循环播放，页面加载后自动触发",
+  "id": "4f4243af-0c88-4e21-872e-c64afed1bde6",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Personal Showcase",
   "key": "media/motionsites/sites/personal-showcase/poster/media-pipeline-v1/6fb48d8ef4c7678b1fdf056ebd1e58cd0fff3430a44a4170ed8e176b4e65e5e0",
-  "motion": "动效：文字分裂/横向滑入、人物图层视差、鼠标悬浮微位移、页面转场揭示；强度：轻动效"
+  "motion": "姓名跑马灯横向无缝自动循环滚动",
+  "id": "3f621e4f-d94e-454d-a045-6f59cbaa6518",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cardia 3D",
   "key": "media/motionsites/sites/cardia-3d/poster/media-pipeline-v1/2ff5092b42caaf6b10640c98cc4e7e01f2b53a4a5a54e243325a650da81f65bf",
-  "motion": "动效：3D场景旋转、心脏脉冲/呼吸光效、文字分层揭示、鼠标视差交互、HUD微光粒子；强度：强动效"
+  "motion": "动效：3D场景旋转、心脏脉冲/呼吸光效、文字分层揭示、鼠标视差交互、HUD微光粒子；强度：强动效",
+  "id": "d06d4d1b-a841-4f77-a883-c5252594a922",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "HUD/数据",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "3D Bloom Layer",
   "key": "media/motionsites/sites/3d-bloom-layer/poster/media-pipeline-v1/d0a9873f90243e04dff7267dd54a15569d1436784349667b88bb66247a187ccd",
-  "motion": "动效：滚动视差、3D场景旋转/层级揭示、草地微风摆动、文字渐入、光效氛围流动；强度：强动效"
+  "motion": "动效：滚动视差、3D场景旋转/层级揭示、草地微风摆动、文字渐入、光效氛围流动；强度：强动效",
+  "id": "054b79f3-4db6-42bb-b8b3-4cd6f69c30a5",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Imperial VPN",
   "key": "media/motionsites/sites/imperial-vpn/poster/media-pipeline-v1/beeab1a267a61eb96bf2a5f8e9298c2718a55fdb5c47d0e89aa040b8cc66e673",
-  "motion": "动效：图层视差、布料流体飘动、光效折射/虹彩、悬浮玻璃卡片、鼠标视差交互、文字渐入揭示；强度：强动效"
+  "motion": "动效：图层视差、布料流体飘动、光效折射/虹彩、悬浮玻璃卡片、鼠标视差交互、文字渐入揭示；强度：强动效",
+  "id": "67fbcffc-24d5-4fb7-a562-3195241f82c8",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "玻璃拟态",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Systema",
   "key": "media/motionsites/sites/systema/poster/media-pipeline-v1/60a8aed0035da105c0b7140a2fb38b8db20c043ee0953470badf9c625ef85e57",
-  "motion": "动效：3D线框花朵缓慢旋转/呼吸形变、线框粒子流动、首屏文字分段淡入上移、卡片悬浮与鼠标跟随微倾斜、图标描边/节点脉冲、滚动渐显；强度：强动效"
+  "motion": "动效：3D线框花朵缓慢旋转/呼吸形变、线框粒子流动、首屏文字分段淡入上移、卡片悬浮与鼠标跟随微倾斜、图标描边/节点脉冲、滚动渐显；强度：强动效",
+  "id": "8b13e5df-52ff-4f48-b3fe-d645147e40c1",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Model Infrastructure",
   "key": "media/motionsites/sites/model-infrastructure/poster/media-pipeline-v1/44f4c5297e824552ea1b1e629030438c93f51f1ea98896481b1c2475ddf4e1ae",
-  "motion": "动效：全屏视频/动态星空背景、缓慢视差分层、文字与按钮渐入上移、鼠标悬停卡片高亮、光效微脉冲；强度：轻动效"
+  "motion": "动效：全屏视频/动态星空背景、缓慢视差分层、文字与按钮渐入上移、鼠标悬停卡片高亮、光效微脉冲；强度：轻动效",
+  "id": "20f8dc59-34e8-4c42-b7ee-7351585f3353",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "文字动画",
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Worldwide Hubs",
   "key": "media/motionsites/sites/worldwide-hubs/poster/media-pipeline-v1/83422d1ae0dbb9e02488d640b811811f4cd95227403aaac822392956c775b039",
-  "motion": "动效：悬浮卡片、鼠标悬停交互、图层揭示、轻微视差、光标跟随；强度：轻动效"
+  "motion": "动效：悬浮卡片、鼠标悬停交互、图层揭示、轻微视差、光标跟随；强度：轻动效",
+  "id": "f698964b-75ec-44b8-9a2c-e0ecab7d1cb3",
+  "tags": [
+   "视差",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cyber Layer",
   "key": "media/motionsites/sites/cyber-layer/poster/media-pipeline-v1/33eae7c8459460269ce2f5939d68a585bed81cf562d708186b9213a8314830e6",
-  "motion": "动效：HUD数据流、故障闪烁/扫描线、红色光效脉冲、图层渐显、数字滚动、鼠标悬浮交互；强度：强动效"
+  "motion": "右侧视频氛围循环，首屏元素一次入场，点击汉堡展开遮罩菜单",
+  "id": "90e5943a-98cb-4c26-a188-c0f7fd86023f",
+  "tags": [
+   "视频背景",
+   "入场离场",
+   "遮罩揭示"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Data Signal",
   "key": "media/motionsites/sites/data-signal/poster/media-pipeline-v1/5d2c66192fb9722c5eee9f7149607ba171cb1ba21ac81995069694ee845a6e17",
-  "motion": "动效：粒子/像素矩阵流动、数据可视化图层揭示、光效脉冲、悬浮视频卡片交互；强度：强动效"
+  "motion": "全屏背景视频自动循环播放，形成暗色动态氛围｜视频背景",
+  "id": "9e0b6ca4-6ef2-4123-8d05-c7cd18bca67a",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "流体",
+   "视频背景",
+   "HUD/数据",
+   "遮罩/揭示"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "F1 Driver Profile",
   "key": "media/motionsites/sites/f1-driver-profile/poster/media-pipeline-v1/85ee1a4216385029537e852b514fb602b82907bf0d2e35dc91a5b651357d290b",
-  "motion": "动效：图层视差、人物/文字揭示、数字滚动、赛道路径描边、光效脉冲、鼠标悬浮交互；强度：强动效"
+  "motion": "动效：图层视差、人物/文字揭示、数字滚动、赛道路径描边、光效脉冲、鼠标悬浮交互；强度：强动效",
+  "id": "820f6d44-47a3-4e56-849c-6e73fda5dd54",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Avant Studio",
   "key": "media/motionsites/sites/avant-studio/poster/media-pipeline-v1/8d39c96077565e538b5414cb49d4bfb95800f25d38f5f80a56531cad74f4fc8b",
-  "motion": "动效：3D场景缓慢旋转、滚动视差、文字渐显/分裂入场、悬浮微动、光标交互；强度：电影级"
+  "motion": "动效：3D场景缓慢旋转、滚动视差、文字渐显/分裂入场、悬浮微动、光标交互；强度：电影级",
+  "id": "5ed6b02a-e611-41de-be1c-1f0bef9a7997",
+  "tags": [
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Custom Spaces",
   "key": "media/motionsites/sites/custom-spaces/poster/media-pipeline-v1/e0f128785261c67bbe2d0ad387d4663183b3a3488034e622c38f1e9ebf6f3821",
-  "motion": "动效：3D场景旋转、横向图片轮播、悬浮卡片、滚动视差、文字淡入上移；强度：强动效"
+  "motion": "动效：3D场景旋转、横向图片轮播、悬浮卡片、滚动视差、文字淡入上移；强度：强动效",
+  "id": "b7e26fe4-e086-4dfb-885f-f2d5e8389a1e",
+  "tags": [
+   "视差",
+   "3D",
+   "文字动画",
+   "滚动触发",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Automotive AI",
   "key": "media/motionsites/sites/automotive-ai/poster/media-pipeline-v1/9a0af0dec766c81ffb4e4f92909aba9d83b2df735958de0f64edbd88e46c44a8",
-  "motion": "动效：全屏视频背景、电影级光影流动、缓慢镜头推进、文字淡入揭示、悬浮导航/按钮微交互；强度：电影级"
+  "motion": "动效：全屏视频背景、电影级光影流动、缓慢镜头推进、文字淡入揭示、悬浮导航/按钮微交互；强度：电影级",
+  "id": "ce534c4e-5e6d-46af-92bf-27140ce5ab37",
+  "tags": [
+   "流体",
+   "文字动画",
+   "视频背景",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Frontier",
   "key": "media/motionsites/sites/frontier/poster/media-pipeline-v1/0abcb9e40d947f3d615fa3ea6f42d536b06b87d2723cb1bc8f6d47633460ec65",
-  "motion": "动效：文字渐入上浮、界面卡片悬浮/依次揭示、花卉前景视差漂浮、光标交互、HUD数据图表动态增长；强度：轻动效"
+  "motion": "动效：文字渐入上浮、界面卡片悬浮/依次揭示、花卉前景视差漂浮、光标交互、HUD数据图表动态增长；强度：轻动效",
+  "id": "88db028b-23cf-45da-b771-c63eb90f7c62",
+  "tags": [
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "HUD/数据",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Data Relay",
   "key": "media/motionsites/sites/data-relay/poster/media-pipeline-v1/c5dd97ef5301fed49e6c65395493082ccf2769e9f1dd076eca7e18263f093559",
-  "motion": "动效：3D场景旋转、粒子/球体流动变形、滚动视差、文字与模块渐入揭示、悬浮按钮交互；强度：强动效"
+  "motion": "动效：3D场景旋转、粒子/球体流动变形、滚动视差、文字与模块渐入揭示、悬浮按钮交互；强度：强动效",
+  "id": "1efb915f-a306-4066-a22d-7058a1567334",
+  "tags": [
+   "粒子",
+   "视差",
+   "3D",
+   "流体",
+   "文字动画",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Deep Neural Interface",
   "key": "media/motionsites/sites/deep-neural-interface/poster/media-pipeline-v1/5e5eb720b91e8b0b2b8fb151f3e730fbdb70fe3e7ba1f4e29c361d2a612c489f",
-  "motion": "动效：全屏视频背景、水下粒子漂浮、人物/背景缓慢视差、文字淡入揭示、光影波动；强度：强动效"
+  "motion": "动效：全屏视频背景、水下粒子漂浮、人物/背景缓慢视差、文字淡入揭示、光影波动；强度：强动效",
+  "id": "c03fa2d8-a856-4994-98c7-c4dac8ce3ca6",
+  "tags": [
+   "粒子",
+   "视差",
+   "文字动画",
+   "视频背景",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "DeepThink",
   "key": "",
-  "motion": "聊天示例文字逐步变化，输入框边缘光效流动",
-  "strength": "轻"
+  "motion": "上下滚动平滑切换两屏，导航锚点点击触发定位",
+  "strength": "轻",
+  "id": "bb6806e5-93f8-456f-99c7-c968594648b4",
+  "tags": [
+   "滚动触发",
+   "分屏切换"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Digital Director",
   "key": "media/motionsites/sites/digital-director/poster/media-pipeline-v1/0ff05bccabc1cee7824fd8f7b8c90ee2a7aec335a1d5ed3a69b7bdf473b3b957",
-  "motion": "动效：全屏视频背景、文字分裂/故障感入场、图层揭示、光效脉冲、光标/鼠标交互；强度：强动效"
+  "motion": "全屏视频背景自动循环播放，前景界面固定叠加展示",
+  "id": "5876679e-7e6d-4d33-ae03-6640df390b23",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Data Storytelling",
   "key": "media/motionsites/sites/data-storytelling/poster/media-pipeline-v1/d4472ac46a616c525a8de14d01b5f9765811b2a6a05760da4776765fa8c1ac10",
-  "motion": "动效：滚动视差、图层揭示、文字淡入/逐字出现、自然场景微动（苔藓/光影）、悬浮导航与按钮交互；强度：轻动效"
+  "motion": "动效：滚动视差、图层揭示、文字淡入/逐字出现、自然场景微动（苔藓/光影）、悬浮导航与按钮交互；强度：轻动效",
+  "id": "4dd9f11f-fd26-4265-8927-c44d3d518854",
+  "tags": [
+   "视差",
+   "文字动画",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Performance Run",
   "key": "media/motionsites/sites/performance-run/poster/media-pipeline-v1/c1d621a0c9ab534ee75675e3b2cf3cb29b8a090a9a3f7398878413530afb13fe",
-  "motion": "动效：全屏视频背景、横向运动模糊/速度线、文字渐入上浮、按钮悬浮微交互、数据/HUD信息淡入；强度：强动效"
+  "motion": "动效：全屏视频背景、横向运动模糊/速度线、文字渐入上浮、按钮悬浮微交互、数据/HUD信息淡入；强度：强动效",
+  "id": "0d9c6738-e99c-484a-bbb0-4ab5f019a1fe",
+  "tags": [
+   "文字动画",
+   "视频背景",
+   "HUD/数据",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Arctic Lab",
   "key": "media/motionsites/sites/arctic-lab/poster/media-pipeline-v1/5f96033378348ad4351026d9a8795fefeede3db27e1c7460f685defcbb2f7a46",
-  "motion": "动效：3D场景旋转、鼠标交互、滚动视差、图层揭示、文字渐显；强度：强动效"
+  "motion": "动效：3D场景旋转、鼠标交互、滚动视差、图层揭示、文字渐显；强度：强动效",
+  "id": "3e030b8e-2d4c-4739-9b8c-d3c64a979151",
+  "tags": [
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Orbit Flora",
   "key": "media/motionsites/sites/orbit-flora/poster/media-pipeline-v1/0313a0c2d1653bb210723aa20399cb757f71f9c526e87de420cd81756d898b5e",
-  "motion": "动效：3D花朵悬浮旋转、像素粒子闪烁、鼠标视差交互、文字图层揭示、微光脉冲；强度：强动效"
+  "motion": "巨型字与百合依次入场，鼠标移动触发形变遮罩揭示花朵",
+  "id": "b6b27a95-4247-4e38-ade0-9ef66084ae2b",
+  "tags": [
+   "文字动画",
+   "遮罩揭示",
+   "悬停交互",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Futuristic Eyewear",
   "key": "media/motionsites/sites/futuristic-eyewear/poster/media-pipeline-v1/405e03bf2433edbabf0861f4cbb8a0f212657fafd81036e39ebaf4a3d0edd3c9",
-  "motion": "动效：全屏视频背景、滚动视差、光标/鼠标交互、悬浮卡片；强度：电影级"
+  "motion": "动效：全屏视频背景、滚动视差、光标/鼠标交互、悬浮卡片；强度：电影级",
+  "id": "06039526-78c5-43fc-b62a-e0a8736456bc",
+  "tags": [
+   "视差",
+   "视频背景",
+   "悬停交互",
+   "滚动触发"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Mind-Body Healing",
   "key": "media/motionsites/sites/mind-body-healing/poster/media-pipeline-v1/afa891ae4ba1ded1129bd76fbb5ac985425f911c694aab681f8c4942bf181743",
-  "motion": "动效：3D场景轻微旋转、脑部发光脉冲、流体/半透明材质呼吸、背景渐变光晕流动、文字淡入上移、HUD数据渐显、鼠标视差交互；强度：强动效"
+  "motion": "全屏背景视频循环播放，移动端菜单图标切换触发交互",
+  "id": "b77c95d7-a443-4c8f-b53e-9f8699d3d413",
+  "tags": [
+   "视频背景",
+   "玻璃拟态",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Breathstone",
   "key": "media/motionsites/sites/breathstone/poster/media-pipeline-v1/9018481d976e5b33a678e1c35ee39e0821fa3b82e2485171931a5cf7fb158bbd",
-  "motion": "动效：滚动视差、自然环境微动效（鸟飞/草木轻摆）、图层渐显、光影氛围变化、鼠标悬浮交互；强度：轻动效"
+  "motion": "动效：滚动视差、自然环境微动效（鸟飞/草木轻摆）、图层渐显、光影氛围变化、鼠标悬浮交互；强度：轻动效",
+  "id": "bd5d283b-01a7-42e4-a782-c89703890ba2",
+  "tags": [
+   "视差",
+   "悬停交互",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "TrustFlow",
   "key": "media/motionsites/sites/trustflow/poster/media-pipeline-v1/c01a95419ffb56c1dde1a05f8b5e108268656f1d893644a88c62066729d53137",
-  "motion": "动效：图层揭示、柔和滚动视差、文字淡入上移、悬浮按钮微交互；强度：轻动效"
+  "motion": "英雄区视频加载后自动播放，结束后画布逐帧正反向循环",
+  "id": "c9ddc911-c8ad-4cb2-a386-d541d1116c9a",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Mythic VPN",
   "key": "media/motionsites/sites/mythic-vpn/poster/media-pipeline-v1/f8db43f6b3fa811b284212f722031139ba5b70212b2a907be48ce31e4f01d5af",
-  "motion": "动效：滚动视差、3D/流体场景微动、悬浮卡片、光效流动、鼠标交互；强度：电影级"
+  "motion": "动效：滚动视差、3D/流体场景微动、悬浮卡片、光效流动、鼠标交互；强度：电影级",
+  "id": "abb80161-e462-4a7a-abe4-f37e93706757",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "流体",
+   "悬停交互",
+   "滚动触发"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Runtime",
   "key": "media/motionsites/sites/ai-runtime/poster/media-pipeline-v1/7542e9c752ebb264fe61ff718f2b7cebc094bfd61ad21c4944256322e2e20f6b",
-  "motion": "动效：粒子/字符矩阵流动、流体渐变变形、文字逐字显现、光效脉冲、HUD数据数字滚动、鼠标悬浮微交互；强度：强动效"
+  "motion": "全屏背景视频加载后自动播放并循环，持续动态运动",
+  "id": "c02f682a-c2e4-4945-94d1-86269919c41f",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Innovation Lab",
   "key": "media/motionsites/sites/innovation-lab/poster/media-pipeline-v1/aa12f02a1ee1e35d8ad61c5cdefa07fe76df0282f94453ab30fff1c228cd846b",
-  "motion": "动效：全屏视频/动态自然场景背景、3D光球缓慢漂浮、蝴蝶飞行动画、景深视差、花丛粒子摇曳、文字淡入上移、按钮悬浮微交互、光晕脉冲；强度：强动效"
+  "motion": "全屏循环视频作背景，页面元素加载时依次淡入并向上移动",
+  "id": "c285cfa5-173f-4bf1-8fa6-afa966cc2019",
+  "tags": [
+   "视频背景",
+   "入场离场",
+   "分屏切换"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Mindful Companion",
   "key": "media/motionsites/sites/mindful-companion/poster/media-pipeline-v1/ab4b4926416e07be01ea54406a5944e93794eb3b3f0fc9b5ef30ffc1961b15ec",
-  "motion": "动效：缓慢云层漂移、柔和光晕呼吸、手机界面悬浮、文字淡入上浮、页面滚动视差；强度：轻动效"
+  "motion": "动效：缓慢云层漂移、柔和光晕呼吸、手机界面悬浮、文字淡入上浮、页面滚动视差；强度：轻动效",
+  "id": "9d5a8d41-42f1-4bc6-86c9-23ace703c781",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "文字动画",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Agent Crew",
   "key": "media/motionsites/sites/agent-crew/poster/media-pipeline-v1/2e866e67ece6b78740d628ac9985bc39dc62ccd9b160592fff6b8487fbfe2f88",
-  "motion": "动效：横向滚动/滑入的角色头像、飞机与云层视差滚动、手绘线稿逐帧/路径描边、文字淡入上移、按钮悬停微交互；强度：轻动效"
+  "motion": "动效：横向滚动/滑入的角色头像、飞机与云层视差滚动、手绘线稿逐帧/路径描边、文字淡入上移、按钮悬停微交互；强度：轻动效",
+  "id": "04269b90-02f7-4f74-a320-f6b606d69044",
+  "tags": [
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Signal ID",
   "key": "media/motionsites/sites/signal-id/poster/media-pipeline-v1/5531be6dd7495905d20b6aa838fdf3fbcbb7ab5c11665607438dc213cc6d98b5",
-  "motion": "动效：3D场景旋转、光效脉冲与镜面流光、悬浮漂移、鼠标视差交互、表单/HUD渐显；强度：强动效"
+  "motion": "全屏暗色抽象3D人脸背景视频自动循环变幻",
+  "id": "a46d9236-ab5c-4ed2-9304-9f4464ccf1c6",
+  "tags": [
+   "视频背景",
+   "3D"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Bitcoin Yield",
   "key": "media/motionsites/sites/bitcoin-yield/poster/media-pipeline-v1/198384f77d2373279247d85e79d156304eb80abd5a00c6d82e002e357e89b9da",
-  "motion": "动效：缓慢景深视差、树木层次漂移、文字淡入揭示、按钮悬停微光、背景颗粒/暗光呼吸；强度：轻动效"
+  "motion": "动效：缓慢景深视差、树木层次漂移、文字淡入揭示、按钮悬停微光、背景颗粒/暗光呼吸；强度：轻动效",
+  "id": "5fe37d84-c858-4efb-ad36-6080435520d2",
+  "tags": [
+   "粒子",
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Intelligent Systems",
   "key": "media/motionsites/sites/intelligent-systems/poster/media-pipeline-v1/03e7b1d112ab02517da734df20f1aae41cbaf5037715b3b8b67769fdcff0f0b0",
-  "motion": "动效：文字分段揭示、数据数字滚动、图表描线增长、悬浮卡片微浮动、渐变光效流动、按钮悬停反馈、滚动触发入场；强度：轻动效"
+  "motion": "动效：文字分段揭示、数据数字滚动、图表描线增长、悬浮卡片微浮动、渐变光效流动、按钮悬停反馈、滚动触发入场；强度：轻动效",
+  "id": "526347c5-db22-46de-994a-90795ee71626",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "渐变",
+   "HUD/数据",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Halo Sound",
   "key": "media/motionsites/sites/halo-sound/poster/media-pipeline-v1/44ba820f982a677aee051e1639af01f1519ef2b40eb533deeb5e066f96ee921e",
-  "motion": "动效：全屏视频/微动态背景、水面波纹与漂浮花朵、人物与产品视差分层、文字淡入/逐字揭示、光标悬浮交互；强度：轻动效"
+  "motion": "动效：全屏视频/微动态背景、水面波纹与漂浮花朵、人物与产品视差分层、文字淡入/逐字揭示、光标悬浮交互；强度：轻动效",
+  "id": "678a72fe-e2ea-45ac-9855-bd83dccfe398",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "AI Companions",
   "key": "media/motionsites/sites/ai-companions/poster/media-pipeline-v1/f23832ca89d306136ff8edd835cefe98fb96c7426314a1deaf5865579ad05807",
-  "motion": "动效：3D场景旋转、悬浮照片卡片、光效脉冲、缓慢镜头推进、文字淡入揭示；强度：电影级"
+  "motion": "动效：3D场景旋转、悬浮照片卡片、光效脉冲、缓慢镜头推进、文字淡入揭示；强度：电影级",
+  "id": "f3a338e5-595a-4d0f-ade9-8d27da626914",
+  "tags": [
+   "光效脉冲",
+   "3D",
+   "文字动画",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Immersive Studio",
   "key": "media/motionsites/sites/immersive-studio/poster/media-pipeline-v1/ef479e0b454f9c614386adf725739e63d79b1047f1d739b4df94d17ba6258044",
-  "motion": "动效：3D场景视差、花瓣/粒子漂浮、光球柔和脉冲、花朵生长散落、文字渐显分裂动画、鼠标悬浮微交互；强度：电影级"
+  "motion": "动效：3D场景视差、花瓣/粒子漂浮、光球柔和脉冲、花朵生长散落、文字渐显分裂动画、鼠标悬浮微交互；强度：电影级",
+  "id": "fb4f62d5-26d1-43d5-a640-76e073e09c3f",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Silent Velocity",
   "key": "media/motionsites/sites/silent-velocity/poster/media-pipeline-v1/c300fc867c92052a1096fa536063e95ee376a70241473e30363f0113e3a65672",
-  "motion": "动效：3D车型旋转展示、图层揭示、文字分裂入场、悬浮按钮微交互、HUD分页切换；强度：强动效"
+  "motion": "动效：3D车型旋转展示、图层揭示、文字分裂入场、悬浮按钮微交互、HUD分页切换；强度：强动效",
+  "id": "8c7f309b-4df7-4335-9c22-054d07d06dbd",
+  "tags": [
+   "3D",
+   "文字动画",
+   "HUD/数据",
+   "遮罩/揭示",
+   "分屏/切换",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Fun 404 Page",
   "key": "media/motionsites/sites/fun-404-page/poster/media-pipeline-v1/3cd4205b5171fb90ee7e4baf904b3d0a9ab47617e6e7348748e00ae91faa1271",
-  "motion": "动效：3D角色悬浮/轻微呼吸、角色入场弹性动画、404数字图层揭示、星光闪烁、按钮悬停反馈；强度：轻动效"
+  "motion": "导航与菜单按钮悬停时透明度轻微过渡变化",
+  "id": "50f3e923-7be4-4455-a26b-9fe80d002c08",
+  "tags": [
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Agent Grove",
   "key": "media/motionsites/sites/agent-grove/poster/media-pipeline-v1/e1f026c0671fd1637a0a98234ae06d94a024773fe2b62bcb7f320589b5b34337",
-  "motion": "动效：全屏视频背景、缓慢镜头推进/视差、光影氛围流动、悬浮卡片淡入上浮、文字渐显、数字滚动、按钮悬停交互；强度：电影级"
+  "motion": "全屏背景视频自动静音循环播放，前景内容固定叠加展示",
+  "id": "8c75d3c1-6777-41fe-b16e-82b705e7dba5",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Inner Quest",
   "key": "media/motionsites/sites/inner-quest/poster/media-pipeline-v1/ec0ea10bda73c48d7a9309cb74acfa949e5a78d026c5923e8855b3d63f0f3dc8",
-  "motion": "动效：粒子点阵/网格形态渐显、滚动视差、光标悬浮交互、文字淡入上移；强度：轻动效"
+  "motion": "动效：粒子点阵/网格形态渐显、滚动视差、光标悬浮交互、文字淡入上移；强度：轻动效",
+  "id": "4b1fea3c-3ee5-4766-ad37-ee5c842316e0",
+  "tags": [
+   "粒子",
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Aesthetic Dental Clinic",
   "key": "media/motionsites/sites/aesthetic-dental-clinic/poster/first-frame-v1/d6c4651eabce1dc8e28736d932ca50dd9b2990bb66ef98df7d387abc07d36c76",
-  "motion": "动效：图层揭示、文字逐字入场、悬浮信息标注、光标/鼠标交互、轻微视差缩放；强度：轻动效"
+  "motion": "动效：图层揭示、文字逐字入场、悬浮信息标注、光标/鼠标交互、轻微视差缩放；强度：轻动效",
+  "id": "e0d64a48-858a-488c-a753-1fe68f2ce7d9",
+  "tags": [
+   "视差",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Coastal Estate",
   "key": "media/motionsites/sites/coastal-estate/poster/media-pipeline-v1/bceb41fd77a6177ac95c262edce9e72adc5476eb6f7d719d1f8784eff445d462",
-  "motion": "动效：全屏视频/微动态背景、文字分层揭示、滚动视差、光影与薄雾漂浮、按钮悬浮交互；强度：轻动效"
+  "motion": "动效：全屏视频/微动态背景、文字分层揭示、滚动视差、光影与薄雾漂浮、按钮悬浮交互；强度：轻动效",
+  "id": "3eae252c-682c-4115-958d-f4970123c69d",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Intelligent Operations",
   "key": "media/motionsites/sites/intelligent-operations/poster/media-pipeline-v1/75a74eb2d3155c08e13b6ef6a49702f5fae5829170b7996ed6091718bac87e6b",
-  "motion": "动效：悬浮粒子光点、光效脉冲、图层渐入揭示、文字淡入上移、鼠标视差互动；强度：轻动效"
+  "motion": "滚动逐帧驱动全屏3D抽象视频演变，粒子漂浮",
+  "id": "f6ce6818-dc07-4cca-b9ab-61453644a2fd",
+  "tags": [
+   "3D",
+   "视频背景",
+   "滚动触发",
+   "粒子",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cybersecurity",
   "key": "media/motionsites/sites/cybersecurity/poster/media-pipeline-v1/736d2c1dbb1d7c38cbffa2e2e1eb67b46189057ab8b26136fdcec9907ef14c03",
-  "motion": "动效：3D场景旋转、流体/机械结构变形、粒子漂浮、文字分裂/扫描动画、HUD数据动效、光效脉冲；强度：电影级"
+  "motion": "动效：3D场景旋转、流体/机械结构变形、粒子漂浮、文字分裂/扫描动画、HUD数据动效、光效脉冲；强度：电影级",
+  "id": "9207b813-1954-40a8-bc61-03adb85a268a",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "3D",
+   "流体",
+   "文字动画",
+   "扫描/划屏",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Skybridge 404",
   "key": "media/motionsites/sites/skybridge-404/poster/media-pipeline-v1/1592cbe7d0d9be5124c50586ef7ae2ae73457ecfcab2789da681afb97cd8ad88",
-  "motion": "动效：粒子漂浮、云层缓慢流动、光点闪烁、文字/数字淡入揭示、轻微景深视差；强度：轻动效"
+  "motion": "页面加载后全屏视频背景自动循环播放，404文字与Logo静态叠加",
+  "id": "0a943fe4-447d-4417-8fba-b6bca60f27cb",
+  "tags": [
+   "视频背景",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Editorial Eyewear",
   "key": "media/motionsites/sites/editorial-eyewear/poster/media-pipeline-v1/c2abb4d65f9dbbb48b8791910a64ba1c3ddca21d8678e45487eb7a18da26efb9",
-  "motion": "动效：全屏视频背景、文字图层揭示、悬停按钮微交互、滚动视差；强度：轻动效"
+  "motion": "动效：全屏视频背景、文字图层揭示、悬停按钮微交互、滚动视差；强度：轻动效",
+  "id": "43dfd104-a10a-4abd-a552-0fd927de2e92",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Routine Coach",
   "key": "media/motionsites/sites/routine-coach/poster/media-pipeline-v1/4ad042242f09fe5f7eabd0f44fca763233112f828104b8da204d2fb19bdc0beb",
-  "motion": "动效：全屏视频背景、人物/云层轻微视差、文字渐入上移、悬浮手机卡片、按钮悬停微交互；强度：轻动效"
+  "motion": "动效：全屏视频背景、人物/云层轻微视差、文字渐入上移、悬浮手机卡片、按钮悬停微交互；强度：轻动效",
+  "id": "047e2722-0876-4803-8529-41425ac10c0b",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Open Agent",
   "key": "media/motionsites/sites/open-agent/poster/media-pipeline-v1/8f434ab93b038270d4401eb2236e8dd9fa827dc345068e9a4f42d63041441852",
-  "motion": "动效：全屏视频背景、草地与云层环境微动效、3D场景轻视差、门户光效脉冲、文字渐显、按钮悬浮反馈；强度：强动效"
+  "motion": "动效：全屏视频背景、草地与云层环境微动效、3D场景轻视差、门户光效脉冲、文字渐显、按钮悬浮反馈；强度：强动效",
+  "id": "9b467c85-58c8-4f4a-bf77-b10a799ce961",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "文字动画",
+   "视频背景",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Augmented Sight",
   "key": "media/motionsites/sites/augmented-sight/poster/media-pipeline-v1/f0d085ead9a0ceaa6bfea6eab036c99f1a7d3095d9ab45ac6f11b12c449880b0",
-  "motion": "动效：视差分层、悬浮卡片、光效脉冲、图层揭示、鼠标交互；强度：强动效"
+  "motion": "动效：视差分层、悬浮卡片、光效脉冲、图层揭示、鼠标交互；强度：强动效",
+  "id": "e80151c8-1e62-482a-b463-441d363cf76d",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Creator Guild",
   "key": "media/motionsites/sites/creator-guild/poster/media-pipeline-v1/9c028d86e502ac80c33c0f79fa354b4f202a0806ee1dd0d340150f3a9f1a7cb4",
-  "motion": "动效：3D毛绒球缓慢旋转、毛发流体摆动、鼠标悬浮微交互、数字滚动增长、渐变光效呼吸；强度：强动效"
+  "motion": "动效：3D毛绒球缓慢旋转、毛发流体摆动、鼠标悬浮微交互、数字滚动增长、渐变光效呼吸；强度：强动效",
+  "id": "ec0d3c18-1e4e-4772-9a36-e2d4b987fcd2",
+  "tags": [
+   "光效脉冲",
+   "3D",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "渐变"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Cloud Kicks",
   "key": "media/motionsites/sites/cloud-kicks/poster/media-pipeline-v1/bd6968e5bde5ea4fef64f6e183d52bbe03b1740b061ed3a1168515b817a262d6",
-  "motion": "动效：全屏视频/动态背景、3D产品悬浮旋转、云层流动、文字淡入/位移动画、鼠标悬停交互；强度：强动效"
+  "motion": "动效：全屏视频/动态背景、3D产品悬浮旋转、云层流动、文字淡入/位移动画、鼠标悬停交互；强度：强动效",
+  "id": "d01b7030-2b17-42e3-87a0-69ae6d8275f1",
+  "tags": [
+   "3D",
+   "流体",
+   "文字动画",
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Form Study",
   "key": "media/motionsites/sites/form-study/poster/media-pipeline-v1/28f66ccb4f3ae34a30b92985726e2e41395fe966abb886528214c70d90f7b6a3",
-  "motion": "动效：3D场景旋转、粒子/线框轨迹、光效脉冲与色散闪烁、鼠标悬浮交互、图层揭示、HUD数据切换；强度：强动效"
+  "motion": "动效：3D场景旋转、粒子/线框轨迹、光效脉冲与色散闪烁、鼠标悬浮交互、图层揭示、HUD数据切换；强度：强动效",
+  "id": "0d18179d-3700-462d-8568-bbafe72b8323",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "3D",
+   "悬停交互",
+   "HUD/数据",
+   "遮罩/揭示",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Build Unit",
   "key": "media/motionsites/sites/build-unit/poster/media-pipeline-v1/868dbb8d79e4f9e8c7e989d093998a01098a34b6d9c842c90544fcde1632c80d",
-  "motion": "动效：3D场景旋转、金属环形结构缓慢浮动、中心红色光效脉冲、鼠标视差交互、玻璃卡片悬浮/渐入、文字分段揭示；强度：强动效"
+  "motion": "动效：3D场景旋转、金属环形结构缓慢浮动、中心红色光效脉冲、鼠标视差交互、玻璃卡片悬浮/渐入、文字分段揭示；强度：强动效",
+  "id": "ae3e3baa-1f44-4479-a5d0-320b9f0498dc",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "玻璃拟态",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Adaptive Learning",
   "key": "media/motionsites/sites/adaptive-learning/poster/media-pipeline-v1/2e8453d5636caec1d389fe6b4e2d0f55e97588c72c6e3468b30fa2a786df408e",
-  "motion": "动效：DNA螺旋3D缓慢旋转、粒子/微尘漂浮、滚动视差、文字与卡片渐显上移、按钮悬停光效；强度：轻动效"
+  "motion": "动效：DNA螺旋3D缓慢旋转、粒子/微尘漂浮、滚动视差、文字与卡片渐显上移、按钮悬停光效；强度：轻动效",
+  "id": "cf4e46ee-393a-4026-86ed-bba50edf1787",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "视差",
+   "3D",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Motion Frame",
   "key": "media/motionsites/sites/motion-frame/poster/media-pipeline-v1/a7349ffb13e0fdf360a34c02551e54461364f709184486caf17572f9d09ff1b5",
-  "motion": "动效：全屏视频背景、电影级镜头推进、人物奔跑动作、动态光影、文字入场/揭示、鼠标悬浮导航交互；强度：电影级"
+  "motion": "动效：全屏视频背景、电影级镜头推进、人物奔跑动作、动态光影、文字入场/揭示、鼠标悬浮导航交互；强度：电影级",
+  "id": "92fc0c08-06e5-40e3-9848-6ecad1c036e6",
+  "tags": [
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sites",
   "name": "Ink Dynasty",
   "key": "media/motionsites/sites/ink-dynasty/poster/media-pipeline-v1/7addc2634c7a68b9b16134f46665105b04067f0b48378d52d9d237b4c5d56ef1",
-  "motion": "动效：水墨山景滚动视差、图层渐显/卷轴揭示、文字逐字淡入、屋檐轻微悬浮；强度：轻动效"
+  "motion": "动效：水墨山景滚动视差、图层渐显/卷轴揭示、文字逐字淡入、屋檐轻微悬浮；强度：轻动效",
+  "id": "0982d8a0-c576-45de-afea-97ea584563f4",
+  "tags": [
+   "视差",
+   "文字动画",
+   "滚动触发",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Footballer Portfolio",
   "key": "media/motionsites/apps/footballer-portfolio/poster/first-frame-v1/c335015037fdeb99114b47b5a597aa04e78e3fa45b4d3c5cfa01f514fc1aa44f",
-  "motion": "ERR:524"
+  "motion": "ERR:524",
+  "id": "43e9e2d1-32e0-4a70-a9a9-a331d9549955",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Cross-Border",
   "key": "media/motionsites/apps/cross-border/poster/first-frame-v1/14ccc03947d4c3724dd87f381b556c05c65faff7b2dcbeeafb7dbf02a7777515",
-  "motion": "动效：全屏视频背景、文字逐字/分裂入场、图层揭示、按钮光效脉冲、悬浮卡片/手机微浮动；强度：强动效"
+  "motion": "视频就绪后导航标题分向滑入，滚动触发内容入场，菜单错峰展开",
+  "id": "7ab5fd2a-7535-4ce4-9bf0-42f55d70f0c2",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "滚动触发",
+   "入场离场",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Aurora Onboard",
   "key": "",
-  "motion": "注册引导与表单整体水平滑动切换",
-  "strength": "强"
+  "motion": "页面加载时视频循环播放，英雄区内容按序淡入并上移。",
+  "strength": "强",
+  "id": "de8e6895-65ee-4472-8da0-88cbf73e5d4c",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "CARGOX Mobile",
   "key": "media/motionsites/apps/cargox-mobile/poster/first-frame-v1/757d41334cc0810727564da943e5c1f753ac2b3dc6ac908f4172a73ad4141d3f",
-  "motion": "动效：卡片悬浮入场、文字分段揭示、数字滚动计数、地图节点/路径脉冲、按钮悬停光效、页面切换滑动；强度：轻动效"
+  "motion": "动效：卡片悬浮入场、文字分段揭示、数字滚动计数、地图节点/路径脉冲、按钮悬停光效、页面切换滑动；强度：轻动效",
+  "id": "e921ded4-27ae-4449-90b7-e1fccaf274e9",
+  "tags": [
+   "光效脉冲",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示",
+   "分屏/切换",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Place Saver",
   "key": "media/motionsites/apps/place-saver/poster/first-frame-v1/b692a0b0000d46e1f76281f80bcdf28643272a6adf2db855a262960aa141bcff",
-  "motion": "动效：电影感全屏视频背景、粒子爆发/星尘流动、光效脉冲、文字淡入分层、卡片与按钮渐入、订阅选项交互高亮；强度：电影级"
+  "motion": "两部手机内视频背景自动循环播放，视频加载及字体就绪后启动动效（5秒兜底）",
+  "id": "88164436-53da-4069-8795-d6bc420539eb",
+  "tags": [
+   "视频背景",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Remit Race",
   "key": "media/motionsites/apps/remit-race/poster/first-frame-v1/eac6e4afe869528ca378f849241db5b03bf33191f6759a7d97d94e5a2a008ac7",
-  "motion": "动效：3D地球旋转、粒子网络流动、光环扫光、数字倒计时滚动、卡片浮层切换、文字分屏/逐字入场、轮播滑动、按钮悬浮交互；强度：强动效"
+  "motion": "动效：3D地球旋转、粒子网络流动、光环扫光、数字倒计时滚动、卡片浮层切换、文字分屏/逐字入场、轮播滑动、按钮悬浮交互；强度：强动效",
+  "id": "afebd1d2-3132-4d41-9678-f4e0729c2b7f",
+  "tags": [
+   "粒子",
+   "3D",
+   "流体",
+   "文字动画",
+   "扫描/划屏",
+   "滚动触发",
+   "分屏/切换",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Mood Tracker",
   "key": "media/motionsites/apps/mood-tracker/poster/first-frame-v1/499b4a9d470e1ef913f0eae5de65171c2d38d4ac251cc671bac09d56a400f4ce",
-  "motion": "动效：柔和背景视差、半透明玻璃卡片悬浮/渐入、页面滑动切换、进度条/数据增长、按钮轻微缩放反馈、植物背景慢速漂移；强度：轻动效"
+  "motion": "动效：柔和背景视差、半透明玻璃卡片悬浮/渐入、页面滑动切换、进度条/数据增长、按钮轻微缩放反馈、植物背景慢速漂移；强度：轻动效",
+  "id": "8e9afed0-bb2f-46e2-9036-35661eeef59e",
+  "tags": [
+   "视差",
+   "玻璃拟态",
+   "HUD/数据",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "AI Calorie Tracker",
   "key": "media/motionsites/apps/ai-calorie-tracker/poster/first-frame-v1/823166dba6b502134e2b2666e9d615361701149876ea675bda082e7591926cf5",
-  "motion": "动效：卡片悬浮切换、页面滑动转场、热量数字滚动、圆环进度动画、食物图片缩放/渐显、底部导航微交互；强度：轻动效"
+  "motion": "动效：卡片悬浮切换、页面滑动转场、热量数字滚动、圆环进度动画、食物图片缩放/渐显、底部导航微交互；强度：轻动效",
+  "id": "12389bdf-1135-432d-b8bb-b22f86f221cc",
+  "tags": [
+   "文字动画",
+   "滚动触发",
+   "分屏/切换",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Supplement Shop",
   "key": "media/motionsites/apps/supplement-shop/poster/first-frame-v1/ae23a6a9e6ed83bce44cb5e166c07770339ef112bea1717b12234dacb6418098",
-  "motion": "动效：3D场景旋转、产品瓶罐悬浮/轮播、景深背景光影流动、页面元素淡入上滑；强度：强动效"
+  "motion": "动效：3D场景旋转、产品瓶罐悬浮/轮播、景深背景光影流动、页面元素淡入上滑；强度：强动效",
+  "id": "d18a6adb-bd1a-44d2-b09d-2988c1bf43ec",
+  "tags": [
+   "3D",
+   "流体",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "ADHD Planner",
   "key": "media/motionsites/apps/adhd-planner/poster/media-pipeline-v1/4ea082fc8f6d27a434a5b33b71609b4fb7822c7e42a2cf28cf0e037c53aa88e8",
-  "motion": "动效：全屏视频背景、人物微动态、文字渐入/分段揭示、光影呼吸、悬浮按钮交互；强度：轻动效"
+  "motion": "首屏视频循环播放，点击菜单旋转成叉并展开下拉菜单",
+  "id": "4cc14b2b-12b8-4d9b-b94a-a8cd79834d06",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "LearnHub",
   "key": "media/motionsites/apps/skills-lea/poster/first-frame-v1/79dfebaa99fdd2c53a4b22bf4a20075d13c77d67ddeb0d96629e15e2f31631c0",
-  "motion": "动效：手机界面轮播/滑入、渐变光影流动、卡片悬浮入场、文字淡入上移、按钮微光脉冲、页面切换转场；强度：轻动效"
+  "motion": "动效：手机界面轮播/滑入、渐变光影流动、卡片悬浮入场、文字淡入上移、按钮微光脉冲、页面切换转场；强度：轻动效",
+  "id": "ca338aa1-5128-4bd8-9287-ec8174af665b",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "文字动画",
+   "渐变",
+   "分屏/切换",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Church Community",
   "key": "media/motionsites/apps/church-community/poster/first-frame-v1/537c228cb598c7b7def7c8962f235697647f6306ac185a5c5a75a97763b723bb",
-  "motion": "动效：手机界面切换、卡片/内容滑入、图片淡入与轻微缩放、播放按钮脉冲、日程列表滚动、悬浮微动；强度：轻动效"
+  "motion": "三部手机桌面横向滚动浏览，移动端随屏宽缩放并纵向堆叠",
+  "id": "2aeefa36-09e6-45f0-a6f1-e0e6ed30bc9b",
+  "tags": [
+   "滚动触发",
+   "分屏切换"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Luxury Escapes",
   "key": "media/motionsites/apps/luxury-escapes/poster/first-frame-v1/b2c269b1f3e42534778bb529233d074f7d672585666d8be914ca2ee323d0247b",
-  "motion": "动效：文字逐字/分裂入场、全屏视频背景、图层揭示、滚动视差、光标/鼠标交互、数字滚动、卡片悬浮；强度：强动效"
+  "motion": "动效：文字逐字/分裂入场、全屏视频背景、图层揭示、滚动视差、光标/鼠标交互、数字滚动、卡片悬浮；强度：强动效",
+  "id": "608b29bc-96f3-47e5-9caf-3f41220456a1",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Places Organizer",
   "key": "media/motionsites/apps/places-organizer/poster/first-frame-v1/b18d5ad9647d2fb656eaea04b7d3ebf12c31e32f71d958ff3c240fff211f6053",
-  "motion": "动效：全屏视频背景、光效粒子爆发、文字渐显/分层入场、3D手部与图形悬浮、订阅卡片浮现；强度：强动效"
+  "motion": "动效：全屏视频背景、光效粒子爆发、文字渐显/分层入场、3D手部与图形悬浮、订阅卡片浮现；强度：强动效",
+  "id": "73cb5df5-b9e4-4024-8811-1bb174c324a5",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "3D",
+   "文字动画",
+   "视频背景",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Movie Premiere",
   "key": "media/motionsites/apps/movie-premiere/poster/first-frame-v1/d8317ee78e491e2a11937f6f491ef43bf47f852ff6a62c7f293081373fb504b6",
-  "motion": "动效：3D设备悬浮/缓慢旋转、滚动视差、界面图层揭示、光效脉冲；强度：轻动效"
+  "motion": "动效：3D设备悬浮/缓慢旋转、滚动视差、界面图层揭示、光效脉冲；强度：轻动效",
+  "id": "6f71de05-2838-4d33-b562-a2908a105305",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Lodge Booking App",
   "key": "",
   "motion": "背景雾气与山林光影缓慢流动，卡片基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "bc727fce-9a9c-421f-9f9b-7a2743c93aaf",
+  "tags": [
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Dental Implant Clinic",
   "key": "media/motionsites/apps/dental-implant-clinic/poster/first-frame-v1/4c3592385d38e6fbf789b7d2d5ad614407f6648fd5e1cc3cf71e38310e248d9b",
-  "motion": "动效：3D物件悬浮/旋转、文字渐入上移、图层揭示、轻微视差、数字/数据弹出；强度：轻动效"
+  "motion": "动效：3D物件悬浮/旋转、文字渐入上移、图层揭示、轻微视差、数字/数据弹出；强度：轻动效",
+  "id": "50270bf4-a940-4e6d-a89a-3fc065bf3555",
+  "tags": [
+   "视差",
+   "3D",
+   "文字动画",
+   "HUD/数据",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Coffee Rewards",
   "key": "media/motionsites/apps/coffee-rewards/poster/first-frame-v1/bff61e8954274252fedc0483af097ebefb0dcc687f5dc41911b474b1d518c5a2",
-  "motion": "动效：悬浮卡片、数字滚动、渐变光效脉冲、分层入场揭示、轻微3D视差；强度：轻动效"
+  "motion": "顶部咖啡视频静音自动循环播放，作为首屏背景。",
+  "id": "19ba3b5b-4b03-4865-8308-690a10a8afdb",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Fine Jewelry Shop",
   "key": "",
   "motion": "人物与商品基本静止，疑似文字轻微闪动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "8521e3b9-cf62-436b-92d8-99d657c246eb",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Travel Explorer",
   "key": "media/motionsites/apps/travel-explorer/poster/first-frame-v1/8b2559438fc23755e436967e84070690830e8a35b0434ff6cadaf33b991b29d3",
-  "motion": "动效：手机3D悬浮旋转、背景视差、山景缓慢推移/缩放、按钮微光脉冲、文字淡入上移；强度：轻动效"
+  "motion": "动效：手机3D悬浮旋转、背景视差、山景缓慢推移/缩放、按钮微光脉冲、文字淡入上移；强度：轻动效",
+  "id": "87fa1b62-4ce6-4d32-940b-3605df144bfa",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Wellness Companion",
   "key": "media/motionsites/apps/wellness-companion/poster/first-frame-v1/cb767d2548acbe910873e9578ae20864c140c0820df897251e1714dcbaa2b25e",
-  "motion": "动效：3D手机悬浮、流体渐变背景、玻璃拟态卡片选中反馈、光效脉冲、按钮微交互；强度：轻动效"
+  "motion": "点击选项卡切换选中状态，滑动底部按钮完成确认",
+  "id": "dda701fc-95df-47ed-aaa7-32f7e6422d92",
+  "tags": [
+   "扫描划屏",
+   "磁吸弹性",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Travel Journal",
   "key": "media/motionsites/apps/travel-journal/poster/first-frame-v1/381c52d664b0945834c7db1c3cf663c529717de2e637191f9a574e4ec374b444",
-  "motion": "动效：卡片列表滚动、图片视差、文字叠层揭示、手机模型悬浮；强度：轻动效"
+  "motion": "目的地卡片列表随用户滑动在手机内纵向滚动。",
+  "id": "b92abcca-3dad-493c-bb27-932bd8dd6c3b",
+  "tags": [
+   "滚动触发",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Gear Shop",
   "key": "",
   "motion": "未见明显位移缩放，疑似局部光效变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "a559f7a3-51b7-4d5a-801d-abd4de191040",
+  "tags": [
+   "光效脉冲"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Pet Products",
   "key": "media/motionsites/apps/pet-products/poster/first-frame-v1/976e387a3ee143b9c723dc04c5e866d77ced60f1983e5caad758ec00ce4fc1d6",
-  "motion": "动效：宠物图片/卡片悬浮入场、商品卡片上滑揭示、数字计数滚动、按钮微缩放反馈、评分星标闪烁、视频播放交互；强度：轻动效"
+  "motion": "动效：宠物图片/卡片悬浮入场、商品卡片上滑揭示、数字计数滚动、按钮微缩放反馈、评分星标闪烁、视频播放交互；强度：轻动效",
+  "id": "eb13e7e9-22df-4a30-8bc7-bdd80525a805",
+  "tags": [
+   "文字动画",
+   "视频背景",
+   "滚动触发",
+   "遮罩/揭示",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Innovation Summit",
   "key": "media/motionsites/apps/innovation-summit/poster/first-frame-v1/9460a0105b77052f7475568fbd29f40062f1f29d8b9d780981a63e3d49395308",
-  "motion": "动效：3D流体光泽形体缓慢旋转、悬浮光效脉冲、页面/卡片滑入揭示、FAQ手风琴展开、标签筛选切换；强度：轻动效"
+  "motion": "动效：3D流体光泽形体缓慢旋转、悬浮光效脉冲、页面/卡片滑入揭示、FAQ手风琴展开、标签筛选切换；强度：轻动效",
+  "id": "907fc85e-ba83-4e66-ac1e-d632af12e053",
+  "tags": [
+   "光效脉冲",
+   "3D",
+   "流体",
+   "遮罩/揭示",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Fitness Dashboard",
   "key": "",
   "motion": "数据波形图曲线轻微位移变形",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "69f0c062-7a17-4737-91f1-56c18f595195",
+  "tags": [
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Nexar",
   "key": "",
   "motion": "语音提示卡右移上浮，云层山景视差漂移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "fc46e2cd-c997-4319-b575-3074317c69ba",
+  "tags": [
+   "视差",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Forecast Center",
   "key": "media/motionsites/apps/forecast-center/poster/media-pipeline-v1/c0c9ad1fbae2aa1bb4aea8f5c82f01e4d35a163892b10b66eda117904dffdfae",
-  "motion": "动效：全屏视频天气背景、闪电光效脉冲、雨雾粒子、温度数据滚动、天气曲线绘制、玻璃拟态卡片悬浮；强度：强动效"
+  "motion": "未描述明确动效，雷暴背景与液态玻璃天气仪表盘静态呈现",
+  "id": "3dc22911-f055-4773-b754-497b02af0407",
+  "tags": [
+   "玻璃拟态",
+   "HUD数据"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Bite-Sized Courses",
   "key": "media/motionsites/apps/bite-sized-courses/poster/first-frame-v1/efb2fafc98e91724e5706be8895b58b657e54150375887fbadf8879bb936a8f6",
-  "motion": "动效：悬浮卡片、机器人轻微漂浮/3D摆动、按钮点击微交互、底部导航切换、卡片内容淡入；强度：轻动效"
+  "motion": "动效：悬浮卡片、机器人轻微漂浮/3D摆动、按钮点击微交互、底部导航切换、卡片内容淡入；强度：轻动效",
+  "id": "ba990167-1d41-4796-b5dc-bf98944bef6c",
+  "tags": [
+   "3D",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "F1 Racing Hub",
   "key": "media/motionsites/apps/f1-racing-hub/poster/media-pipeline-v1/2e03bbd8b0ea54006aed682aec3e99fda528874dcd04cd29a1f7bac26b57c820",
-  "motion": "动效：图层揭示、赛车/人物视觉视差、赛道路径描边动画、数字滚动计数、卡片切换、红色光效脉冲、悬浮微交互；强度：强动效"
+  "motion": "三部手机模型依次向上淡入，页面加载自动触发",
+  "id": "20ae424d-b644-496b-942f-5495699ec947",
+  "tags": [
+   "入场离场",
+   "3D"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Modern HR Dashboard",
   "key": "",
   "motion": "图表柱状与圆形进度变化，日历提示浮动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "3bed1678-8ec8-4177-bca6-18fcdfe29ef5",
+  "tags": [
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Social Hangouts",
   "key": "",
   "motion": "卡片与背景光晕轻微漂浮变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "e41d4175-33d0-4aac-8986-f6fa35411eb3",
+  "tags": [
+   "光效脉冲"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Album App",
   "key": "media/motionsites/apps/album-release/poster/media-pipeline-v1/c4b6fd601d8b9ffcb43b6989de6480ba490ae274a8cf0d6cfde7754a520ad01d",
-  "motion": "动效：黑胶唱片旋转、播放按钮光效/脉冲、按钮悬停交互、封面与文字淡入揭示；强度：轻动效"
+  "motion": "动效：黑胶唱片旋转、播放按钮光效/脉冲、按钮悬停交互、封面与文字淡入揭示；强度：轻动效",
+  "id": "4e5c7519-fa46-4b8e-b2cd-a11c050a0c85",
+  "tags": [
+   "光效脉冲",
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Sweet Question",
   "key": "media/motionsites/apps/sweet-question/poster/media-pipeline-v1/7256b4eeab6dd455a1d5f324f2918d5c7c7519b5ea21152d1d456bb4f54cfd04",
-  "motion": "动效：漂浮爱心粒子、柔光脉冲、卡片轻微悬浮、文字渐显、按钮悬停反馈；强度：轻动效"
+  "motion": "动效：漂浮爱心粒子、柔光脉冲、卡片轻微悬浮、文字渐显、按钮悬停反馈；强度：轻动效",
+  "id": "c4d07181-47a9-4fc5-b9be-43af6edd4aeb",
+  "tags": [
+   "光效脉冲",
+   "粒子",
+   "文字动画",
+   "悬停交互",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Dental Care App",
   "key": "",
   "motion": "医生与牙齿画面疑似视频微动，卡片位置基本不变",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "83ca9018-95d9-40d5-a2d5-80f998df91a2",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Website Builder",
   "key": "",
   "motion": "鼠标光标位移，底部提示气泡轻微移动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d9888639-5064-4654-be6d-ebfa3d19b23f",
+  "tags": [
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Freight Command",
   "key": "",
   "motion": "列表区域有纵向扫描高亮线，状态指示灯闪烁",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "97638f78-ee79-4f4b-be0a-2533f1cb841a",
+  "tags": [
+   "扫描/划屏"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Reading Library",
   "key": "",
   "motion": "主视觉背景光影与细微粒子缓慢变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "226a0cf0-7336-4461-8496-ecd58088e1f4",
+  "tags": [
+   "粒子"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "AI Assistant App",
   "key": "media/motionsites/apps/ai-assistant-app/poster/first-frame-v1/c35beb1cf936d4c8e3f34bdddaf10c39ac47d5df130ddae5f65657751da0be15",
-  "motion": "动效：3D角色轻微摇摆/旋转、文字渐入上浮、进度条加载、按钮悬浮反馈、背景柔和光晕脉冲；强度：轻动效"
+  "motion": "动效：3D角色轻微摇摆/旋转、文字渐入上浮、进度条加载、按钮悬浮反馈、背景柔和光晕脉冲；强度：轻动效",
+  "id": "1ac3b441-9d9e-461f-83d3-c8e6ec309c2f",
+  "tags": [
+   "光效脉冲",
+   "3D",
+   "文字动画",
+   "入场/离场"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Finance Assistant",
   "key": "",
   "motion": "人物视频背景轻微动态，城市灯光闪烁",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "0f8cffb7-98f8-4074-8df8-1737c42cc14d",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "3D Property",
   "key": "media/motionsites/apps/3d-property/poster/media-pipeline-v1/877fc04a445486ea52fffe8c04576896c769ad1aa5363af1f18f6ac389b20e42",
-  "motion": "动效：3D户型场景旋转、镜头缩放与平移、房间/楼层图层揭示、HUD数据面板渐入、悬浮高亮与鼠标交互、房源卡片滚动；强度：强动效"
+  "motion": "动效：3D户型场景旋转、镜头缩放与平移、房间/楼层图层揭示、HUD数据面板渐入、悬浮高亮与鼠标交互、房源卡片滚动；强度：强动效",
+  "id": "791ff0e0-b2b2-4fe2-98b4-4630dcd85f0f",
+  "tags": [
+   "3D",
+   "悬停交互",
+   "滚动触发",
+   "HUD/数据",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Robot Battle Arena",
   "key": "",
   "motion": "机器人主体轻微位移/缩放，其他UI基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "28f0ede6-4ef5-4224-8413-083968f60b18",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Apps",
   "name": "Live Language Classes",
   "key": "media/motionsites/apps/live-language-classes/poster/first-frame-v1/900fcbc469f6a730543d8a94e4bad5daac0536b49208cab0a5356cc37a8194f5",
-  "motion": "动效：实时视频画面、音频波形跳动、字幕逐句高亮、聊天消息/输入状态、通话控制悬浮反馈；强度：轻动效"
+  "motion": "动效：实时视频画面、音频波形跳动、字幕逐句高亮、聊天消息/输入状态、通话控制悬浮反馈；强度：轻动效",
+  "id": "5a360021-3646-45fd-bfab-119ad064141c",
+  "tags": [
+   "文字动画",
+   "视频背景",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Nietzsche sustainibilty",
   "key": "media/motionsites/sections/nietzsche-sustainibilty/poster/media-pipeline-v1/ae6333563a19cfa227260d485206bf44d18fe09bffa6275da400f20a9af79d29",
-  "motion": "动效：全屏视频/自然场景微动态、滚动视差、文字淡入揭示、导航悬停交互；强度：轻动效"
+  "motion": "动效：全屏视频/自然场景微动态、滚动视差、文字淡入揭示、导航悬停交互；强度：轻动效",
+  "id": "1246a299-6aef-4e0a-806b-b4776bcab59f",
+  "tags": [
+   "视差",
+   "文字动画",
+   "视频背景",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Gridcore",
   "key": "media/motionsites/sections/gridcore/poster/media-pipeline-v1/8b548916f34c4d279b9f39a8e3d564984c8b44ce63e0119d6cba832d16d95457",
-  "motion": "动效：悬浮卡片、鼠标悬停高亮/描边、图标微浮动与局部旋转、文字/按钮淡入揭示；强度：轻动效"
+  "motion": "动效：悬浮卡片、鼠标悬停高亮/描边、图标微浮动与局部旋转、文字/按钮淡入揭示；强度：轻动效",
+  "id": "52599ccc-ada4-4a5a-9225-fcba04259fd8",
+  "tags": [
+   "文字动画",
+   "悬停交互",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Mistveil",
   "key": "media/motionsites/sections/mistveil/poster/media-pipeline-v1/1203db0a88dac71a6eeddea9c322541fac5bc4ace78e80d4c1c86fb990b800f2",
-  "motion": "动效：滚动视差、颗粒/半色调山景缓慢漂移、雾气流动、文字淡入上移、按钮悬停微交互、图层揭示；强度：轻动效"
+  "motion": "动效：滚动视差、颗粒/半色调山景缓慢漂移、雾气流动、文字淡入上移、按钮悬停微交互、图层揭示；强度：轻动效",
+  "id": "0de20a2a-5bfc-4897-b2c4-a70db52efe2d",
+  "tags": [
+   "粒子",
+   "视差",
+   "流体",
+   "文字动画",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Max Reed Portfolio",
   "key": "",
-  "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "motion": "背景视频自动循环播放，页面加载时触发。",
+  "strength": "轻",
+  "id": "117278d9-b2e0-4cbf-8be4-032e0a0b7246",
+  "tags": [
+   "视频背景",
+   "噪声纹理",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Arceage Contact Us",
   "key": "",
   "motion": "未见可辨识动态元素",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "eee5efff-f54d-4647-ba4d-60c85e885787",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Spectrum Grid",
   "key": "media/motionsites/sections/spectrum-grid/poster/media-pipeline-v1/79a2a989d4bab720e9ba504cc63d98be512bd524f352b2d267ee01a5d7aa44f6",
-  "motion": "动效：渐变光幕流动、点阵/像素闪烁、光效脉冲、悬浮按钮微交互；强度：轻动效"
+  "motion": "动效：渐变光幕流动、点阵/像素闪烁、光效脉冲、悬浮按钮微交互；强度：轻动效",
+  "id": "3af446c3-3be2-477b-93cf-65dfd25f0621",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "渐变"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Price Calculator",
   "key": "",
-  "motion": "未见明显位移、缩放或光效变化，页面基本静止",
-  "strength": "轻"
+  "motion": "选择服务、拖动页数或勾选增项时，价格数据实时更新",
+  "strength": "轻",
+  "id": "0b7f8771-8157-4ae0-94b4-860d110a7967",
+  "tags": [
+   "文字动画",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Community CTA",
   "key": "",
   "motion": "背景云彩与花朵轻微平移，卡片内容基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "98a66586-dc8b-430f-b097-e5ee0a797eab",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Keep Ahead Features",
   "key": "",
   "motion": "卡片底部渐变光效流动，色彩亮度缓慢变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "016185bf-1cad-4c7c-9e58-48c929e6178c",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "渐变"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Dashboard UI",
   "key": "",
   "motion": "背景草地与星空轻微流动，界面卡片文字基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b4e90f5d-f10b-4017-97d8-402468586570",
+  "tags": [
+   "流体",
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Social Media Posts",
   "key": "",
   "motion": "卡片内文字轻微位移/闪动，背景画面微动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "3a971795-411b-48d2-9c19-0e8cedebcca3",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Lumina",
   "key": "",
-  "motion": "背景视频缓慢流动，云海与光带位移，主体轻微视差",
-  "strength": "电影级"
+  "motion": "背景视频自动循环播放，玻璃拟态页脚悬浮叠加",
+  "strength": "电影级",
+  "id": "0157c334-0f99-43f9-a616-0049308d6026",
+  "tags": [
+   "视频背景",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Glow Features",
   "key": "",
-  "motion": "卡片边框渐变霓虹光效流动",
-  "strength": "轻"
+  "motion": "三张渐变描边发光卡片依次由下淡入上浮，页面加载触发",
+  "strength": "轻",
+  "id": "b6df95b8-fbf7-4de9-99c9-509551e9663e",
+  "tags": [
+   "渐变",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Benefits Features",
   "key": "",
   "motion": "网球与橙色背景视频轻微变化，其他元素基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "c4ea3019-1a4e-4414-9a7e-f486c49511ef",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Zenith Footer",
   "key": "",
   "motion": "画面元素位置一致，无明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "3aa2483a-377c-4adb-a2e7-16ea0c1f8f0c",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Digital Reality",
   "key": "",
   "motion": "背景云层、星点与人物缓慢位移，呈现视频背景/视差效果",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "b3e64519-d48e-437e-948d-964ff02e161a",
+  "tags": [
+   "视差",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Vize Footer",
   "key": "",
-  "motion": "无明显动效，画面基本静止",
-  "strength": "轻"
+  "motion": "规格未定义具体动效；仅要求以motion/react制作页脚动画",
+  "strength": "轻",
+  "id": "195daa7c-91e4-40fd-ae77-3470f51f07c5",
+  "tags": [
+   "玻璃拟态",
+   "渐变"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Kresna Footer",
   "key": "",
-  "motion": "蓝色卡片内光束与渐变流动，伴随光效变化",
-  "strength": "轻"
+  "motion": "左侧卡片内视频背景页面加载后自动播放并循环运动。",
+  "strength": "轻",
+  "id": "9d7b8402-0653-474e-b9cd-c744112e4f03",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "What Package Fits You",
   "key": "",
   "motion": "未见明显位移或形变，页面元素静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9ecf60fd-1bb7-4c97-bb14-66a026d1cca4",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "HAUL!",
   "key": "",
-  "motion": "沙丘背景视频纹理轻微变化，页脚卡片与文字静止",
-  "strength": "轻"
+  "motion": "滚动时前景卡车上下视差移动，顶部提示与信息卡片淡入滑入。",
+  "strength": "轻",
+  "id": "a68702dd-a4e1-4fdc-b011-1540872534a9",
+  "tags": [
+   "视差",
+   "滚动触发",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Nexora Features",
   "key": "",
   "motion": "多张卡片内插画视频与光影缓慢变化，文字基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "277c3d81-21a8-4ea1-a16d-f22d863618eb",
+  "tags": [
+   "文字动画",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Blog Showcase",
   "key": "",
-  "motion": "未见明显元素位移，页面整体静止",
-  "strength": "轻"
+  "motion": "视频背景自动循环播放，按钮悬停时轻微放大",
+  "strength": "轻",
+  "id": "2b73a953-37be-4603-8326-908358c4456f",
+  "tags": [
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "SaaS Pricing Flow",
   "key": "",
   "motion": "背景蓝色流体光效缓慢流动，卡片轻微视差位移",
-  "strength": "强"
+  "strength": "强",
+  "id": "52c61350-0426-4bd4-8b67-cbe57659c962",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Velorah Focus",
   "key": "",
   "motion": "卡片内云层与手持画面视频流动、轻微扫描颗粒",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "494d237a-9ad3-4042-aeb8-c1d3ce1328f8",
+  "tags": [
+   "粒子",
+   "流体",
+   "视频背景",
+   "扫描/划屏"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Nex Max Upgrade",
   "key": "",
   "motion": "未见明显动态元素",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d4b03034-a31a-4d9c-9820-7fe4ddb7484d",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "FAQ CTA",
   "key": "",
-  "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "motion": "CTA卡片五色渐变光团循环漂移缩放，按钮悬停上浮增阴影",
+  "strength": "轻",
+  "id": "735be6cf-ef6c-4e18-b85c-c353968b4d75",
+  "tags": [
+   "渐变",
+   "光效脉冲",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Beauty Products",
   "key": "",
   "motion": "鼠标指针横向移动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "fbb5c4fb-fead-4d73-b4a9-fa1513e9a0e2",
+  "tags": [
+   "悬停交互"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "FlowMate Carousal",
   "key": "",
   "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "27f74be1-b12f-468d-a1ec-27d227d5423b",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Botanical Shadow About",
   "key": "",
   "motion": "背景植物光影缓慢漂移，文字静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "fe6e3645-5acc-43f8-a166-c007ef8f302d",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Orbis Hello",
   "key": "",
-  "motion": "前景宇航员横向视差位移，屏幕角色微动",
-  "strength": "轻"
+  "motion": "全屏视频自动静音循环播放，标题内容静态叠加，无交互触发。",
+  "strength": "轻",
+  "id": "63d6a802-45d5-4889-bdd4-1c28fb528d69",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "LaunchEx Submissions",
   "key": "",
   "motion": "中央玻璃雕塑旋转位移，底部光晕微动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "8ed108d3-543a-43fc-acd0-fbbe1cf40446",
+  "tags": [
+   "光效脉冲",
+   "玻璃拟态"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "NexaCore Results",
   "key": "",
-  "motion": "彩色波浪带缓慢形变流动，伴随渐变光效",
-  "strength": "轻"
+  "motion": "桌面阶梯信息柱与移动端交替布局，随sm断点切换展示",
+  "strength": "轻",
+  "id": "a96f98d7-fd16-4ec3-ba06-c2c566775df2",
+  "tags": [
+   "渐变",
+   "分屏切换"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Capabilities Overview",
   "key": "",
   "motion": "火箭上移伴随尾焰光效，卡片轻微视差",
-  "strength": "强"
+  "strength": "强",
+  "id": "58852313-cee6-4349-ae39-fd22c634d6c6",
+  "tags": [
+   "光效脉冲",
+   "视差"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Technical Specifications",
   "key": "",
   "motion": "数据条内光点与高光流动，背景渐变轻微变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "76cc56ac-4363-4612-ac27-80aa854721b2",
+  "tags": [
+   "流体",
+   "渐变",
+   "HUD/数据"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Stark Minimal Footer",
   "key": "",
-  "motion": "顶部星点粒子缓慢漂移闪烁",
-  "strength": "轻"
+  "motion": "页脚顶部多层点阵持续横向漂移，导航链接悬停时向右微移。",
+  "strength": "轻",
+  "id": "b277d919-4672-4b55-8652-10f7495ff9ed",
+  "tags": [
+   "粒子",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Mouse Trail CTA",
   "key": "",
   "motion": "图片卡片与聊天按钮轻微浮动位移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "3c41e07a-415b-4874-941d-a4973e36dfd8",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "NimBus Pricing",
   "key": "",
   "motion": "无明显动效，页面元素基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "4a7d1f9d-91f0-4187-ac26-25fb6308dd25",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Projects Catalog",
   "key": "",
   "motion": "花园画面中的光斑与粒子流动，图片背景轻微变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "bb53dde7-07e7-4395-a06d-c4e65661a57f",
+  "tags": [
+   "粒子",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Rocket FAQ",
   "key": "",
   "motion": "未见明显位移、缩放或光效变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "42e1d2fc-ebb2-435e-9bee-26f372edfa2d",
+  "tags": [
+   "光效脉冲"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Guardnet Benefits",
   "key": "",
-  "motion": "中心抽象光球的渐变高光与光晕细微变化，版式静止",
-  "strength": "轻"
+  "motion": "中心卡片视频页面加载后自动循环播放，持续呈现动态背景",
+  "strength": "轻",
+  "id": "43c4e908-130a-44d2-b0f2-feccf68d0f36",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Halo Benefits",
   "key": "",
   "motion": "页面元素基本静止，无明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "efa3d4e3-51be-4b98-8a30-623359adadca",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Nike Hover",
   "key": "",
-  "motion": "鞋子、岩石与火焰轻微位移，背景光影变化",
-  "strength": "轻"
+  "motion": "鼠标或触摸移动时，光斑拖尾揭示静态图下方视频",
+  "strength": "轻",
+  "id": "f780106c-91b1-4c07-a6ef-4c70ca27ebba",
+  "tags": [
+   "遮罩揭示",
+   "视频背景",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Bento Grid Stats",
   "key": "",
   "motion": "画面无可辨识元素，未见明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "0c961259-db56-4e96-b40f-675f1f15cf94",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "NexaCore Process",
   "key": "",
   "motion": "背景流光渐变与底部光晕缓慢流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "1246dfa7-68ac-465c-8320-137a826e55c1",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "渐变"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Portfolio About",
   "key": "",
-  "motion": "无明显元素位移、缩放或光效变化",
-  "strength": "轻"
+  "motion": "四角装饰图依次从左右滑入淡显，进入区块时触发",
+  "strength": "轻",
+  "id": "37eb995b-0223-4e14-b049-0ff78e9a7895",
+  "tags": [
+   "3D",
+   "渐变",
+   "滚动触发",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Apex Program Accordion",
   "key": "",
   "motion": "未见明显位移、缩放或特效变化，画面基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "6f3f8c5b-a17f-43b8-8bce-c765fa65af63",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Feedback Slider",
   "key": "",
   "motion": "未见明显位移、缩放或特效，画面基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "c025e92d-a0de-4e61-a5ea-eda32c8bdd28",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Halo Use Case",
   "key": "",
-  "motion": "建筑插画轻微位移/缩放，文字与卡片基本静止",
-  "strength": "轻"
+  "motion": "右侧卡片环境视频静音自动循环播放，文字叠加其上",
+  "strength": "轻",
+  "id": "2b8016d1-f422-4dd7-9a13-7925cd2f5c95",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Radial Diagram",
   "key": "",
-  "motion": "画面全黑，未见可辨识动效",
-  "strength": "轻"
+  "motion": "标题文字与加号淡入上移，肖像周围白色故障方块分批缩放闪现，滚动进入触发",
+  "strength": "轻",
+  "id": "00c5dd3b-a42e-4769-ae44-62a5f876c338",
+  "tags": [
+   "滚动触发",
+   "文字动画",
+   "入场离场",
+   "噪声纹理"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Nimbus Ops",
   "key": "",
   "motion": "未观察到明显动效变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "21c22482-7d12-477a-9413-f4ea767d2de2",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Scroll Marquee",
   "key": "",
   "motion": "未观察到明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "995a3390-bfbd-4b7d-b16a-82ea7539c1dd",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Rocket Pricing",
   "key": "",
-  "motion": "画面全黑，无可识别动效",
-  "strength": "轻"
+  "motion": "定价内容滚动淡入上移，卡片随鼠标悬停呈聚光描边与文字上滑。",
+  "strength": "轻",
+  "id": "106e888a-697e-43e9-a71d-0d7a68045daa",
+  "tags": [
+   "滚动触发",
+   "入场离场",
+   "悬停交互",
+   "舞台聚光",
+   "文字动画"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Global CTA Footer",
   "key": "",
   "motion": "画面无可见元素变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "31198968-94ab-4c75-8db0-45f922971eb9",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "NexaCore Control",
   "key": "",
-  "motion": "画面全黑，无可辨识动效",
-  "strength": "轻"
+  "motion": "页面加载后，HLS视频背景自动播放并持续播放。",
+  "strength": "轻",
+  "id": "c98422e9-5aac-413a-8257-8e839099bf5a",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Nimbus Demo",
   "key": "",
   "motion": "未检测到可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "a1c95b10-02f2-4823-8f6a-31b658f83799",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Axion About",
   "key": "",
-  "motion": "未见明显位移缩放，图片内容仅轻微变化",
-  "strength": "轻"
+  "motion": "按钮悬停时文字上滚切换，箭头由斜向旋转为右指",
+  "strength": "轻",
+  "id": "6f53478d-a7dc-46d8-a839-48406a2e2686",
+  "tags": [
+   "文字动画",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Editorial Collection CTA",
   "key": "",
   "motion": "无明显动效，画面基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "a81a6b93-59bb-452b-b42e-0647a8058598",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Kova Features",
   "key": "",
   "motion": "卡片内背景图轻微位移/变化，无明显整体运动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d9ff3c79-a41c-4230-966b-15341db1fc98",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Media Card Carousel",
   "key": "",
   "motion": "底部进度条向右延长，其他内容基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "2b6c461d-b784-4dc2-914c-104a70a3103b",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Orbis Cards",
   "key": "",
   "motion": "背景星尘粒子缓慢漂移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "d71ec79f-15fc-44e4-9761-58131adb3197",
+  "tags": [
+   "粒子"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Arceage Stats",
   "key": "",
-  "motion": "无明显动效",
-  "strength": "轻"
+  "motion": "标题与副文案逐字打字显现，整体按序淡入，滚动进入视口触发。",
+  "strength": "轻",
+  "id": "07e2f299-7371-488f-b361-993c6062c1cb",
+  "tags": [
+   "文字动画",
+   "滚动触发",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Kova Testimonial",
   "key": "",
   "motion": "右侧人物线稿轻微绘制闪现/形变",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "02b4d453-c3bb-48d1-92f2-a99d529d4447",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Cognitra Offer",
   "key": "",
   "motion": "服务图标金属高光扫描闪烁",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "e299a6a2-6e8e-4b24-a2db-e9be3e2ee136",
+  "tags": [
+   "扫描/划屏"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Tech-Noir About",
   "key": "",
-  "motion": "底部人物画面轻微位移，背景光效渐变，文字与标志静止",
-  "strength": "轻"
+  "motion": "红色全屏中Logo与多层文字静态居中展示，未定义触发动画",
+  "strength": "轻",
+  "id": "9a77658b-10af-4705-8ea7-a10ba3e35e59",
+  "tags": [
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Cognitra Feature",
   "key": "",
-  "motion": "中心线框人像缓慢旋转，粒子与橙黄色光效闪烁，背景光斑漂移",
-  "strength": "电影级"
+  "motion": "固定视频背景下，标题逐词与副文滚动入视上移淡入",
+  "strength": "电影级",
+  "id": "c035947f-17bb-4eb0-ba52-d8ee935b42c8",
+  "tags": [
+   "视频背景",
+   "文字动画",
+   "滚动触发",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Agency Services",
   "key": "",
   "motion": "无明显可见动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9e7f6391-f06c-46ee-b73d-90acc3569ccf",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Pixel Grid Hover",
   "key": "",
-  "motion": "黑色方形粒子静止，无明显动效",
-  "strength": "轻"
+  "motion": "浮动方块随滚动视差轻摆，标题与案例卡片滚动入场，横向跑马悬停暂停",
+  "strength": "轻",
+  "id": "b9553c71-a6e4-420c-a103-00f5554d3f19",
+  "tags": [
+   "视差",
+   "滚动触发",
+   "入场离场",
+   "悬停交互"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Nimbus Sticky Cards",
   "key": "",
   "motion": "背景光影与颗粒轻微流动，主体元素基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "9d6d1da1-fdbc-4b0b-a90d-253ead8c5f7b",
+  "tags": [
+   "粒子",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "LaunchEx About",
   "key": "",
-  "motion": "下方数据卡片与抽象图形轻微位移/视差",
-  "strength": "轻"
+  "motion": "外链按钮悬停时，右上箭头图标轻微上移",
+  "strength": "轻",
+  "id": "efe0513f-6b73-4c70-84a4-9915cae6053c",
+  "tags": [
+   "悬停交互",
+   "HUD数据"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Daisy Wild",
   "key": "",
-  "motion": "人物与前景花朵轻微位移，疑似视频背景",
-  "strength": "轻"
+  "motion": "滚动进入视口后，左右内容依次淡入上移，左侧视频循环播放",
+  "strength": "轻",
+  "id": "33f78e48-9c2a-45ea-975e-f192330f1c70",
+  "tags": [
+   "滚动触发",
+   "入场离场",
+   "文字动画",
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Rocket CTA",
   "key": "",
-  "motion": "右侧风景视频背景人物与光影动态",
-  "strength": "电影级"
+  "motion": "界面与文案由下向上淡入，滚动进入视口触发；仪表盘视频动态播放",
+  "strength": "电影级",
+  "id": "d034c9e2-9c68-4504-a1b3-662fea085572",
+  "tags": [
+   "文字动画",
+   "滚动触发",
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Glassmorphic Feature Tabs",
   "key": "",
   "motion": "背景雾气、光效及卡片视频轻微变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "cd8d1a77-c851-4a76-828b-aa1e08872cfa",
+  "tags": [
+   "光效脉冲",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Guardnet Demo",
   "key": "",
   "motion": "未见明显元素位移、缩放或光效变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "6e37b4d6-da13-449a-9c19-17fec3bca234",
+  "tags": [
+   "光效脉冲"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Daisy Sweet",
   "key": "",
   "motion": "未见可辨识的动效元素",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "22ab490d-62ff-4cf1-9794-baa8d593fd03",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Nimbus Security",
   "key": "",
   "motion": "全黑画面，未见可辨识动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "8046bd16-0669-4ef8-8ed4-e55002c29c18",
+  "tags": [],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Orbis CTA",
   "key": "",
   "motion": "无动效",
-  "strength": "强"
+  "strength": "强",
+  "id": "b1e86846-a615-4a8c-9b3d-90da301480af",
+  "tags": [],
+  "nature": "visual",
+  "status": "suspect"
  },
  {
   "cat": "Sections",
   "name": "Beauty Categories",
   "key": "",
-  "motion": "三栏图片横向滑动切换，文字随卡片位移",
-  "strength": "轻"
+  "motion": "三列视频分类卡片滚动入场，悬停视频放大、遮罩加深与竖排标题上移",
+  "strength": "轻",
+  "id": "3de06de5-499c-4a15-8880-e01e51f637fd",
+  "tags": [
+   "视频背景",
+   "滚动触发",
+   "悬停交互",
+   "文字动画",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Solace sign-in",
   "key": "",
   "motion": "花田与星空背景轻微流动，粒子闪烁；登录面板基本静止",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "ff5e517f-2199-4a6c-b1cc-c1fa3d9d1e12",
+  "tags": [
+   "粒子",
+   "流体"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Arceage Testimonial",
   "key": "",
   "motion": "未见明显位移、缩放或光效变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "602466a7-fd9c-45bb-b720-0d03b9c2e9aa",
+  "tags": [
+   "光效脉冲"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Liquid Glass Features",
   "key": "",
   "motion": "预览卡片内蓝色流光视频背景流动",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "5f22fc26-ad52-4f07-942a-9adac31a3176",
+  "tags": [
+   "光效脉冲",
+   "流体",
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Liquid Glass CTA",
   "key": "",
-  "motion": "紫色流体丝带波浪形变与位移",
-  "strength": "强"
+  "motion": "HLS视频背景页面加载后自动播放，居中CTA与底部栏叠加呈现",
+  "strength": "强",
+  "id": "774e72b9-e536-4ee6-b8f8-88b07e33f056",
+  "tags": [
+   "视频背景",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Veloce Cards",
   "key": "",
   "motion": "文字静态，无明显动效",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "7716284d-aa03-469a-bca4-801fad90d502",
+  "tags": [
+   "文字动画"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Animated Cards",
   "key": "",
-  "motion": "卡片悬浮位移与微弱光泽变化",
-  "strength": "轻"
+  "motion": "3D银行卡环形横向轮播，鼠标移动触发惯性视差倾斜",
+  "strength": "轻",
+  "id": "cfaba27b-46ec-44f6-907c-07ef200e6fe1",
+  "tags": [
+   "3D",
+   "视差",
+   "悬停交互",
+   "视频背景"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "404 Planet",
   "key": "",
-  "motion": "地球缓慢旋转，星空粒子微闪与光晕流动",
-  "strength": "轻"
+  "motion": "全屏地球背景视频自动循环，点击移动菜单时图标旋转淡入淡出切换",
+  "strength": "轻",
+  "id": "13b6f518-e697-4667-8179-ea595413950e",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Interior Features",
   "key": "",
   "motion": "卡片内容基本静止，背景有微弱光影/扫描变化",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "f1884c37-7042-47bd-99df-91a6252ff777",
+  "tags": [
+   "扫描/划屏"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Arceage Services",
   "key": "",
   "motion": "模糊自然视频背景缓慢横向位移",
-  "strength": "轻"
+  "strength": "轻",
+  "id": "977ae2e9-4614-4cb9-bbd0-4b4c4c9dd769",
+  "tags": [
+   "视频背景"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "3D Studio Pricing",
   "key": "media/motionsites/sections/3d-studio-pricing/poster/first-frame-v1/76e9b4a72244034d079abfbace8ffdc3dcc888a8af690589a1dc7939eecd7e37",
-  "motion": "动效：3D场景旋转、滚动视差、光效脉冲、悬浮卡片/鼠标交互、图层揭示；强度：强动效（电影级视觉）"
+  "motion": "动效：3D场景旋转、滚动视差、光效脉冲、悬浮卡片/鼠标交互、图层揭示；强度：强动效（电影级视觉）",
+  "id": "a3e8b3dc-f8ef-42f4-983e-3e86a3c8e8ef",
+  "tags": [
+   "光效脉冲",
+   "视差",
+   "3D",
+   "悬停交互",
+   "滚动触发",
+   "遮罩/揭示"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Autonomous Ops",
   "key": "media/motionsites/sections/autonomous-ops/poster/media-pipeline-v1/259e1c1d1b33bbc92993e141bd4c3f15394bf43aebd0538be9a9d12f5d5e5351",
-  "motion": "动效：数据图表数字滚动、柱状图动态增长、悬浮卡片、光效脉冲/渐变流动、鼠标悬停交互；强度：轻动效"
+  "motion": "三联卡片页面加载时依次淡入上移呈现",
+  "id": "7e49b512-41b7-4d2e-89a5-e676286d8b94",
+  "tags": [
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Growth Analytics",
   "key": "media/motionsites/sections/growth-analytics/poster/media-pipeline-v1/0117c3b4fcc379c5f84602709d82ec25698974dd48a2a4f3fce0d0b47cc3b432",
-  "motion": "动效：标签/菜单切换、图表柱状增长、数字递增、内容淡入切换；强度：轻动效"
+  "motion": "动效：标签/菜单切换、图表柱状增长、数字递增、内容淡入切换；强度：轻动效",
+  "id": "29b20047-a7c1-4d3b-b994-1d373f468a16",
+  "tags": [
+   "文字动画",
+   "HUD/数据",
+   "分屏/切换"
+  ],
+  "nature": "visual",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Task Engine",
   "key": "media/motionsites/sections/task-engine/poster/media-pipeline-v1/2b164179ec9a44d4d6f57156dea03e6f2ceed06c6af760fedafe7080ea66f130",
-  "motion": "动效：悬浮卡片、通知弹窗滑入、流程连线/图标微动、柱状图增长、数字滚动、鼠标交互、柔和光晕呼吸；强度：轻动效"
+  "motion": "未指定动态触发；渐变卡片与通知层静态呈现",
+  "id": "222d0f76-41e4-4755-86c8-2aab8b293a76",
+  "tags": [
+   "渐变",
+   "玻璃拟态"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  },
  {
   "cat": "Sections",
   "name": "Pet Diagnostics",
   "key": "media/motionsites/sections/pet-diagnostics/poster/media-pipeline-v1/81ca4f0eb32040578815f26222fc928c46350a02dc73b3fc6c84b9b0729b0af9",
-  "motion": "动效：全屏视频/环境背景微动、图层渐显、悬浮价格卡片、光标悬停交互、滚动视差；强度：轻动效"
+  "motion": "首屏视频背景自动播放，减弱动效时切换为静态图",
+  "id": "ce7ce046-2502-4c44-9f82-9088fa3d108b",
+  "tags": [
+   "视频背景",
+   "入场离场"
+  ],
+  "nature": "prompt",
+  "status": "valid"
  }
 ]

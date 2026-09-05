@@ -27,3 +27,9 @@ node motion-search.mjs -k 粒子 -s 强          # 关键词+强度
 node motion-search.mjs -src "Aceternity"      # 按来源
 node motion-search.mjs -cat Backgrounds -s 电影级
 ```
+## 动效库质量规范（2026-09-04 固化）
+- **受控词表（20 标签）**：光效脉冲/粒子/视差/3D/流体/文字动画/视频背景/扫描划屏/悬停交互/滚动触发/玻璃拟态/渐变/HUD数据/磁吸弹性/遮罩揭示/噪声纹理/分屏切换/音画节奏/舞台聚光/入场离场。每条含 tags[]（检索按标签聚合）。
+- **来源 nature**：prompt（描述提炼自完整 prompt 原文，优先采信）/ visual（帧视觉推断）/ component（官方组件）。
+- **质检 status**：valid / suspect（黑屏/无可见动效等无效内容不入有效集）。
+- **反向链接**：条目含 id/key/url，按 id 寻址，改名不失联。
+- 选取时优先 nature=prompt 且 status=valid 的条目；检索示例：`node motion-search.mjs -k 粒子 -s 强`（标签命中可用 -k 直接查标签名）。
