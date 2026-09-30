@@ -3317,7 +3317,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/shamoni.md"
     },
     {
       "cat": "Sites",
@@ -5234,7 +5235,8 @@
         "悬停交互"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/model-infrastructure.md"
     },
     {
       "cat": "Sites",
@@ -5540,7 +5542,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/performance-run.md"
     },
     {
       "cat": "Sites",
@@ -5653,7 +5656,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/breathstone.md"
     },
     {
       "cat": "Sites",
@@ -5787,7 +5791,8 @@
         "滚动触发"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/agent-crew.md"
     },
     {
       "cat": "Sites",
@@ -6327,7 +6332,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/adaptive-learning.md"
     },
     {
       "cat": "Sites",

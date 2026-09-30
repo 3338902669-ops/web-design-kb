@@ -3,17 +3,17 @@
  "db": "data/motion-db.json",
  "totals": {
   "entries": 751,
-  "withPromptRef": 461,
+  "withPromptRef": 467,
   "executableUrlOnly": 126,
-  "noExecutableSpec": 164
+  "noExecutableSpec": 158
  },
  "bySourceOfNoSpec": {
-  "Framesbase": 163,
+  "Framesbase": 157,
   "self-authored": 1
  },
  "byNatureOfNoSpec": {
-  "frame": 9,
-  "visual": 154,
+  "frame": 4,
+  "visual": 153,
   "self-authored": 1
  },
  "missing": [
@@ -50,14 +50,6 @@
    "id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5"
   },
   {
-   "name": "Shamoni",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "aa62f097-877f-4089-9945-aae5d5e2f918"
-  },
-  {
    "name": "Cinematic Landing Page",
    "source": "Framesbase",
    "cat": "Sites",
@@ -72,46 +64,6 @@
    "nature": "frame",
    "status": "valid",
    "id": "054b79f3-4db6-42bb-b8b3-4cd6f69c30a5"
-  },
-  {
-   "name": "Model Infrastructure",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "20f8dc59-34e8-4c42-b7ee-7351585f3353"
-  },
-  {
-   "name": "Performance Run",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "0d9c6738-e99c-484a-bbb0-4ab5f019a1fe"
-  },
-  {
-   "name": "Breathstone",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "bd5d283b-01a7-42e4-a782-c89703890ba2"
-  },
-  {
-   "name": "Agent Crew",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "04269b90-02f7-4f74-a320-f6b606d69044"
-  },
-  {
-   "name": "Adaptive Learning",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "cf4e46ee-393a-4026-86ed-bba50edf1787"
   },
   {
    "name": "Footballer Portfolio",

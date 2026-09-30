@@ -1,7 +1,7 @@
 {
  "note": "Full prompt texts from Motionsites.ai/Framesbase (upstream MIT GitHub mirror) plus Framesbase MCP prompts opened by membership. See THIRD-PARTY-NOTICE.md.",
  "upstream": "https://github.com/xiiiabu/motionsites.ai",
- "count": 650,
+ "count": 656,
  "prompts": [
   {
    "slug": "3d-character-studio",
@@ -5852,6 +5852,60 @@
    "sha256_8": "5b61432e",
    "source": "public mirror (TheSatyam-Singh/motionsites.ai)",
    "upstream": "https://github.com/TheSatyam-Singh/motionsites.ai"
+  },
+  {
+   "slug": "adaptive-learning",
+   "title": "Adaptive Learning",
+   "file": "prompts/motionsites/adaptive-learning.md",
+   "chars": 7943,
+   "sha256_8": "6173ea45",
+   "source": "Framesbase MCP (re-sweep)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "agent-crew",
+   "title": "Agent Crew",
+   "file": "prompts/motionsites/agent-crew.md",
+   "chars": 8902,
+   "sha256_8": "a77142c0",
+   "source": "Framesbase MCP (re-sweep)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "breathstone",
+   "title": "Breathstone",
+   "file": "prompts/motionsites/breathstone.md",
+   "chars": 9999,
+   "sha256_8": "f9b904b8",
+   "source": "Framesbase MCP (re-sweep)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "model-infrastructure",
+   "title": "Model Infrastructure",
+   "file": "prompts/motionsites/model-infrastructure.md",
+   "chars": 14340,
+   "sha256_8": "b434c037",
+   "source": "Framesbase MCP (re-sweep)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "performance-run",
+   "title": "Performance Run",
+   "file": "prompts/motionsites/performance-run.md",
+   "chars": 6589,
+   "sha256_8": "f2b0720e",
+   "source": "Framesbase MCP (re-sweep)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "shamoni",
+   "title": "Shamoni",
+   "file": "prompts/motionsites/shamoni.md",
+   "chars": 22046,
+   "sha256_8": "8e7f7cba",
+   "source": "Framesbase MCP (re-sweep)",
+   "upstream": "https://framesbase.app/"
   }
  ]
 }
