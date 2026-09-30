@@ -100,12 +100,21 @@ docs/         the process, in order
   06-evidence-levels.md            E1-E4: what counts as proof
   07-multi-agent-handoff.md        single-writer + handoff discipline for AI-assisted teams
   08-security-gate.md              what a security gate must produce
+  09-prompt-coverage.md            how many entries are actually implementable (215 / 130 / 406)
 templates/    fill-in-the-blank artifacts (contract, intent table, handoff, kickoff)
 SKILL.md      process entry point (start here)
 tools/        small dependency-free Node utilities
 data/         bundled motion library + indexes + mirrored full prompts
 examples/     a reference implementation (minimal personal site) to compare against
 ~~~
+
+## How much of the library is implementable?
+
+Of the 751 entries: **215** ship a full prompt text, **130** carry an official component URL, and
+**406** are metadata only (direction, not a spec). The generated manifest is
+[`data/prompt-coverage.json`](data/prompt-coverage.json); what it means and what to do about it is
+[docs/09-prompt-coverage.md](docs/09-prompt-coverage.md). Use
+`tools/motion-search.mjs --has-spec` when you need something you can build from today.
 
 ## Roles
 

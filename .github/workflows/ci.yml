@@ -26,3 +26,5 @@ jobs:
         run: node tools/check-secrets.mjs .
       - name: No personal data
         run: node tools/sanitize-check.mjs .
+      - name: Prompt coverage manifest is current
+        run: node tools/prompt-coverage.mjs --db data/motion-db.json --repo . --json data/prompt-coverage.json --check

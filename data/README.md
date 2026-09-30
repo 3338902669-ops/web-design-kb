@@ -14,9 +14,10 @@
 | `backgrounds-index.json` | background-only description index |
 | `site-components-motion.json` | component-library subset (official component URLs) |
 | `framesbase-motion-merged.json` | merged motion descriptions for one source |
-| `prompts/<slug>.md` | **164 full prompt texts** mirrored from the upstream MIT repo |
+| `prompts/<slug>.md` | **164 full prompt texts** recovered from the Motionsites.ai mirror (upstream MIT repo) |
 | `prompts/motionsites/<Name>.md` | 65 further prompts from the same upstream repo |
 | `prompts-index.json` | slug -> file, title, size, sha256 prefix, provenance |
+| `prompt-coverage.json` | which entries have a prompt, a URL spec, or nothing (generated) |
 
 ## Exact counts (as published)
 
