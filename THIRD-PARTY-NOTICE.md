@@ -30,7 +30,9 @@ Files affected: `data/motion-db.json`, `data/backgrounds-index.json`,
 
 | Source | Files | Licence |
 |---|---:|---|
-| `xiiiabu/motionsites.ai` (GitHub, also mirrored by the commercial Framesbase service) | 164 + 65 | **MIT** |
+| `xiiiabu/motionsites.ai` (GitHub) | 65 | **MIT** |
+| Motionsites.ai mirror (edge cache, no `LICENSE` header in the files) | 164 | **unverified** — the upstream MIT repo does not contain these 164 slugs; treat the MIT attribution as unproven |
+| Framesbase MCP (prompts opened by the account's membership) | 387 | **no redistribution licence found** on the source site; provided here at the repository owner's explicit direction |
 
 Upstream: https://github.com/xiiiabu/motionsites.ai — public and MIT-licensed (verified 2026-09-30).
 Files are unmodified. Keep the attribution if you redistribute. These are demo-landing-page

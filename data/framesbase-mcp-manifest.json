@@ -1,0 +1,4268 @@
+{
+ "generated": "2026-09-30T20:18:22",
+ "source": "framesbase MCP (mcp__framesbase__get_prompt)",
+ "totals": {
+  "uniqueCards": 539,
+  "openedPrompts": 392,
+  "linkOnly": 12,
+  "notOpenable": 73,
+  "absent": 62
+ },
+ "prompts": [
+  {
+   "slug": "3d-character-studio",
+   "title": "3D Character Studio",
+   "type": "hero",
+   "category": "3D",
+   "card_id": "9f64e330-7177-41f5-b3ca-94597f00d571",
+   "chars": 5726,
+   "file": "prompts/motionsites/3d-character-studio.md"
+  },
+  {
+   "slug": "3d-collectible-hero",
+   "title": "3D Collectible Hero",
+   "type": "3D Website",
+   "category": "3D Website",
+   "card_id": "b5f7605d-8937-4060-80c6-03971b9012f3",
+   "chars": 5347,
+   "file": "prompts/motionsites/3d-collectible-hero.md"
+  },
+  {
+   "slug": "3d-jack-portfolio",
+   "title": "3D Jack Portfolio",
+   "type": "hero",
+   "category": "Portfolio",
+   "card_id": "29af4f43-2758-4c92-9e0b-43707fdc8f49",
+   "chars": 13877,
+   "file": "prompts/motionsites/3d-jack-portfolio.md"
+  },
+  {
+   "slug": "3d-property",
+   "title": "3D Property",
+   "type": "mobile",
+   "category": "Real Estate",
+   "card_id": "791ff0e0-b2b2-4fe2-98b4-4630dcd85f0f",
+   "chars": 13004,
+   "file": "prompts/motionsites/3d-property.md"
+  },
+  {
+   "slug": "3d-story",
+   "title": "3D Story",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "be027362-7f71-4e35-b11a-9ae8bac997f4",
+   "chars": 7990,
+   "file": "prompts/motionsites/3d-story.md"
+  },
+  {
+   "slug": "3d-studio-pricing",
+   "title": "3D Studio Pricing",
+   "type": "hero",
+   "category": "Pricing",
+   "card_id": "a3e8b3dc-f8ef-42f4-983e-3e86a3c8e8ef",
+   "chars": 3971,
+   "file": "prompts/motionsites/3d-studio-pricing.md"
+  },
+  {
+   "slug": "404-planet",
+   "title": "404 Planet",
+   "type": "404",
+   "category": "404",
+   "card_id": "13b6f518-e697-4667-8179-ea595413950e",
+   "chars": 7598,
+   "file": "prompts/motionsites/404-planet.md"
+  },
+  {
+   "slug": "adhd-planner",
+   "title": "ADHD Planner",
+   "type": "hero",
+   "category": "App",
+   "card_id": "4cc14b2b-12b8-4d9b-b94a-a8cd79834d06",
+   "chars": 8810,
+   "file": "prompts/motionsites/adhd-planner.md"
+  },
+  {
+   "slug": "aerocore",
+   "title": "AeroCore",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "94442dc0-b9e6-4b84-90fc-d9c2b1bde990",
+   "chars": 72631,
+   "file": "prompts/motionsites/aerocore.md"
+  },
+  {
+   "slug": "aesthetic-dental-clinic",
+   "title": "Aesthetic Dental Clinic",
+   "type": "hero",
+   "category": "Healthcare",
+   "card_id": "e0d64a48-858a-488c-a753-1fe68f2ce7d9",
+   "chars": 6378,
+   "file": "prompts/motionsites/aesthetic-dental-clinic.md"
+  },
+  {
+   "slug": "aethera-studio",
+   "title": "Aethera Studio",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "66ea2b32-5fb7-42af-ab93-25a98b0fa800",
+   "chars": 3169,
+   "file": "prompts/motionsites/aethera-studio.md"
+  },
+  {
+   "slug": "aetheris-voyage",
+   "title": "Aetheris Voyage",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "84bd9153-ffa5-4b42-a128-a85ec5ab07e9",
+   "chars": 10190,
+   "file": "prompts/motionsites/aetheris-voyage.md"
+  },
+  {
+   "slug": "agency-services",
+   "title": "Agency Services",
+   "type": "sections",
+   "category": "Services",
+   "card_id": null,
+   "chars": 3336,
+   "file": "prompts/motionsites/agency-services.md"
+  },
+  {
+   "slug": "agent-grove",
+   "title": "Agent Grove",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "8c75d3c1-6777-41fe-b16e-82b705e7dba5",
+   "chars": 7959,
+   "file": "prompts/motionsites/agent-grove.md"
+  },
+  {
+   "slug": "agent-wave",
+   "title": "Agent Wave",
+   "type": "hero",
+   "category": "AI",
+   "card_id": "30fd89b1-b165-41d2-bacf-c49f1fc479ab",
+   "chars": 16675,
+   "file": "prompts/motionsites/agent-wave.md"
+  },
+  {
+   "slug": "ai-assistant-app",
+   "title": "AI Assistant App",
+   "type": "mobile",
+   "category": "AI App",
+   "card_id": "1ac3b441-9d9e-461f-83d3-c8e6ec309c2f",
+   "chars": 26558,
+   "file": "prompts/motionsites/ai-assistant-app.md"
+  },
+  {
+   "slug": "ai-automation-hero",
+   "title": "AI Automation Hero",
+   "type": "hero",
+   "category": "AI / SaaS",
+   "card_id": "84218497-6273-45bc-900c-684b7429073d",
+   "chars": 2693,
+   "file": "prompts/motionsites/ai-automation-hero.md"
+  },
+  {
+   "slug": "ai-automation",
+   "title": "AI Automation",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "3b993816-576e-43fa-bc2d-b4178087fcdf",
+   "chars": 9362,
+   "file": "prompts/motionsites/ai-automation.md"
+  },
+  {
+   "slug": "ai-calorie-tracker",
+   "title": "AI Calorie Tracker",
+   "type": "mobile",
+   "category": "Health",
+   "card_id": "12389bdf-1135-432d-b8bb-b22f86f221cc",
+   "chars": 45323,
+   "file": "prompts/motionsites/ai-calorie-tracker.md"
+  },
+  {
+   "slug": "ai-companions",
+   "title": "AI Companions",
+   "type": "hero",
+   "category": "AI",
+   "card_id": "f3a338e5-595a-4d0f-ade9-8d27da626914",
+   "chars": 6624,
+   "file": "prompts/motionsites/ai-companions.md"
+  },
+  {
+   "slug": "ai-cyber-defense",
+   "title": "AI Cyber Defense",
+   "type": "hero",
+   "category": "Security",
+   "card_id": "58c49076-610b-4596-ac08-c4f4f954e7c6",
+   "chars": 10422,
+   "file": "prompts/motionsites/ai-cyber-defense.md"
+  },
+  {
+   "slug": "ai-designer-agency",
+   "title": "AI Designer Agency",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "4b8b2bd3-30c0-4d83-b30f-471df9157905",
+   "chars": 7394,
+   "file": "prompts/motionsites/ai-designer-agency.md"
+  },
+  {
+   "slug": "ai-driving-assistant",
+   "title": "AI Driving Assistant",
+   "type": "hero",
+   "category": "AI SaaS Website",
+   "card_id": "87b66c91-59d2-4d92-a49c-ec8bd1efc877",
+   "chars": 25475,
+   "file": "prompts/motionsites/ai-driving-assistant.md"
+  },
+  {
+   "slug": "ai-film-studio",
+   "title": "AI Film Studio",
+   "type": "hero",
+   "category": "Creative",
+   "card_id": "9349c46b-dd1f-4be3-9623-4337778598fc",
+   "chars": 13629,
+   "file": "prompts/motionsites/ai-film-studio.md"
+  },
+  {
+   "slug": "ai-future-studio",
+   "title": "AI Future Studio",
+   "type": "landing-page",
+   "category": "Creative",
+   "card_id": "d5c77552-d47a-4d88-90e8-bcd610da5ff6",
+   "chars": 51890,
+   "file": "prompts/motionsites/ai-future-studio.md"
+  },
+  {
+   "slug": "ai-image-generator-ui",
+   "title": "AI Image Generator UI",
+   "type": "hero",
+   "category": "AI",
+   "card_id": "e82fbae7-0c67-4d7a-8ad7-57ab16a97ca7",
+   "chars": 4480,
+   "file": "prompts/motionsites/ai-image-generator-ui.md"
+  },
+  {
+   "slug": "ai-meeting-notes",
+   "title": "AI Meeting Notes",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "ef420235-f4cb-446e-b9b6-726cc0c1b4f8",
+   "chars": 17912,
+   "file": "prompts/motionsites/ai-meeting-notes.md"
+  },
+  {
+   "slug": "ai-runtime",
+   "title": "AI Runtime",
+   "type": "hero",
+   "category": "AI",
+   "card_id": "c02f682a-c2e4-4945-94d1-86269919c41f",
+   "chars": 9593,
+   "file": "prompts/motionsites/ai-runtime.md"
+  },
+  {
+   "slug": "ai-trip-planner",
+   "title": "AI Trip Planner",
+   "type": "hero",
+   "category": "Travel",
+   "card_id": "93ece08a-d937-4f0e-ab65-f5e5010cba71",
+   "chars": 6398,
+   "file": "prompts/motionsites/ai-trip-planner.md"
+  },
+  {
+   "slug": "ai-workflow-agents",
+   "title": "AI Workflow Agents",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "b8c67ef1-42d8-4e4e-9b72-a1955913ffe1",
+   "chars": 3215,
+   "file": "prompts/motionsites/ai-workflow-agents.md"
+  },
+  {
+   "slug": "akor-security",
+   "title": "AKOR Security",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "9aaf3e8d-888c-4c6b-a20e-c88515b85037",
+   "chars": 5451,
+   "file": "prompts/motionsites/akor-security.md"
+  },
+  {
+   "slug": "album-app",
+   "title": "Album App",
+   "type": "mobile",
+   "category": "Music",
+   "card_id": "4e5c7519-fa46-4b8e-b2cd-a11c050a0c85",
+   "chars": 12357,
+   "file": "prompts/motionsites/album-app.md"
+  },
+  {
+   "slug": "animated-cards",
+   "title": "Animated Cards",
+   "type": "carousel",
+   "category": "Component",
+   "card_id": "cfaba27b-46ec-44f6-907c-07ef200e6fe1",
+   "chars": 36212,
+   "file": "prompts/motionsites/animated-cards.md"
+  },
+  {
+   "slug": "apex-program-accordion",
+   "title": "Apex Program Accordion",
+   "type": "faq",
+   "category": "Accordion",
+   "card_id": "6f3f8c5b-a17f-43b8-8bce-c765fa65af63",
+   "chars": 12722,
+   "file": "prompts/motionsites/apex-program-accordion.md"
+  },
+  {
+   "slug": "apex-pulse",
+   "title": "Apex Pulse",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "599d5e1a-40f3-4f0d-819a-24814d3fefc4",
+   "chars": 7266,
+   "file": "prompts/motionsites/apex-pulse.md"
+  },
+  {
+   "slug": "arceage-contact-us",
+   "title": "Arceage Contact Us",
+   "type": "form",
+   "category": "Form",
+   "card_id": "eee5efff-f54d-4647-ba4d-60c85e885787",
+   "chars": 7335,
+   "file": "prompts/motionsites/arceage-contact-us.md"
+  },
+  {
+   "slug": "arceage-services",
+   "title": "Arceage Services",
+   "type": "features",
+   "category": "Services",
+   "card_id": "977ae2e9-4614-4cb9-bbd0-4b4c4c9dd769",
+   "chars": 7344,
+   "file": "prompts/motionsites/arceage-services.md"
+  },
+  {
+   "slug": "arceage-stats",
+   "title": "Arceage Stats",
+   "type": "sections",
+   "category": "Stats",
+   "card_id": null,
+   "chars": 7826,
+   "file": "prompts/motionsites/arceage-stats.md"
+  },
+  {
+   "slug": "arceage-testimonial",
+   "title": "Arceage Testimonial",
+   "type": "testimonials",
+   "category": "Testimonials",
+   "card_id": "602466a7-fd9c-45bb-b720-0d03b9c2e9aa",
+   "chars": 8165,
+   "file": "prompts/motionsites/arceage-testimonial.md"
+  },
+  {
+   "slug": "arctic-lab",
+   "title": "Arctic Lab",
+   "type": "hero",
+   "category": "Portfolio",
+   "card_id": "3e030b8e-2d4c-4739-9b8c-d3c64a979151",
+   "chars": 10301,
+   "file": "prompts/motionsites/arctic-lab.md"
+  },
+  {
+   "slug": "art-landing",
+   "title": "Art Landing",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "288baab1-70c0-4386-b174-66ec4854450e",
+   "chars": 5948,
+   "file": "prompts/motionsites/art-landing.md"
+  },
+  {
+   "slug": "ascera-ai",
+   "title": "Ascera AI",
+   "type": "hero",
+   "category": "AI Technology",
+   "card_id": "809189f2-a6b3-4e2e-a4a6-1da16fb57d1e",
+   "chars": 30309,
+   "file": "prompts/motionsites/ascera-ai.md"
+  },
+  {
+   "slug": "asme",
+   "title": "Asme",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "c5078d23-4d3b-4fd6-8754-14085e15b163",
+   "chars": 4360,
+   "file": "prompts/motionsites/asme.md"
+  },
+  {
+   "slug": "audio-showcase",
+   "title": "Audio Showcase",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "f4ded56d-d79f-4724-96cb-513f96b6e1b8",
+   "chars": 6927,
+   "file": "prompts/motionsites/audio-showcase.md"
+  },
+  {
+   "slug": "augmented-sight",
+   "title": "Augmented Sight",
+   "type": "hero",
+   "category": "Technology",
+   "card_id": "e80151c8-1e62-482a-b463-441d363cf76d",
+   "chars": 7959,
+   "file": "prompts/motionsites/augmented-sight.md"
+  },
+  {
+   "slug": "auramail",
+   "title": "AuraMail",
+   "type": "sites",
+   "category": "SaaS",
+   "card_id": null,
+   "chars": 11057,
+   "file": "prompts/motionsites/auramail.md"
+  },
+  {
+   "slug": "aurex-finance",
+   "title": "Aurex Finance",
+   "type": "hero",
+   "category": "Fintech",
+   "card_id": "a8257415-cb61-444b-b4b3-2f12299d2ada",
+   "chars": 29337,
+   "file": "prompts/motionsites/aurex-finance.md"
+  },
+  {
+   "slug": "aurora-onboard",
+   "title": "Aurora Onboard",
+   "type": "mobile",
+   "category": "Sign Up",
+   "card_id": "de8e6895-65ee-4472-8da0-88cbf73e5d4c",
+   "chars": 4770,
+   "file": "prompts/motionsites/aurora-onboard.md"
+  },
+  {
+   "slug": "automotive-ai",
+   "title": "Automotive AI",
+   "type": "hero",
+   "category": "Driving",
+   "card_id": "ce534c4e-5e6d-46af-92bf-27140ce5ab37",
+   "chars": 38739,
+   "file": "prompts/motionsites/automotive-ai.md"
+  },
+  {
+   "slug": "autonomous-ops",
+   "title": "Autonomous Ops",
+   "type": "features",
+   "category": "SaaS",
+   "card_id": "7e49b512-41b7-4d2e-89a5-e676286d8b94",
+   "chars": 18222,
+   "file": "prompts/motionsites/autonomous-ops.md"
+  },
+  {
+   "slug": "avant-studio",
+   "title": "Avant Studio",
+   "type": "hero",
+   "category": "Creative",
+   "card_id": "5ed6b02a-e611-41de-be1c-1f0bef9a7997",
+   "chars": 10669,
+   "file": "prompts/motionsites/avant-studio.md"
+  },
+  {
+   "slug": "axion-about",
+   "title": "Axion About",
+   "type": "sections",
+   "category": "About",
+   "card_id": null,
+   "chars": 4393,
+   "file": "prompts/motionsites/axion-about.md"
+  },
+  {
+   "slug": "beauty-categories",
+   "title": "Beauty Categories",
+   "type": "features",
+   "category": "Categories",
+   "card_id": "3de06de5-499c-4a15-8880-e01e51f637fd",
+   "chars": 4038,
+   "file": "prompts/motionsites/beauty-categories.md"
+  },
+  {
+   "slug": "beauty-products",
+   "title": "Beauty Products",
+   "type": "carousel",
+   "category": "Products",
+   "card_id": "fbb5c4fb-fead-4d73-b4a9-fa1513e9a0e2",
+   "chars": 6033,
+   "file": "prompts/motionsites/beauty-products.md"
+  },
+  {
+   "slug": "benefits-features",
+   "title": "Benefits Features",
+   "type": "features",
+   "category": "Features Section",
+   "card_id": "c4ea3019-1a4e-4414-9a7e-f486c49511ef",
+   "chars": 5910,
+   "file": "prompts/motionsites/benefits-features.md"
+  },
+  {
+   "slug": "bento-grid-stats",
+   "title": "Bento Grid Stats",
+   "type": "features",
+   "category": "Bento",
+   "card_id": "0c961259-db56-4e96-b40f-675f1f15cf94",
+   "chars": 6839,
+   "file": "prompts/motionsites/bento-grid-stats.md"
+  },
+  {
+   "slug": "bio-digital",
+   "title": "Bio-Digital",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "c6247e69-2677-4a4c-9386-a775b183bacf",
+   "chars": 8062,
+   "file": "prompts/motionsites/bio-digital.md"
+  },
+  {
+   "slug": "bionova-biotech",
+   "title": "Bionova Biotech",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "183981b4-0f68-4471-88f5-3d6bf03c4f2b",
+   "chars": 3902,
+   "file": "prompts/motionsites/bionova-biotech.md"
+  },
+  {
+   "slug": "bitcoin-yield",
+   "title": "Bitcoin Yield",
+   "type": "hero",
+   "category": "Crypto",
+   "card_id": "5fe37d84-c858-4efb-ad36-6080435520d2",
+   "chars": 10625,
+   "file": "prompts/motionsites/bitcoin-yield.md"
+  },
+  {
+   "slug": "blog-showcase",
+   "title": "Blog Showcase",
+   "type": "Blog",
+   "category": "Blog",
+   "card_id": "2b73a953-37be-4603-8326-908358c4456f",
+   "chars": 4151,
+   "file": "prompts/motionsites/blog-showcase.md"
+  },
+  {
+   "slug": "bloom-ai",
+   "title": "Bloom AI",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "4823a413-c013-43e7-a979-c9ee61b4af12",
+   "chars": 3900,
+   "file": "prompts/motionsites/bloom-ai.md"
+  },
+  {
+   "slug": "bloom",
+   "title": "Bloom",
+   "type": "landing",
+   "category": "Landing Page",
+   "card_id": "b1dd3d54-896f-4580-a4e6-073ca9fbb753",
+   "chars": 41384,
+   "file": "prompts/motionsites/bloom.md"
+  },
+  {
+   "slug": "bold-portfolio-hero",
+   "title": "Bold Portfolio Hero",
+   "type": "hero",
+   "category": "Portfolio",
+   "card_id": "20880223-c2cd-47bf-b8c5-006829ec39a8",
+   "chars": 2871,
+   "file": "prompts/motionsites/bold-portfolio-hero.md"
+  },
+  {
+   "slug": "bold-studio",
+   "title": "Bold Studio",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "9709eb49-e34d-4dcc-957d-18297a7d4fda",
+   "chars": 6067,
+   "file": "prompts/motionsites/bold-studio.md"
+  },
+  {
+   "slug": "book-hero",
+   "title": "Book Hero",
+   "type": "sites",
+   "category": "Hero",
+   "card_id": null,
+   "chars": 18827,
+   "file": "prompts/motionsites/book-hero.md"
+  },
+  {
+   "slug": "bookedup",
+   "title": "BookedUp",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "739098a7-ee0a-4c66-8408-7c42ca27da25",
+   "chars": 5529,
+   "file": "prompts/motionsites/bookedup.md"
+  },
+  {
+   "slug": "build-unit",
+   "title": "Build Unit",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "ae3e3baa-1f44-4479-a5d0-320b9f0498dc",
+   "chars": 10052,
+   "file": "prompts/motionsites/build-unit.md"
+  },
+  {
+   "slug": "buildshield",
+   "title": "BuildShield",
+   "type": "hero",
+   "category": "Construction",
+   "card_id": "62a82529-a9b5-4dc6-8a64-ea7905aa9f39",
+   "chars": 21358,
+   "file": "prompts/motionsites/buildshield.md"
+  },
+  {
+   "slug": "buzzentic-agency",
+   "title": "Buzzentic Agency",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "31e620ae-b45c-4254-a5a9-7c163c11f9f5",
+   "chars": 2080,
+   "file": "prompts/motionsites/buzzentic-agency.md"
+  },
+  {
+   "slug": "capabilities-overview",
+   "title": "Capabilities Overview",
+   "type": "features",
+   "category": "Features",
+   "card_id": "58852313-cee6-4349-ae39-fd22c634d6c6",
+   "chars": 9546,
+   "file": "prompts/motionsites/capabilities-overview.md"
+  },
+  {
+   "slug": "cardia-3d",
+   "title": "Cardia 3D",
+   "type": "hero",
+   "category": "Medical",
+   "card_id": "d06d4d1b-a841-4f77-a883-c5252594a922",
+   "chars": 11231,
+   "file": "prompts/motionsites/cardia-3d.md"
+  },
+  {
+   "slug": "cargox-mobile",
+   "title": "CARGOX Mobile",
+   "type": "mobile",
+   "category": "Transportation",
+   "card_id": "e921ded4-27ae-4449-90b7-e1fccaf274e9",
+   "chars": 10210,
+   "file": "prompts/motionsites/cargox-mobile.md"
+  },
+  {
+   "slug": "celestial-renewal",
+   "title": "Celestial Renewal",
+   "type": "hero",
+   "category": "Wellness",
+   "card_id": "97be8f74-6305-4896-bb8b-b24b1d70d446",
+   "chars": 7343,
+   "file": "prompts/motionsites/celestial-renewal.md"
+  },
+  {
+   "slug": "church-community",
+   "title": "Church Community",
+   "type": "mobile",
+   "category": "Church",
+   "card_id": "2aeefa36-09e6-45f0-a6f1-e0e6ed30bc9b",
+   "chars": 5380,
+   "file": "prompts/motionsites/church-community.md"
+  },
+  {
+   "slug": "cinematic-brand",
+   "title": "Cinematic Brand",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "8e9e6078-ad0a-44fa-bb89-b07deb555012",
+   "chars": 6044,
+   "file": "prompts/motionsites/cinematic-brand.md"
+  },
+  {
+   "slug": "clarity-core",
+   "title": "Clarity Core",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "9a34a1e6-fbf6-4a67-bb69-b0abb9bec60c",
+   "chars": 7092,
+   "file": "prompts/motionsites/clarity-core.md"
+  },
+  {
+   "slug": "cleantech",
+   "title": "CleanTech",
+   "type": "hero",
+   "category": "Sustainability",
+   "card_id": "b420ed46-a311-4fcf-9da3-c4f6ce350dff",
+   "chars": 10066,
+   "file": "prompts/motionsites/cleantech.md"
+  },
+  {
+   "slug": "cloud-kicks",
+   "title": "Cloud Kicks",
+   "type": "hero",
+   "category": "Fashion",
+   "card_id": "d01b7030-2b17-42e3-87a0-69ae6d8275f1",
+   "chars": 7865,
+   "file": "prompts/motionsites/cloud-kicks.md"
+  },
+  {
+   "slug": "clubx-investors",
+   "title": "ClubX Investors",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "92633e8b-87fc-4bae-85a2-46403e60fa8d",
+   "chars": 2861,
+   "file": "prompts/motionsites/clubx-investors.md"
+  },
+  {
+   "slug": "coastal-estate",
+   "title": "Coastal Estate",
+   "type": "sites",
+   "category": "Real Estate",
+   "card_id": null,
+   "chars": 9269,
+   "file": "prompts/motionsites/coastal-estate.md"
+  },
+  {
+   "slug": "cobalt-hour",
+   "title": "Cobalt Hour",
+   "type": "sites",
+   "category": "Fintech",
+   "card_id": null,
+   "chars": 15615,
+   "file": "prompts/motionsites/cobalt-hour.md"
+  },
+  {
+   "slug": "codenest-coding-platform",
+   "title": "CodeNest Coding Platform",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "3bcacb1b-bb2b-42c3-881f-77a543c509fd",
+   "chars": 2581,
+   "file": "prompts/motionsites/codenest-coding-platform.md"
+  },
+  {
+   "slug": "codercrest",
+   "title": "CoderCrest",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "ab6409fb-68cc-4bff-9d0d-7c3c7484e6f8",
+   "chars": 3818,
+   "file": "prompts/motionsites/codercrest.md"
+  },
+  {
+   "slug": "coffee-rewards",
+   "title": "Coffee Rewards",
+   "type": "mobile",
+   "category": "Loyalty App",
+   "card_id": "19ba3b5b-4b03-4865-8308-690a10a8afdb",
+   "chars": 5054,
+   "file": "prompts/motionsites/coffee-rewards.md"
+  },
+  {
+   "slug": "cognitra-feature",
+   "title": "Cognitra Feature",
+   "type": "sections",
+   "category": "Feature",
+   "card_id": null,
+   "chars": 3241,
+   "file": "prompts/motionsites/cognitra-feature.md"
+  },
+  {
+   "slug": "cognitra-offer",
+   "title": "Cognitra Offer",
+   "type": "sections",
+   "category": "Cards",
+   "card_id": null,
+   "chars": 4290,
+   "file": "prompts/motionsites/cognitra-offer.md"
+  },
+  {
+   "slug": "conversion",
+   "title": "Conversion",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "87e90531-d3ef-4131-950a-32239fc6ba74",
+   "chars": 5900,
+   "file": "prompts/motionsites/conversion.md"
+  },
+  {
+   "slug": "cosmic",
+   "title": "Cosmic",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "0152f0b3-14b7-4095-8397-e9cba9b67849",
+   "chars": 9217,
+   "file": "prompts/motionsites/cosmic.md"
+  },
+  {
+   "slug": "cosmos-interface",
+   "title": "Cosmos Interface",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "90b6c742-7e69-4d6d-88a5-8bdbab057e86",
+   "chars": 26200,
+   "file": "prompts/motionsites/cosmos-interface.md"
+  },
+  {
+   "slug": "cozypaws",
+   "title": "CozyPaws",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "65452494-e776-4138-869d-1e7e8a041a7e",
+   "chars": 6443,
+   "file": "prompts/motionsites/cozypaws.md"
+  },
+  {
+   "slug": "creative-agency",
+   "title": "Creative Agency",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "6801fabf-6176-4ddc-8dae-b79aab1c93e8",
+   "chars": 6403,
+   "file": "prompts/motionsites/creative-agency.md"
+  },
+  {
+   "slug": "creative-designer-portfolio",
+   "title": "Creative Designer Portfolio",
+   "type": "hero",
+   "category": "Portfolio",
+   "card_id": "5b1dec03-7944-4883-9a15-7e2e075ea9c7",
+   "chars": 2169,
+   "file": "prompts/motionsites/creative-designer-portfolio.md"
+  },
+  {
+   "slug": "creative-matter",
+   "title": "Creative Matter",
+   "type": "hero",
+   "category": "Creative",
+   "card_id": "1322193f-9344-4844-a511-e488e071e33c",
+   "chars": 11226,
+   "file": "prompts/motionsites/creative-matter.md"
+  },
+  {
+   "slug": "creative-studio",
+   "title": "Creative Studio",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "07a691b2-5ebf-445e-8283-c8d9bbe390e5",
+   "chars": 5481,
+   "file": "prompts/motionsites/creative-studio.md"
+  },
+  {
+   "slug": "creator-guild",
+   "title": "Creator Guild",
+   "type": "hero",
+   "category": "Community",
+   "card_id": "ec0d3c18-1e4e-4772-9a36-e2d4b987fcd2",
+   "chars": 8285,
+   "file": "prompts/motionsites/creator-guild.md"
+  },
+  {
+   "slug": "cursor-follow",
+   "title": "Cursor Follow",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "a72cfcac-ef50-46fb-9d31-1a03694f3d53",
+   "chars": 6373,
+   "file": "prompts/motionsites/cursor-follow.md"
+  },
+  {
+   "slug": "custom-spaces",
+   "title": "Custom Spaces",
+   "type": "hero",
+   "category": "Design",
+   "card_id": "b7e26fe4-e086-4dfb-885f-f2d5e8389a1e",
+   "chars": 10956,
+   "file": "prompts/motionsites/custom-spaces.md"
+  },
+  {
+   "slug": "cyber-layer",
+   "title": "Cyber Layer",
+   "type": "hero",
+   "category": "Cybersecurity",
+   "card_id": "90e5943a-98cb-4c26-a188-c0f7fd86023f",
+   "chars": 14235,
+   "file": "prompts/motionsites/cyber-layer.md"
+  },
+  {
+   "slug": "cybersecurity-hero-v2",
+   "title": "Cybersecurity Hero v2",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "d6fdd0b0-2825-42d1-aedc-a7eff06a8a4b",
+   "chars": 7140,
+   "file": "prompts/motionsites/cybersecurity-hero-v2.md"
+  },
+  {
+   "slug": "cybersecurity-hero",
+   "title": "Cybersecurity Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "9e3b2c64-ce73-4bb3-b6c0-c924158a91f6",
+   "chars": 11920,
+   "file": "prompts/motionsites/cybersecurity-hero.md"
+  },
+  {
+   "slug": "cybersecurity",
+   "title": "Cybersecurity",
+   "type": "sites",
+   "category": "SaaS",
+   "card_id": null,
+   "chars": 9224,
+   "file": "prompts/motionsites/cybersecurity.md"
+  },
+  {
+   "slug": "daisy-shop",
+   "title": "Daisy Shop",
+   "type": "hero",
+   "category": "Ecommerce",
+   "card_id": "7a83723f-8aa3-426f-9edf-9faea823be12",
+   "chars": 14382,
+   "file": "prompts/motionsites/daisy-shop.md"
+  },
+  {
+   "slug": "daisy-sweet",
+   "title": "Daisy Sweet",
+   "type": "features",
+   "category": "Product",
+   "card_id": "22ab490d-62ff-4cf1-9794-baa8d593fd03",
+   "chars": 9664,
+   "file": "prompts/motionsites/daisy-sweet.md"
+  },
+  {
+   "slug": "daisy-wild",
+   "title": "Daisy Wild",
+   "type": "features",
+   "category": "Product",
+   "card_id": "33f78e48-9c2a-45ea-975e-f192330f1c70",
+   "chars": 10292,
+   "file": "prompts/motionsites/daisy-wild.md"
+  },
+  {
+   "slug": "dark-portfolio-hero",
+   "title": "Dark Portfolio Hero",
+   "type": "hero",
+   "category": "Portfolio",
+   "card_id": "730adc7c-5879-42d0-9944-d2c8a06c4a38",
+   "chars": 5526,
+   "file": "prompts/motionsites/dark-portfolio-hero.md"
+  },
+  {
+   "slug": "dashboard-ui",
+   "title": "Dashboard UI",
+   "type": "dashboard",
+   "category": "Dashboard",
+   "card_id": "b4e90f5d-f10b-4017-97d8-402468586570",
+   "chars": 9125,
+   "file": "prompts/motionsites/dashboard-ui.md"
+  },
+  {
+   "slug": "data-relay",
+   "title": "Data Relay",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "1efb915f-a306-4066-a22d-7058a1567334",
+   "chars": 12419,
+   "file": "prompts/motionsites/data-relay.md"
+  },
+  {
+   "slug": "data-signal",
+   "title": "Data Signal",
+   "type": "hero",
+   "category": "Analytics",
+   "card_id": "9e0b6ca4-6ef2-4123-8d05-c7cd18bca67a",
+   "chars": 12007,
+   "file": "prompts/motionsites/data-signal.md"
+  },
+  {
+   "slug": "data-storytelling",
+   "title": "Data Storytelling",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "4dd9f11f-fd26-4265-8927-c44d3d518854",
+   "chars": 11781,
+   "file": "prompts/motionsites/data-storytelling.md"
+  },
+  {
+   "slug": "datacore-booking",
+   "title": "Datacore Booking",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "dc63cc04-ff4c-4b2c-bdb5-0766387e8468",
+   "chars": 2826,
+   "file": "prompts/motionsites/datacore-booking.md"
+  },
+  {
+   "slug": "datacore-saas-hero",
+   "title": "Datacore SaaS Hero",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "767c762f-8867-4951-86c2-2e42be6b8943",
+   "chars": 2660,
+   "file": "prompts/motionsites/datacore-saas-hero.md"
+  },
+  {
+   "slug": "deep-neural-interface",
+   "title": "Deep Neural Interface",
+   "type": "hero",
+   "category": "Artificial Intelligence",
+   "card_id": "c03fa2d8-a856-4994-98c7-c4dac8ce3ca6",
+   "chars": 34470,
+   "file": "prompts/motionsites/deep-neural-interface.md"
+  },
+  {
+   "slug": "deepthink",
+   "title": "DeepThink",
+   "type": "landing-page",
+   "category": "AI Assistant",
+   "card_id": "bb6806e5-93f8-456f-99c7-c968594648b4",
+   "chars": 13695,
+   "file": "prompts/motionsites/deepthink.md"
+  },
+  {
+   "slug": "dental-care-app",
+   "title": "Dental Care App",
+   "type": "mobile",
+   "category": "Health App",
+   "card_id": "83ca9018-95d9-40d5-a2d5-80f998df91a2",
+   "chars": 25723,
+   "file": "prompts/motionsites/dental-care-app.md"
+  },
+  {
+   "slug": "designpro-academy",
+   "title": "DesignPro Academy",
+   "type": "sites",
+   "category": "Hero Section",
+   "card_id": null,
+   "chars": 3038,
+   "file": "prompts/motionsites/designpro-academy.md"
+  },
+  {
+   "slug": "digital-director",
+   "title": "Digital Director",
+   "type": "hero",
+   "category": "Portfolio",
+   "card_id": "5876679e-7e6d-4d33-ae03-6640df390b23",
+   "chars": 8947,
+   "file": "prompts/motionsites/digital-director.md"
+  },
+  {
+   "slug": "digital-epoch",
+   "title": "Digital Epoch",
+   "type": "sites",
+   "category": "Hero Section",
+   "card_id": null,
+   "chars": 4594,
+   "file": "prompts/motionsites/digital-epoch.md"
+  },
+  {
+   "slug": "digital-experiences",
+   "title": "Digital Experiences",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "85ccd9f8-6a9a-4013-b054-e67c68d58e2b",
+   "chars": 8994,
+   "file": "prompts/motionsites/digital-experiences.md"
+  },
+  {
+   "slug": "digital-reality",
+   "title": "Digital Reality",
+   "type": "social-media",
+   "category": "Social Media",
+   "card_id": "b3e64519-d48e-437e-948d-964ff02e161a",
+   "chars": 4303,
+   "file": "prompts/motionsites/digital-reality.md"
+  },
+  {
+   "slug": "digitwist-ai-builder",
+   "title": "Digitwist AI Builder",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "25bb4b63-2ffc-463f-b203-8885d84bf16b",
+   "chars": 6001,
+   "file": "prompts/motionsites/digitwist-ai-builder.md"
+  },
+  {
+   "slug": "dot",
+   "title": "Dot",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "b974d59a-6517-4cc5-b9b3-f20ff83185d8",
+   "chars": 3871,
+   "file": "prompts/motionsites/dot.md"
+  },
+  {
+   "slug": "dreamcore-landing",
+   "title": "Dreamcore Landing",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "6206c264-649d-4354-acf7-1a79a869eca4",
+   "chars": 16211,
+   "file": "prompts/motionsites/dreamcore-landing.md"
+  },
+  {
+   "slug": "duolingo-styleguide",
+   "title": "Duolingo Styleguide",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "bac2c974-f18a-4efd-ab88-a1da622a4122",
+   "chars": 10777,
+   "file": "prompts/motionsites/duolingo-styleguide.md"
+  },
+  {
+   "slug": "e-commerce-website",
+   "title": "E-commerce Website",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "0ac09789-7e7f-4235-b4f7-59aa044caee8",
+   "chars": 5130,
+   "file": "prompts/motionsites/e-commerce-website.md"
+  },
+  {
+   "slug": "eco-intelligence",
+   "title": "Eco Intelligence",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "2239e0a4-2fde-4f57-b7a4-9eb10a4578c3",
+   "chars": 7877,
+   "file": "prompts/motionsites/eco-intelligence.md"
+  },
+  {
+   "slug": "ecovolta-v2",
+   "title": "EcoVolta V2",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "c49d7249-952b-4a5e-94b4-d976b63a6105",
+   "chars": 3749,
+   "file": "prompts/motionsites/ecovolta-v2.md"
+  },
+  {
+   "slug": "editorial-collection-cta",
+   "title": "Editorial Collection CTA",
+   "type": "sections",
+   "category": "CTA",
+   "card_id": null,
+   "chars": 6679,
+   "file": "prompts/motionsites/editorial-collection-cta.md"
+  },
+  {
+   "slug": "editorial-eyewear",
+   "title": "Editorial Eyewear",
+   "type": "sites",
+   "category": "Fashion",
+   "card_id": null,
+   "chars": 9864,
+   "file": "prompts/motionsites/editorial-eyewear.md"
+  },
+  {
+   "slug": "email-landing-page",
+   "title": "Email Landing Page",
+   "type": "landing",
+   "category": "Landing page",
+   "card_id": "aaf5f982-6ac6-49fa-a181-eb26dac7ab79",
+   "chars": 19431,
+   "file": "prompts/motionsites/email-landing-page.md"
+  },
+  {
+   "slug": "email-marketing",
+   "title": "Email Marketing",
+   "type": "hero",
+   "category": "Email Marketing",
+   "card_id": "b68ca730-81b8-4407-85c5-a79dc1dc2949",
+   "chars": 7972,
+   "file": "prompts/motionsites/email-marketing.md"
+  },
+  {
+   "slug": "equilibrium",
+   "title": "Equilibrium",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "13285902-2e23-4eee-84f6-9f0e7685e8a9",
+   "chars": 4787,
+   "file": "prompts/motionsites/equilibrium.md"
+  },
+  {
+   "slug": "evergreen-finance",
+   "title": "Evergreen Finance",
+   "type": "hero",
+   "category": "Fintech",
+   "card_id": "2dd33d25-fbda-4705-8061-b14462c47f8b",
+   "chars": 10870,
+   "file": "prompts/motionsites/evergreen-finance.md"
+  },
+  {
+   "slug": "evr-ventures",
+   "title": "EVR Ventures",
+   "type": "sites",
+   "category": "Hero Section",
+   "card_id": null,
+   "chars": 4265,
+   "file": "prompts/motionsites/evr-ventures.md"
+  },
+  {
+   "slug": "f1-driver-profile",
+   "title": "F1 Driver Profile",
+   "type": "hero",
+   "category": "Sports",
+   "card_id": "820f6d44-47a3-4e56-849c-6e73fda5dd54",
+   "chars": 6865,
+   "file": "prompts/motionsites/f1-driver-profile.md"
+  },
+  {
+   "slug": "f1-racing-hub",
+   "title": "F1 Racing Hub",
+   "type": "mobile",
+   "category": "Statistics App",
+   "card_id": "20ae424d-b644-496b-942f-5495699ec947",
+   "chars": 10448,
+   "file": "prompts/motionsites/f1-racing-hub.md"
+  },
+  {
+   "slug": "feedback-slider",
+   "title": "Feedback Slider",
+   "type": "carousel",
+   "category": "Slider",
+   "card_id": "c025e92d-a0de-4e61-a5ea-eda32c8bdd28",
+   "chars": 7247,
+   "file": "prompts/motionsites/feedback-slider.md"
+  },
+  {
+   "slug": "finance-assistant",
+   "title": "Finance Assistant",
+   "type": "mobile",
+   "category": "Fintech",
+   "card_id": "0f8cffb7-98f8-4074-8df8-1737c42cc14d",
+   "chars": 7507,
+   "file": "prompts/motionsites/finance-assistant.md"
+  },
+  {
+   "slug": "financial-suite",
+   "title": "Financial Suite",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "de7f455a-69f9-4620-8d0a-69607ec70084",
+   "chars": 15250,
+   "file": "prompts/motionsites/financial-suite.md"
+  },
+  {
+   "slug": "fine-jewelry-shop",
+   "title": "Fine Jewelry Shop",
+   "type": "mobile",
+   "category": "Ecommerce",
+   "card_id": "8521e3b9-cf62-436b-92d8-99d657c246eb",
+   "chars": 6114,
+   "file": "prompts/motionsites/fine-jewelry-shop.md"
+  },
+  {
+   "slug": "finflow",
+   "title": "FinFlow",
+   "type": "hero",
+   "category": "Fintech",
+   "card_id": "6ed918c2-32cc-461a-b199-d82cdf81c66c",
+   "chars": 5269,
+   "file": "prompts/motionsites/finflow.md"
+  },
+  {
+   "slug": "fitness-dashboard",
+   "title": "Fitness Dashboard",
+   "type": "mobile",
+   "category": "Wellness",
+   "card_id": "69f0c062-7a17-4737-91f1-56c18f595195",
+   "chars": 9073,
+   "file": "prompts/motionsites/fitness-dashboard.md"
+  },
+  {
+   "slug": "flowmate-carousal",
+   "title": "FlowMate Carousal",
+   "type": "carousel",
+   "category": "Carousal",
+   "card_id": "27f74be1-b12f-468d-a1ec-27d227d5423b",
+   "chars": 5263,
+   "file": "prompts/motionsites/flowmate-carousal.md"
+  },
+  {
+   "slug": "flowmate",
+   "title": "FlowMate",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "525a6b21-3883-43b8-8ec8-be44162bd851",
+   "chars": 7502,
+   "file": "prompts/motionsites/flowmate.md"
+  },
+  {
+   "slug": "focus-ai",
+   "title": "Focus AI",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "7ea7aec1-499d-46f6-ad90-2d3fcacf71fe",
+   "chars": 10645,
+   "file": "prompts/motionsites/focus-ai.md"
+  },
+  {
+   "slug": "form-study",
+   "title": "Form Study",
+   "type": "sites",
+   "category": "Art",
+   "card_id": null,
+   "chars": 8801,
+   "file": "prompts/motionsites/form-study.md"
+  },
+  {
+   "slug": "framelix-3d-studios",
+   "title": "Framelix 3D Studios",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "49faf7a1-62f5-4e48-8a07-5e907d3525bf",
+   "chars": 2977,
+   "file": "prompts/motionsites/framelix-3d-studios.md"
+  },
+  {
+   "slug": "freight-command",
+   "title": "Freight Command",
+   "type": "mobile",
+   "category": "Logistics",
+   "card_id": "97638f78-ee79-4f4b-be0a-2533f1cb841a",
+   "chars": 20275,
+   "file": "prompts/motionsites/freight-command.md"
+  },
+  {
+   "slug": "frontier",
+   "title": "Frontier",
+   "type": "hero",
+   "category": "Finance",
+   "card_id": "88db028b-23cf-45da-b771-c63eb90f7c62",
+   "chars": 20284,
+   "file": "prompts/motionsites/frontier.md"
+  },
+  {
+   "slug": "future-state",
+   "title": "Future-State",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "5ea82dfc-8ef9-4628-97d1-d0a0ebc90d3c",
+   "chars": 8143,
+   "file": "prompts/motionsites/future-state.md"
+  },
+  {
+   "slug": "futuristic-cinematic",
+   "title": "Futuristic Cinematic",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "1d67a09c-c7d9-4322-b765-dcd9f754f577",
+   "chars": 5679,
+   "file": "prompts/motionsites/futuristic-cinematic.md"
+  },
+  {
+   "slug": "futuristic-eyewear",
+   "title": "Futuristic Eyewear",
+   "type": "hero",
+   "category": "Ecommerce",
+   "card_id": "06039526-78c5-43fc-b62a-e0a8736456bc",
+   "chars": 24288,
+   "file": "prompts/motionsites/futuristic-eyewear.md"
+  },
+  {
+   "slug": "futuristic-tech",
+   "title": "Futuristic Tech",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "80609126-2f89-46e0-9353-6aef03ae79cf",
+   "chars": 4805,
+   "file": "prompts/motionsites/futuristic-tech.md"
+  },
+  {
+   "slug": "gateway-portal",
+   "title": "Gateway Portal",
+   "type": "hero",
+   "category": "Landing page",
+   "card_id": "9e7cac80-402e-4150-affe-79964f98dd1e",
+   "chars": 10770,
+   "file": "prompts/motionsites/gateway-portal.md"
+  },
+  {
+   "slug": "gear-shop",
+   "title": "Gear Shop",
+   "type": "mobile",
+   "category": "Ecommerce App",
+   "card_id": "a559f7a3-51b7-4d5a-801d-abd4de191040",
+   "chars": 7103,
+   "file": "prompts/motionsites/gear-shop.md"
+  },
+  {
+   "slug": "geno-trace",
+   "title": "Geno Trace",
+   "type": "hero",
+   "category": "Technology",
+   "card_id": "63cb876e-3b95-4243-a52e-2d9c3136236f",
+   "chars": 9759,
+   "file": "prompts/motionsites/geno-trace.md"
+  },
+  {
+   "slug": "glassmorphism-agency-hero",
+   "title": "Glassmorphism Agency Hero",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "21fddb29-22c2-4a2b-98ae-9f3eca155455",
+   "chars": 3339,
+   "file": "prompts/motionsites/glassmorphism-agency-hero.md"
+  },
+  {
+   "slug": "glitch-pulse",
+   "title": "Glitch Pulse",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "f892efd4-0fd7-4f73-8528-d62956626b84",
+   "chars": 16376,
+   "file": "prompts/motionsites/glitch-pulse.md"
+  },
+  {
+   "slug": "global-cta-footer",
+   "title": "Global CTA Footer",
+   "type": "cta",
+   "category": "CTA",
+   "card_id": "31198968-94ab-4c75-8db0-45f922971eb9",
+   "chars": 12324,
+   "file": "prompts/motionsites/global-cta-footer.md"
+  },
+  {
+   "slug": "global-hubs",
+   "title": "Global Hubs",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "3bc0da03-c46d-4969-a170-0a01da933386",
+   "chars": 11814,
+   "file": "prompts/motionsites/global-hubs.md"
+  },
+  {
+   "slug": "glow-features",
+   "title": "Glow Features",
+   "type": "features",
+   "category": "Features Section",
+   "card_id": "b6df95b8-fbf7-4de9-99c9-509551e9663e",
+   "chars": 3072,
+   "file": "prompts/motionsites/glow-features.md"
+  },
+  {
+   "slug": "gold-standard",
+   "title": "Gold Standard",
+   "type": "sites",
+   "category": "Portfolio",
+   "card_id": null,
+   "chars": 32024,
+   "file": "prompts/motionsites/gold-standard.md"
+  },
+  {
+   "slug": "grid-runner",
+   "title": "Grid Runner",
+   "type": "sites",
+   "category": "Interactive",
+   "card_id": null,
+   "chars": 15534,
+   "file": "prompts/motionsites/grid-runner.md"
+  },
+  {
+   "slug": "gridcore",
+   "title": "Gridcore",
+   "type": "features",
+   "category": "Features",
+   "card_id": "52599ccc-ada4-4a5a-9225-fcba04259fd8",
+   "chars": 14356,
+   "file": "prompts/motionsites/gridcore.md"
+  },
+  {
+   "slug": "grow-ai-talent-platform",
+   "title": "Grow AI Talent Platform",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "b3da480d-8366-4ede-8aca-359fcd5fb5a2",
+   "chars": 5487,
+   "file": "prompts/motionsites/grow-ai-talent-platform.md"
+  },
+  {
+   "slug": "growth-analytics",
+   "title": "Growth Analytics",
+   "type": "features",
+   "category": "SaaS",
+   "card_id": "29b20047-a7c1-4d3b-b994-1d373f468a16",
+   "chars": 12140,
+   "file": "prompts/motionsites/growth-analytics.md"
+  },
+  {
+   "slug": "growth-decisions",
+   "title": "Growth Decisions",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "4cc914ea-5034-4777-b532-fce9e779f87a",
+   "chars": 11164,
+   "file": "prompts/motionsites/growth-decisions.md"
+  },
+  {
+   "slug": "growth-marketing-saas",
+   "title": "Growth Marketing SaaS",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "cf7111be-de60-494b-b49b-befbdd556e0a",
+   "chars": 15020,
+   "file": "prompts/motionsites/growth-marketing-saas.md"
+  },
+  {
+   "slug": "guardnet-benefits",
+   "title": "Guardnet Benefits",
+   "type": "features",
+   "category": "Benefits",
+   "card_id": "43c4e908-130a-44d2-b0f2-feccf68d0f36",
+   "chars": 4108,
+   "file": "prompts/motionsites/guardnet-benefits.md"
+  },
+  {
+   "slug": "guardnet-demo",
+   "title": "Guardnet Demo",
+   "type": "about",
+   "category": "Info",
+   "card_id": "6e37b4d6-da13-449a-9c19-17fec3bca234",
+   "chars": 6473,
+   "file": "prompts/motionsites/guardnet-demo.md"
+  },
+  {
+   "slug": "halo-sound",
+   "title": "Halo Sound",
+   "type": "hero",
+   "category": "Ecommerce",
+   "card_id": "678a72fe-e2ea-45ac-9855-bd83dccfe398",
+   "chars": 33150,
+   "file": "prompts/motionsites/halo-sound.md"
+  },
+  {
+   "slug": "halo-use-case",
+   "title": "Halo Use Case",
+   "type": "features",
+   "category": "Use Case",
+   "card_id": "2b8016d1-f422-4dd7-9a13-7925cd2f5c95",
+   "chars": 7044,
+   "file": "prompts/motionsites/halo-use-case.md"
+  },
+  {
+   "slug": "haul",
+   "title": "HAUL!",
+   "type": "footer",
+   "category": "Footer Section",
+   "card_id": "a68702dd-a4e1-4fdc-b011-1540872534a9",
+   "chars": 4329,
+   "file": "prompts/motionsites/haul.md"
+  },
+  {
+   "slug": "hr-saas-hero",
+   "title": "HR SaaS Hero",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "6ebb101d-80f8-43bb-9420-36668de8c75f",
+   "chars": 2198,
+   "file": "prompts/motionsites/hr-saas-hero.md"
+  },
+  {
+   "slug": "humanoid-flow",
+   "title": "Humanoid Flow",
+   "type": "sites",
+   "category": "Web3",
+   "card_id": null,
+   "chars": 28684,
+   "file": "prompts/motionsites/humanoid-flow.md"
+  },
+  {
+   "slug": "immersive-ocean",
+   "title": "Immersive Ocean",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "bcdefd54-da34-4571-860e-ed6ab6888269",
+   "chars": 4030,
+   "file": "prompts/motionsites/immersive-ocean.md"
+  },
+  {
+   "slug": "immersive-studio",
+   "title": "Immersive Studio",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "fb4f62d5-26d1-43d5-a640-76e073e09c3f",
+   "chars": 11711,
+   "file": "prompts/motionsites/immersive-studio.md"
+  },
+  {
+   "slug": "impact-ventures",
+   "title": "Impact Ventures",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "ee296445-e2d7-4bf9-b9d0-3b637ad11707",
+   "chars": 4400,
+   "file": "prompts/motionsites/impact-ventures.md"
+  },
+  {
+   "slug": "imperial-vpn",
+   "title": "Imperial VPN",
+   "type": "hero",
+   "category": "Cybersecurity",
+   "card_id": "67fbcffc-24d5-4fb7-a562-3195241f82c8",
+   "chars": 15907,
+   "file": "prompts/motionsites/imperial-vpn.md"
+  },
+  {
+   "slug": "impressive-hero",
+   "title": "Impressive Hero",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "6505caae-0936-471b-a5c0-5ad0b44a2a70",
+   "chars": 4586,
+   "file": "prompts/motionsites/impressive-hero.md"
+  },
+  {
+   "slug": "ink-dynasty",
+   "title": "Ink Dynasty",
+   "type": "hero",
+   "category": "Culture",
+   "card_id": "0982d8a0-c576-45de-afea-97ea584563f4",
+   "chars": 10024,
+   "file": "prompts/motionsites/ink-dynasty.md"
+  },
+  {
+   "slug": "inner-quest",
+   "title": "Inner Quest",
+   "type": "hero",
+   "category": "Mindfulness",
+   "card_id": "4b1fea3c-3ee5-4766-ad37-ee5c842316e0",
+   "chars": 8160,
+   "file": "prompts/motionsites/inner-quest.md"
+  },
+  {
+   "slug": "innovation-lab",
+   "title": "Innovation Lab",
+   "type": "hero",
+   "category": "Technology",
+   "card_id": "c285cfa5-173f-4bf1-8fa6-afa966cc2019",
+   "chars": 6911,
+   "file": "prompts/motionsites/innovation-lab.md"
+  },
+  {
+   "slug": "innovation-studio",
+   "title": "Innovation Studio",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "697977ed-47ea-4b07-baef-d26211655ba4",
+   "chars": 6906,
+   "file": "prompts/motionsites/innovation-studio.md"
+  },
+  {
+   "slug": "innovation-summit",
+   "title": "Innovation Summit",
+   "type": "Mobile",
+   "category": "Mobile App",
+   "card_id": "907fc85e-ba83-4e66-ac1e-d632af12e053",
+   "chars": 6730,
+   "file": "prompts/motionsites/innovation-summit.md"
+  },
+  {
+   "slug": "innovation",
+   "title": "Innovation",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "54078ffa-0e18-4d8d-a5f2-02a7c89c8f02",
+   "chars": 8996,
+   "file": "prompts/motionsites/innovation.md"
+  },
+  {
+   "slug": "integration-saas",
+   "title": "Integration SaaS",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "222d5740-9056-41ba-bed0-9920dabcfe8c",
+   "chars": 4754,
+   "file": "prompts/motionsites/integration-saas.md"
+  },
+  {
+   "slug": "intelligence-layer",
+   "title": "Intelligence Layer",
+   "type": "hero",
+   "category": "Technology",
+   "card_id": "4f4243af-0c88-4e21-872e-c64afed1bde6",
+   "chars": 11825,
+   "file": "prompts/motionsites/intelligence-layer.md"
+  },
+  {
+   "slug": "intelligent-operations",
+   "title": "Intelligent Operations",
+   "type": "sites",
+   "category": "Agency",
+   "card_id": null,
+   "chars": 10447,
+   "file": "prompts/motionsites/intelligent-operations.md"
+  },
+  {
+   "slug": "intelligent-systems",
+   "title": "Intelligent Systems",
+   "type": "landing-page",
+   "category": "SaaS",
+   "card_id": "526347c5-db22-46de-994a-90795ee71626",
+   "chars": 24365,
+   "file": "prompts/motionsites/intelligent-systems.md"
+  },
+  {
+   "slug": "intelligentx",
+   "title": "IntelligentX",
+   "type": "sites",
+   "category": "Hero",
+   "card_id": null,
+   "chars": 4182,
+   "file": "prompts/motionsites/intelligentx.md"
+  },
+  {
+   "slug": "interactive-discovery",
+   "title": "Interactive Discovery",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "1cf51035-b2fb-4b70-b665-8b2763f0a2df",
+   "chars": 6894,
+   "file": "prompts/motionsites/interactive-discovery.md"
+  },
+  {
+   "slug": "interactive-portfolio",
+   "title": "Interactive Portfolio",
+   "type": "sites",
+   "category": "Hero",
+   "card_id": null,
+   "chars": 7915,
+   "file": "prompts/motionsites/interactive-portfolio.md"
+  },
+  {
+   "slug": "interior-features",
+   "title": "Interior Features",
+   "type": "features",
+   "category": "Features",
+   "card_id": "f1884c37-7042-47bd-99df-91a6252ff777",
+   "chars": 4752,
+   "file": "prompts/motionsites/interior-features.md"
+  },
+  {
+   "slug": "investment-gate",
+   "title": "Investment Gate",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "1daf8483-ff23-4af5-a9e3-decc5be2d7e5",
+   "chars": 9903,
+   "file": "prompts/motionsites/investment-gate.md"
+  },
+  {
+   "slug": "investor-deck",
+   "title": "Investor Deck",
+   "type": "hero",
+   "category": "Investor Presentations",
+   "card_id": "7bc4b52a-bb68-4ce7-be12-327e7cd6d7a7",
+   "chars": 10864,
+   "file": "prompts/motionsites/investor-deck.md"
+  },
+  {
+   "slug": "jewelry-store",
+   "title": "Jewelry Store",
+   "type": "hero",
+   "category": "Ecommerce",
+   "card_id": "2419f979-5d80-437a-bf7d-840d1d1b1c4a",
+   "chars": 21521,
+   "file": "prompts/motionsites/jewelry-store.md"
+  },
+  {
+   "slug": "keep-ahead-features",
+   "title": "Keep Ahead Features",
+   "type": "features",
+   "category": "Features Section",
+   "card_id": "016185bf-1cad-4c7c-9e58-48c929e6178c",
+   "chars": 9132,
+   "file": "prompts/motionsites/keep-ahead-features.md"
+  },
+  {
+   "slug": "kernel-code",
+   "title": "Kernel Code",
+   "type": "sites",
+   "category": "3D",
+   "card_id": null,
+   "chars": 32525,
+   "file": "prompts/motionsites/kernel-code.md"
+  },
+  {
+   "slug": "knowsugar",
+   "title": "KnowSugar",
+   "type": "sites",
+   "category": "Healthcare",
+   "card_id": null,
+   "chars": 25534,
+   "file": "prompts/motionsites/knowsugar.md"
+  },
+  {
+   "slug": "kova-features",
+   "title": "Kova Features",
+   "type": "sections",
+   "category": "Benefits",
+   "card_id": null,
+   "chars": 12180,
+   "file": "prompts/motionsites/kova-features.md"
+  },
+  {
+   "slug": "kova-testimonial",
+   "title": "Kova Testimonial",
+   "type": "sections",
+   "category": "Testimonial",
+   "card_id": null,
+   "chars": 6063,
+   "file": "prompts/motionsites/kova-testimonial.md"
+  },
+  {
+   "slug": "launchex-about",
+   "title": "LaunchEx About",
+   "type": "about",
+   "category": "About",
+   "card_id": "efe0513f-6b73-4c70-84a4-9915cae6053c",
+   "chars": 6908,
+   "file": "prompts/motionsites/launchex-about.md"
+  },
+  {
+   "slug": "launchex-submissions",
+   "title": "LaunchEx Submissions",
+   "type": "features",
+   "category": "Features",
+   "card_id": "8ed108d3-543a-43fc-acd0-fbbe1cf40446",
+   "chars": 4777,
+   "file": "prompts/motionsites/launchex-submissions.md"
+  },
+  {
+   "slug": "layered-depth",
+   "title": "Layered Depth",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "44e96e6c-04fd-49c4-a43a-4a6af311fb84",
+   "chars": 12174,
+   "file": "prompts/motionsites/layered-depth.md"
+  },
+  {
+   "slug": "lead-funnel",
+   "title": "Lead Funnel",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "5dc36f48-4cf0-4ea5-98bf-d7bdebc18006",
+   "chars": 50354,
+   "file": "prompts/motionsites/lead-funnel.md"
+  },
+  {
+   "slug": "learnhub",
+   "title": "LearnHub",
+   "type": "mobile",
+   "category": "Education",
+   "card_id": "ca338aa1-5128-4bd8-9287-ec8174af665b",
+   "chars": 7782,
+   "file": "prompts/motionsites/learnhub.md"
+  },
+  {
+   "slug": "learnly",
+   "title": "Learnly",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "b71d99d2-af9e-47f4-b365-f6bbe407f13e",
+   "chars": 16419,
+   "file": "prompts/motionsites/learnly.md"
+  },
+  {
+   "slug": "lending-ai-agents",
+   "title": "Lending AI Agents",
+   "type": "hero",
+   "category": "SaaS Website",
+   "card_id": "b4c610f0-2332-41ac-a84c-de52645bbca5",
+   "chars": 5196,
+   "file": "prompts/motionsites/lending-ai-agents.md"
+  },
+  {
+   "slug": "liquid-glass-agency",
+   "title": "Liquid Glass Agency",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "19fb254c-1e7a-4897-bc2d-a5ff350f7ac6",
+   "chars": 13320,
+   "file": "prompts/motionsites/liquid-glass-agency.md"
+  },
+  {
+   "slug": "liquid-glass-features",
+   "title": "Liquid Glass Features",
+   "type": "features",
+   "category": "Features",
+   "card_id": "5f22fc26-ad52-4f07-942a-9adac31a3176",
+   "chars": 9128,
+   "file": "prompts/motionsites/liquid-glass-features.md"
+  },
+  {
+   "slug": "live-language-classes",
+   "title": "Live Language Classes",
+   "type": "mobile",
+   "category": "Learning SaaS",
+   "card_id": "5a360021-3646-45fd-bfab-119ad064141c",
+   "chars": 19729,
+   "file": "prompts/motionsites/live-language-classes.md"
+  },
+  {
+   "slug": "loader-animation",
+   "title": "Loader Animation",
+   "type": "hero",
+   "category": "Component",
+   "card_id": "63ea3545-3d0b-4f66-bf33-9ac43cb4ce69",
+   "chars": 3313,
+   "file": "prompts/motionsites/loader-animation.md"
+  },
+  {
+   "slug": "lodge-booking-app",
+   "title": "Lodge Booking App",
+   "type": "mobile",
+   "category": "Booking",
+   "card_id": "bc727fce-9a9c-421f-9f9b-7a2743c93aaf",
+   "chars": 6343,
+   "file": "prompts/motionsites/lodge-booking-app.md"
+  },
+  {
+   "slug": "logoisum-video-agency",
+   "title": "Logoisum Video Agency",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "18063261-0f57-4627-80bb-d5de8d98be05",
+   "chars": 1565,
+   "file": "prompts/motionsites/logoisum-video-agency.md"
+  },
+  {
+   "slug": "luminara",
+   "title": "Luminara",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "feadd465-1fa9-4bab-b4f5-133d23631a56",
+   "chars": 3646,
+   "file": "prompts/motionsites/luminara.md"
+  },
+  {
+   "slug": "lumina",
+   "title": "Lumina",
+   "type": "footer",
+   "category": "Footer Section",
+   "card_id": "0157c334-0f99-43f9-a616-0049308d6026",
+   "chars": 5113,
+   "file": "prompts/motionsites/lumina.md"
+  },
+  {
+   "slug": "luminex",
+   "title": "Luminex",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "e7433dcb-6008-423c-991d-a69cc99c609d",
+   "chars": 162,
+   "file": "prompts/motionsites/luminex.md"
+  },
+  {
+   "slug": "lunar-carousel",
+   "title": "Lunar Carousel",
+   "type": "sites",
+   "category": "Draggable",
+   "card_id": null,
+   "chars": 26620,
+   "file": "prompts/motionsites/lunar-carousel.md"
+  },
+  {
+   "slug": "luxury-botanical",
+   "title": "Luxury Botanical",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "50a1f0a2-ad46-40b2-9f63-1dee3f63d3d1",
+   "chars": 35871,
+   "file": "prompts/motionsites/luxury-botanical.md"
+  },
+  {
+   "slug": "luxury-ecommerce-design",
+   "title": "Luxury Ecommerce Design",
+   "type": "sites",
+   "category": "Landing Page",
+   "card_id": null,
+   "chars": 10473,
+   "file": "prompts/motionsites/luxury-ecommerce-design.md"
+  },
+  {
+   "slug": "luxury-escapes",
+   "title": "Luxury Escapes",
+   "type": "mobile",
+   "category": "Travel App",
+   "card_id": "608b29bc-96f3-47e5-9caf-3f41220456a1",
+   "chars": 9543,
+   "file": "prompts/motionsites/luxury-escapes.md"
+  },
+  {
+   "slug": "luxury-real-estate",
+   "title": "Luxury Real Estate",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "9b67fdf3-96e8-4a42-9824-519b0a1f2f22",
+   "chars": 13462,
+   "file": "prompts/motionsites/luxury-real-estate.md"
+  },
+  {
+   "slug": "max-reed-portfolio",
+   "title": "Max Reed Portfolio",
+   "type": "features",
+   "category": "Features",
+   "card_id": "117278d9-b2e0-4cbf-8be4-032e0a0b7246",
+   "chars": 5397,
+   "file": "prompts/motionsites/max-reed-portfolio.md"
+  },
+  {
+   "slug": "media-card-carousel",
+   "title": "Media Card Carousel",
+   "type": "carousel",
+   "category": "Slider",
+   "card_id": "2b6c461d-b784-4dc2-914c-104a70a3103b",
+   "chars": 5840,
+   "file": "prompts/motionsites/media-card-carousel.md"
+  },
+  {
+   "slug": "mind-body-healing",
+   "title": "Mind-Body Healing",
+   "type": "hero",
+   "category": "Medicine",
+   "card_id": "b77c95d7-a443-4c8f-b53e-9f8699d3d413",
+   "chars": 5232,
+   "file": "prompts/motionsites/mind-body-healing.md"
+  },
+  {
+   "slug": "mindful-companion",
+   "title": "Mindful Companion",
+   "type": "hero",
+   "category": "Wellness",
+   "card_id": "9d5a8d41-42f1-4bc6-86c9-23ace703c781",
+   "chars": 13729,
+   "file": "prompts/motionsites/mindful-companion.md"
+  },
+  {
+   "slug": "mindloop-landing",
+   "title": "Mindloop Landing",
+   "type": "sites",
+   "category": "Landing Page",
+   "card_id": null,
+   "chars": 7242,
+   "file": "prompts/motionsites/mindloop-landing.md"
+  },
+  {
+   "slug": "mindloop",
+   "title": "Mindloop",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "4363376d-b968-4fe9-8f35-1d04a6b0def8",
+   "chars": 2949,
+   "file": "prompts/motionsites/mindloop.md"
+  },
+  {
+   "slug": "minimal-workflow-saas",
+   "title": "Minimal Workflow SaaS",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "018266d8-89e5-44c6-8051-3d7bf08eda26",
+   "chars": 10896,
+   "file": "prompts/motionsites/minimal-workflow-saas.md"
+  },
+  {
+   "slug": "mistveil",
+   "title": "Mistveil",
+   "type": "hero",
+   "category": "Footer",
+   "card_id": "0de20a2a-5bfc-4897-b2c4-a70db52efe2d",
+   "chars": 24907,
+   "file": "prompts/motionsites/mistveil.md"
+  },
+  {
+   "slug": "modern-agency",
+   "title": "Modern Agency",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "e760094c-978e-4f3e-9e3a-11f6d0e83f5a",
+   "chars": 10347,
+   "file": "prompts/motionsites/modern-agency.md"
+  },
+  {
+   "slug": "modern-dental-clinic",
+   "title": "Modern Dental Clinic",
+   "type": "hero",
+   "category": "Healthcare",
+   "card_id": "ee7d148b-d17d-40a7-bcdc-e41e57bd241d",
+   "chars": 5400,
+   "file": "prompts/motionsites/modern-dental-clinic.md"
+  },
+  {
+   "slug": "modern-hr-dashboard",
+   "title": "Modern HR Dashboard",
+   "type": "mobile",
+   "category": "HR Management",
+   "card_id": "3bed1678-8ec8-4177-bca6-18fcdfe29ef5",
+   "chars": 13276,
+   "file": "prompts/motionsites/modern-hr-dashboard.md"
+  },
+  {
+   "slug": "monolith-hero",
+   "title": "Monolith Hero",
+   "type": "sites",
+   "category": "Architecture",
+   "card_id": null,
+   "chars": 68381,
+   "file": "prompts/motionsites/monolith-hero.md"
+  },
+  {
+   "slug": "mostar-guide",
+   "title": "Mostar Guide",
+   "type": "hero",
+   "category": "Travel",
+   "card_id": "0975afb7-d08e-42cb-8b80-bfb1b7b5aa5f",
+   "chars": 27876,
+   "file": "prompts/motionsites/mostar-guide.md"
+  },
+  {
+   "slug": "motion-frame",
+   "title": "Motion Frame",
+   "type": "landing-page",
+   "category": "Film",
+   "card_id": "92fc0c08-06e5-40e3-9848-6ecad1c036e6",
+   "chars": 13624,
+   "file": "prompts/motionsites/motion-frame.md"
+  },
+  {
+   "slug": "mountain-retreat",
+   "title": "Mountain Retreat",
+   "type": "hero",
+   "category": "Travel",
+   "card_id": "dc2bff12-092e-488c-8e55-3ea965d2bd18",
+   "chars": 18143,
+   "file": "prompts/motionsites/mountain-retreat.md"
+  },
+  {
+   "slug": "mouse-trail-cta",
+   "title": "Mouse Trail CTA",
+   "type": "cta",
+   "category": "CTA",
+   "card_id": "3c41e07a-415b-4874-941d-a4973e36dfd8",
+   "chars": 5721,
+   "file": "prompts/motionsites/mouse-trail-cta.md"
+  },
+  {
+   "slug": "mythic-naturecore",
+   "title": "Mythic Naturecore",
+   "type": "hero",
+   "category": "landing page",
+   "card_id": "b0d60757-c9d6-44e0-86c1-45acfa86d9ad",
+   "chars": 8039,
+   "file": "prompts/motionsites/mythic-naturecore.md"
+  },
+  {
+   "slug": "mythic-vpn",
+   "title": "Mythic VPN",
+   "type": "hero",
+   "category": "VPN",
+   "card_id": "abb80161-e462-4a7a-abe4-f37e93706757",
+   "chars": 12217,
+   "file": "prompts/motionsites/mythic-vpn.md"
+  },
+  {
+   "slug": "nature-ritual",
+   "title": "Nature Ritual",
+   "type": "hero",
+   "category": "Wellness",
+   "card_id": "75806499-a2b1-49aa-9345-f290f65907cb",
+   "chars": 22232,
+   "file": "prompts/motionsites/nature-ritual.md"
+  },
+  {
+   "slug": "naturecore-saas",
+   "title": "Naturecore SaaS",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "bdd48d4b-142a-4742-8e98-9f6d7e3257ba",
+   "chars": 8070,
+   "file": "prompts/motionsites/naturecore-saas.md"
+  },
+  {
+   "slug": "nebula-hero",
+   "title": "Nebula Hero",
+   "type": "sites",
+   "category": "Space",
+   "card_id": null,
+   "chars": 14322,
+   "file": "prompts/motionsites/nebula-hero.md"
+  },
+  {
+   "slug": "neo-museum",
+   "title": "Neo Museum",
+   "type": "hero",
+   "category": "Website",
+   "card_id": "7e6f4922-6fcb-4192-a9fb-7d7a1083bfe5",
+   "chars": 15036,
+   "file": "prompts/motionsites/neo-museum.md"
+  },
+  {
+   "slug": "neovision",
+   "title": "NeoVision",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "da149ab1-5c86-46da-93f1-0af8dc13f662",
+   "chars": 8539,
+   "file": "prompts/motionsites/neovision.md"
+  },
+  {
+   "slug": "neural-interface",
+   "title": "Neural Interface",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "0c4c0ad2-ff02-4422-b1a4-f72d7ac5d9a6",
+   "chars": 34002,
+   "file": "prompts/motionsites/neural-interface.md"
+  },
+  {
+   "slug": "new-era-automotive-hero",
+   "title": "New Era Automotive Hero",
+   "type": "hero",
+   "category": "Automotive",
+   "card_id": "d4a50ec8-ab17-4170-9ed5-d17b774cd211",
+   "chars": 2688,
+   "file": "prompts/motionsites/new-era-automotive-hero.md"
+  },
+  {
+   "slug": "new-era-bold-hero",
+   "title": "New Era Bold Hero",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "cee492b4-da2c-46e7-a91c-654b4568c26e",
+   "chars": 1663,
+   "file": "prompts/motionsites/new-era-bold-hero.md"
+  },
+  {
+   "slug": "nex-max-upgrade",
+   "title": "Nex Max Upgrade",
+   "type": "pricing",
+   "category": "Pricing",
+   "card_id": "d4b03034-a31a-4d9c-9820-7fe4ddb7484d",
+   "chars": 6647,
+   "file": "prompts/motionsites/nex-max-upgrade.md"
+  },
+  {
+   "slug": "nexa-talent",
+   "title": "Nexa Talent",
+   "type": "hero",
+   "category": "Recruitment",
+   "card_id": "f76dd7d0-10ed-46c8-926c-03924abef4b7",
+   "chars": 4688,
+   "file": "prompts/motionsites/nexa-talent.md"
+  },
+  {
+   "slug": "nexacore-control",
+   "title": "NexaCore Control",
+   "type": "features",
+   "category": "Features",
+   "card_id": "c98422e9-5aac-413a-8257-8e839099bf5a",
+   "chars": 8666,
+   "file": "prompts/motionsites/nexacore-control.md"
+  },
+  {
+   "slug": "nexacore-results",
+   "title": "NexaCore Results",
+   "type": "features",
+   "category": "Features",
+   "card_id": "a96f98d7-fd16-4ec3-ba06-c2c566775df2",
+   "chars": 9261,
+   "file": "prompts/motionsites/nexacore-results.md"
+  },
+  {
+   "slug": "nexacore",
+   "title": "NexaCore",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "e7078def-f612-45c4-be23-fd06692b6666",
+   "chars": 13556,
+   "file": "prompts/motionsites/nexacore.md"
+  },
+  {
+   "slug": "nexar",
+   "title": "Nexar",
+   "type": "mobile",
+   "category": "Productivity",
+   "card_id": "fc46e2cd-c997-4319-b575-3074317c69ba",
+   "chars": 8357,
+   "file": "prompts/motionsites/nexar.md"
+  },
+  {
+   "slug": "nexora-features",
+   "title": "Nexora Features",
+   "type": "features",
+   "category": "Features Section",
+   "card_id": "277c3d81-21a8-4ea1-a16d-f22d863618eb",
+   "chars": 4555,
+   "file": "prompts/motionsites/nexora-features.md"
+  },
+  {
+   "slug": "nexto-404",
+   "title": "Nexto 404",
+   "type": "hero",
+   "category": "404",
+   "card_id": "9e87b015-0ea2-4fd5-a5ab-fca0eefe2556",
+   "chars": 5689,
+   "file": "prompts/motionsites/nexto-404.md"
+  },
+  {
+   "slug": "nexus-it-solutions",
+   "title": "Nexus IT Solutions",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "19d7954d-5c2c-47df-b9a3-8f9d50400451",
+   "chars": 2270,
+   "file": "prompts/motionsites/nexus-it-solutions.md"
+  },
+  {
+   "slug": "nickel-payments",
+   "title": "Nickel Payments",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "20d2a860-b294-4120-8032-2ff0f2e79f41",
+   "chars": 2661,
+   "file": "prompts/motionsites/nickel-payments.md"
+  },
+  {
+   "slug": "nike-hover",
+   "title": "Nike Hover",
+   "type": "features",
+   "category": "Features",
+   "card_id": "f780106c-91b1-4c07-a6ef-4c70ca27ebba",
+   "chars": 13726,
+   "file": "prompts/motionsites/nike-hover.md"
+  },
+  {
+   "slug": "nimbus-demo",
+   "title": "Nimbus Demo",
+   "type": "sections",
+   "category": "Dashboard Demo",
+   "card_id": null,
+   "chars": 14389,
+   "file": "prompts/motionsites/nimbus-demo.md"
+  },
+  {
+   "slug": "nimbus-pricing",
+   "title": "NimBus Pricing",
+   "type": "pricing",
+   "category": "Pricing",
+   "card_id": "4a7d1f9d-91f0-4187-ac26-25fb6308dd25",
+   "chars": 13062,
+   "file": "prompts/motionsites/nimbus-pricing.md"
+  },
+  {
+   "slug": "nimbus-security",
+   "title": "Nimbus Security",
+   "type": "features",
+   "category": "Cards",
+   "card_id": "8046bd16-0669-4ef8-8ed4-e55002c29c18",
+   "chars": 12818,
+   "file": "prompts/motionsites/nimbus-security.md"
+  },
+  {
+   "slug": "nimbus-sticky-cards",
+   "title": "Nimbus Sticky Cards",
+   "type": "features",
+   "category": "Cards",
+   "card_id": "9d6d1da1-fdbc-4b0b-a90d-253ead8c5f7b",
+   "chars": 12638,
+   "file": "prompts/motionsites/nimbus-sticky-cards.md"
+  },
+  {
+   "slug": "no-code-waitlist",
+   "title": "No-Code Waitlist",
+   "type": "hero",
+   "category": "Waitlist",
+   "card_id": "74c38d70-b12a-48e0-8a8e-193d30dca2bb",
+   "chars": 6532,
+   "file": "prompts/motionsites/no-code-waitlist.md"
+  },
+  {
+   "slug": "nova-space-systems",
+   "title": "NOVA Space Systems",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "72bc83ea-aefe-4efa-aa60-7e9627151c85",
+   "chars": 5106,
+   "file": "prompts/motionsites/nova-space-systems.md"
+  },
+  {
+   "slug": "novadesk-signup",
+   "title": "NovaDesk Signup",
+   "type": "hero",
+   "category": "Signup",
+   "card_id": "43ee8f49-c39c-4b87-9919-5ba3b5fb677b",
+   "chars": 4156,
+   "file": "prompts/motionsites/novadesk-signup.md"
+  },
+  {
+   "slug": "obsidian-hero",
+   "title": "Obsidian Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "708037ca-9dc1-4cb0-b2f9-e8cf53ef1459",
+   "chars": 5407,
+   "file": "prompts/motionsites/obsidian-hero.md"
+  },
+  {
+   "slug": "obsidian",
+   "title": "Obsidian",
+   "type": "hero",
+   "category": "Interactive",
+   "card_id": "ccd32abe-cb7c-4802-a90c-c462821ea69f",
+   "chars": 17243,
+   "file": "prompts/motionsites/obsidian.md"
+  },
+  {
+   "slug": "open-agent",
+   "title": "Open Agent",
+   "type": "sites",
+   "category": "AI",
+   "card_id": null,
+   "chars": 11636,
+   "file": "prompts/motionsites/open-agent.md"
+  },
+  {
+   "slug": "orbis-cards",
+   "title": "Orbis Cards",
+   "type": "sections",
+   "category": "Cards",
+   "card_id": null,
+   "chars": 5533,
+   "file": "prompts/motionsites/orbis-cards.md"
+  },
+  {
+   "slug": "orbis-cta",
+   "title": "Orbis CTA",
+   "type": "cta",
+   "category": "CTA",
+   "card_id": "b1e86846-a615-4a8c-9b3d-90da301480af",
+   "chars": 7573,
+   "file": "prompts/motionsites/orbis-cta.md"
+  },
+  {
+   "slug": "orbis-hello",
+   "title": "Orbis Hello",
+   "type": "about",
+   "category": "About",
+   "card_id": "63d6a802-45d5-4889-bdd4-1c28fb528d69",
+   "chars": 5232,
+   "file": "prompts/motionsites/orbis-hello.md"
+  },
+  {
+   "slug": "orbis-nft",
+   "title": "Orbis NFT",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "5ba0755e-daa5-48aa-98d7-1c2e466006cf",
+   "chars": 8276,
+   "file": "prompts/motionsites/orbis-nft.md"
+  },
+  {
+   "slug": "orbit-flora",
+   "title": "Orbit Flora",
+   "type": "hero",
+   "category": "AI",
+   "card_id": "b6b27a95-4247-4e38-ade0-9ef66084ae2b",
+   "chars": 9402,
+   "file": "prompts/motionsites/orbit-flora.md"
+  },
+  {
+   "slug": "orbit-web3",
+   "title": "Orbit Web3",
+   "type": "hero",
+   "category": "Web3",
+   "card_id": "342e272a-3039-4b73-a678-cc3e3a5b5361",
+   "chars": 3217,
+   "file": "prompts/motionsites/orbit-web3.md"
+  },
+  {
+   "slug": "organic-odyssey",
+   "title": "Organic Odyssey",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "2facb1c5-7e7f-475b-a6cb-4b58bde1b33f",
+   "chars": 4802,
+   "file": "prompts/motionsites/organic-odyssey.md"
+  },
+  {
+   "slug": "outdoor-apparel",
+   "title": "Outdoor Apparel",
+   "type": "hero",
+   "category": "Fashion",
+   "card_id": "e5608f6e-32c7-46e0-984c-b44ed2296b0b",
+   "chars": 14780,
+   "file": "prompts/motionsites/outdoor-apparel.md"
+  },
+  {
+   "slug": "oyla",
+   "title": "OYLA",
+   "type": "hero",
+   "category": "Ecommerce",
+   "card_id": "2926b160-b146-49bb-b1f8-d92e8d6f5676",
+   "chars": 15995,
+   "file": "prompts/motionsites/oyla.md"
+  },
+  {
+   "slug": "palomar-labs",
+   "title": "Palomar Labs",
+   "type": "hero",
+   "category": "AI",
+   "card_id": "88473704-8b70-469b-b6c2-eeb1d38aeee9",
+   "chars": 7574,
+   "file": "prompts/motionsites/palomar-labs.md"
+  },
+  {
+   "slug": "performance-eyewear",
+   "title": "Performance Eyewear",
+   "type": "hero",
+   "category": "Ecommerce",
+   "card_id": "d3a1aac5-6a48-4957-ae8a-80777da6b935",
+   "chars": 8385,
+   "file": "prompts/motionsites/performance-eyewear.md"
+  },
+  {
+   "slug": "pet-products",
+   "title": "Pet Products",
+   "type": "apps",
+   "category": "Ecommerce App",
+   "card_id": null,
+   "chars": 22957,
+   "file": "prompts/motionsites/pet-products.md"
+  },
+  {
+   "slug": "pixel-muse",
+   "title": "Pixel Muse",
+   "type": "hero",
+   "category": "Creative Studio",
+   "card_id": "7b4a9ab1-0269-4a44-b655-85e83d7f1721",
+   "chars": 6658,
+   "file": "prompts/motionsites/pixel-muse.md"
+  },
+  {
+   "slug": "place-saver",
+   "title": "Place Saver",
+   "type": "mobile",
+   "category": "Travel",
+   "card_id": "88164436-53da-4069-8795-d6bc420539eb",
+   "chars": 8226,
+   "file": "prompts/motionsites/place-saver.md"
+  },
+  {
+   "slug": "places-organizer",
+   "title": "Places Organizer",
+   "type": "mobile",
+   "category": "Travel",
+   "card_id": "73cb5df5-b9e4-4024-8811-1bb174c324a5",
+   "chars": 8223,
+   "file": "prompts/motionsites/places-organizer.md"
+  },
+  {
+   "slug": "planetary-pulse",
+   "title": "Planetary Pulse",
+   "type": "hero",
+   "category": "Science",
+   "card_id": "127a6c46-776c-4ceb-841e-414b93844084",
+   "chars": 26446,
+   "file": "prompts/motionsites/planetary-pulse.md"
+  },
+  {
+   "slug": "portal",
+   "title": "Portal",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "52aa2ac9-68ef-4676-b5e4-2ddeee77948e",
+   "chars": 5718,
+   "file": "prompts/motionsites/portal.md"
+  },
+  {
+   "slug": "portfolio-cosmic",
+   "title": "Portfolio Cosmic",
+   "type": "hero",
+   "category": "Portfolio",
+   "card_id": "9e8ed655-6ab9-479b-9499-4cf1676a7cc2",
+   "chars": 8253,
+   "file": "prompts/motionsites/portfolio-cosmic.md"
+  },
+  {
+   "slug": "power-ai",
+   "title": "Power AI",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "5b00cc63-8fbb-43a3-9e18-fae8368443fb",
+   "chars": 3838,
+   "file": "prompts/motionsites/power-ai.md"
+  },
+  {
+   "slug": "price-calculator",
+   "title": "Price Calculator",
+   "type": "pricing",
+   "category": "SaaS",
+   "card_id": "0b7f8771-8157-4ae0-94b4-860d110a7967",
+   "chars": 3168,
+   "file": "prompts/motionsites/price-calculator.md"
+  },
+  {
+   "slug": "prioritize",
+   "title": "Prioritize",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "c334b760-7100-4912-8e36-9c6d26c0bbc4",
+   "chars": 6216,
+   "file": "prompts/motionsites/prioritize.md"
+  },
+  {
+   "slug": "prisma-creative-studio",
+   "title": "Prisma Creative Studio",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "08d773cd-ac28-492f-8116-9d3abb0478b1",
+   "chars": 8432,
+   "file": "prompts/motionsites/prisma-creative-studio.md"
+  },
+  {
+   "slug": "pro-ai-deck",
+   "title": "Pro AI Deck",
+   "type": "hero",
+   "category": "Presentation",
+   "card_id": "9a365d37-b4bf-4260-b1df-1bfd870d4686",
+   "chars": 20138,
+   "file": "prompts/motionsites/pro-ai-deck.md"
+  },
+  {
+   "slug": "projects-catalog",
+   "title": "Projects Catalog",
+   "type": "features",
+   "category": "Projects",
+   "card_id": "bb53dde7-07e7-4395-a06d-c4e65661a57f",
+   "chars": 7197,
+   "file": "prompts/motionsites/projects-catalog.md"
+  },
+  {
+   "slug": "prompt",
+   "title": "PROMPT",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "f3bd46c2-eb66-40f5-ac4c-5b77dc86b259",
+   "chars": 13186,
+   "file": "prompts/motionsites/prompt.md"
+  },
+  {
+   "slug": "prosthetics-hero",
+   "title": "Prosthetics Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "dbf496e5-bf65-42c9-a64f-c8d5b6845ca6",
+   "chars": 3421,
+   "file": "prompts/motionsites/prosthetics-hero.md"
+  },
+  {
+   "slug": "pulse-3d",
+   "title": "Pulse 3D",
+   "type": "hero",
+   "category": "3D Website",
+   "card_id": "ce169659-7033-4e97-a4c7-429fd5e851a2",
+   "chars": 20823,
+   "file": "prompts/motionsites/pulse-3d.md"
+  },
+  {
+   "slug": "quantum-core",
+   "title": "Quantum Core",
+   "type": "hero",
+   "category": "Data Intelligence",
+   "card_id": "63032715-18a2-4424-a7f9-3474d004b3a1",
+   "chars": 27320,
+   "file": "prompts/motionsites/quantum-core.md"
+  },
+  {
+   "slug": "radial-diagram",
+   "title": "Radial Diagram",
+   "type": "testimonials",
+   "category": "Testimonials",
+   "card_id": "00c5dd3b-a42e-4769-ae44-62a5f876c338",
+   "chars": 5364,
+   "file": "prompts/motionsites/radial-diagram.md"
+  },
+  {
+   "slug": "railroad-ai",
+   "title": "Railroad.ai",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "d5755bbb-9872-4f27-a833-83aa4005a66f",
+   "chars": 3913,
+   "file": "prompts/motionsites/railroad-ai.md"
+  },
+  {
+   "slug": "rare-gallery",
+   "title": "Rare Gallery",
+   "type": "hero",
+   "category": "Curated",
+   "card_id": "63505def-be71-4e54-8caa-7d42f90bce82",
+   "chars": 4964,
+   "file": "prompts/motionsites/rare-gallery.md"
+  },
+  {
+   "slug": "reading-library",
+   "title": "Reading Library",
+   "type": "mobile",
+   "category": "Books",
+   "card_id": "226a0cf0-7336-4461-8496-ecd58088e1f4",
+   "chars": 13839,
+   "file": "prompts/motionsites/reading-library.md"
+  },
+  {
+   "slug": "real-time-alerts",
+   "title": "Real-Time Alerts",
+   "type": "hero",
+   "category": "Sign in",
+   "card_id": "e73d4b7e-ad1f-4412-b00c-5bc9085f0fae",
+   "chars": 21771,
+   "file": "prompts/motionsites/real-time-alerts.md"
+  },
+  {
+   "slug": "remit-race",
+   "title": "Remit Race",
+   "type": "mobile",
+   "category": "Fintech",
+   "card_id": "afebd1d2-3132-4d41-9678-f4e0729c2b7f",
+   "chars": 23753,
+   "file": "prompts/motionsites/remit-race.md"
+  },
+  {
+   "slug": "remote-dev-collective",
+   "title": "Remote Dev Collective",
+   "type": "hero",
+   "category": "Agency Website",
+   "card_id": "3571697c-aa44-4764-aac3-44c6b2a1a05a",
+   "chars": 11061,
+   "file": "prompts/motionsites/remote-dev-collective.md"
+  },
+  {
+   "slug": "retro-futurist",
+   "title": "Retro-Futurist",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "e82e527e-8739-4341-ad66-6fc642094dd6",
+   "chars": 5713,
+   "file": "prompts/motionsites/retro-futurist.md"
+  },
+  {
+   "slug": "reveal-hero",
+   "title": "Reveal Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "561704b4-2ed3-46c9-b67e-2d02ee6c4bd0",
+   "chars": 6904,
+   "file": "prompts/motionsites/reveal-hero.md"
+  },
+  {
+   "slug": "rivr-defi",
+   "title": "RIVR DeFi",
+   "type": "sites",
+   "category": "Landing Page",
+   "card_id": null,
+   "chars": 5196,
+   "file": "prompts/motionsites/rivr-defi.md"
+  },
+  {
+   "slug": "rivr",
+   "title": "RIVR",
+   "type": "sites",
+   "category": "Hero Section",
+   "card_id": null,
+   "chars": 8089,
+   "file": "prompts/motionsites/rivr.md"
+  },
+  {
+   "slug": "robot-battle-arena",
+   "title": "Robot Battle Arena",
+   "type": "hero",
+   "category": "Game UI",
+   "card_id": "28f0ede6-4ef5-4224-8413-083968f60b18",
+   "chars": 9335,
+   "file": "prompts/motionsites/robot-battle-arena.md"
+  },
+  {
+   "slug": "rocket-cta",
+   "title": "Rocket CTA",
+   "type": "cta",
+   "category": "CTA",
+   "card_id": "d034c9e2-9c68-4504-a1b3-662fea085572",
+   "chars": 11622,
+   "file": "prompts/motionsites/rocket-cta.md"
+  },
+  {
+   "slug": "rocket-faq",
+   "title": "Rocket FAQ",
+   "type": "faq",
+   "category": "FAQ",
+   "card_id": "42e1d2fc-ebb2-435e-9bee-26f372edfa2d",
+   "chars": 10808,
+   "file": "prompts/motionsites/rocket-faq.md"
+  },
+  {
+   "slug": "rocket-pricing",
+   "title": "Rocket Pricing",
+   "type": "pricing",
+   "category": "Pricing",
+   "card_id": "106e888a-697e-43e9-a71d-0d7a68045daa",
+   "chars": 8841,
+   "file": "prompts/motionsites/rocket-pricing.md"
+  },
+  {
+   "slug": "routine-coach",
+   "title": "Routine Coach",
+   "type": "sites",
+   "category": "Wellness",
+   "card_id": null,
+   "chars": 14231,
+   "file": "prompts/motionsites/routine-coach.md"
+  },
+  {
+   "slug": "saas-pricing-flow",
+   "title": "SaaS Pricing Flow",
+   "type": "hero",
+   "category": "Pricing",
+   "card_id": "52c61350-0426-4bd4-8b67-cbe57659c962",
+   "chars": 5969,
+   "file": "prompts/motionsites/saas-pricing-flow.md"
+  },
+  {
+   "slug": "saas-value",
+   "title": "SaaS Value",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "facb373d-65f3-4987-8674-fd1ec3b6f305",
+   "chars": 8755,
+   "file": "prompts/motionsites/saas-value.md"
+  },
+  {
+   "slug": "scaling-platform",
+   "title": "Scaling Platform",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "2d182339-975a-4a63-b5c1-24656e3d9eff",
+   "chars": 5231,
+   "file": "prompts/motionsites/scaling-platform.md"
+  },
+  {
+   "slug": "scenic-travel",
+   "title": "Scenic Travel",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "360e0f1d-af3a-4b32-843c-71690e95202f",
+   "chars": 21419,
+   "file": "prompts/motionsites/scenic-travel.md"
+  },
+  {
+   "slug": "scroll-landing-page",
+   "title": "Scroll Landing Page",
+   "type": "hero",
+   "category": "Interactive",
+   "card_id": "801690d8-4a7d-42fd-b164-2dd4aa19fc65",
+   "chars": 15732,
+   "file": "prompts/motionsites/scroll-landing-page.md"
+  },
+  {
+   "slug": "scroll-marquee",
+   "title": "Scroll Marquee",
+   "type": "carousel",
+   "category": "Marquee",
+   "card_id": "995a3390-bfbd-4b7d-b16a-82ea7539c1dd",
+   "chars": 4119,
+   "file": "prompts/motionsites/scroll-marquee.md"
+  },
+  {
+   "slug": "securify-data-security",
+   "title": "Securify Data Security",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "7287fe2a-aa13-4a65-97bd-3ae3b25bfe4b",
+   "chars": 3822,
+   "file": "prompts/motionsites/securify-data-security.md"
+  },
+  {
+   "slug": "sentinel-ai",
+   "title": "Sentinel AI",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "59bd37f0-4cc4-4e2b-97b8-df41153ec5d0",
+   "chars": 5940,
+   "file": "prompts/motionsites/sentinel-ai.md"
+  },
+  {
+   "slug": "sentinel",
+   "title": "Sentinel",
+   "type": "hero",
+   "category": "Cybersecurity",
+   "card_id": "ad42285c-ab93-4884-a40b-f46a231c09bd",
+   "chars": 12591,
+   "file": "prompts/motionsites/sentinel.md"
+  },
+  {
+   "slug": "shadow-3d",
+   "title": "Shadow 3D",
+   "type": "sites",
+   "category": "Interactive 3D",
+   "card_id": null,
+   "chars": 40143,
+   "file": "prompts/motionsites/shadow-3d.md"
+  },
+  {
+   "slug": "shipping-infrastructure",
+   "title": "Shipping Infrastructure",
+   "type": "hero",
+   "category": "Developer",
+   "card_id": "e939171b-1d5c-4e45-a28e-827658a6b706",
+   "chars": 7119,
+   "file": "prompts/motionsites/shipping-infrastructure.md"
+  },
+  {
+   "slug": "signal-id",
+   "title": "Signal ID",
+   "type": "hero",
+   "category": "Technology",
+   "card_id": "a46d9236-ab5c-4ed2-9304-9f4464ccf1c6",
+   "chars": 11588,
+   "file": "prompts/motionsites/signal-id.md"
+  },
+  {
+   "slug": "silent-velocity",
+   "title": "Silent Velocity",
+   "type": "hero",
+   "category": "Technology",
+   "card_id": "8c7f309b-4df7-4335-9c22-054d07d06dbd",
+   "chars": 10525,
+   "file": "prompts/motionsites/silent-velocity.md"
+  },
+  {
+   "slug": "sky-cookie",
+   "title": "Sky Cookie",
+   "type": "hero",
+   "category": "Food",
+   "card_id": "e8e4b3e8-fe8d-46c6-be04-864b3e682100",
+   "chars": 16874,
+   "file": "prompts/motionsites/sky-cookie.md"
+  },
+  {
+   "slug": "sky-estate",
+   "title": "Sky Estate",
+   "type": "hero",
+   "category": "Real Estate",
+   "card_id": "5e4c3aad-d51f-4405-b537-22117c3642d5",
+   "chars": 10182,
+   "file": "prompts/motionsites/sky-estate.md"
+  },
+  {
+   "slug": "skybridge-404",
+   "title": "Skybridge 404",
+   "type": "sites",
+   "category": "404",
+   "card_id": null,
+   "chars": 7104,
+   "file": "prompts/motionsites/skybridge-404.md"
+  },
+  {
+   "slug": "skyelite-private-jets",
+   "title": "SkyElite Private Jets",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "5481c2f2-6a21-4359-8c11-68f71cdb2857",
+   "chars": 2285,
+   "file": "prompts/motionsites/skyelite-private-jets.md"
+  },
+  {
+   "slug": "skyflora",
+   "title": "Skyflora",
+   "type": "hero",
+   "category": "Creative",
+   "card_id": "3958342c-d2b0-45ac-bf03-3ece33eca11b",
+   "chars": 13215,
+   "file": "prompts/motionsites/skyflora.md"
+  },
+  {
+   "slug": "slate",
+   "title": "Slate",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "b5ad789a-9219-475a-9465-3a09304b59ef",
+   "chars": 5124,
+   "file": "prompts/motionsites/slate.md"
+  },
+  {
+   "slug": "social-hangouts",
+   "title": "Social Hangouts",
+   "type": "mobile",
+   "category": "Community App",
+   "card_id": "e41d4175-33d0-4aac-8986-f6fa35411eb3",
+   "chars": 32953,
+   "file": "prompts/motionsites/social-hangouts.md"
+  },
+  {
+   "slug": "social-media-posts",
+   "title": "Social Media Posts",
+   "type": "social-media",
+   "category": "Social Media",
+   "card_id": "3a971795-411b-48d2-9c19-0e8cedebcca3",
+   "chars": 11738,
+   "file": "prompts/motionsites/social-media-posts.md"
+  },
+  {
+   "slug": "solar-energy-hero",
+   "title": "Solar Energy Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "3f3c5354-832c-40a2-9b4a-da06b857e72e",
+   "chars": 13718,
+   "file": "prompts/motionsites/solar-energy-hero.md"
+  },
+  {
+   "slug": "space-voyage",
+   "title": "Space Voyage",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "a7ce5957-c44c-4176-8a7d-d63b3262896d",
+   "chars": 23849,
+   "file": "prompts/motionsites/space-voyage.md"
+  },
+  {
+   "slug": "sparkform",
+   "title": "Sparkform",
+   "type": "hero",
+   "category": "Creative",
+   "card_id": "784f18cf-4090-4a99-9bd3-78fc115e6da5",
+   "chars": 6724,
+   "file": "prompts/motionsites/sparkform.md"
+  },
+  {
+   "slug": "spatial-mapping-platform",
+   "title": "Spatial Mapping Platform",
+   "type": "hero",
+   "category": "Data",
+   "card_id": "9e852e08-1485-4ae9-8aa1-1c85077448b4",
+   "chars": 8844,
+   "file": "prompts/motionsites/spatial-mapping-platform.md"
+  },
+  {
+   "slug": "speakup-venture-hero",
+   "title": "SpeakUp Venture Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "61e61f95-79ef-4bea-85d5-f056124799b1",
+   "chars": 3854,
+   "file": "prompts/motionsites/speakup-venture-hero.md"
+  },
+  {
+   "slug": "spectrum-grid",
+   "title": "Spectrum Grid",
+   "type": "footer",
+   "category": "Technology",
+   "card_id": "3af446c3-3be2-477b-93cf-65dfd25f0621",
+   "chars": 11555,
+   "file": "prompts/motionsites/spectrum-grid.md"
+  },
+  {
+   "slug": "stark-minimal-footer",
+   "title": "Stark Minimal Footer",
+   "type": "footer",
+   "category": "Footer",
+   "card_id": "b277d919-4672-4b55-8652-10f7495ff9ed",
+   "chars": 5437,
+   "file": "prompts/motionsites/stark-minimal-footer.md"
+  },
+  {
+   "slug": "stellar-ai",
+   "title": "Stellar AI",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "6f97bc05-87b2-4b88-9d4e-d7b3b3e0ad2b",
+   "chars": 3973,
+   "file": "prompts/motionsites/stellar-ai.md"
+  },
+  {
+   "slug": "stellar-launch",
+   "title": "Stellar Launch",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "c480ad28-0836-4f62-a79e-5c1760a2531b",
+   "chars": 10792,
+   "file": "prompts/motionsites/stellar-launch.md"
+  },
+  {
+   "slug": "supplement-shop",
+   "title": "Supplement Shop",
+   "type": "mobile",
+   "category": "Health",
+   "card_id": "d18a6adb-bd1a-44d2-b09d-2988c1bf43ec",
+   "chars": 3964,
+   "file": "prompts/motionsites/supplement-shop.md"
+  },
+  {
+   "slug": "sweet-question",
+   "title": "Sweet Question",
+   "type": "mobile",
+   "category": "Events",
+   "card_id": "c4d07181-47a9-4fc5-b9be-43af6edd4aeb",
+   "chars": 15781,
+   "file": "prompts/motionsites/sweet-question.md"
+  },
+  {
+   "slug": "synapse-dark-hero",
+   "title": "Synapse Dark Hero",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "798da891-7b7d-44a3-9bf3-deab91c60177",
+   "chars": 1608,
+   "file": "prompts/motionsites/synapse-dark-hero.md"
+  },
+  {
+   "slug": "sync-ai",
+   "title": "Sync AI",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "0c662d51-9352-4e48-9711-7196e9af7742",
+   "chars": 6207,
+   "file": "prompts/motionsites/sync-ai.md"
+  },
+  {
+   "slug": "synth-mode",
+   "title": "Synth Mode",
+   "type": "hero",
+   "category": "Fashion",
+   "card_id": "38aba76a-a12d-4d8a-a8c1-919c9b030157",
+   "chars": 10533,
+   "file": "prompts/motionsites/synth-mode.md"
+  },
+  {
+   "slug": "synthesis",
+   "title": "Synthesis",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "b45fed17-bf32-4085-a1c0-94fc2f98a28d",
+   "chars": 5459,
+   "file": "prompts/motionsites/synthesis.md"
+  },
+  {
+   "slug": "talent-collective",
+   "title": "Talent Collective",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "ca95f185-6df7-4bd0-bde3-c69582f33023",
+   "chars": 9583,
+   "file": "prompts/motionsites/talent-collective.md"
+  },
+  {
+   "slug": "targo-logistics-hero",
+   "title": "Targo Logistics Hero",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "7cb7d03b-54d4-49a1-9deb-46c62f4b0f89",
+   "chars": 2162,
+   "file": "prompts/motionsites/targo-logistics-hero.md"
+  },
+  {
+   "slug": "task-engine",
+   "title": "Task Engine",
+   "type": "features",
+   "category": "SaaS",
+   "card_id": "222d0f76-41e4-4755-86c8-2aab8b293a76",
+   "chars": 14503,
+   "file": "prompts/motionsites/task-engine.md"
+  },
+  {
+   "slug": "taskly",
+   "title": "Taskly",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "81191770-444a-4c54-8a71-f4d4e3a4a4e4",
+   "chars": 2465,
+   "file": "prompts/motionsites/taskly.md"
+  },
+  {
+   "slug": "taskora-saas-hero",
+   "title": "Taskora SaaS Hero",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "af806bcb-0a59-48c6-a44f-ef0c05b072cb",
+   "chars": 2748,
+   "file": "prompts/motionsites/taskora-saas-hero.md"
+  },
+  {
+   "slug": "tech-forward",
+   "title": "Tech-Forward",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "fc025f19-16ff-4675-8d9f-cdec747abcb2",
+   "chars": 3400,
+   "file": "prompts/motionsites/tech-forward.md"
+  },
+  {
+   "slug": "tech-noir-about",
+   "title": "Tech-Noir About",
+   "type": "sections",
+   "category": "About",
+   "card_id": null,
+   "chars": 3555,
+   "file": "prompts/motionsites/tech-noir-about.md"
+  },
+  {
+   "slug": "technical-specifications",
+   "title": "Technical Specifications",
+   "type": "features",
+   "category": "Tabs",
+   "card_id": "76cc56ac-4363-4612-ac27-80aa854721b2",
+   "chars": 13885,
+   "file": "prompts/motionsites/technical-specifications.md"
+  },
+  {
+   "slug": "terra-geo-map",
+   "title": "Terra Geo Map",
+   "type": "hero",
+   "category": "SaaS",
+   "card_id": "eff3fa86-6796-400f-a752-a631ff5b6829",
+   "chars": 2618,
+   "file": "prompts/motionsites/terra-geo-map.md"
+  },
+  {
+   "slug": "transform-data",
+   "title": "Transform Data",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "7c553857-ca5d-4640-92d7-2b6d84016f5b",
+   "chars": 3605,
+   "file": "prompts/motionsites/transform-data.md"
+  },
+  {
+   "slug": "travel-explorer",
+   "title": "Travel Explorer",
+   "type": "mobile",
+   "category": "Travel",
+   "card_id": "87fa1b62-4ce6-4d32-940b-3605df144bfa",
+   "chars": 7116,
+   "file": "prompts/motionsites/travel-explorer.md"
+  },
+  {
+   "slug": "travel-journal",
+   "title": "Travel Journal",
+   "type": "mobile",
+   "category": "Travel",
+   "card_id": "b92abcca-3dad-493c-bb27-932bd8dd6c3b",
+   "chars": 5151,
+   "file": "prompts/motionsites/travel-journal.md"
+  },
+  {
+   "slug": "unwind-hero",
+   "title": "Unwind Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "9dd6d02c-9056-4e28-94c8-985b7beab634",
+   "chars": 7548,
+   "file": "prompts/motionsites/unwind-hero.md"
+  },
+  {
+   "slug": "usd-halo",
+   "title": "USD Halo",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "b7105b8c-1501-4269-a7eb-fd16f0bd9c02",
+   "chars": 8531,
+   "file": "prompts/motionsites/usd-halo.md"
+  },
+  {
+   "slug": "vaultshield",
+   "title": "VaultShield",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "58ba480c-6500-4b71-9b09-7cf09621b582",
+   "chars": 4734,
+   "file": "prompts/motionsites/vaultshield.md"
+  },
+  {
+   "slug": "vectrus-energy",
+   "title": "Vectrus Energy",
+   "type": "hero",
+   "category": "Editorial",
+   "card_id": "60e0c19f-9900-4b7b-bf4f-3ead89515226",
+   "chars": 8300,
+   "file": "prompts/motionsites/vectrus-energy.md"
+  },
+  {
+   "slug": "veloce-cards",
+   "title": "Veloce Cards",
+   "type": "features",
+   "category": "Cards",
+   "card_id": "7716284d-aa03-469a-bca4-801fad90d502",
+   "chars": 4540,
+   "file": "prompts/motionsites/veloce-cards.md"
+  },
+  {
+   "slug": "veloce-finance",
+   "title": "Veloce Finance",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "b0af2960-2168-4c44-a031-ea6e65ceb2f1",
+   "chars": 8465,
+   "file": "prompts/motionsites/veloce-finance.md"
+  },
+  {
+   "slug": "velorah-focus",
+   "title": "Velorah Focus",
+   "type": "social-media",
+   "category": "Social Media",
+   "card_id": "494d237a-9ad3-4042-aeb8-c1d3ce1328f8",
+   "chars": 12595,
+   "file": "prompts/motionsites/velorah-focus.md"
+  },
+  {
+   "slug": "velorah",
+   "title": "Velorah",
+   "type": "hero",
+   "category": "Agency",
+   "card_id": "6928160f-2d98-4172-8c88-6a8c3ca0a4ea",
+   "chars": 3788,
+   "file": "prompts/motionsites/velorah.md"
+  },
+  {
+   "slug": "verkos-robotics",
+   "title": "Verkos Robotics",
+   "type": "sites",
+   "category": "Robotics",
+   "card_id": null,
+   "chars": 28949,
+   "file": "prompts/motionsites/verkos-robotics.md"
+  },
+  {
+   "slug": "vertex-sci",
+   "title": "Vertex Sci",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "9797c2ea-ce70-4ffd-a5f9-675a009e3930",
+   "chars": 9146,
+   "file": "prompts/motionsites/vertex-sci.md"
+  },
+  {
+   "slug": "vertexai-hero",
+   "title": "VertexAI Hero",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "31ce4379-2da0-44d3-b9a1-416ef831b3a2",
+   "chars": 12242,
+   "file": "prompts/motionsites/vertexai-hero.md"
+  },
+  {
+   "slug": "vex-ventures",
+   "title": "VEX Ventures",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "ee1ff68b-fec0-41a1-927b-5255350ab1e7",
+   "chars": 5051,
+   "file": "prompts/motionsites/vex-ventures.md"
+  },
+  {
+   "slug": "vision-reveal",
+   "title": "Vision Reveal",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "74a3a1d3-45cc-4eab-87cd-d97aaf489f27",
+   "chars": 16723,
+   "file": "prompts/motionsites/vision-reveal.md"
+  },
+  {
+   "slug": "vitara",
+   "title": "Vitara",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "fb4a9eeb-b713-4827-b7eb-ab0e9c2c97c9",
+   "chars": 3623,
+   "file": "prompts/motionsites/vitara.md"
+  },
+  {
+   "slug": "vize-footer",
+   "title": "Vize Footer",
+   "type": "footer",
+   "category": "Footer Section",
+   "card_id": "195daa7c-91e4-40fd-ae77-3470f51f07c5",
+   "chars": 7734,
+   "file": "prompts/motionsites/vize-footer.md"
+  },
+  {
+   "slug": "waitlist-hero",
+   "title": "Waitlist Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "4765c768-bc52-486b-bddf-5fba1c74d7e7",
+   "chars": 5819,
+   "file": "prompts/motionsites/waitlist-hero.md"
+  },
+  {
+   "slug": "wanderful-hero",
+   "title": "Wanderful Hero",
+   "type": "hero",
+   "category": "Travel",
+   "card_id": "40d4dd6d-39ee-4c87-ac03-bbde9a56b92e",
+   "chars": 4223,
+   "file": "prompts/motionsites/wanderful-hero.md"
+  },
+  {
+   "slug": "web3-eos-hero",
+   "title": "Web3 EOS Hero",
+   "type": "hero",
+   "category": "Web3",
+   "card_id": "460357e5-3cdd-4895-a38a-8160eb86e221",
+   "chars": 3112,
+   "file": "prompts/motionsites/web3-eos-hero.md"
+  },
+  {
+   "slug": "weblex-dark-hero",
+   "title": "Weblex Dark Hero",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "a57af091-d9ff-4426-84af-6afba58cc59f",
+   "chars": 2547,
+   "file": "prompts/motionsites/weblex-dark-hero.md"
+  },
+  {
+   "slug": "website-builder",
+   "title": "Website Builder",
+   "type": "mobile",
+   "category": "SaaS",
+   "card_id": "d9888639-5064-4654-be6d-ebfa3d19b23f",
+   "chars": 11457,
+   "file": "prompts/motionsites/website-builder.md"
+  },
+  {
+   "slug": "wellbeing-os",
+   "title": "Wellbeing OS",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "675a7ff7-fab9-4645-8c2c-bcc450124094",
+   "chars": 5051,
+   "file": "prompts/motionsites/wellbeing-os.md"
+  },
+  {
+   "slug": "wellness-balance",
+   "title": "Wellness Balance",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "9d1c8bb5-f08f-47a1-95aa-e9ee0174f7b6",
+   "chars": 7840,
+   "file": "prompts/motionsites/wellness-balance.md"
+  },
+  {
+   "slug": "wellness-companion",
+   "title": "Wellness Companion",
+   "type": "mobile",
+   "category": "Wellness",
+   "card_id": "dda701fc-95df-47ed-aaa7-32f7e6422d92",
+   "chars": 4095,
+   "file": "prompts/motionsites/wellness-companion.md"
+  },
+  {
+   "slug": "wellness-devicex",
+   "title": "Wellness Devicex",
+   "type": "hero",
+   "category": "Health",
+   "card_id": "8c953938-990d-4dee-bb23-0afd88dbfbd7",
+   "chars": 6903,
+   "file": "prompts/motionsites/wellness-devicex.md"
+  },
+  {
+   "slug": "wellness-hero",
+   "title": "Wellness Hero",
+   "type": "hero",
+   "category": "Hero",
+   "card_id": "1090915f-3612-42d9-8283-34822366ee2f",
+   "chars": 4719,
+   "file": "prompts/motionsites/wellness-hero.md"
+  },
+  {
+   "slug": "what-package-fits-you",
+   "title": "What Package Fits You",
+   "type": "hero",
+   "category": "Pricing",
+   "card_id": "9ecf60fd-1bb7-4c97-bb14-66a026d1cca4",
+   "chars": 9163,
+   "file": "prompts/motionsites/what-package-fits-you.md"
+  },
+  {
+   "slug": "worldwide-hubs",
+   "title": "Worldwide Hubs",
+   "type": "hero",
+   "category": "Business",
+   "card_id": "f698964b-75ec-44b8-9a2c-e0ecab7d1cb3",
+   "chars": 10929,
+   "file": "prompts/motionsites/worldwide-hubs.md"
+  },
+  {
+   "slug": "xportfolio-hero",
+   "title": "xPortfolio Hero",
+   "type": "hero",
+   "category": "Hero Section",
+   "card_id": "9b542609-a6d7-4d4f-89dc-661fc7f590c6",
+   "chars": 2874,
+   "file": "prompts/motionsites/xportfolio-hero.md"
+  },
+  {
+   "slug": "yoga-coach",
+   "title": "Yoga Coach",
+   "type": "sites",
+   "category": "Landing Page",
+   "card_id": null,
+   "chars": 10255,
+   "file": "prompts/motionsites/yoga-coach.md"
+  },
+  {
+   "slug": "zenith-footer",
+   "title": "Zenith Footer",
+   "type": "footer",
+   "category": "Footer Section",
+   "card_id": "3aa2483a-377c-4adb-a2e7-16ea0c1f8f0c",
+   "chars": 4256,
+   "file": "prompts/motionsites/zenith-footer.md"
+  },
+  {
+   "slug": "zenith-realty",
+   "title": "Zenith Realty",
+   "type": "hero",
+   "category": "Landing Page",
+   "card_id": "d5064e77-ffc6-40e4-b54c-a2ff632b8b19",
+   "chars": 7094,
+   "file": "prompts/motionsites/zenith-realty.md"
+  }
+ ],
+ "links": [
+  {
+   "slug": "3d-bloom-layer",
+   "title": "3D Bloom Layer",
+   "type": "",
+   "category": "",
+   "card_id": "054b79f3-4db6-42bb-b8b3-4cd6f69c30a5",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "3d-future-flora",
+   "title": "3D Future Flora",
+   "type": "",
+   "category": "",
+   "card_id": "9b0e79ff-3d63-41f4-aeee-b28528db6b32",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "acreage-farming",
+   "title": "Acreage Farming",
+   "type": "",
+   "category": "",
+   "card_id": "3c8f451f-9163-4426-a00b-c670a8dfc6d2",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "ai-designer-portfolio",
+   "title": "AI Designer Portfolio",
+   "type": "",
+   "category": "",
+   "card_id": "bc090770-5ea2-4fb2-972b-71917db2133e",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "cinematic-landing-page",
+   "title": "Cinematic Landing Page",
+   "type": "",
+   "category": "",
+   "card_id": "af51429c-9eb9-4cbe-82bd-758824901784",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "glass-orb",
+   "title": "Glass Orb",
+   "type": "",
+   "category": "",
+   "card_id": "e399ab56-5fd5-4af6-a247-c4c3d5e7118e",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "human-machine",
+   "title": "Human Machine",
+   "type": "sites",
+   "category": "AI",
+   "card_id": null,
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "nike-premium-landing",
+   "title": "Nike Premium Landing",
+   "type": "",
+   "category": "",
+   "card_id": "562a4221-9e7b-4920-a1d9-30ef9d92a324",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "nimbus-grid",
+   "title": "Nimbus Grid",
+   "type": "",
+   "category": "",
+   "card_id": "0d647e69-06a1-4653-bcb9-a5a400aad8b9",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "slam-dunk",
+   "title": "Slam Dunk",
+   "type": "",
+   "category": "",
+   "card_id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "urban-jungle",
+   "title": "Urban Jungle",
+   "type": "",
+   "category": "",
+   "card_id": "0191170f-7b80-4f99-9d73-d504767b62fa",
+   "link": null,
+   "deliverable": "link"
+  },
+  {
+   "slug": "yacht-club",
+   "title": "Yacht Club",
+   "type": "",
+   "category": "",
+   "card_id": "7cb83158-1003-451e-badc-8975b0ef715e",
+   "link": null,
+   "deliverable": "link"
+  }
+ ],
+ "notOpenable": [
+  {
+   "title": "Adaptive Learning",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Agent Crew",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "AI Interface",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "AI Workflow Hero",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Angel Shield",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Apex SaaS",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "arc Summit",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Automation Machines",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Bio-Age Dashboard",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Bite-Sized Courses",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Botanical Shadow About",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Breathstone",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Build With Us",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Cargo Group",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "ClearInvoice SaaS Hero",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Community CTA",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Contact Cybernetic",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Creative Portfolio",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Cross-Border",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Crypto Wealth",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Cyberpunk Reveal",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Dental Implant Clinic",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "EcoVolta",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "EMBER.dsgn",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "FAQ CTA",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "FinancialFocus",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Finlytic AI Agent",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Footballer Portfolio",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Forecast Center",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Fun 404 Page",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Glassmorphic Feature Tabs",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Golden Portal",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Guardnet",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Halo Benefits",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Health Portal",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Kresna Footer",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Liquid Glass CTA",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Luxury Focus",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Luxury Hero",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Model Infrastructure",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Mood Tracker",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Movie Premiere",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Neon Logic",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Network Hero",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Neuralyn",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "NexaCore Process",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Nexora Automation",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Nimbus Ops",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Orbit Engineers",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Performance Run",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Personal Showcase",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Pet Diagnostics",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Pixel Grid Hover",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Planet Orbit",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Portfolio About",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Product Studio",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Quantum Lucid",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Relocation Card",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "SAAS Software",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Sea Serenade",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Shamoni",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Solace sign-in",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Stillmind",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Subscription Agency",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Systema",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "TerraVision",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Tokyo Nocturne",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "TrustFlow",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Velorix IIC",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Viktor Portfolio",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "Visual Hero",
+   "isFree": true,
+   "note": "{}"
+  },
+  {
+   "title": "Wealth Video Hero",
+   "isFree": false,
+   "note": "{}"
+  },
+  {
+   "title": "WISA Space",
+   "isFree": false,
+   "note": "{}"
+  }
+ ],
+ "absent": [
+  {
+   "title": "Alethia",
+   "status": "not_found"
+  },
+  {
+   "title": "Anchor AI",
+   "status": "not_found"
+  },
+  {
+   "title": "Ancient Oath",
+   "status": "not_found"
+  },
+  {
+   "title": "Ascend",
+   "status": "not_found"
+  },
+  {
+   "title": "Avelon Drive",
+   "status": "not_found"
+  },
+  {
+   "title": "Axle Journey",
+   "status": "not_found"
+  },
+  {
+   "title": "Cast and Render",
+   "status": "not_found"
+  },
+  {
+   "title": "Celestix",
+   "status": "not_found"
+  },
+  {
+   "title": "Codeveil",
+   "status": "not_found"
+  },
+  {
+   "title": "ConSentinel",
+   "status": "not_found"
+  },
+  {
+   "title": "Cordex",
+   "status": "not_found"
+  },
+  {
+   "title": "Cosmic Mapping",
+   "status": "not_found"
+  },
+  {
+   "title": "Crypto Vault",
+   "status": "not_found"
+  },
+  {
+   "title": "Cyber Ronin",
+   "status": "not_found"
+  },
+  {
+   "title": "Digital Persona",
+   "status": "not_found"
+  },
+  {
+   "title": "DJ ZakDerdan",
+   "status": "not_found"
+  },
+  {
+   "title": "Fastshot",
+   "status": "not_found"
+  },
+  {
+   "title": "Frostbound",
+   "status": "not_found"
+  },
+  {
+   "title": "Frozen Cave",
+   "status": "not_found"
+  },
+  {
+   "title": "Future 3D Portfolio",
+   "status": "not_found"
+  },
+  {
+   "title": "Future Machine",
+   "status": "not_found"
+  },
+  {
+   "title": "Global gateway",
+   "status": "not_found"
+  },
+  {
+   "title": "Global Talent",
+   "status": "not_found"
+  },
+  {
+   "title": "Golden Identity",
+   "status": "not_found"
+  },
+  {
+   "title": "HAVENORBI",
+   "status": "not_found"
+  },
+  {
+   "title": "Heart Health Dashboard",
+   "status": "not_found"
+  },
+  {
+   "title": "Heritage Grove",
+   "status": "not_found"
+  },
+  {
+   "title": "Intelligent Performance",
+   "status": "not_found"
+  },
+  {
+   "title": "JungleMind",
+   "status": "not_found"
+  },
+  {
+   "title": "Keel",
+   "status": "not_found"
+  },
+  {
+   "title": "LTX Video",
+   "status": "not_found"
+  },
+  {
+   "title": "Menuchi",
+   "status": "not_found"
+  },
+  {
+   "title": "Mind AI",
+   "status": "not_found"
+  },
+  {
+   "title": "Mindora",
+   "status": "not_found"
+  },
+  {
+   "title": "Monolithic",
+   "status": "not_found"
+  },
+  {
+   "title": "Nature Portfolio",
+   "status": "not_found"
+  },
+  {
+   "title": "Neural Pathway",
+   "status": "not_found"
+  },
+  {
+   "title": "NEX Robotics",
+   "status": "not_found"
+  },
+  {
+   "title": "Nietzsche sustainibilty",
+   "status": "not_found"
+  },
+  {
+   "title": "Nival Cyberspace",
+   "status": "not_found"
+  },
+  {
+   "title": "Northstar",
+   "status": "not_found"
+  },
+  {
+   "title": "Orange Horse",
+   "status": "not_found"
+  },
+  {
+   "title": "Orbit Stickers",
+   "status": "not_found"
+  },
+  {
+   "title": "Orla Fashion",
+   "status": "not_found"
+  },
+  {
+   "title": "Particle Field",
+   "status": "not_found"
+  },
+  {
+   "title": "Peakline Redshift",
+   "status": "not_found"
+  },
+  {
+   "title": "Playful Idea",
+   "status": "not_found"
+  },
+  {
+   "title": "Quantum Human",
+   "status": "not_found"
+  },
+  {
+   "title": "React Vision",
+   "status": "not_found"
+  },
+  {
+   "title": "Sellix",
+   "status": "not_found"
+  },
+  {
+   "title": "Skytrace",
+   "status": "not_found"
+  },
+  {
+   "title": "Space planet",
+   "status": "not_found"
+  },
+  {
+   "title": "TrueEarth",
+   "status": "not_found"
+  },
+  {
+   "title": "Undr Drift",
+   "status": "not_found"
+  },
+  {
+   "title": "Vela Ul",
+   "status": "not_found"
+  },
+  {
+   "title": "Vertex",
+   "status": "not_found"
+  },
+  {
+   "title": "Veyra Electric",
+   "status": "not_found"
+  },
+  {
+   "title": "Vintage Care",
+   "status": "not_found"
+  },
+  {
+   "title": "Vinyl",
+   "status": "not_found"
+  },
+  {
+   "title": "Vitalis",
+   "status": "not_found"
+  },
+  {
+   "title": "Way Farer",
+   "status": "not_found"
+  },
+  {
+   "title": "Wealthcore",
+   "status": "not_found"
+  }
+ ]
+}

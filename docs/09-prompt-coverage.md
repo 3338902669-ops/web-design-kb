@@ -11,9 +11,9 @@ starting to build.
 
 | Class | Count | What you get | Can you implement from it? |
 |---|---|---|---|
-| **promptRef** | **215** | A full prompt text shipped in `data/prompts/` | Yes - read the file, then adapt it |
-| **executable URL** | **130** | No prompt text, but an official component/demo URL in the `url` field (Aceternity UI, React Bits) | Yes - the official component page is the spec |
-| **no executable spec** | **406** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
+| **promptRef** | **427** | A full prompt text shipped in `data/prompts/` | Yes - read the file, then adapt it |
+| **executable URL** | **126** | No prompt text, but an official component/demo URL in the `url` field (Aceternity UI, React Bits) | Yes - the official component page is the spec |
+| **no executable spec** | **198** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
 
 The 406 are Framesbase showcase records (405) plus 1 self-authored entry. They are
 `nature: frame` (110) or `nature: visual` (295): descriptions and tags distilled from a poster or a
@@ -27,7 +27,13 @@ node tools/motion-search.mjs --db data/motion-db.json -k glass --has-spec
 node tools/get-prompt.mjs "Global gateway"      # promptRef -> prints the file path
 ~~~
 
-## If you need one of the 406
+The covered set grew on 2026-10-01: 212 further library entries were linked to prompt texts harvested
+through the Framesbase MCP by the repository owner's membership (387 new files in
+`data/prompts/motionsites/`, plus `data/framesbase-mcp-manifest.json` recording what could and could not be
+opened). See [THIRD-PARTY-NOTICE.md](../THIRD-PARTY-NOTICE.md) for the source and licence status of each
+prompt family before redistributing.
+
+## If you need one of the 198
 
 Three legitimate routes, in order of cost:
 

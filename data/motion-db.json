@@ -55,7 +55,8 @@
         "渐变"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/skyflora.md"
     },
     {
       "cat": "Sites",
@@ -120,7 +121,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/obsidian.md"
     },
     {
       "cat": "Sites",
@@ -164,7 +166,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/geno-trace.md"
     },
     {
       "cat": "Sites",
@@ -247,7 +250,8 @@
         "悬停交互"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/pixel-muse.md"
     },
     {
       "cat": "Sites",
@@ -292,7 +296,8 @@
         "渐变"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nexa-talent.md"
     },
     {
       "cat": "Sites",
@@ -335,7 +340,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/creative-matter.md"
     },
     {
       "cat": "Sites",
@@ -400,7 +406,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/buildshield.md"
     },
     {
       "cat": "Sites",
@@ -422,7 +429,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/global-hubs.md"
     },
     {
       "cat": "Sites",
@@ -490,7 +498,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ai-cyber-defense.md"
     },
     {
       "cat": "Sites",
@@ -579,7 +588,8 @@
       ],
       "nature": "frame",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists.",
+      "promptRef": "data/prompts/motionsites/ascera-ai.md"
     },
     {
       "cat": "Sites",
@@ -675,7 +685,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/lead-funnel.md"
     },
     {
       "cat": "Sites",
@@ -695,7 +706,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ai-future-studio.md"
     },
     {
       "cat": "Sites",
@@ -1442,7 +1454,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/prioritize.md"
     },
     {
       "cat": "Sites",
@@ -1526,7 +1539,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/reveal-hero.md"
     },
     {
       "cat": "Sites",
@@ -1557,7 +1571,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/codercrest.md"
     },
     {
       "cat": "Sites",
@@ -1607,7 +1622,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/zenith-realty.md"
     },
     {
       "cat": "Sites",
@@ -1624,7 +1640,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/flowmate.md"
     },
     {
       "cat": "Sites",
@@ -1638,7 +1655,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/pro-ai-deck.md"
     },
     {
       "cat": "Sites",
@@ -1703,7 +1721,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/novadesk-signup.md"
     },
     {
       "cat": "Sites",
@@ -1737,7 +1756,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/learnly.md"
     },
     {
       "cat": "Sites",
@@ -1807,7 +1827,8 @@
         "3D"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ecovolta-v2.md"
     },
     {
       "cat": "Sites",
@@ -1821,7 +1842,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/bookedup.md"
     },
     {
       "cat": "Sites",
@@ -1921,7 +1943,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/slate.md"
     },
     {
       "cat": "Sites",
@@ -1975,7 +1998,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/veloce-finance.md"
     },
     {
       "cat": "Sites",
@@ -2008,7 +2032,8 @@
         "3D"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ecovolta-v2.md"
     },
     {
       "cat": "Sites",
@@ -2043,7 +2068,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/speakup-venture-hero.md"
     },
     {
       "cat": "Sites",
@@ -2107,7 +2133,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/futuristic-cinematic.md"
     },
     {
       "cat": "Sites",
@@ -2193,7 +2220,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/focus-ai.md"
     },
     {
       "cat": "Sites",
@@ -2209,7 +2237,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/vitara.md"
     },
     {
       "cat": "Sites",
@@ -2267,7 +2296,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/impressive-hero.md"
     },
     {
       "cat": "Sites",
@@ -2281,7 +2311,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/naturecore-saas.md"
     },
     {
       "cat": "Sites",
@@ -2310,7 +2341,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/waitlist-hero.md"
     },
     {
       "cat": "Sites",
@@ -2379,7 +2411,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/creative-agency.md"
     },
     {
       "cat": "Sites",
@@ -2427,7 +2460,8 @@
         "玻璃拟态"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/vertexai-hero.md"
     },
     {
       "cat": "Sites",
@@ -2629,7 +2663,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/auramail.md"
     },
     {
       "cat": "Sites",
@@ -2646,7 +2681,8 @@
         "玻璃拟态"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/rivr-defi.md"
     },
     {
       "cat": "Sites",
@@ -2733,7 +2769,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/luxury-ecommerce-design.md"
     },
     {
       "cat": "Sites",
@@ -2747,7 +2784,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/yoga-coach.md"
     },
     {
       "cat": "Sites",
@@ -2764,7 +2802,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/book-hero.md"
     },
     {
       "cat": "Sites",
@@ -2807,7 +2846,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cursor-follow.md"
     },
     {
       "cat": "Sites",
@@ -2836,7 +2876,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/scroll-landing-page.md"
     },
     {
       "cat": "Sites",
@@ -2850,7 +2891,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/luxury-botanical.md"
     },
     {
       "cat": "Sites",
@@ -2864,7 +2906,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/stellar-launch.md"
     },
     {
       "cat": "Sites",
@@ -2881,7 +2924,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/solar-energy-hero.md"
     },
     {
       "cat": "Sites",
@@ -2915,7 +2959,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cybersecurity-hero-v2.md"
     },
     {
       "cat": "Sites",
@@ -2981,7 +3026,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cinematic-brand.md"
     },
     {
       "cat": "Sites",
@@ -3010,7 +3056,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/aerocore.md"
     },
     {
       "cat": "Sites",
@@ -3043,7 +3090,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/growth-marketing-saas.md"
     },
     {
       "cat": "Sites",
@@ -3089,7 +3137,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/minimal-workflow-saas.md"
     },
     {
       "cat": "Sites",
@@ -3103,7 +3152,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/luxury-real-estate.md"
     },
     {
       "cat": "Sites",
@@ -3117,7 +3167,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/evergreen-finance.md"
     },
     {
       "cat": "Sites",
@@ -3193,7 +3244,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/mythic-naturecore.md"
     },
     {
       "cat": "Sites",
@@ -3237,7 +3289,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/bio-digital.md"
     },
     {
       "cat": "Sites",
@@ -3273,7 +3326,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/art-landing.md"
     },
     {
       "cat": "Sites",
@@ -3287,7 +3341,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/daisy-shop.md"
     },
     {
       "cat": "Sites",
@@ -3319,7 +3374,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/dreamcore-landing.md"
     },
     {
       "cat": "Sites",
@@ -3367,7 +3423,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/scenic-travel.md"
     },
     {
       "cat": "Sites",
@@ -3412,7 +3469,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/futuristic-tech.md"
     },
     {
       "cat": "Sites",
@@ -3426,7 +3484,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/finflow.md"
     },
     {
       "cat": "Sites",
@@ -3455,7 +3514,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/layered-depth.md"
     },
     {
       "cat": "Sites",
@@ -3469,7 +3529,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/interactive-portfolio.md"
     },
     {
       "cat": "Sites",
@@ -3492,7 +3553,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/lending-ai-agents.md"
     },
     {
       "cat": "Sites",
@@ -3530,7 +3592,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/integration-saas.md"
     },
     {
       "cat": "Sites",
@@ -3573,7 +3636,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/investment-gate.md"
     },
     {
       "cat": "Sites",
@@ -3587,7 +3651,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/clarity-core.md"
     },
     {
       "cat": "Sites",
@@ -3611,7 +3676,8 @@
         "渐变"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/sky-estate.md"
     },
     {
       "cat": "Sites",
@@ -3661,7 +3727,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cosmic.md"
     },
     {
       "cat": "Sites",
@@ -3719,7 +3786,8 @@
         "噪声/纹理"
       ],
       "nature": "visual",
-      "status": "suspect"
+      "status": "suspect",
+      "promptRef": "data/prompts/motionsites/pulse-3d.md"
     },
     {
       "cat": "Sites",
@@ -3769,7 +3837,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cosmos-interface.md"
     },
     {
       "cat": "Sites",
@@ -3881,7 +3950,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/apex-pulse.md"
     },
     {
       "cat": "Sites",
@@ -3895,7 +3965,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/neural-interface.md"
     },
     {
       "cat": "Sites",
@@ -3909,7 +3980,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/synthesis.md"
     },
     {
       "cat": "Sites",
@@ -3923,7 +3995,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/gateway-portal.md"
     },
     {
       "cat": "Sites",
@@ -3941,7 +4014,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/3d-story.md"
     },
     {
       "cat": "Sites",
@@ -3978,7 +4052,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/financial-suite.md"
     },
     {
       "cat": "Sites",
@@ -4050,7 +4125,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cleantech.md"
     },
     {
       "cat": "Sites",
@@ -4064,7 +4140,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/glitch-pulse.md"
     },
     {
       "cat": "Sites",
@@ -4078,7 +4155,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/jewelry-store.md"
     },
     {
       "cat": "Sites",
@@ -4142,7 +4220,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/performance-eyewear.md"
     },
     {
       "cat": "Sites",
@@ -4156,7 +4235,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/conversion.md"
     },
     {
       "cat": "Sites",
@@ -4209,7 +4289,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/obsidian-hero.md"
     },
     {
       "cat": "Sites",
@@ -4231,7 +4312,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/innovation-studio.md"
     },
     {
       "cat": "Sites",
@@ -4312,7 +4394,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/unwind-hero.md"
     },
     {
       "cat": "Sites",
@@ -4355,7 +4438,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ai-meeting-notes.md"
     },
     {
       "cat": "Sites",
@@ -4375,7 +4459,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/outdoor-apparel.md"
     },
     {
       "cat": "Sites",
@@ -4389,7 +4474,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/vertex-sci.md"
     },
     {
       "cat": "Sites",
@@ -4408,7 +4494,8 @@
         "HUD/数据"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/future-state.md"
     },
     {
       "cat": "Sites",
@@ -4422,7 +4509,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/eco-intelligence.md"
     },
     {
       "cat": "Sites",
@@ -4479,7 +4567,8 @@
         "悬停交互"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/modern-dental-clinic.md"
     },
     {
       "cat": "Sites",
@@ -4501,7 +4590,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ai-driving-assistant.md"
     },
     {
       "cat": "Sites",
@@ -4515,7 +4605,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/luminara.md"
     },
     {
       "cat": "Sites",
@@ -4534,7 +4625,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/oyla.md"
     },
     {
       "cat": "Sites",
@@ -4594,7 +4686,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/remote-dev-collective.md"
     },
     {
       "cat": "Sites",
@@ -4636,7 +4729,8 @@
         "渐变"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/shipping-infrastructure.md"
     },
     {
       "cat": "Sites",
@@ -4699,7 +4793,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/creative-designer-portfolio.md"
     },
     {
       "cat": "Sites",
@@ -4781,7 +4876,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ai-film-studio.md"
     },
     {
       "cat": "Sites",
@@ -4909,7 +5005,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/spatial-mapping-platform.md"
     },
     {
       "cat": "Sites",
@@ -4933,7 +5030,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/mountain-retreat.md"
     },
     {
       "cat": "Sites",
@@ -4954,7 +5052,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/sky-cookie.md"
     },
     {
       "cat": "Sites",
@@ -5020,7 +5119,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cardia-3d.md"
     },
     {
       "cat": "Sites",
@@ -5066,7 +5166,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/imperial-vpn.md"
     },
     {
       "cat": "Sites",
@@ -5129,7 +5230,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/worldwide-hubs.md"
     },
     {
       "cat": "Sites",
@@ -5199,7 +5301,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/f1-driver-profile.md"
     },
     {
       "cat": "Sites",
@@ -5220,7 +5323,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/avant-studio.md"
     },
     {
       "cat": "Sites",
@@ -5260,7 +5364,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/automotive-ai.md"
     },
     {
       "cat": "Sites",
@@ -5282,7 +5387,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/frontier.md"
     },
     {
       "cat": "Sites",
@@ -5305,7 +5411,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/data-relay.md"
     },
     {
       "cat": "Sites",
@@ -5325,7 +5432,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/deep-neural-interface.md"
     },
     {
       "cat": "Sites",
@@ -5389,7 +5497,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/data-storytelling.md"
     },
     {
       "cat": "Sites",
@@ -5430,7 +5539,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/arctic-lab.md"
     },
     {
       "cat": "Sites",
@@ -5473,7 +5583,8 @@
         "滚动触发"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/futuristic-eyewear.md"
     },
     {
       "cat": "Sites",
@@ -5563,7 +5674,8 @@
         "玻璃拟态"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/mythic-vpn.md"
     },
     {
       "cat": "Sites",
@@ -5632,7 +5744,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/mindful-companion.md"
     },
     {
       "cat": "Sites",
@@ -5694,7 +5807,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/bitcoin-yield.md"
     },
     {
       "cat": "Sites",
@@ -5718,7 +5832,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/intelligent-systems.md"
     },
     {
       "cat": "Sites",
@@ -5738,7 +5853,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/halo-sound.md"
     },
     {
       "cat": "Sites",
@@ -5757,7 +5873,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ai-companions.md"
     },
     {
       "cat": "Sites",
@@ -5780,7 +5897,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/immersive-studio.md"
     },
     {
       "cat": "Sites",
@@ -5801,7 +5919,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/silent-velocity.md"
     },
     {
       "cat": "Sites",
@@ -5869,7 +5988,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/inner-quest.md"
     },
     {
       "cat": "Sites",
@@ -5889,7 +6009,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/aesthetic-dental-clinic.md"
     },
     {
       "cat": "Sites",
@@ -5910,7 +6031,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/coastal-estate.md"
     },
     {
       "cat": "Sites",
@@ -5958,7 +6080,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cybersecurity.md"
     },
     {
       "cat": "Sites",
@@ -6000,7 +6123,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/editorial-eyewear.md"
     },
     {
       "cat": "Sites",
@@ -6020,7 +6144,8 @@
         "玻璃拟态"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/routine-coach.md"
     },
     {
       "cat": "Sites",
@@ -6061,7 +6186,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/augmented-sight.md"
     },
     {
       "cat": "Sites",
@@ -6083,7 +6209,8 @@
         "渐变"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/creator-guild.md"
     },
     {
       "cat": "Sites",
@@ -6104,7 +6231,8 @@
         "渐变"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cloud-kicks.md"
     },
     {
       "cat": "Sites",
@@ -6128,7 +6256,8 @@
         "分屏/切换"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/form-study.md"
     },
     {
       "cat": "Sites",
@@ -6151,7 +6280,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/build-unit.md"
     },
     {
       "cat": "Sites",
@@ -6212,7 +6342,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/motion-frame.md"
     },
     {
       "cat": "Sites",
@@ -6232,7 +6363,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ink-dynasty.md"
     },
     {
       "cat": "Apps",
@@ -6310,7 +6442,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cargox-mobile.md"
     },
     {
       "cat": "Apps",
@@ -6356,7 +6489,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/remit-race.md"
     },
     {
       "cat": "Apps",
@@ -6395,7 +6529,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ai-calorie-tracker.md"
     },
     {
       "cat": "Apps",
@@ -6415,7 +6550,8 @@
         "分屏/切换"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/supplement-shop.md"
     },
     {
       "cat": "Apps",
@@ -6456,7 +6592,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/learnhub.md"
     },
     {
       "cat": "Apps",
@@ -6498,7 +6635,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/luxury-escapes.md"
     },
     {
       "cat": "Apps",
@@ -6520,7 +6658,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/places-organizer.md"
     },
     {
       "cat": "Apps",
@@ -6554,7 +6693,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/lodge-booking-app.md"
     },
     {
       "cat": "Apps",
@@ -6614,7 +6754,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/fine-jewelry-shop.md"
     },
     {
       "cat": "Apps",
@@ -6634,7 +6775,8 @@
         "渐变"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/travel-explorer.md"
     },
     {
       "cat": "Apps",
@@ -6690,7 +6832,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/gear-shop.md"
     },
     {
       "cat": "Apps",
@@ -6710,7 +6853,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/pet-products.md"
     },
     {
       "cat": "Apps",
@@ -6730,7 +6874,8 @@
         "分屏/切换"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/innovation-summit.md"
     },
     {
       "cat": "Apps",
@@ -6747,7 +6892,8 @@
         "HUD/数据"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/fitness-dashboard.md"
     },
     {
       "cat": "Apps",
@@ -6764,7 +6910,8 @@
         "HUD/数据"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nexar.md"
     },
     {
       "cat": "Apps",
@@ -6846,7 +6993,8 @@
         "HUD/数据"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/modern-hr-dashboard.md"
     },
     {
       "cat": "Apps",
@@ -6863,7 +7011,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/social-hangouts.md"
     },
     {
       "cat": "Apps",
@@ -6883,7 +7032,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/album-app.md"
     },
     {
       "cat": "Apps",
@@ -6904,7 +7054,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/sweet-question.md"
     },
     {
       "cat": "Apps",
@@ -6918,7 +7069,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/dental-care-app.md"
     },
     {
       "cat": "Apps",
@@ -6932,7 +7084,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/website-builder.md"
     },
     {
       "cat": "Apps",
@@ -6949,7 +7102,8 @@
         "HUD/数据"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/freight-command.md"
     },
     {
       "cat": "Apps",
@@ -6967,7 +7121,8 @@
         "玻璃拟态"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/reading-library.md"
     },
     {
       "cat": "Apps",
@@ -6987,7 +7142,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/ai-assistant-app.md"
     },
     {
       "cat": "Apps",
@@ -7005,7 +7161,8 @@
         "HUD/数据"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/finance-assistant.md"
     },
     {
       "cat": "Apps",
@@ -7044,7 +7201,8 @@
         "3D"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/robot-battle-arena.md"
     },
     {
       "cat": "Apps",
@@ -7063,7 +7221,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/live-language-classes.md"
     },
     {
       "cat": "Sections",
@@ -7103,7 +7262,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/gridcore.md"
     },
     {
       "cat": "Sections",
@@ -7125,7 +7285,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/mistveil.md"
     },
     {
       "cat": "Sections",
@@ -7154,7 +7315,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/arceage-contact-us.md"
     },
     {
       "cat": "Sections",
@@ -7173,7 +7335,8 @@
         "渐变"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/spectrum-grid.md"
     },
     {
       "cat": "Sections",
@@ -7225,7 +7388,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/keep-ahead-features.md"
     },
     {
       "cat": "Sections",
@@ -7239,7 +7403,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/dashboard-ui.md"
     },
     {
       "cat": "Sections",
@@ -7256,7 +7421,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/social-media-posts.md"
     },
     {
       "cat": "Sections",
@@ -7307,7 +7473,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/benefits-features.md"
     },
     {
       "cat": "Sections",
@@ -7323,7 +7490,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/zenith-footer.md"
     },
     {
       "cat": "Sections",
@@ -7339,7 +7507,8 @@
         "玻璃拟态"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/digital-reality.md"
     },
     {
       "cat": "Sections",
@@ -7387,7 +7556,8 @@
         "文字动画"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/what-package-fits-you.md"
     },
     {
       "cat": "Sections",
@@ -7419,7 +7589,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nexora-features.md"
     },
     {
       "cat": "Sections",
@@ -7448,7 +7619,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/saas-pricing-flow.md"
     },
     {
       "cat": "Sections",
@@ -7480,7 +7652,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nex-max-upgrade.md"
     },
     {
       "cat": "Sections",
@@ -7509,7 +7682,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/beauty-products.md"
     },
     {
       "cat": "Sections",
@@ -7523,7 +7697,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/flowmate-carousal.md"
     },
     {
       "cat": "Sections",
@@ -7566,7 +7741,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/launchex-submissions.md"
     },
     {
       "cat": "Sections",
@@ -7595,7 +7771,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/capabilities-overview.md"
     },
     {
       "cat": "Sections",
@@ -7609,7 +7786,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/technical-specifications.md"
     },
     {
       "cat": "Sections",
@@ -7638,7 +7816,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/mouse-trail-cta.md"
     },
     {
       "cat": "Sections",
@@ -7652,7 +7831,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nimbus-pricing.md"
     },
     {
       "cat": "Sections",
@@ -7666,7 +7846,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/projects-catalog.md"
     },
     {
       "cat": "Sections",
@@ -7680,7 +7861,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/rocket-faq.md"
     },
     {
       "cat": "Sections",
@@ -7738,7 +7920,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/bento-grid-stats.md"
     },
     {
       "cat": "Sections",
@@ -7752,7 +7935,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nexacore.md"
     },
     {
       "cat": "Sections",
@@ -7781,7 +7965,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/apex-program-accordion.md"
     },
     {
       "cat": "Sections",
@@ -7795,7 +7980,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/feedback-slider.md"
     },
     {
       "cat": "Sections",
@@ -7853,7 +8039,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/scroll-marquee.md"
     },
     {
       "cat": "Sections",
@@ -7882,7 +8069,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/global-cta-footer.md"
     },
     {
       "cat": "Sections",
@@ -7911,7 +8099,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nimbus-demo.md"
     },
     {
       "cat": "Sections",
@@ -7940,7 +8129,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/editorial-collection-cta.md"
     },
     {
       "cat": "Sections",
@@ -7954,7 +8144,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/kova-features.md"
     },
     {
       "cat": "Sections",
@@ -7968,7 +8159,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/media-card-carousel.md"
     },
     {
       "cat": "Sections",
@@ -7982,7 +8174,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/orbis-cards.md"
     },
     {
       "cat": "Sections",
@@ -8011,7 +8204,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/kova-testimonial.md"
     },
     {
       "cat": "Sections",
@@ -8025,7 +8219,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/cognitra-offer.md"
     },
     {
       "cat": "Sections",
@@ -8069,7 +8264,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/agency-services.md"
     },
     {
       "cat": "Sections",
@@ -8098,7 +8294,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nimbus-sticky-cards.md"
     },
     {
       "cat": "Sections",
@@ -8171,7 +8368,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/guardnet-demo.md"
     },
     {
       "cat": "Sections",
@@ -8185,7 +8383,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/daisy-sweet.md"
     },
     {
       "cat": "Sections",
@@ -8199,7 +8398,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/nimbus-security.md"
     },
     {
       "cat": "Sections",
@@ -8213,7 +8413,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "suspect"
+      "status": "suspect",
+      "promptRef": "data/prompts/motionsites/orbis-cta.md"
     },
     {
       "cat": "Sections",
@@ -8256,7 +8457,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/arceage-testimonial.md"
     },
     {
       "cat": "Sections",
@@ -8270,7 +8472,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/liquid-glass-features.md"
     },
     {
       "cat": "Sections",
@@ -8299,7 +8502,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/veloce-cards.md"
     },
     {
       "cat": "Sections",
@@ -8343,7 +8547,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/interior-features.md"
     },
     {
       "cat": "Sections",
@@ -8357,7 +8562,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/arceage-services.md"
     },
     {
       "cat": "Sections",
@@ -8378,7 +8584,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/3d-studio-pricing.md"
     },
     {
       "cat": "Sections",
@@ -8420,7 +8627,8 @@
         "分屏/切换"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/growth-analytics.md"
     },
     {
       "cat": "Sections",
@@ -10715,7 +10923,8 @@
         "流体"
       ],
       "nature": "component",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/vortex-studio-hero.md"
     },
     {
       "cat": "Components",
@@ -11673,7 +11882,8 @@
       "url": "https://ui.aceternity.com/components/loader",
       "tags": [],
       "nature": "component",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/Loader_Animation.md"
     },
     {
       "cat": "Components",
@@ -11983,7 +12193,8 @@
         "悬停交互"
       ],
       "nature": "component",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/motionsites/bento-grid-stats.md"
     },
     {
       "cat": "Components",
@@ -12532,7 +12743,8 @@
         "渐变"
       ],
       "nature": "component",
-      "status": "valid"
+      "status": "valid",
+      "promptRef": "data/prompts/aurora-onboard.md"
     },
     {
       "cat": "Components",

@@ -15,7 +15,8 @@
 | `site-components-motion.json` | component-library subset (official component URLs) |
 | `framesbase-motion-merged.json` | merged motion descriptions for one source |
 | `prompts/<slug>.md` | **164 full prompt texts** recovered from the Motionsites.ai mirror (upstream MIT repo) |
-| `prompts/motionsites/<Name>.md` | 65 further prompts from the same upstream repo |
+| `prompts/motionsites/<Name>.md` | 65 prompts from the same upstream repo, plus 387 prompts opened through the Framesbase MCP by membership (added 2026-10-01) |
+| `framesbase-mcp-manifest.json` | what the MCP harvest opened, what stayed locked, and what was not in the library (generated) |
 | `prompts-index.json` | slug -> file, title, size, sha256 prefix, provenance |
 | `prompt-coverage.json` | which entries have a prompt, a URL spec, or nothing (generated) |
 
@@ -29,8 +30,9 @@ sources   Framesbase 620 | Aceternity UI 108 | React Bits 22 | self-authored 1
 cats      Sites 336 | Backgrounds 151 | Components 130 | Sections 91 | Apps 43
 strength  unknown 620 | light 107 | strong 23 | cinematic 1
 3D        text rule 73 | tag rule 137 | union 138   (tag is not a strict superset: use the union)
-prompts   229 files / 1.7 MB of text: 209 of 751 entries resolve to a full prompt
-spec      130 components carry an official URL; the rest without a prompt are inspiration only
+prompts   616 files: 427 of 751 entries resolve to a full prompt (215 -> 427 on 2026-10-01)
+spec      126 components carry an official URL; 553 of 751 entries have a prompt or a URL spec
+          the remaining 198 are metadata only (see docs/09-prompt-coverage.md)
 ```
 
 ### Why 152 entries are `suspect`
