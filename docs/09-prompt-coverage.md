@@ -11,9 +11,9 @@ starting to build.
 
 | Class | Count | What you get | Can you implement from it? |
 |---|---|---|---|
-| **promptRef** | **427** | A full prompt text shipped in `data/prompts/` | Yes - read the file, then adapt it |
+| **promptRef** | **461** | A full prompt text shipped in `data/prompts/` | Yes - read the file, then adapt it |
 | **executable URL** | **126** | No prompt text, but an official component/demo URL in the `url` field (Aceternity UI, React Bits) | Yes - the official component page is the spec |
-| **no executable spec** | **198** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
+| **no executable spec** | **164** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
 
 The 406 are Framesbase showcase records (405) plus 1 self-authored entry. They are
 `nature: frame` (110) or `nature: visual` (295): descriptions and tags distilled from a poster or a

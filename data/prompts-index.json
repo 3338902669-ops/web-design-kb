@@ -1,7 +1,7 @@
 {
  "note": "Full prompt texts from Motionsites.ai/Framesbase (upstream MIT GitHub mirror) plus Framesbase MCP prompts opened by membership. See THIRD-PARTY-NOTICE.md.",
  "upstream": "https://github.com/xiiiabu/motionsites.ai",
- "count": 616,
+ "count": 650,
  "prompts": [
   {
    "slug": "3d-character-studio",
@@ -5546,6 +5546,312 @@
    "sha256_8": "d6cb442c",
    "source": "Framesbase MCP (opened by membership)",
    "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "ai-interface-md",
+   "title": "AI Interface",
+   "file": "prompts/motionsites/ai-interface-md",
+   "chars": 24416,
+   "sha256_8": "66dc5127",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "angel-shield-md",
+   "title": "Angel Shield",
+   "file": "prompts/motionsites/angel-shield-md",
+   "chars": 11738,
+   "sha256_8": "77671aaf",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "arc-summit-md",
+   "title": "arc Summit",
+   "file": "prompts/motionsites/arc-summit-md",
+   "chars": 9988,
+   "sha256_8": "56fae9b5",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "bio-age-dashboard-md",
+   "title": "Bio-Age Dashboard",
+   "file": "prompts/motionsites/bio-age-dashboard-md",
+   "chars": 7013,
+   "sha256_8": "3dd75fc8",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "bite-sized-courses-md",
+   "title": "Bite-Sized Courses",
+   "file": "prompts/motionsites/bite-sized-courses-md",
+   "chars": 31360,
+   "sha256_8": "0365d581",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "botanical-shadow-about-md",
+   "title": "Botanical Shadow About",
+   "file": "prompts/motionsites/botanical-shadow-about-md",
+   "chars": 3651,
+   "sha256_8": "00012bbd",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "cargo-group-md",
+   "title": "Cargo Group",
+   "file": "prompts/motionsites/cargo-group-md",
+   "chars": 9530,
+   "sha256_8": "85a16369",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "community-cta-md",
+   "title": "Community CTA",
+   "file": "prompts/motionsites/community-cta-md",
+   "chars": 6719,
+   "sha256_8": "c6c29813",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "crypto-vault-md",
+   "title": "Crypto Vault",
+   "file": "prompts/motionsites/crypto-vault-md",
+   "chars": 35051,
+   "sha256_8": "ff2fea1f",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "crypto-wealth-md",
+   "title": "Crypto Wealth",
+   "file": "prompts/motionsites/crypto-wealth-md",
+   "chars": 11423,
+   "sha256_8": "c4f1488e",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "dental-implant-clinic-md",
+   "title": "Dental Implant Clinic",
+   "file": "prompts/motionsites/dental-implant-clinic-md",
+   "chars": 13385,
+   "sha256_8": "60360a0b",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "fastshot-md",
+   "title": "Fastshot",
+   "file": "prompts/motionsites/fastshot-md",
+   "chars": 15979,
+   "sha256_8": "541de33a",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "glassmorphic-feature-tabs-md",
+   "title": "Glassmorphic Feature Tabs",
+   "file": "prompts/motionsites/glassmorphic-feature-tabs-md",
+   "chars": 12222,
+   "sha256_8": "c5182672",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "golden-portal-md",
+   "title": "Golden Portal",
+   "file": "prompts/motionsites/golden-portal-md",
+   "chars": 13770,
+   "sha256_8": "381bf4b7",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "halo-benefits-md",
+   "title": "Halo Benefits",
+   "file": "prompts/motionsites/halo-benefits-md",
+   "chars": 15806,
+   "sha256_8": "0db3e4c9",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "luxury-focus-md",
+   "title": "Luxury Focus",
+   "file": "prompts/motionsites/luxury-focus-md",
+   "chars": 9831,
+   "sha256_8": "05bd8b40",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "luxury-hero-md",
+   "title": "Luxury Hero",
+   "file": "prompts/motionsites/luxury-hero-md",
+   "chars": 10809,
+   "sha256_8": "3c6a26dd",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "mood-tracker-md",
+   "title": "Mood Tracker",
+   "file": "prompts/motionsites/mood-tracker-md",
+   "chars": 11022,
+   "sha256_8": "6860a44d",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "movie-premiere-md",
+   "title": "Movie Premiere",
+   "file": "prompts/motionsites/movie-premiere-md",
+   "chars": 7021,
+   "sha256_8": "a1acd737",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "nietzsche-sustainibilty-md",
+   "title": "Nietzsche sustainibilty",
+   "file": "prompts/motionsites/nietzsche-sustainibilty-md",
+   "chars": 23455,
+   "sha256_8": "82c72d8e",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "nimbus-ops-md",
+   "title": "Nimbus Ops",
+   "file": "prompts/motionsites/nimbus-ops-md",
+   "chars": 17033,
+   "sha256_8": "e8603e43",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "product-studio-md",
+   "title": "Product Studio",
+   "file": "prompts/motionsites/product-studio-md",
+   "chars": 8306,
+   "sha256_8": "0612bfe9",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "relocation-card-md",
+   "title": "Relocation Card",
+   "file": "prompts/motionsites/relocation-card-md",
+   "chars": 10510,
+   "sha256_8": "508d32cb",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "sea-serenade-md",
+   "title": "Sea Serenade",
+   "file": "prompts/motionsites/sea-serenade-md",
+   "chars": 29205,
+   "sha256_8": "f96f0bf1",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "solace-sign-in-md",
+   "title": "Solace sign-in",
+   "file": "prompts/motionsites/solace-sign-in-md",
+   "chars": 15282,
+   "sha256_8": "c5d59db5",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "systema-md",
+   "title": "Systema",
+   "file": "prompts/motionsites/systema-md",
+   "chars": 10777,
+   "sha256_8": "89c35073",
+   "source": "Framesbase MCP (opened by card id)",
+   "upstream": "https://framesbase.app/"
+  },
+  {
+   "slug": "urban-jungle",
+   "title": "Urban Jungle",
+   "file": "prompts/motionsites/urban-jungle.md",
+   "chars": 12691,
+   "sha256_8": "054acc3a",
+   "source": "public crawl mirror (xianxian-sensen/motionsites-prompts)",
+   "upstream": "https://github.com/xianxian-sensen/motionsites-prompts"
+  },
+  {
+   "slug": "ember-dsgn",
+   "title": "EMBER.dsgn",
+   "file": "prompts/motionsites/ember-dsgn.md",
+   "chars": 6599,
+   "sha256_8": "c1d4b5ad",
+   "source": "public crawl mirror (xianxian-sensen/motionsites-prompts)",
+   "upstream": "https://github.com/xianxian-sensen/motionsites-prompts"
+  },
+  {
+   "slug": "yacht-club",
+   "title": "Yacht Club",
+   "file": "prompts/motionsites/yacht-club.md",
+   "chars": 8650,
+   "sha256_8": "dfa0f966",
+   "source": "public crawl mirror (xianxian-sensen/motionsites-prompts)",
+   "upstream": "https://github.com/xianxian-sensen/motionsites-prompts"
+  },
+  {
+   "slug": "nimbus-grid",
+   "title": "Nimbus Grid",
+   "file": "prompts/motionsites/nimbus-grid.md",
+   "chars": 16992,
+   "sha256_8": "e16fef04",
+   "source": "public crawl mirror (xianxian-sensen/motionsites-prompts)",
+   "upstream": "https://github.com/xianxian-sensen/motionsites-prompts"
+  },
+  {
+   "slug": "velorix-iic",
+   "title": "Velorix IIC",
+   "file": "prompts/motionsites/velorix-iic.md",
+   "chars": 9542,
+   "sha256_8": "11acf502",
+   "source": "public crawl mirror (xianxian-sensen/motionsites-prompts)",
+   "upstream": "https://github.com/xianxian-sensen/motionsites-prompts"
+  },
+  {
+   "slug": "financialfocus",
+   "title": "FinancialFocus",
+   "file": "prompts/motionsites/financialfocus.md",
+   "chars": 54570,
+   "sha256_8": "e6da7721",
+   "source": "public crawl mirror (xianxian-sensen/motionsites-prompts)",
+   "upstream": "https://github.com/xianxian-sensen/motionsites-prompts"
+  },
+  {
+   "slug": "acreage-farming",
+   "title": "Acreage Farming",
+   "file": "prompts/motionsites/acreage-farming.md",
+   "chars": 10915,
+   "sha256_8": "396fca42",
+   "source": "public mirror (TheSatyam-Singh/motionsites.ai)",
+   "upstream": "https://github.com/TheSatyam-Singh/motionsites.ai"
+  },
+  {
+   "slug": "nike-premium-landing",
+   "title": "Nike Premium Landing",
+   "file": "prompts/motionsites/nike-premium-landing.md",
+   "chars": 18758,
+   "sha256_8": "5b61432e",
+   "source": "public mirror (TheSatyam-Singh/motionsites.ai)",
+   "upstream": "https://github.com/TheSatyam-Singh/motionsites.ai"
   }
  ]
 }

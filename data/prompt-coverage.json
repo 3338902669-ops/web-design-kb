@@ -3,52 +3,20 @@
  "db": "data/motion-db.json",
  "totals": {
   "entries": 751,
-  "withPromptRef": 427,
+  "withPromptRef": 461,
   "executableUrlOnly": 126,
-  "noExecutableSpec": 198
+  "noExecutableSpec": 164
  },
  "bySourceOfNoSpec": {
-  "Framesbase": 197,
+  "Framesbase": 163,
   "self-authored": 1
  },
  "byNatureOfNoSpec": {
-  "frame": 25,
-  "visual": 172,
+  "frame": 9,
+  "visual": 154,
   "self-authored": 1
  },
  "missing": [
-  {
-   "name": "Crypto Vault",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "871ba2c2-9def-4366-87f0-26b5f1e577ac"
-  },
-  {
-   "name": "Fastshot",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "bb9cee0c-c3c6-49d8-b5ad-fefe4190a1f2"
-  },
-  {
-   "name": "arc Summit",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "99fe6d9b-e0ea-4cea-90a7-f91ae5c327a7"
-  },
-  {
-   "name": "Angel Shield",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "afa791e1-5649-4a43-8c0c-adf81d91dde8"
-  },
   {
    "name": "3D Future Flora",
    "source": "Framesbase",
@@ -72,78 +40,6 @@
    "nature": "visual",
    "status": "valid",
    "id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae"
-  },
-  {
-   "name": "Nike Premium Landing",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "562a4221-9e7b-4920-a1d9-30ef9d92a324"
-  },
-  {
-   "name": "Acreage Farming",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "3c8f451f-9163-4426-a00b-c670a8dfc6d2"
-  },
-  {
-   "name": "Crypto Wealth",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "d9c6b9d3-7289-45c5-aa18-fd95290196d6"
-  },
-  {
-   "name": "EMBER.dsgn",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "946cdbdf-f3e7-4c7d-b60e-2dd38761cc10"
-  },
-  {
-   "name": "Yacht Club",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "7cb83158-1003-451e-badc-8975b0ef715e"
-  },
-  {
-   "name": "FinancialFocus",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "7b821738-a59f-41b8-b3fb-592be9beaf56"
-  },
-  {
-   "name": "Velorix IIC",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "3ef61078-b239-4c3e-adb3-cbcec1fcb9bf"
-  },
-  {
-   "name": "Urban Jungle",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "0191170f-7b80-4f99-9d73-d504767b62fa"
-  },
-  {
-   "name": "Nimbus Grid",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "0d647e69-06a1-4653-bcb9-a5a400aad8b9"
   },
   {
    "name": "Slam Dunk",
@@ -170,92 +66,12 @@
    "id": "af51429c-9eb9-4cbe-82bd-758824901784"
   },
   {
-   "name": "Luxury Hero",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "08596d45-9af3-417b-9f46-9544893f2f05"
-  },
-  {
-   "name": "Bio-Age Dashboard",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "b1d9266f-e8d0-408d-aa23-130acb01b497"
-  },
-  {
-   "name": "AI Interface",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "2e0b73b0-7b5b-47ff-aa35-24423fc48f9f"
-  },
-  {
-   "name": "Luxury Focus",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "60b22f78-41c4-469b-8036-d6bd9bdd0eb1"
-  },
-  {
-   "name": "Golden Portal",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "visual",
-   "status": "valid",
-   "id": "b55f8354-2640-4343-ba97-707f20a6eb9d"
-  },
-  {
-   "name": "Product Studio",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "0ff56575-1b56-4018-a871-d8bb5d48f961"
-  },
-  {
-   "name": "Cargo Group",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "e290e4f4-b171-4bed-83c6-be91b333ee57"
-  },
-  {
-   "name": "Relocation Card",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "d5b4d70e-a78f-4a92-9fa0-29ec38f17ae9"
-  },
-  {
-   "name": "Sea Serenade",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "0fb9b45c-c7fb-4abb-9fd8-b56135da07af"
-  },
-  {
    "name": "3D Bloom Layer",
    "source": "Framesbase",
    "cat": "Sites",
    "nature": "frame",
    "status": "valid",
    "id": "054b79f3-4db6-42bb-b8b3-4cd6f69c30a5"
-  },
-  {
-   "name": "Systema",
-   "source": "Framesbase",
-   "cat": "Sites",
-   "nature": "frame",
-   "status": "valid",
-   "id": "8b13e5df-52ff-4f48-b3fe-d645147e40c1"
   },
   {
    "name": "Model Infrastructure",
@@ -304,94 +120,6 @@
    "nature": "frame",
    "status": "suspect",
    "id": "43e9e2d1-32e0-4a70-a9a9-a331d9549955"
-  },
-  {
-   "name": "Mood Tracker",
-   "source": "Framesbase",
-   "cat": "Apps",
-   "nature": "frame",
-   "status": "valid",
-   "id": "8e9afed0-bb2f-46e2-9036-35661eeef59e"
-  },
-  {
-   "name": "Movie Premiere",
-   "source": "Framesbase",
-   "cat": "Apps",
-   "nature": "frame",
-   "status": "valid",
-   "id": "6f71de05-2838-4d33-b562-a2908a105305"
-  },
-  {
-   "name": "Dental Implant Clinic",
-   "source": "Framesbase",
-   "cat": "Apps",
-   "nature": "frame",
-   "status": "valid",
-   "id": "50270bf4-a940-4e6d-a89a-3fc065bf3555"
-  },
-  {
-   "name": "Bite-Sized Courses",
-   "source": "Framesbase",
-   "cat": "Apps",
-   "nature": "frame",
-   "status": "valid",
-   "id": "ba990167-1d41-4796-b5dc-bf98944bef6c"
-  },
-  {
-   "name": "Nietzsche sustainibilty",
-   "source": "Framesbase",
-   "cat": "Sections",
-   "nature": "frame",
-   "status": "valid",
-   "id": "1246a299-6aef-4e0a-806b-b4776bcab59f"
-  },
-  {
-   "name": "Community CTA",
-   "source": "Framesbase",
-   "cat": "Sections",
-   "nature": "visual",
-   "status": "valid",
-   "id": "98a66586-dc8b-430f-b097-e5ee0a797eab"
-  },
-  {
-   "name": "Botanical Shadow About",
-   "source": "Framesbase",
-   "cat": "Sections",
-   "nature": "visual",
-   "status": "valid",
-   "id": "fe6e3645-5acc-43f8-a166-c007ef8f302d"
-  },
-  {
-   "name": "Halo Benefits",
-   "source": "Framesbase",
-   "cat": "Sections",
-   "nature": "visual",
-   "status": "valid",
-   "id": "efa3d4e3-51be-4b98-8a30-623359adadca"
-  },
-  {
-   "name": "Nimbus Ops",
-   "source": "Framesbase",
-   "cat": "Sections",
-   "nature": "visual",
-   "status": "valid",
-   "id": "21c22482-7d12-477a-9413-f4ea767d2de2"
-  },
-  {
-   "name": "Glassmorphic Feature Tabs",
-   "source": "Framesbase",
-   "cat": "Sections",
-   "nature": "visual",
-   "status": "valid",
-   "id": "cd8d1a77-c851-4a76-828b-aa1e08872cfa"
-  },
-  {
-   "name": "Solace sign-in",
-   "source": "Framesbase",
-   "cat": "Sections",
-   "nature": "visual",
-   "status": "valid",
-   "id": "ff5e517f-2199-4a6c-b1cc-c1fa3d9d1e12"
   },
   {
    "name": "",

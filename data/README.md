@@ -30,9 +30,9 @@ sources   Framesbase 620 | Aceternity UI 108 | React Bits 22 | self-authored 1
 cats      Sites 336 | Backgrounds 151 | Components 130 | Sections 91 | Apps 43
 strength  unknown 620 | light 107 | strong 23 | cinematic 1
 3D        text rule 73 | tag rule 137 | union 138   (tag is not a strict superset: use the union)
-prompts   616 files: 427 of 751 entries resolve to a full prompt (215 -> 427 on 2026-10-01)
-spec      126 components carry an official URL; 553 of 751 entries have a prompt or a URL spec
-          the remaining 198 are metadata only (see docs/09-prompt-coverage.md)
+prompts   665 files: 461 of 751 entries resolve to a full prompt (215 -> 427 -> 461 on 2026-10-01)
+spec      126 components carry an official URL; 587 of 751 entries have a prompt or a URL spec
+          the remaining 164 are metadata only (see docs/09-prompt-coverage.md)
 ```
 
 ### Why 152 entries are `suspect`
