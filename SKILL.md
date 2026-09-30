@@ -44,7 +44,7 @@ premium site and a generic one, and it produces evidence instead of opinions.
 | 7 | Implementation | the site | reduced-motion, 390 px, console clean |
 | 8 | Acceptance | `design/acceptance-<date>.md` | evidence + **visual loop** + **8-dimension quality bar** + security gate |
 
-Templates: `templates/`. Depth: `docs/00-workflow.md`. Static floor check: `.//tools/quality-audit.mjs`
+Templates: `templates/`. Depth: `docs/00-workflow.md`. Static floor check: `tools/quality-audit.mjs`
 (typography / whitespace / hierarchy / colour / responsive signals / motion / interaction / originality).
 
 ## Sourcing motions correctly
