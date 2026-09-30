@@ -1,8 +1,9 @@
 {
-  "M0 hero": "3D|metal|text reveal|light pulse",
-  "M1 detail": "mask|reveal|parallax",
-  "M2 proof": "scan|wipe|glass",
-  "M3 ambience": "fluid|particles|noise",
-  "CTA": "magnetic|elastic|spotlight",
-  "background": "gradient|noise|video background"
+  "_comment": "Query terms are matched as substrings against name/tag/style/motion/tags. The bundled library describes most entries in Chinese, so include the Chinese tag names (plus an English synonym where useful). Split alternatives with |. Do NOT put 3D here unless the style tokens justify depth; use --want-3d to rank it up.",
+  "M0 hero": "首屏|光效脉冲|文字动画|hero|text",
+  "M1 detail": "遮罩|揭示|视差|mask|reveal",
+  "M2 proof": "扫描|划屏|玻璃拟态|scan|wipe|glass",
+  "M3 ambience": "粒子|流体|噪声|particles|fluid|noise",
+  "M4 cta": "磁吸/弹性|舞台/聚光灯|magnetic|spotlight",
+  "background": "渐变|噪声/纹理|视频背景|gradient|video background"
 }

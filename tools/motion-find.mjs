@@ -57,6 +57,7 @@ function score(e, kws) {
 }
 const result = {};
 for (const [block, pattern] of Object.entries(queries)) {
+  if (block.startsWith('_')) continue;   // allow comments/annotations in the queries file
   const kws = String(pattern).split('|').map((s) => s.trim()).filter(Boolean);
   const scored = entries.map((e) => ({ e, s: score(e, kws) })).filter((x) => x.s > 0).sort((a, b) => b.s - a.s).slice(0, top);
   result[block] = scored;
