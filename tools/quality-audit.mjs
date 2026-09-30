@@ -5,6 +5,11 @@
 //
 // Covered here: typography, whitespace, hierarchy, colour, responsive (static), motion,
 // micro-interaction presence, originality. Values are resolved through CSS custom properties.
+//
+// Colour is a SIGNAL, not a verdict: a text colour with no background in the same rule is compared
+// against the page background, which can mis-flag text that sits on a differently-coloured parent or
+// on media. Confirm every low pair in the rendered page before acting on it.
+// Motion is also partial: canvas/script-driven animation is reported, not measured.
 // NOT covered here: real overflow at 390/768/1440, console/network, frame diff, reduced-motion
 // behaviour, contrast against the rendered composite, and whether the design is any good.
 // Those need a browser plus a named judge. Never present this output as the whole bar.
@@ -125,16 +130,23 @@ for (const file of files) {
   const channels = [hasWeight, hasSize, hasColour].filter(Boolean).length;
   add('hierarchy', channels >= 2, 'channels: size=' + hasSize + ' weight=' + hasWeight + ' colour=' + hasColour);
 
-  // colour - resolve var() then compare
+  // colour - per rule: a text colour is only compared against a background declared in the same
+  // rule, or against the page background when the rule declares none. (A global first-background
+  // heuristic produced false 1.1:1 alarms on pages whose hero used a gradient.)
+  const rules = [...css.matchAll(/([^{}]+)\{([^}]*)\}/g)].map(m => ({ sel: m[1].trim(), body: m[2] }));
+  const pageBgM = css.match(/(?:^|[;{\s])background(?:-color)?\s*:\s*(var\([^)]+\)|#[0-9a-f]{3,6})/i) || css.match(/(?:^|[;{\s])background\s*:\s*(var\([^)]+\)|#[0-9a-f]{3,6})/i);
+  const pageBg = pageBgM ? hexToRgb(resolve(pageBgM[1])) : null;
   const pairs = [];
-  for (const m of css.matchAll(/(?:^|[;{\s])color\s*:\s*(var\([^)]+\)|#[0-9a-f]{3,6})/gi)) {
-    const fg = hexToRgb(resolve(m[1]));
-    const bgM = css.match(/(?:^|[;{\s])background(?:-color)?\s*:\s*(var\([^)]+\)|#[0-9a-f]{3,6})/i) || css.match(/(?:^|[;{\s])background\s*:\s*(var\([^)]+\)|#[0-9a-f]{3,6})/i);
-    const bg = bgM ? hexToRgb(resolve(bgM[1])) : null;
-    if (fg && bg) pairs.push(contrast(fg, bg));
+  for (const r of rules) {
+    const fgM = r.body.match(/(?:^|;)\s*color\s*:\s*(var\([^)]+\)|#[0-9a-f]{3,6})/i);
+    if (!fgM) continue;
+    const fg = hexToRgb(resolve(fgM[1]));
+    const bgM = r.body.match(/(?:^|;)\s*background(?:-color)?\s*:\s*(var\([^)]+\)|#[0-9a-f]{3,6})/i);
+    let bg = bgM ? hexToRgb(resolve(bgM[1])) : pageBg;
+    if (fg && bg) pairs.push({ sel: r.sel.slice(0, 40), c: contrast(fg, bg) });
   }
-  const worst = pairs.length ? Math.min(...pairs) : null;
-  add('colour', worst === null || worst >= 4.5, worst === null ? 'no literal fg/bg pair found (not measured)' : 'worst literal pair = ' + worst + ':1 over ' + pairs.length + ' pair(s)');
+  const worstPair = pairs.length ? pairs.reduce((a, b) => (a.c <= b.c ? a : b)) : null;
+  add('colour', !worstPair || worstPair.c >= 4.5, worstPair ? 'worst pair = ' + worstPair.c + ':1 at ' + worstPair.sel + ' (' + pairs.length + ' pair(s) checked)' : 'no literal fg/bg pair found (not measured)');
 
   // responsive
   const hasViewport = /name="viewport"[^>]*width=device-width/i.test(html);
@@ -149,15 +161,21 @@ for (const file of files) {
   const durations = [...css.matchAll(/(?:transition|animation)(?:-duration)?\s*:[^;}]*?([0-9.]+)(m?s)\b/gi)].map(m => m[2] === 'ms' ? Number(m[1]) : Number(m[1]) * 1000);
   const slow = durations.filter(d => d > 500);
   const hasReduced = /prefers-reduced-motion/i.test(css);
-  add('motion', hasMotion && hasReduced, 'motion=' + hasMotion + ', durations>500ms=' + slow.length + ', reduced-motion=' + hasReduced);
+  const scriptMotion = /requestAnimationFrame|setInterval|addEventListener\(['"]scroll|<canvas\b/i.test(html);
+  add('motion', hasMotion && hasReduced,
+    'css motion=' + hasMotion + ', durations>500ms=' + slow.length + ', reduced-motion(css)=' + hasReduced
+    + (scriptMotion ? ' | NOTE: canvas/script animation detected - CSS checks cannot confirm it; measure frames in a browser' : ''));
 
   // interaction
   const controls = [...html.matchAll(/<(a|button)\b/gi)].length;
   const hover = (css.match(/:hover/g) || []).length;
   const focus = (css.match(/:focus(-visible)?/g) || []).length;
   const linkAffordance = /text-underline-offset|text-decoration|border-bottom/i.test(css);
-  add('interaction', controls === 0 ? true : (focus >= 1 && (hover >= 1 || linkAffordance)),
-    'controls=' + controls + ', :hover=' + hover + ', :focus=' + focus + ', link affordance=' + linkAffordance);
+  const inputControls = [...html.matchAll(/<(input|select|textarea)\b/gi)].length;
+  const hasFocusForInputs = controls + inputControls === 0 || focus >= 1;
+  add('interaction', (controls + inputControls) === 0 ? true : (hasFocusForInputs && (hover >= 1 || linkAffordance)),
+    'controls=' + (controls + inputControls) + ' (' + controls + ' a/button, ' + inputControls + ' input), :hover rules=' + hover + ', :focus rules=' + focus + ', link affordance=' + linkAffordance
+    + (controls + inputControls > focus ? ' | NOTE: fewer focus rules than controls - a shared rule can cover many, check the count against the DOM' : ''));
 
   // originality
   const title = (html.match(/<title>([^<]*)<\/title>/i) || [])[1];

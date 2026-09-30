@@ -57,8 +57,17 @@ node tools/quality-audit.mjs dist/index.html --json design/quality-audit.json
 # exit 0 = every measurable dimension above threshold; 1 = at least one below; 2 = IO error
 ~~~
 
-It is a **floor check, not the bar**. The following still require a real browser plus a named judge,
-and the tool says so in its own header:
+It is a **floor check, not the bar**. Two of its readings are signals rather than verdicts, proven on
+real pages during the tool's first run:
+
+- **colour** compares a text colour against a background declared in the same rule, or the page
+  background otherwise. Text sitting on a differently-coloured parent or on media will be mis-paired -
+  confirm each low pair in the rendered page before changing anything.
+- **motion** reads CSS only. A canvas/script-driven page can report `css motion=false` while animating
+  constantly; the tool prints a NOTE when it detects canvas/script animation, and that page must be
+  measured in a browser.
+
+The following still require a real browser plus a named judge, and the tool says so in its own header:
 
 - overflow at 390 / 768 / 1440 (`document.scrollWidth - innerWidth`, must be <= 0)
 - console errors / `pageerror` / responses >= 400 (must be 0)
