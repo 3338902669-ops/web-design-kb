@@ -24,6 +24,12 @@ premium site and a generic one, and it produces evidence instead of opinions.
 6. **One narrative, one timeline.** One core metaphor, one shared anchor, one master timeline.
 7. **The implementer never signs off.** If you are working alone, say so explicitly in the acceptance
    record — do not present self-checking as independent verification.
+8. **Award-quality bar, then iterate to nothing left.** Treat Awwwards / Webby / FWA winners as the
+   quality standard. After the build, self-check all eight dimensions in
+   `docs/10-award-quality-bar.md` — typography, whitespace, visual hierarchy, colour, motion,
+   micro-interactions, responsive, originality — fill `templates/quality-bar.md`, and keep fixing and
+   re-measuring until two consecutive passes leave nothing below threshold. "Award-level" is the bar
+   aimed at, never a claimed result.
 
 ## The 8 steps and their artifacts
 
@@ -36,7 +42,7 @@ premium site and a generic one, and it produces evidence instead of opinions.
 | 5 | Narrative contract | `design/motion-contract.md` | scenes, anchor, transitions, master timeline |
 | 6 | Implementation spec | contract §3.1 | adaptation instructions per adopted motion |
 | 7 | Implementation | the site | reduced-motion, 390 px, console clean |
-| 8 | Acceptance | `design/acceptance-<date>.md` | evidence + **visual loop** + security gate |
+| 8 | Acceptance | `design/acceptance-<date>.md` | evidence + **visual loop** + **8-dimension quality bar** + security gate |
 
 Templates: `templates/`. Depth: `docs/00-workflow.md`.
 
@@ -68,7 +74,8 @@ result. If nobody is available:
 - do **not** auto-approve those gates; write the assumption down in the contract and flag it in the
   final message as "assumed, not confirmed";
 - still run the **visual quality loop** (see `docs/02-acceptance-standard.md`): render, look, list the
-  three worst things, fix them, re-render — at least twice;
+  three worst things, fix them, re-render — at least twice, against the eight dimensions in
+  `docs/10-award-quality-bar.md`;
 - never claim independent verification. Write "self-checked only (E3)".
 
 ## Prohibitions

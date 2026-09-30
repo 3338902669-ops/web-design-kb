@@ -22,6 +22,13 @@ The implementer produces evidence. The **Verifier** re-runs it and signs. See `0
 Plus the contract's **intent table**, checked block by block: does the motion serve the declared content,
 do transitions share an element, does the reduced-motion path still tell the story?
 
+### Award-quality bar (the standard to aim at)
+
+Run the visual loop below against the eight dimensions in `docs/10-award-quality-bar.md`
+(typography, whitespace, visual hierarchy, colour, motion, micro-interactions, responsive,
+originality), each with its threshold and evidence, in `templates/quality-bar.md`. Awwwards / Webby /
+FWA winners are the reference; "award-level" is the standard aimed at, never a claimed result.
+
 ### Visual quality loop (required before the intent table)
 
 Programmatic checks prove the page is not broken. They cannot prove it looks good. Run this loop **at

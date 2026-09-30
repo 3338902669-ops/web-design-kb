@@ -100,7 +100,8 @@ docs/         the process, in order
   06-evidence-levels.md            E1-E4: what counts as proof
   07-multi-agent-handoff.md        single-writer + handoff discipline for AI-assisted teams
   08-security-gate.md              what a security gate must produce
-  09-prompt-coverage.md            how many entries are actually implementable (215 / 130 / 406)
+  09-prompt-coverage.md            how many entries are actually implementable
+  10-award-quality-bar.md          Awwwards/Webby/FWA bar as 8 measurable dimensions + stop condition
 templates/    fill-in-the-blank artifacts (contract, intent table, handoff, kickoff)
 SKILL.md      process entry point (start here)
 tools/        small dependency-free Node utilities
