@@ -11,9 +11,9 @@ starting to build.
 
 | Class | Count | What you get | Can you implement from it? |
 |---|---|---|---|
-| **promptRef** | **461** | A full prompt text shipped in `data/prompts/` | Yes - read the file, then adapt it |
+| **promptRef** | **467** | A full prompt text shipped in `data/prompts/` | Yes - read the file, then adapt it |
 | **executable URL** | **126** | No prompt text, but an official component/demo URL in the `url` field (Aceternity UI, React Bits) | Yes - the official component page is the spec |
-| **no executable spec** | **164** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
+| **no executable spec** | **158** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
 
 The 406 are Framesbase showcase records (405) plus 1 self-authored entry. They are
 `nature: frame` (110) or `nature: visual` (295): descriptions and tags distilled from a poster or a
@@ -33,7 +33,12 @@ through the Framesbase MCP by the repository owner's membership (387 new files i
 opened). See [THIRD-PARTY-NOTICE.md](../THIRD-PARTY-NOTICE.md) for the source and licence status of each
 prompt family before redistributing.
 
-## If you need one of the 198
+A second recovery round followed the same day: 26 entries opened by card id, 8 from public crawl/mirror
+repositories, and 6 from an MCP re-sweep of the titled entries that were still uncovered. 150 of the
+remaining 158 are degraded captures with no name and no id - nothing to search on; the other 8 publish
+no prompt text at all (Google AI Studio apps) or stay locked to other accounts.
+
+## If you need one of the 158
 
 Three legitimate routes, in order of cost:
 
