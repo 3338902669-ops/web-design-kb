@@ -46,21 +46,29 @@ Run until a full pass adds nothing. "Looks fine" is not an exit condition.
 Thresholds are the floor. Above the floor, the question is always "what is the cheapest change that
 makes this look more deliberate", and that question stays open as long as the loop is running.
 
-## Fast programmatic checks worth wiring in
+## Fast programmatic checks
 
-These cover the numeric half of the table; the rest is a judgement call with named evidence.
+`tools/quality-audit.mjs` measures the static half of the table on HTML files - typography,
+whitespace rhythm, hierarchy channels, literal contrast pairs, viewport/media/fixed-width signals,
+motion durations plus the reduced-motion fallback, hover/focus coverage and the originality signals:
 
 ~~~bash
-# overflow / layout at the three breakpoints, with console + network captured
-node tools/  # there is no browser tool bundled; use your own Playwright/Puppeteer runner and record:
-             # - document.scrollWidth - innerWidth (must be <= 0 at 390 / 768 / 1440)
-             # - console errors / pageerror / responses >= 400 (must be 0)
-             # - every interactive element has hover/focus/active state
-             # - prefers-reduced-motion: reduce leaves the narrative readable
+node tools/quality-audit.mjs dist/index.html --json design/quality-audit.json
+# exit 0 = every measurable dimension above threshold; 1 = at least one below; 2 = IO error
 ~~~
 
-The library tools in `tools/` cover sourcing and hygiene, not the render. Do not claim this page's
-visual or responsive checks were done by the bundled tools.
+It is a **floor check, not the bar**. The following still require a real browser plus a named judge,
+and the tool says so in its own header:
+
+- overflow at 390 / 768 / 1440 (`document.scrollWidth - innerWidth`, must be <= 0)
+- console errors / `pageerror` / responses >= 400 (must be 0)
+- frame diff proving the motion actually animates
+- contrast against the rendered composite (video, gradient, image backgrounds)
+- `prefers-reduced-motion` behaviour in the running page
+- whether the design is any good at all
+
+Use your own Playwright/Puppeteer runner for those and record the numbers in the quality-bar template.
+The tool's own output is never the acceptance record on its own.
 
 ## Honesty clause
 
