@@ -101,7 +101,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/crypto-vault-md"
+      "promptRef": "data/prompts/motionsites/crypto-vault.md"
     },
     {
       "cat": "Sites",
@@ -145,7 +145,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/fastshot-md"
+      "promptRef": "data/prompts/motionsites/fastshot.md"
     },
     {
       "cat": "Sites",
@@ -236,7 +236,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/arc-summit-md"
+      "promptRef": "data/prompts/motionsites/arc-summit.md"
     },
     {
       "cat": "Sites",
@@ -390,7 +390,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/angel-shield-md"
+      "promptRef": "data/prompts/motionsites/angel-shield.md"
     },
     {
       "cat": "Sites",
@@ -1912,7 +1912,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/crypto-wealth-md"
+      "promptRef": "data/prompts/motionsites/crypto-wealth.md"
     },
     {
       "cat": "Sites",
@@ -3621,7 +3621,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/luxury-hero-md"
+      "promptRef": "data/prompts/motionsites/luxury-hero.md"
     },
     {
       "cat": "Sites",
@@ -3706,7 +3706,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/bio-age-dashboard-md"
+      "promptRef": "data/prompts/motionsites/bio-age-dashboard.md"
     },
     {
       "cat": "Sites",
@@ -3952,7 +3952,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/ai-interface-md"
+      "promptRef": "data/prompts/motionsites/ai-interface.md"
     },
     {
       "cat": "Sites",
@@ -4046,7 +4046,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/luxury-focus-md"
+      "promptRef": "data/prompts/motionsites/luxury-focus.md"
     },
     {
       "cat": "Sites",
@@ -4360,7 +4360,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/golden-portal-md"
+      "promptRef": "data/prompts/motionsites/golden-portal.md"
     },
     {
       "cat": "Sites",
@@ -4399,7 +4399,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/product-studio-md"
+      "promptRef": "data/prompts/motionsites/product-studio.md"
     },
     {
       "cat": "Sites",
@@ -4437,7 +4437,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/cargo-group-md"
+      "promptRef": "data/prompts/motionsites/cargo-group.md"
     },
     {
       "cat": "Sites",
@@ -4772,7 +4772,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/relocation-card-md"
+      "promptRef": "data/prompts/motionsites/relocation-card.md"
     },
     {
       "cat": "Sites",
@@ -4966,7 +4966,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/sea-serenade-md"
+      "promptRef": "data/prompts/motionsites/sea-serenade.md"
     },
     {
       "cat": "Sites",
@@ -5214,7 +5214,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/systema-md"
+      "promptRef": "data/prompts/motionsites/systema.md"
     },
     {
       "cat": "Sites",
@@ -6534,7 +6534,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/mood-tracker-md"
+      "promptRef": "data/prompts/motionsites/mood-tracker.md"
     },
     {
       "cat": "Apps",
@@ -6704,7 +6704,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/movie-premiere-md"
+      "promptRef": "data/prompts/motionsites/movie-premiere.md"
     },
     {
       "cat": "Apps",
@@ -6741,7 +6741,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/dental-implant-clinic-md"
+      "promptRef": "data/prompts/motionsites/dental-implant-clinic.md"
     },
     {
       "cat": "Apps",
@@ -6979,7 +6979,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/bite-sized-courses-md"
+      "promptRef": "data/prompts/motionsites/bite-sized-courses.md"
     },
     {
       "cat": "Apps",
@@ -7272,7 +7272,7 @@
       ],
       "nature": "frame",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/nietzsche-sustainibilty-md"
+      "promptRef": "data/prompts/motionsites/nietzsche-sustainibilty.md"
     },
     {
       "cat": "Sections",
@@ -7400,7 +7400,7 @@
       ],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/community-cta-md"
+      "promptRef": "data/prompts/motionsites/community-cta.md"
     },
     {
       "cat": "Sections",
@@ -7742,7 +7742,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/botanical-shadow-about-md"
+      "promptRef": "data/prompts/motionsites/botanical-shadow-about.md"
     },
     {
       "cat": "Sections",
@@ -7922,7 +7922,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/halo-benefits-md"
+      "promptRef": "data/prompts/motionsites/halo-benefits.md"
     },
     {
       "cat": "Sections",
@@ -8057,7 +8057,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/nimbus-ops-md"
+      "promptRef": "data/prompts/motionsites/nimbus-ops.md"
     },
     {
       "cat": "Sections",
@@ -8387,7 +8387,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/glassmorphic-feature-tabs-md"
+      "promptRef": "data/prompts/motionsites/glassmorphic-feature-tabs.md"
     },
     {
       "cat": "Sections",
@@ -8477,7 +8477,7 @@
       "tags": [],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/motionsites/solace-sign-in-md"
+      "promptRef": "data/prompts/motionsites/solace-sign-in.md"
     },
     {
       "cat": "Sections",
