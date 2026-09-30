@@ -458,7 +458,8 @@
         "入场/离场"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "notes": "The card exists in the library but publishes a link instead of prompt text, and the link is not exposed to this tool - no spec is available from the catalog. Verify at the original card before using this entry."
     },
     {
       "cat": "Sites",
@@ -734,7 +735,8 @@
         "HUD/数据"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "notes": "The card exists in the library but publishes a link instead of prompt text, and the link is not exposed to this tool - no spec is available from the catalog. Verify at the original card before using this entry."
     },
     {
       "cat": "Sites",
@@ -1593,7 +1595,8 @@
         "玻璃拟态"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "notes": "The card exists in the library but publishes a link instead of prompt text, and the link is not exposed to this tool - no spec is available from the catalog. Verify at the original card before using this entry."
     },
     {
       "cat": "Sites",
@@ -3228,7 +3231,8 @@
         "渐变"
       ],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "notes": "The card exists in the library but publishes a link instead of prompt text, and the link is not exposed to this tool - no spec is available from the catalog. Verify at the original card before using this entry."
     },
     {
       "cat": "Sites",
@@ -3452,7 +3456,8 @@
       "key": "",
       "tags": [],
       "nature": "visual",
-      "status": "valid"
+      "status": "valid",
+      "notes": "The card exists in the library but publishes a link instead of prompt text, and the link is not exposed to this tool - no spec is available from the catalog. Verify at the original card before using this entry."
     },
     {
       "cat": "Sites",
@@ -5167,7 +5172,8 @@
         "遮罩/揭示"
       ],
       "nature": "frame",
-      "status": "valid"
+      "status": "valid",
+      "notes": "The card exists in the library but publishes a link instead of prompt text, and the link is not exposed to this tool - no spec is available from the catalog. Verify at the original card before using this entry."
     },
     {
       "cat": "Sites",
