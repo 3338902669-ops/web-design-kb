@@ -1,0 +1,28 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      # Actions are pinned to immutable commits (supply-chain hygiene).
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '20'
+      - name: Syntax check tools
+        run: |
+          for f in tools/*.mjs; do node --check "$f"; done
+      - name: Bundled library loads
+        run: node tools/motion-inspect.mjs --db data/motion-db.json
+      - name: Library schema validation
+        run: node tools/motion-db-check.mjs data/motion-db.json
+      - name: Search smoke test
+        run: node tools/motion-search.mjs --db data/motion-db.json -k 3D
+      - name: No secrets
+        run: node tools/check-secrets.mjs .
+      - name: No personal data
+        run: node tools/sanitize-check.mjs .

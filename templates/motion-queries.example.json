@@ -1,0 +1,8 @@
+{
+  "M0 hero": "3D|metal|text reveal|light pulse",
+  "M1 detail": "mask|reveal|parallax",
+  "M2 proof": "scan|wipe|glass",
+  "M3 ambience": "fluid|particles|noise",
+  "CTA": "magnetic|elastic|spotlight",
+  "background": "gradient|noise|video background"
+}
