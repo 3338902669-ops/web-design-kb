@@ -27,6 +27,15 @@ Required fields:
 **Gate:** the style basis is written down. If the client did not specify one, ask. There is deliberately
 no default.
 
+### 1b. Style tokens (hard gate before any motion work)
+
+Turn the style basis into *checkable* values in `design/style-tokens.md` (template:
+`templates/style-tokens.md`): font families and weights, colour tokens with measured contrast, spacing
+scale, image treatment, and **whether motion/3D is justified by the brief at all**.
+
+**Gate:** the tokens file exists. Motion sourcing does not start before it does — this is what stops the
+sourcing step from drifting toward whatever the library happens to like.
+
 > Failure mode this prevents: every project converging on the same trendy look because "we always do it
 > that way".
 
@@ -49,17 +58,24 @@ simply not the default.
 
 Split the page into sections/acts first. Then, for **each** section:
 
-1. Query your motion library (see `05-motion-library.md`).
-2. List **as many relevant candidates as the query returns** — the bar is verifiable: your candidate
-   count must equal the number of `status=valid` entries the query matched. Listing 2-3 and stopping is
-   a failed step.
-3. Every section must include **at least one 3D candidate**.
-4. Rank by "strongest effect -> closest semantic match" and record, per candidate: id/key, name, source,
-   category, tags, strength, evidence nature, why it matches, intent, and where the full prompt /
-   official URL lives.
-5. Present the ranked list to the client and get confirmation before implementing anything.
+1. Query your motion library (see `05-motion-library.md`), **filtered to entries with an executable
+   spec** — a mirrored full prompt (`promptRef`) or an official component URL:
+   ~~~bash
+   node tools/motion-find.mjs --queries design/queries.json --require-spec
+   ~~~
+2. List the candidates the query returns for that section and **record the count it produced**. Listing
+   2–3 and stopping is a failed step.
+3. **3D is opt-in.** Include 3D candidates only when the style tokens justify depth, space or spectacle;
+   if they do, add `--want-3d` and still require a spec. Do not pad a calm brief with 3D.
+4. **Rank by semantic fit first, impact second** — "closest to the brief" outranks "strongest effect".
+   Record per candidate: id/key, name, source, category, tags, strength, evidence nature, why it fits,
+   intent, and the spec location.
+5. A candidate with no prompt and no URL may be listed as **inspiration**, marked `NO-SPEC`, and cannot
+   be adopted into the implementation plan.
+6. Present the ranked list and get confirmation before implementing anything.
 
-**Gate:** the candidate table exists, is complete by the counting rule above, and is confirmed.
+**Gate:** the candidate table exists, every adopted motion has a spec, and any 3D is justified in
+writing by the tokens.
 
 > Library data quality matters. Check your library's `status` and `strength` fields first — if most
 > entries have unknown strength, an `-s strong` filter will silently hide them, and "the library has

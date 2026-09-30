@@ -24,6 +24,19 @@ Files affected: `data/motion-db.json`, `data/backgrounds-index.json`,
 - If you only need the workflow, you can drop the data entirely — the tools accept any compatible
   library file via `--db` or the `MOTION_DB` environment variable.
 
+## Full prompt texts (`data/prompts/`)
+
+229 prompt files are mirrored locally so the sourcing step has a real specification:
+
+| Source | Files | Licence |
+|---|---:|---|
+| `xiiiabu/motionsites.ai` (GitHub, also mirrored by the commercial Framesbase service) | 164 + 65 | **MIT** |
+
+Upstream: https://github.com/xiiiabu/motionsites.ai — public and MIT-licensed (verified 2026-09-30).
+Files are unmodified. Keep the attribution if you redistribute. These are demo-landing-page
+specifications with fictional brands and copy: **replace the demo brand, copy and imagery** before
+shipping (see `docs/00-workflow.md` step 6).
+
 ## Removing third-party data
 
 ~~~bash

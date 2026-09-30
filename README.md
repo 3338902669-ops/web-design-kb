@@ -3,6 +3,10 @@
 **A repeatable design -> build -> acceptance process for premium marketing sites.**
 Motion-first, evidence-gated, verifier-checked. Works for a solo designer with AI help, or a small team.
 
+**New here? Read [SKILL.md](SKILL.md) first** — the entry point: when to use this, the
+non-negotiables, the 8 steps and their artifacts, and how to behave when no human is available to
+confirm a gate.
+
 [中文说明](README.zh-CN.md) · [Workflow](docs/00-workflow.md) · [Acceptance standard](docs/02-acceptance-standard.md) · [Licenses](#licensing)
 
 ---
@@ -63,7 +67,11 @@ node tools/motion-inspect.mjs
 # Search it
 node tools/motion-search.mjs -k particle
 node tools/motion-search.mjs -k 3D -cat Sections
+node tools/motion-search.mjs -k "editorial minimal" --has-spec   # only entries you can build
 node tools/motion-search.mjs -h
+
+# read the full prompt behind an entry (229 prompts mirrored in data/prompts/)
+node tools/get-prompt.mjs "Aethera Studio" --print
 
 # Check a site folder before publishing
 node tools/check-secrets.mjs ./path/to/site
@@ -93,8 +101,10 @@ docs/         the process, in order
   07-multi-agent-handoff.md        single-writer + handoff discipline for AI-assisted teams
   08-security-gate.md              what a security gate must produce
 templates/    fill-in-the-blank artifacts (contract, intent table, handoff, kickoff)
+SKILL.md      process entry point (start here)
 tools/        small dependency-free Node utilities
-data/         bundled motion library + indexes (see THIRD-PARTY-NOTICE.md)
+data/         bundled motion library + indexes + mirrored full prompts
+examples/     a reference implementation (minimal personal site) to compare against
 ~~~
 
 ## Roles

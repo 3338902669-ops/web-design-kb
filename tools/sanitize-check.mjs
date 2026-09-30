@@ -15,8 +15,8 @@ if (argv.includes('-h') || argv.includes('--help')) {
     'Built-in rules: user home paths (Windows backslash and forward slash, macOS, Linux),',
     'email addresses, private LAN IPs, localhost/private hostnames with ports.',
     '',
-    'Extend per project:',
-    '  --ignore <file>   file of regexes, one per line (# for comments) to allow-list matches',
+    'Extend per project (.sanitizeignore is loaded automatically from the current directory):',
+    '  --ignore <file>   regex allow-list, one per line (# for comments); "path:<re>" skips whole paths',
     '  --banned "a,b"    literal strings that must never appear (internal codenames, client names).',
     '                    ASCII words match on word boundaries; non-ASCII match as substrings.',
     '',
@@ -28,11 +28,15 @@ const asJson = argv.includes('--json');
 const showSamples = argv.includes('--show-samples');
 
 const ignoreIdx = argv.indexOf('--ignore');
+const ignoreFile = ignoreIdx >= 0 && argv[ignoreIdx + 1] ? argv[ignoreIdx + 1] : '.sanitizeignore';
 const extraIgnores = [];
-if (ignoreIdx >= 0 && argv[ignoreIdx + 1] && fs.existsSync(argv[ignoreIdx + 1])) {
-  fs.readFileSync(argv[ignoreIdx + 1], 'utf8').split(/\r?\n/).forEach((l) => {
+const pathIgnores = [];
+if (fs.existsSync(ignoreFile)) {
+  fs.readFileSync(ignoreFile, 'utf8').split(/\r?\n/).forEach((l) => {
     const s = l.trim();
-    if (s && !s.startsWith('#')) extraIgnores.push(new RegExp(s));
+    if (!s || s.startsWith('#')) return;
+    if (s.startsWith('path:')) pathIgnores.push(new RegExp(s.slice(5)));
+    else extraIgnores.push(new RegExp(s));
   });
 }
 const bannedIdx = argv.indexOf('--banned');
@@ -84,6 +88,7 @@ function walk(dir, out) {
     if (it.isDirectory()) { if (!SKIP_DIRS.has(it.name)) walk(p, out); continue; }
     if (SKIP_FILES.has(it.name)) continue;
     if (!TEXT_EXT.test(it.name)) continue;
+    { const rel = path.relative(process.cwd(), p).replace(/\\/g, '/'); if (pathIgnores.some((r) => r.test(rel) || r.test(p.replace(/\\/g, '/')))) continue; }
     try { if (fs.statSync(p).size > MAX_BYTES) continue; } catch { continue; }
     out.push(p);
   }

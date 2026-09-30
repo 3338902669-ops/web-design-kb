@@ -1,0 +1,13 @@
+# Allow-list for tools/sanitize-check.mjs (loaded automatically from the repo root).
+# Lines are regexes matched against the line text; "path:<regex>" skips a whole path.
+
+# The mirrored upstream prompt files are unmodified MIT demo specifications. They contain
+# fictional contact details for fictional brands (hello@mainframe.co, johndoe@gmail.com, ...).
+# They are not maintainer data. tools/check-secrets.mjs still scans these files.
+path:^data/prompts/
+
+# Intentional placeholder addresses in docs and templates.
+@example\.(com|org|net)
+
+# Demo localhost ports that appear inside mirrored prompt specs.
+localhost:5199

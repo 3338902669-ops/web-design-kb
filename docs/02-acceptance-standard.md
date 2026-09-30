@@ -22,6 +22,21 @@ The implementer produces evidence. The **Verifier** re-runs it and signs. See `0
 Plus the contract's **intent table**, checked block by block: does the motion serve the declared content,
 do transitions share an element, does the reduced-motion path still tell the story?
 
+### Visual quality loop (required before the intent table)
+
+Programmatic checks prove the page is not broken. They cannot prove it looks good. Run this loop **at
+least twice** before declaring the runtime gate done:
+
+1. Render the page at desktop and 390 px (headless is fine) and capture the hero plus the full page.
+2. **Look at the captures** — a human, or a vision model whose output you then verify. Programmatic
+   checks alone are not a substitute.
+3. Write down the **three worst things** (e.g. generic type hierarchy, muddy imagery, spacing that
+   collapses on mobile, motion that draws the eye away from the CTA).
+4. Fix only those three. Re-render. Repeat until a pass produces no new top-three.
+5. Record the loop in the acceptance file: rounds, what changed, who judged.
+
+If no human can judge, say so: write "self-judged by model, not independently verified (E3)".
+
 ### Subjective items need a named judge
 
 Some checks have no numeric threshold: "does the motion semantically match", "is the transition smooth",

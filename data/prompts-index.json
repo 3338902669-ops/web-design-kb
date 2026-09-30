@@ -1,0 +1,2068 @@
+{
+  "note": "Full prompt texts mirrored from Motionsites.ai (MIT, github.com/xiiiabu/motionsites.ai). See THIRD-PARTY-NOTICE.md.",
+  "upstream": "https://github.com/xiiiabu/motionsites.ai",
+  "count": 229,
+  "prompts": [
+    {
+      "slug": "3d-character-studio",
+      "title": "3D Character Studio",
+      "file": "prompts/3d-character-studio.md",
+      "chars": 5726,
+      "sha256_8": "9d38ff7b",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "3d-collectible-hero",
+      "title": "3D Collectible Hero",
+      "file": "prompts/3d-collectible-hero.md",
+      "chars": 5347,
+      "sha256_8": "6a2ec31f",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "3d-jack-portfolio-hero",
+      "title": "3D Jack Portfolio",
+      "file": "prompts/3d-jack-portfolio-hero.md",
+      "chars": 13877,
+      "sha256_8": "480ba195",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "3d-property",
+      "title": "3D Property",
+      "file": "prompts/3d-property.md",
+      "chars": 13004,
+      "sha256_8": "cfeb3b80",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "404-planet",
+      "title": "404 Planet",
+      "file": "prompts/404-planet.md",
+      "chars": 7598,
+      "sha256_8": "a65606d4",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "404",
+      "title": "Nexto 404",
+      "file": "prompts/404.md",
+      "chars": 5689,
+      "sha256_8": "9205c5e7",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "adhd-planner",
+      "title": "ADHD Planner",
+      "file": "prompts/adhd-planner.md",
+      "chars": 8810,
+      "sha256_8": "f18f4af3",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "aethera-hero",
+      "title": "Aethera Studio",
+      "file": "prompts/aethera-hero.md",
+      "chars": 3169,
+      "sha256_8": "e4f05b30",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "aetheris-voyage-hero",
+      "title": "Aetheris Voyage",
+      "file": "prompts/aetheris-voyage-hero.md",
+      "chars": 10190,
+      "sha256_8": "aa5f58f6",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "agent-grove",
+      "title": "Agent Grove",
+      "file": "prompts/agent-grove.md",
+      "chars": 7959,
+      "sha256_8": "2e20b74e",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "agent-wave",
+      "title": "Agent Wave",
+      "file": "prompts/agent-wave.md",
+      "chars": 16675,
+      "sha256_8": "07f95967",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "ai-image-generator-ui",
+      "title": "AI Image Generator UI",
+      "file": "prompts/ai-image-generator-ui.md",
+      "chars": 4480,
+      "sha256_8": "671a598b",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "ai-runtime",
+      "title": "AI Runtime",
+      "file": "prompts/ai-runtime.md",
+      "chars": 9593,
+      "sha256_8": "1355c121",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "ai-trip-planner",
+      "title": "AI Trip Planner",
+      "file": "prompts/ai-trip-planner.md",
+      "chars": 6398,
+      "sha256_8": "7474b033",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "ai-workflow-agents",
+      "title": "AI Workflow Agents",
+      "file": "prompts/ai-workflow-agents.md",
+      "chars": 3215,
+      "sha256_8": "05ca5c8d",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "ai-workflow",
+      "title": "AI Workflow Hero",
+      "file": "prompts/ai-workflow.md",
+      "chars": 16580,
+      "sha256_8": "e42fd7ca",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "animated-cards",
+      "title": "Animated Cards",
+      "file": "prompts/animated-cards.md",
+      "chars": 36212,
+      "sha256_8": "a202c81c",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "arceage-stats",
+      "title": "Arceage Stats",
+      "file": "prompts/arceage-stats.md",
+      "chars": 7826,
+      "sha256_8": "c8887fc7",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "asme-hero",
+      "title": "Asme",
+      "file": "prompts/asme-hero.md",
+      "chars": 4360,
+      "sha256_8": "1127da6e",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "audio-showcase",
+      "title": "Audio Showcase",
+      "file": "prompts/audio-showcase.md",
+      "chars": 6927,
+      "sha256_8": "6bed09a5",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "aurex-finance",
+      "title": "Aurex Finance",
+      "file": "prompts/aurex-finance.md",
+      "chars": 29337,
+      "sha256_8": "ac48bc07",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "aurora-onboard",
+      "title": "Aurora Onboard",
+      "file": "prompts/aurora-onboard.md",
+      "chars": 4770,
+      "sha256_8": "04bbd8d1",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "autonomous-ops",
+      "title": "Autonomous Ops",
+      "file": "prompts/autonomous-ops.md",
+      "chars": 18222,
+      "sha256_8": "c969ea7f",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "axion-about",
+      "title": "Axion About",
+      "file": "prompts/axion-about.md",
+      "chars": 4393,
+      "sha256_8": "faa8f755",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "beauty-categories",
+      "title": "Beauty Categories",
+      "file": "prompts/beauty-categories.md",
+      "chars": 4038,
+      "sha256_8": "ea0aa739",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "blog-showcase",
+      "title": "Blog Showcase",
+      "file": "prompts/blog-showcase.md",
+      "chars": 4151,
+      "sha256_8": "664583bf",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "bloom-ai-hero",
+      "title": "Bloom AI",
+      "file": "prompts/bloom-ai-hero.md",
+      "chars": 3900,
+      "sha256_8": "d821c519",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "bold-studio",
+      "title": "Bold Studio",
+      "file": "prompts/bold-studio.md",
+      "chars": 6067,
+      "sha256_8": "7a7a7632",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "build-with-us",
+      "title": "Build With Us",
+      "file": "prompts/build-with-us.md",
+      "chars": 6253,
+      "sha256_8": "41b8f598",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "celestial-renewal",
+      "title": "Celestial Renewal",
+      "file": "prompts/celestial-renewal.md",
+      "chars": 7343,
+      "sha256_8": "6ee7a251",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "church-community",
+      "title": "Church Community",
+      "file": "prompts/church-community.md",
+      "chars": 5380,
+      "sha256_8": "45cac4b9",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "codenest-hero",
+      "title": "CodeNest Coding Platform",
+      "file": "prompts/codenest-hero.md",
+      "chars": 2581,
+      "sha256_8": "aecd9a57",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "coffee-rewards",
+      "title": "Coffee Rewards",
+      "file": "prompts/coffee-rewards.md",
+      "chars": 5054,
+      "sha256_8": "ee4a52d6",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "cognitra-feature",
+      "title": "Cognitra Feature",
+      "file": "prompts/cognitra-feature.md",
+      "chars": 3241,
+      "sha256_8": "c457671b",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "contact-cybernetic",
+      "title": "Contact Cybernetic",
+      "file": "prompts/contact-cybernetic.md",
+      "chars": 6423,
+      "sha256_8": "3bdae30e",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "convix-software-hero",
+      "title": "SAAS Software",
+      "file": "prompts/convix-software-hero.md",
+      "chars": 5587,
+      "sha256_8": "dc2d0b83",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "cozypaws",
+      "title": "CozyPaws",
+      "file": "prompts/cozypaws.md",
+      "chars": 6443,
+      "sha256_8": "bafa6b2a",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "creative-portfolio",
+      "title": "Creative Portfolio",
+      "file": "prompts/creative-portfolio.md",
+      "chars": 5639,
+      "sha256_8": "28018892",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "creative-studio",
+      "title": "Creative Studio",
+      "file": "prompts/creative-studio.md",
+      "chars": 5481,
+      "sha256_8": "3520f044",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "cross-border",
+      "title": "Cross-Border",
+      "file": "prompts/cross-border.md",
+      "chars": 6698,
+      "sha256_8": "51277206",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "custom-spaces",
+      "title": "Custom Spaces",
+      "file": "prompts/custom-spaces.md",
+      "chars": 10956,
+      "sha256_8": "bcb392ae",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "cyber-layer",
+      "title": "Cyber Layer",
+      "file": "prompts/cyber-layer.md",
+      "chars": 14235,
+      "sha256_8": "a052fd0a",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "cyberpunk-reveal",
+      "title": "Cyberpunk Reveal",
+      "file": "prompts/cyberpunk-reveal.md",
+      "chars": 7086,
+      "sha256_8": "2ef94ff0",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "cybersecurity-hero",
+      "title": "Cybersecurity Hero",
+      "file": "prompts/cybersecurity-hero.md",
+      "chars": 11920,
+      "sha256_8": "44646e05",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "daisy-wild",
+      "title": "Daisy Wild",
+      "file": "prompts/daisy-wild.md",
+      "chars": 10292,
+      "sha256_8": "e59966f9",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "data-signal",
+      "title": "Data Signal",
+      "file": "prompts/data-signal.md",
+      "chars": 12007,
+      "sha256_8": "0d7ee64a",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "datacore-booking-hero",
+      "title": "Datacore Booking",
+      "file": "prompts/datacore-booking-hero.md",
+      "chars": 2826,
+      "sha256_8": "3e6ecfa4",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "deepthink",
+      "title": "DeepThink",
+      "file": "prompts/deepthink.md",
+      "chars": 13695,
+      "sha256_8": "8bf2f692",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "design-rocket-email-hero",
+      "title": "Email Marketing",
+      "file": "prompts/design-rocket-email-hero.md",
+      "chars": 7972,
+      "sha256_8": "4f0a14ea",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "designpro-hero",
+      "title": "DesignPro Academy",
+      "file": "prompts/designpro-hero.md",
+      "chars": 3038,
+      "sha256_8": "06a79839",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "digital-director",
+      "title": "Digital Director",
+      "file": "prompts/digital-director.md",
+      "chars": 8947,
+      "sha256_8": "66cee4f8",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "digital-epoch-hero",
+      "title": "Digital Epoch",
+      "file": "prompts/digital-epoch-hero.md",
+      "chars": 4594,
+      "sha256_8": "98a578e9",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "digital-experiences",
+      "title": "Digital Experiences",
+      "file": "prompts/digital-experiences.md",
+      "chars": 8994,
+      "sha256_8": "64e6b632",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "digitwist-hero",
+      "title": "Digitwist AI Builder",
+      "file": "prompts/digitwist-hero.md",
+      "chars": 6001,
+      "sha256_8": "22db40a7",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "dot-hero",
+      "title": "Dot",
+      "file": "prompts/dot-hero.md",
+      "chars": 3871,
+      "sha256_8": "b59eeeb3",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "duolingo-styleguide-hero",
+      "title": "Duolingo Styleguide",
+      "file": "prompts/duolingo-styleguide-hero.md",
+      "chars": 10777,
+      "sha256_8": "899c7462",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "email-landing-page",
+      "title": "Email Landing Page",
+      "file": "prompts/email-landing-page.md",
+      "chars": 19431,
+      "sha256_8": "f5f6bf8c",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "equilibrium",
+      "title": "Equilibrium",
+      "file": "prompts/equilibrium.md",
+      "chars": 4787,
+      "sha256_8": "5da5c382",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "f1-racing-hub",
+      "title": "F1 Racing Hub",
+      "file": "prompts/f1-racing-hub.md",
+      "chars": 10448,
+      "sha256_8": "64a0f460",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "faq-cta",
+      "title": "FAQ CTA",
+      "file": "prompts/faq-cta.md",
+      "chars": 9456,
+      "sha256_8": "5c0f50ba",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "forecast-center",
+      "title": "Forecast Center",
+      "file": "prompts/forecast-center.md",
+      "chars": 11253,
+      "sha256_8": "8ba702f2",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "fun-404-page",
+      "title": "Fun 404 Page",
+      "file": "prompts/fun-404-page.md",
+      "chars": 6085,
+      "sha256_8": "65f0d73f",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "global-gateway",
+      "title": "Global gateway",
+      "file": "prompts/global-gateway.md",
+      "chars": 14080,
+      "sha256_8": "52a2ae69",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "glow-features",
+      "title": "Glow Features",
+      "file": "prompts/glow-features.md",
+      "chars": 3072,
+      "sha256_8": "1b1e95aa",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "growth-decisions",
+      "title": "Growth Decisions",
+      "file": "prompts/growth-decisions.md",
+      "chars": 11164,
+      "sha256_8": "3fdf5f8a",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "guardnet-benefits",
+      "title": "Guardnet Benefits",
+      "file": "prompts/guardnet-benefits.md",
+      "chars": 4108,
+      "sha256_8": "dd97cc75",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "halo-usd-landing",
+      "title": "USD Halo",
+      "file": "prompts/halo-usd-landing.md",
+      "chars": 8531,
+      "sha256_8": "304fc878",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "halo-use-case",
+      "title": "Halo Use Case",
+      "file": "prompts/halo-use-case.md",
+      "chars": 7044,
+      "sha256_8": "07501efb",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "haul-footer",
+      "title": "HAUL!",
+      "file": "prompts/haul-footer.md",
+      "chars": 4329,
+      "sha256_8": "beb34a74",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "health-portal",
+      "title": "Health Portal",
+      "file": "prompts/health-portal.md",
+      "chars": 16908,
+      "sha256_8": "16286a99",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "immersive-ocean",
+      "title": "Immersive Ocean",
+      "file": "prompts/immersive-ocean.md",
+      "chars": 4030,
+      "sha256_8": "6a98189c",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "impact-ventures",
+      "title": "Impact Ventures",
+      "file": "prompts/impact-ventures.md",
+      "chars": 4400,
+      "sha256_8": "c19477fa",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "innovation-lab",
+      "title": "Innovation Lab",
+      "file": "prompts/innovation-lab.md",
+      "chars": 6911,
+      "sha256_8": "90a5002f",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "innovation-landing",
+      "title": "Innovation",
+      "file": "prompts/innovation-landing.md",
+      "chars": 8996,
+      "sha256_8": "9e4779f7",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "intelligence-layer",
+      "title": "Intelligence Layer",
+      "file": "prompts/intelligence-layer.md",
+      "chars": 11825,
+      "sha256_8": "c604cf57",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "intelligent-operations",
+      "title": "Intelligent Operations",
+      "file": "prompts/intelligent-operations.md",
+      "chars": 10447,
+      "sha256_8": "5ed2aae2",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "intelligentx",
+      "title": "IntelligentX",
+      "file": "prompts/intelligentx.md",
+      "chars": 4182,
+      "sha256_8": "290841aa",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "interactive-discovery",
+      "title": "Interactive Discovery",
+      "file": "prompts/interactive-discovery.md",
+      "chars": 6894,
+      "sha256_8": "c81bf523",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "kresna-footer",
+      "title": "Kresna Footer",
+      "file": "prompts/kresna-footer.md",
+      "chars": 9163,
+      "sha256_8": "4104ca9b",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "launchex-about",
+      "title": "LaunchEx About",
+      "file": "prompts/launchex-about.md",
+      "chars": 6908,
+      "sha256_8": "4621b8cf",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "liquid-glass-cta",
+      "title": "Liquid Glass CTA",
+      "file": "prompts/liquid-glass-cta.md",
+      "chars": 10077,
+      "sha256_8": "c2b930af",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "lumina-footer",
+      "title": "Lumina",
+      "file": "prompts/lumina-footer.md",
+      "chars": 5113,
+      "sha256_8": "1f3e869d",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "luminex-hero",
+      "title": "Luminex",
+      "file": "prompts/luminex-hero.md",
+      "chars": 162,
+      "sha256_8": "d0acf3c4",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "max-reed-portfolio",
+      "title": "Max Reed Portfolio",
+      "file": "prompts/max-reed-portfolio.md",
+      "chars": 5397,
+      "sha256_8": "c588182e",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "mind-body-healing",
+      "title": "Mind-Body Healing",
+      "file": "prompts/mind-body-healing.md",
+      "chars": 5232,
+      "sha256_8": "0eda43f4",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "mindloop-landing",
+      "title": "Mindloop Landing",
+      "file": "prompts/mindloop-landing.md",
+      "chars": 7242,
+      "sha256_8": "e37b73d4",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "modern-agency",
+      "title": "Modern Agency",
+      "file": "prompts/modern-agency.md",
+      "chars": 10347,
+      "sha256_8": "311cb360",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "mostar-guide",
+      "title": "Mostar Guide",
+      "file": "prompts/mostar-guide.md",
+      "chars": 27876,
+      "sha256_8": "5ab223fc",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nature-ritual",
+      "title": "Nature Ritual",
+      "file": "prompts/nature-ritual.md",
+      "chars": 22232,
+      "sha256_8": "3a57523d",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "neo-museum",
+      "title": "Neo Museum",
+      "file": "prompts/neo-museum.md",
+      "chars": 15036,
+      "sha256_8": "c79fa379",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "neon-logic",
+      "title": "Neon Logic",
+      "file": "prompts/neon-logic.md",
+      "chars": 13601,
+      "sha256_8": "0ab5371a",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "network-hero",
+      "title": "Network Hero",
+      "file": "prompts/network-hero.md",
+      "chars": 7543,
+      "sha256_8": "545c5a93",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "neuralyn-hero",
+      "title": "Neuralyn",
+      "file": "prompts/neuralyn-hero.md",
+      "chars": 5257,
+      "sha256_8": "2268d689",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nexacore-control",
+      "title": "NexaCore Control",
+      "file": "prompts/nexacore-control.md",
+      "chars": 8666,
+      "sha256_8": "f98374ca",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nexacore-results",
+      "title": "NexaCore Results",
+      "file": "prompts/nexacore-results.md",
+      "chars": 9261,
+      "sha256_8": "0b91b2f1",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nexora-hero",
+      "title": "Nexora Automation",
+      "file": "prompts/nexora-hero.md",
+      "chars": 5344,
+      "sha256_8": "74c6b26b",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nike-hover",
+      "title": "Nike Hover",
+      "file": "prompts/nike-hover.md",
+      "chars": 13726,
+      "sha256_8": "b8a6ba55",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "no-code-waitlist",
+      "title": "No-Code Waitlist",
+      "file": "prompts/no-code-waitlist.md",
+      "chars": 6532,
+      "sha256_8": "601cc396",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "open-agent",
+      "title": "Open Agent",
+      "file": "prompts/open-agent.md",
+      "chars": 11636,
+      "sha256_8": "f7781a0f",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "orbis-hello",
+      "title": "Orbis Hello",
+      "file": "prompts/orbis-hello.md",
+      "chars": 5232,
+      "sha256_8": "5f5b6460",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "orbis-nft-landing",
+      "title": "Orbis NFT",
+      "file": "prompts/orbis-nft-landing.md",
+      "chars": 8276,
+      "sha256_8": "014b9381",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "orbit-flora",
+      "title": "Orbit Flora",
+      "file": "prompts/orbit-flora.md",
+      "chars": 9402,
+      "sha256_8": "c25a9f50",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "organic-odyssey",
+      "title": "Organic Odyssey",
+      "file": "prompts/organic-odyssey.md",
+      "chars": 4802,
+      "sha256_8": "c46de546",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "palomar-labs",
+      "title": "Palomar Labs",
+      "file": "prompts/palomar-labs.md",
+      "chars": 7574,
+      "sha256_8": "bff56769",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "personal-showcase",
+      "title": "Personal Showcase",
+      "file": "prompts/personal-showcase.md",
+      "chars": 6948,
+      "sha256_8": "82e04e9e",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "pet-diagnostics",
+      "title": "Pet Diagnostics",
+      "file": "prompts/pet-diagnostics.md",
+      "chars": 18711,
+      "sha256_8": "40ff2980",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "pixel-grid-hover",
+      "title": "Pixel Grid Hover",
+      "file": "prompts/pixel-grid-hover.md",
+      "chars": 8672,
+      "sha256_8": "0425cf6f",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "place-saver",
+      "title": "Place Saver",
+      "file": "prompts/place-saver.md",
+      "chars": 8226,
+      "sha256_8": "c3346cc6",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "planetary-pulse",
+      "title": "Planetary Pulse",
+      "file": "prompts/planetary-pulse.md",
+      "chars": 26446,
+      "sha256_8": "672aa296",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "portal-hero",
+      "title": "Portal",
+      "file": "prompts/portal-hero.md",
+      "chars": 6663,
+      "sha256_8": "177583fa",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "portal",
+      "title": "Portal",
+      "file": "prompts/portal.md",
+      "chars": 5718,
+      "sha256_8": "ee44ddcb",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "portfolio-about",
+      "title": "Portfolio About",
+      "file": "prompts/portfolio-about.md",
+      "chars": 5431,
+      "sha256_8": "8517051a",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "portfolio-cosmic-hero",
+      "title": "Portfolio Cosmic",
+      "file": "prompts/portfolio-cosmic-hero.md",
+      "chars": 8253,
+      "sha256_8": "4f53cb27",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "power-ai-hero",
+      "title": "Power AI",
+      "file": "prompts/power-ai-hero.md",
+      "chars": 3838,
+      "sha256_8": "7da85cb6",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "price-calculator",
+      "title": "Price Calculator",
+      "file": "prompts/price-calculator.md",
+      "chars": 3168,
+      "sha256_8": "bb7da53a",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "prisma-landing",
+      "title": "Prisma Creative Studio",
+      "file": "prompts/prisma-landing.md",
+      "chars": 8432,
+      "sha256_8": "4fc7f6c5",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "prompt-hero",
+      "title": "PROMPT",
+      "file": "prompts/prompt-hero.md",
+      "chars": 13186,
+      "sha256_8": "00ee092c",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "prosthetics-hero",
+      "title": "Prosthetics Hero",
+      "file": "prompts/prosthetics-hero.md",
+      "chars": 3421,
+      "sha256_8": "43dc5454",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "quantum-core",
+      "title": "Quantum Core",
+      "file": "prompts/quantum-core.md",
+      "chars": 27320,
+      "sha256_8": "d629442d",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "quantum-lucid",
+      "title": "Quantum Lucid",
+      "file": "prompts/quantum-lucid.md",
+      "chars": 20249,
+      "sha256_8": "d9a86d7d",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "radial-diagram",
+      "title": "Radial Diagram",
+      "file": "prompts/radial-diagram.md",
+      "chars": 5364,
+      "sha256_8": "2e928d74",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "rare-gallery",
+      "title": "Rare Gallery",
+      "file": "prompts/rare-gallery.md",
+      "chars": 4964,
+      "sha256_8": "87ce7f90",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "real-time-alerts",
+      "title": "Real-Time Alerts",
+      "file": "prompts/real-time-alerts.md",
+      "chars": 21771,
+      "sha256_8": "0ad50c60",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "retro-futurist",
+      "title": "Retro-Futurist",
+      "file": "prompts/retro-futurist.md",
+      "chars": 5713,
+      "sha256_8": "77349f56",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "rivr-hero",
+      "title": "RIVR",
+      "file": "prompts/rivr-hero.md",
+      "chars": 8089,
+      "sha256_8": "44771c0b",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "rocket-cta",
+      "title": "Rocket CTA",
+      "file": "prompts/rocket-cta.md",
+      "chars": 11622,
+      "sha256_8": "f7b2e5ae",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "rocket-pricing",
+      "title": "Rocket Pricing",
+      "file": "prompts/rocket-pricing.md",
+      "chars": 8841,
+      "sha256_8": "37b8528f",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "saas-value",
+      "title": "SaaS Value",
+      "file": "prompts/saas-value.md",
+      "chars": 8755,
+      "sha256_8": "a6c22889",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "scaling-platform",
+      "title": "Scaling Platform",
+      "file": "prompts/scaling-platform.md",
+      "chars": 5231,
+      "sha256_8": "db3fce25",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "securify-hero",
+      "title": "Securify Data Security",
+      "file": "prompts/securify-hero.md",
+      "chars": 3822,
+      "sha256_8": "9bc9f2f0",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "sentinel-ai-hero",
+      "title": "Sentinel AI",
+      "file": "prompts/sentinel-ai-hero.md",
+      "chars": 5940,
+      "sha256_8": "e52bab7d",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "signal-id",
+      "title": "Signal ID",
+      "file": "prompts/signal-id.md",
+      "chars": 11588,
+      "sha256_8": "99797500",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "skybridge-404",
+      "title": "Skybridge 404",
+      "file": "prompts/skybridge-404.md",
+      "chars": 7104,
+      "sha256_8": "5f12d5f4",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "skyelite-hero",
+      "title": "SkyElite Private Jets",
+      "file": "prompts/skyelite-hero.md",
+      "chars": 2285,
+      "sha256_8": "ecfa79a1",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "sparkform",
+      "title": "Sparkform",
+      "file": "prompts/sparkform.md",
+      "chars": 6724,
+      "sha256_8": "e73ad25c",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "stark-minimal-footer",
+      "title": "Stark Minimal Footer",
+      "file": "prompts/stark-minimal-footer.md",
+      "chars": 5437,
+      "sha256_8": "cd3f7a40",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "stellar-ai-hero",
+      "title": "Stellar AI",
+      "file": "prompts/stellar-ai-hero.md",
+      "chars": 3973,
+      "sha256_8": "3f87ec9c",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "stillmind",
+      "title": "Stillmind",
+      "file": "prompts/stillmind.md",
+      "chars": 6025,
+      "sha256_8": "8caa5f53",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "subscription-agency",
+      "title": "Subscription Agency",
+      "file": "prompts/subscription-agency.md",
+      "chars": 6172,
+      "sha256_8": "a1c407a9",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "synth-mode",
+      "title": "Synth Mode",
+      "file": "prompts/synth-mode.md",
+      "chars": 10533,
+      "sha256_8": "971ac1dd",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "talent-collective",
+      "title": "Talent Collective",
+      "file": "prompts/talent-collective.md",
+      "chars": 9583,
+      "sha256_8": "3ceb01f5",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "task-engine",
+      "title": "Task Engine",
+      "file": "prompts/task-engine.md",
+      "chars": 14503,
+      "sha256_8": "39ec8020",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "taskly-hero",
+      "title": "Taskly",
+      "file": "prompts/taskly-hero.md",
+      "chars": 2465,
+      "sha256_8": "f095b57b",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "tech-forward",
+      "title": "Tech-Forward",
+      "file": "prompts/tech-forward.md",
+      "chars": 3400,
+      "sha256_8": "7abc31f2",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "tech-noir-about",
+      "title": "Tech-Noir About",
+      "file": "prompts/tech-noir-about.md",
+      "chars": 3555,
+      "sha256_8": "56c969aa",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "terravision",
+      "title": "TerraVision",
+      "file": "prompts/terravision.md",
+      "chars": 21184,
+      "sha256_8": "9a1fbfb0",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "tokyo-nocturne",
+      "title": "Tokyo Nocturne",
+      "file": "prompts/tokyo-nocturne.md",
+      "chars": 29033,
+      "sha256_8": "1fc7b6b1",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "transform-data-hero",
+      "title": "Transform Data",
+      "file": "prompts/transform-data-hero.md",
+      "chars": 3605,
+      "sha256_8": "677d3fcb",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "travel-journal",
+      "title": "Travel Journal",
+      "file": "prompts/travel-journal.md",
+      "chars": 5151,
+      "sha256_8": "01075eae",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "trustflow",
+      "title": "TrustFlow",
+      "file": "prompts/trustflow.md",
+      "chars": 6275,
+      "sha256_8": "a76aef2f",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "vaultshield",
+      "title": "VaultShield",
+      "file": "prompts/vaultshield.md",
+      "chars": 4734,
+      "sha256_8": "bc0dee85",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "vectrus-energy",
+      "title": "Vectrus Energy",
+      "file": "prompts/vectrus-energy.md",
+      "chars": 8300,
+      "sha256_8": "e1da38a8",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "velorah-hero",
+      "title": "Velorah",
+      "file": "prompts/velorah-hero.md",
+      "chars": 3788,
+      "sha256_8": "b79f787d",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "vex-ventures-hero",
+      "title": "VEX Ventures",
+      "file": "prompts/vex-ventures-hero.md",
+      "chars": 5051,
+      "sha256_8": "5b43ab28",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "vision-reveal",
+      "title": "Vision Reveal",
+      "file": "prompts/vision-reveal.md",
+      "chars": 16723,
+      "sha256_8": "e41755ec",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "visual-hero",
+      "title": "Visual Hero",
+      "file": "prompts/visual-hero.md",
+      "chars": 8275,
+      "sha256_8": "772b9771",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "vize-footer",
+      "title": "Vize Footer",
+      "file": "prompts/vize-footer.md",
+      "chars": 7734,
+      "sha256_8": "55229c93",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "vortex-studio-hero",
+      "title": "AI Designer Portfolio",
+      "file": "prompts/vortex-studio-hero.md",
+      "chars": 11458,
+      "sha256_8": "fb1552ea",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "wanderful-hero",
+      "title": "Wanderful Hero",
+      "file": "prompts/wanderful-hero.md",
+      "chars": 4223,
+      "sha256_8": "a88ec2d8",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "wellbeing-os",
+      "title": "Wellbeing OS",
+      "file": "prompts/wellbeing-os.md",
+      "chars": 5051,
+      "sha256_8": "6883361e",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "wellness-balance",
+      "title": "Wellness Balance",
+      "file": "prompts/wellness-balance.md",
+      "chars": 7840,
+      "sha256_8": "6d5127d8",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "wellness-companion",
+      "title": "Wellness Companion",
+      "file": "prompts/wellness-companion.md",
+      "chars": 4095,
+      "sha256_8": "9f1ff2f8",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "wellness-device",
+      "title": "Wellness Devicex",
+      "file": "prompts/wellness-device.md",
+      "chars": 6903,
+      "sha256_8": "28d94fd3",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "wellness-hero",
+      "title": "Wellness Hero",
+      "file": "prompts/wellness-hero.md",
+      "chars": 4719,
+      "sha256_8": "404e516e",
+      "source": "Motionsites.ai mirror (edge cache)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "aethera-studio",
+      "title": "Aethera_Studio",
+      "file": "prompts/motionsites/Aethera_Studio.md",
+      "chars": 3414,
+      "sha256_8": "d1e4892e",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "ai-automation-hero",
+      "title": "AI_Automation_Hero",
+      "file": "prompts/motionsites/AI_Automation_Hero.md",
+      "chars": 2946,
+      "sha256_8": "fcabca1d",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "ai-designer-agency",
+      "title": "AI_Designer_Agency",
+      "file": "prompts/motionsites/AI_Designer_Agency.md",
+      "chars": 7721,
+      "sha256_8": "632fb307",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "ai-designer-portfolio",
+      "title": "AI_Designer_Portfolio",
+      "file": "prompts/motionsites/AI_Designer_Portfolio.md",
+      "chars": 3842,
+      "sha256_8": "05e0270e",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "akor-security",
+      "title": "AKOR_Security",
+      "file": "prompts/motionsites/AKOR_Security.md",
+      "chars": 5763,
+      "sha256_8": "9ee28f58",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "apex-saas",
+      "title": "Apex_SaaS",
+      "file": "prompts/motionsites/Apex_SaaS.md",
+      "chars": 5517,
+      "sha256_8": "5cfc46a3",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "asme",
+      "title": "Asme",
+      "file": "prompts/motionsites/Asme.md",
+      "chars": 4588,
+      "sha256_8": "5e2b20e8",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "automation-machines",
+      "title": "Automation_Machines",
+      "file": "prompts/motionsites/Automation_Machines.md",
+      "chars": 7653,
+      "sha256_8": "5aa402e7",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "bionova-biotech",
+      "title": "Bionova_Biotech",
+      "file": "prompts/motionsites/Bionova_Biotech.md",
+      "chars": 4264,
+      "sha256_8": "567ec730",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "bloom-ai",
+      "title": "Bloom_AI",
+      "file": "prompts/motionsites/Bloom_AI.md",
+      "chars": 4133,
+      "sha256_8": "f8d84697",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "bold-portfolio-hero",
+      "title": "Bold_Portfolio_Hero",
+      "file": "prompts/motionsites/Bold_Portfolio_Hero.md",
+      "chars": 3115,
+      "sha256_8": "86e8e841",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "buzzentic-agency",
+      "title": "Buzzentic_Agency",
+      "file": "prompts/motionsites/Buzzentic_Agency.md",
+      "chars": 2326,
+      "sha256_8": "f110ec11",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "clearinvoice-saas-hero",
+      "title": "ClearInvoice_SaaS_Hero",
+      "file": "prompts/motionsites/ClearInvoice_SaaS_Hero.md",
+      "chars": 2334,
+      "sha256_8": "ab145fe3",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "clubx-investors",
+      "title": "ClubX_Investors",
+      "file": "prompts/motionsites/ClubX_Investors.md",
+      "chars": 3119,
+      "sha256_8": "c1c131ea",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "codenest-coding-platform",
+      "title": "CodeNest_Coding_Platform",
+      "file": "prompts/motionsites/CodeNest_Coding_Platform.md",
+      "chars": 2849,
+      "sha256_8": "cafd36db",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "dark-portfolio-hero",
+      "title": "Dark_Portfolio_Hero",
+      "file": "prompts/motionsites/Dark_Portfolio_Hero.md",
+      "chars": 5789,
+      "sha256_8": "d682bc75",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "datacore-booking",
+      "title": "Datacore_Booking",
+      "file": "prompts/motionsites/Datacore_Booking.md",
+      "chars": 3067,
+      "sha256_8": "2d736dbc",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "datacore-saas-hero",
+      "title": "Datacore_SaaS_Hero",
+      "file": "prompts/motionsites/Datacore_SaaS_Hero.md",
+      "chars": 2908,
+      "sha256_8": "e9282112",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "designpro-academy",
+      "title": "DesignPro_Academy",
+      "file": "prompts/motionsites/DesignPro_Academy.md",
+      "chars": 3289,
+      "sha256_8": "3a50a69b",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "digitwist-ai-builder",
+      "title": "Digitwist_AI_Builder",
+      "file": "prompts/motionsites/Digitwist_AI_Builder.md",
+      "chars": 6315,
+      "sha256_8": "dbe0447b",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "e-commerce-website",
+      "title": "E-commerce_Website",
+      "file": "prompts/motionsites/E-commerce_Website.md",
+      "chars": 5384,
+      "sha256_8": "8309e91a",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "evr-ventures",
+      "title": "EVR_Ventures",
+      "file": "prompts/motionsites/EVR_Ventures.md",
+      "chars": 4509,
+      "sha256_8": "a2879364",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "finlytic-ai-agent",
+      "title": "Finlytic_AI_Agent",
+      "file": "prompts/motionsites/Finlytic_AI_Agent.md",
+      "chars": 3362,
+      "sha256_8": "3677360a",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "framelix-3d-studios",
+      "title": "Framelix_3D_Studios",
+      "file": "prompts/motionsites/Framelix_3D_Studios.md",
+      "chars": 3301,
+      "sha256_8": "31fa574d",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "glassmorphism-agency-hero",
+      "title": "Glassmorphism_Agency_Hero",
+      "file": "prompts/motionsites/Glassmorphism_Agency_Hero.md",
+      "chars": 3918,
+      "sha256_8": "79245d5b",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "grow-ai-talent-platform",
+      "title": "Grow_AI_Talent_Platform",
+      "file": "prompts/motionsites/Grow_AI_Talent_Platform.md",
+      "chars": 5745,
+      "sha256_8": "91e7d21b",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "hr-saas-hero",
+      "title": "HR_SaaS_Hero",
+      "file": "prompts/motionsites/HR_SaaS_Hero.md",
+      "chars": 2434,
+      "sha256_8": "5eab7eee",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "investor-deck",
+      "title": "Investor_Deck",
+      "file": "prompts/motionsites/Investor_Deck.md",
+      "chars": 11360,
+      "sha256_8": "77ec4b33",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "liquid-glass-agency",
+      "title": "Liquid_Glass_Agency",
+      "file": "prompts/motionsites/Liquid_Glass_Agency.md",
+      "chars": 8996,
+      "sha256_8": "7d80b120",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "loader-animation",
+      "title": "Loader_Animation",
+      "file": "prompts/motionsites/Loader_Animation.md",
+      "chars": 3554,
+      "sha256_8": "5eaf8e52",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "logoisum-video-agency",
+      "title": "Logoisum_Video_Agency",
+      "file": "prompts/motionsites/Logoisum_Video_Agency.md",
+      "chars": 1821,
+      "sha256_8": "a77d80a6",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "mindloop",
+      "title": "Mindloop",
+      "file": "prompts/motionsites/Mindloop.md",
+      "chars": 3421,
+      "sha256_8": "26c795c0",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "mindloop-landing",
+      "title": "Mindloop_Landing",
+      "file": "prompts/motionsites/Mindloop_Landing.md",
+      "chars": 7682,
+      "sha256_8": "44de8450",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "neovision",
+      "title": "NeoVision",
+      "file": "prompts/motionsites/NeoVision.md",
+      "chars": 8839,
+      "sha256_8": "e2253a46",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "neuralyn",
+      "title": "Neuralyn",
+      "file": "prompts/motionsites/Neuralyn.md",
+      "chars": 5482,
+      "sha256_8": "d3c31dd6",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "new-era-automotive-hero",
+      "title": "New_Era_Automotive_Hero",
+      "file": "prompts/motionsites/New_Era_Automotive_Hero.md",
+      "chars": 2952,
+      "sha256_8": "20822c35",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "new-era-bold-hero",
+      "title": "New_Era_Bold_Hero",
+      "file": "prompts/motionsites/New_Era_Bold_Hero.md",
+      "chars": 1911,
+      "sha256_8": "9b030a00",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nexora-automation",
+      "title": "Nexora_Automation",
+      "file": "prompts/motionsites/Nexora_Automation.md",
+      "chars": 5587,
+      "sha256_8": "6152cfc1",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nexus-it-solutions",
+      "title": "Nexus_IT_Solutions",
+      "file": "prompts/motionsites/Nexus_IT_Solutions.md",
+      "chars": 2526,
+      "sha256_8": "bde215e3",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nickel-payments",
+      "title": "Nickel_Payments",
+      "file": "prompts/motionsites/Nickel_Payments.md",
+      "chars": 2903,
+      "sha256_8": "566300b7",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "nova-space-systems",
+      "title": "NOVA_Space_Systems",
+      "file": "prompts/motionsites/NOVA_Space_Systems.md",
+      "chars": 5433,
+      "sha256_8": "b3268068",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "orbis-nft",
+      "title": "Orbis_NFT",
+      "file": "prompts/motionsites/Orbis_NFT.md",
+      "chars": 8792,
+      "sha256_8": "ae37a01b",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "orbit-engineers",
+      "title": "Orbit_Engineers",
+      "file": "prompts/motionsites/Orbit_Engineers.md",
+      "chars": 5885,
+      "sha256_8": "b449c920",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "orbit-web3",
+      "title": "Orbit_Web3",
+      "file": "prompts/motionsites/Orbit_Web3.md",
+      "chars": 3449,
+      "sha256_8": "ed5b0de8",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "planet-orbit",
+      "title": "Planet_Orbit",
+      "file": "prompts/motionsites/Planet_Orbit.md",
+      "chars": 3460,
+      "sha256_8": "b53fbf70",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "portfolio-cosmic",
+      "title": "Portfolio_Cosmic",
+      "file": "prompts/motionsites/Portfolio_Cosmic.md",
+      "chars": 8499,
+      "sha256_8": "8c15da78",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "power-ai",
+      "title": "Power_AI",
+      "file": "prompts/motionsites/Power_AI.md",
+      "chars": 4071,
+      "sha256_8": "f00e26d1",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "price-calculator",
+      "title": "Price_Calculator",
+      "file": "prompts/motionsites/Price_Calculator.md",
+      "chars": 3401,
+      "sha256_8": "c3c92cde",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "railroad-ai",
+      "title": "Railroad.ai",
+      "file": "prompts/motionsites/Railroad.ai.md",
+      "chars": 4155,
+      "sha256_8": "b665df2a",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "skyelite-private-jets",
+      "title": "SkyElite_Private_Jets",
+      "file": "prompts/motionsites/SkyElite_Private_Jets.md",
+      "chars": 2544,
+      "sha256_8": "c24e9513",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "space-voyage",
+      "title": "Space_Voyage",
+      "file": "prompts/motionsites/Space_Voyage.md",
+      "chars": 6050,
+      "sha256_8": "d36e15bf",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "stellar-ai",
+      "title": "Stellar_AI",
+      "file": "prompts/motionsites/Stellar_AI.md",
+      "chars": 4210,
+      "sha256_8": "dc5eb305",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "synapse-dark-hero",
+      "title": "Synapse_Dark_Hero",
+      "file": "prompts/motionsites/Synapse_Dark_Hero.md",
+      "chars": 1854,
+      "sha256_8": "7565232c",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "sync-ai",
+      "title": "Sync_AI",
+      "file": "prompts/motionsites/Sync_AI.md",
+      "chars": 6441,
+      "sha256_8": "9f399171",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "targo-logistics-hero",
+      "title": "Targo_Logistics_Hero",
+      "file": "prompts/motionsites/Targo_Logistics_Hero.md",
+      "chars": 2414,
+      "sha256_8": "63c70fb0",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "taskly",
+      "title": "Taskly",
+      "file": "prompts/motionsites/Taskly.md",
+      "chars": 2695,
+      "sha256_8": "2ca2c404",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "taskora-saas-hero",
+      "title": "Taskora_SaaS_Hero",
+      "file": "prompts/motionsites/Taskora_SaaS_Hero.md",
+      "chars": 2994,
+      "sha256_8": "0618400b",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "terra-geo-map",
+      "title": "Terra_Geo_Map",
+      "file": "prompts/motionsites/Terra_Geo_Map.md",
+      "chars": 2856,
+      "sha256_8": "63562253",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "transform-data",
+      "title": "Transform_Data",
+      "file": "prompts/motionsites/Transform_Data.md",
+      "chars": 3853,
+      "sha256_8": "5a2cff4d",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "velorah",
+      "title": "Velorah",
+      "file": "prompts/motionsites/Velorah.md",
+      "chars": 4013,
+      "sha256_8": "7e60ad43",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "viktor-portfolio",
+      "title": "Viktor_Portfolio",
+      "file": "prompts/motionsites/Viktor_Portfolio.md",
+      "chars": 3011,
+      "sha256_8": "0527e56b",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "wealth-video-hero",
+      "title": "Wealth_Video_Hero",
+      "file": "prompts/motionsites/Wealth_Video_Hero.md",
+      "chars": 2270,
+      "sha256_8": "6f5ca895",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "web3-eos-hero",
+      "title": "Web3_EOS_Hero",
+      "file": "prompts/motionsites/Web3_EOS_Hero.md",
+      "chars": 3350,
+      "sha256_8": "63406245",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "weblex-dark-hero",
+      "title": "Weblex_Dark_Hero",
+      "file": "prompts/motionsites/Weblex_Dark_Hero.md",
+      "chars": 2799,
+      "sha256_8": "1659ead8",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    },
+    {
+      "slug": "xportfolio-hero",
+      "title": "xPortfolio_Hero",
+      "file": "prompts/motionsites/xPortfolio_Hero.md",
+      "chars": 3124,
+      "sha256_8": "945409e7",
+      "source": "Motionsites.ai (GitHub mirror)",
+      "upstream": "https://github.com/xiiiabu/motionsites.ai"
+    }
+  ]
+}

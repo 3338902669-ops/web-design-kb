@@ -4,8 +4,14 @@ Step 3 of the workflow says "motion comes from a library, not from memory". This
 library: its schema, its provenance rules, how to build your own, and the honest gaps in the bundled
 copy.
 
-Bundled file: `data/motion-db.json`. **Read [THIRD-PARTY-NOTICE.md](../THIRD-PARTY-NOTICE.md) before
-using or redistributing it.**
+Bundled files: `data/motion-db.json` plus mirrored full prompts in `data/prompts/`.
+**Read [THIRD-PARTY-NOTICE.md](../THIRD-PARTY-NOTICE.md) before using or redistributing anything here.**
+
+> **Read this before trusting the library.** It is metadata collected from **showcase/demo** sites and
+> component galleries. The aesthetic skews dark / 3D / spectacle, and most entries are a one-line
+> description with **no executable spec**. Of 594 valid entries, **209 have a mirrored full prompt** and
+> **130 are components with an official URL**; the rest are an idea index only. The library is a *source
+> of candidates*, never the design baseline — the baseline is `design/style-tokens.md`.
 
 ## Schema
 
@@ -57,9 +63,31 @@ For a given section query:
 
 > **expected candidate count = number of entries the query matches with `status=valid`**
 
-Listing fewer than that is a failed step; there is no upper limit. Rank by effect first, semantic fit
-second; break ties by "3D -> component/prompt evidence -> higher strength -> stable id order" and record
-the ranking reason.
+Listing fewer than that is a failed step; there is no upper limit.
+
+**Rank semantic fit first, impact second** (`tools/motion-find.mjs` does this by default) and prefer
+entries with an executable spec. **3D is opt-in** (`--want-3d`) and must be justified by the style
+tokens. A candidate with no prompt and no URL may be listed as inspiration, marked `NO-SPEC`, and
+cannot be adopted. Record the ranking reason per candidate.
+
+## Full prompts (`data/prompts/`)
+
+~~~
+data/prompts/<slug>.md              164 demo-page prompts (full text, unmodified)
+data/prompts/motionsites/<Name>.md   65 prompts mirrored from the upstream GitHub repo
+data/prompts-index.json              slug -> file, title, size, sha256 prefix, provenance
+~~~
+
+~~~bash
+node tools/get-prompt.mjs "Aethera Studio"          # metadata + path
+node tools/get-prompt.mjs "Aethera Studio" --print  # full prompt text
+node tools/get-prompt.mjs "Glass Orb" --json
+~~~
+
+The prompts are upstream **MIT** content (https://github.com/xiiiabu/motionsites.ai) mirrored locally so
+the sourcing step has a real specification instead of a paraphrase. Keep the attribution if you
+redistribute. Entries with no mirrored prompt are reported by `tools/get-prompt.mjs`; use the official
+URL for components, and treat a bare description as inspiration only.
 
 **3D candidates** - define the rule once, explicitly, and apply it consistently. Two defensible
 definitions:

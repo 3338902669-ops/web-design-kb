@@ -1,7 +1,12 @@
 # data/ - bundled motion library
 
-> **Third-party metadata. Read [THIRD-PARTY-NOTICE.md](../THIRD-PARTY-NOTICE.md) before redistribution or
+> **Third-party content. Read [THIRD-PARTY-NOTICE.md](../THIRD-PARTY-NOTICE.md) before redistribution or
 > commercial use.**
+>
+> **This is an idea index, not a design baseline.** It was collected from showcase/demo sites and
+> component galleries: the aesthetic skews dark/3D/spectacle, and most entries are one line of
+> description with no executable spec. Use `tools/motion-search.mjs --has-spec` when you need
+> something you can actually implement.
 
 | File | What it is |
 |---|---|
@@ -9,6 +14,9 @@
 | `backgrounds-index.json` | background-only description index |
 | `site-components-motion.json` | component-library subset (official component URLs) |
 | `framesbase-motion-merged.json` | merged motion descriptions for one source |
+| `prompts/<slug>.md` | **164 full prompt texts** mirrored from the upstream MIT repo |
+| `prompts/motionsites/<Name>.md` | 65 further prompts from the same upstream repo |
+| `prompts-index.json` | slug -> file, title, size, sha256 prefix, provenance |
 
 ## Exact counts (as published)
 
@@ -20,6 +28,8 @@ sources   Framesbase 620 | Aceternity UI 108 | React Bits 22 | self-authored 1
 cats      Sites 336 | Backgrounds 151 | Components 130 | Sections 91 | Apps 43
 strength  unknown 620 | light 107 | strong 23 | cinematic 1
 3D        text rule 73 | tag rule 137 | union 138   (tag is not a strict superset: use the union)
+prompts   229 files / 1.7 MB of text: 209 of 751 entries resolve to a full prompt
+spec      130 components carry an official URL; the rest without a prompt are inspiration only
 ```
 
 ### Why 152 entries are `suspect`
