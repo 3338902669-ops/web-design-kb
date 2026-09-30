@@ -34,9 +34,11 @@ opened). See [THIRD-PARTY-NOTICE.md](../THIRD-PARTY-NOTICE.md) for the source an
 prompt family before redistributing.
 
 A second recovery round followed the same day: 26 entries opened by card id, 8 from public crawl/mirror
-repositories, and 6 from an MCP re-sweep of the titled entries that were still uncovered. 150 of the
-remaining 158 are degraded captures with no name and no id - nothing to search on; the other 8 publish
-no prompt text at all (Google AI Studio apps) or stay locked to other accounts.
+repositories, and 6 from an MCP re-sweep of the titled entries that were still uncovered. The 158 that
+remain are closed out in [`data/unrecoverable-entries.json`](../data/unrecoverable-entries.json):
+**150 are degraded captures** with no name, no id and no key - there is nothing to search on - and
+**8 are titled cards that publish a link instead of prompt text or stay locked to another account**.
+All 158 carry a notes field saying so, so nobody mistakes one for a spec.
 
 ## If you need one of the 158
 

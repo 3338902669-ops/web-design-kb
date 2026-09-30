@@ -8725,7 +8725,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8738,7 +8738,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8751,7 +8751,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8764,7 +8764,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8777,7 +8777,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8790,7 +8790,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8803,7 +8803,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8816,7 +8816,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8829,7 +8829,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8842,7 +8842,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8855,7 +8855,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8868,7 +8868,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8881,7 +8881,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8894,7 +8894,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8907,7 +8907,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8920,7 +8920,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8933,7 +8933,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8946,7 +8946,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8959,7 +8959,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8972,7 +8972,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8985,7 +8985,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -8998,7 +8998,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9011,7 +9011,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9024,7 +9024,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9037,7 +9037,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9050,7 +9050,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9063,7 +9063,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9076,7 +9076,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9089,7 +9089,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9102,7 +9102,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9115,7 +9115,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9128,7 +9128,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9141,7 +9141,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9154,7 +9154,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9167,7 +9167,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9180,7 +9180,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9193,7 +9193,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9206,7 +9206,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9219,7 +9219,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9232,7 +9232,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9245,7 +9245,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9258,7 +9258,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9271,7 +9271,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9284,7 +9284,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9297,7 +9297,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9310,7 +9310,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9323,7 +9323,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9336,7 +9336,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9349,7 +9349,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9362,7 +9362,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9375,7 +9375,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9388,7 +9388,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9401,7 +9401,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9414,7 +9414,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9427,7 +9427,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9440,7 +9440,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9453,7 +9453,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9466,7 +9466,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9479,7 +9479,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9492,7 +9492,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9505,7 +9505,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9518,7 +9518,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9531,7 +9531,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9544,7 +9544,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9557,7 +9557,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9570,7 +9570,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9583,7 +9583,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9596,7 +9596,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9609,7 +9609,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9622,7 +9622,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9635,7 +9635,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9648,7 +9648,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9661,7 +9661,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9674,7 +9674,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9687,7 +9687,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9700,7 +9700,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9713,7 +9713,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9726,7 +9726,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9739,7 +9739,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9752,7 +9752,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9765,7 +9765,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9778,7 +9778,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9791,7 +9791,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9804,7 +9804,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9817,7 +9817,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9830,7 +9830,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9843,7 +9843,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9856,7 +9856,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9869,7 +9869,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9882,7 +9882,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9895,7 +9895,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9908,7 +9908,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9921,7 +9921,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9934,7 +9934,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9947,7 +9947,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9960,7 +9960,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9973,7 +9973,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9986,7 +9986,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -9999,7 +9999,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10012,7 +10012,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10025,7 +10025,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10038,7 +10038,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10051,7 +10051,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10064,7 +10064,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10077,7 +10077,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10090,7 +10090,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10103,7 +10103,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10116,7 +10116,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10129,7 +10129,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10142,7 +10142,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10155,7 +10155,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10168,7 +10168,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10181,7 +10181,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10194,7 +10194,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10207,7 +10207,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10220,7 +10220,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10233,7 +10233,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10246,7 +10246,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10259,7 +10259,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10272,7 +10272,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10285,7 +10285,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10298,7 +10298,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10311,7 +10311,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10324,7 +10324,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10337,7 +10337,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10350,7 +10350,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10363,7 +10363,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10376,7 +10376,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10389,7 +10389,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10402,7 +10402,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10415,7 +10415,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10428,7 +10428,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10441,7 +10441,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10454,7 +10454,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10467,7 +10467,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10480,7 +10480,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10493,7 +10493,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10506,7 +10506,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10519,7 +10519,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10532,7 +10532,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10545,7 +10545,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10558,7 +10558,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10571,7 +10571,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10584,7 +10584,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10597,7 +10597,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10610,7 +10610,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10623,7 +10623,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10636,7 +10636,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10649,7 +10649,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Backgrounds",
@@ -10662,7 +10662,7 @@
       "tags": [],
       "nature": "visual",
       "status": "suspect",
-      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists."
+      "notes": "Degraded capture: scrape returned ERR; no name/motion captured. Kept for provenance, excluded from candidate lists. | Unrecoverable: the original capture failed (ERR), so the entry has no name, no id and no key - there is nothing searchable to match it against a source. Kept for provenance only; do not use as a design spec."
     },
     {
       "cat": "Components",
