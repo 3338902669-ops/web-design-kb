@@ -1,7 +1,7 @@
 {
  "note": "Full prompt texts from Motionsites.ai/Framesbase (upstream MIT GitHub mirror) plus Framesbase MCP prompts opened by membership. See THIRD-PARTY-NOTICE.md.",
  "upstream": "https://github.com/xiiiabu/motionsites.ai",
- "count": 656,
+ "count": 655,
  "prompts": [
   {
    "slug": "3d-character-studio",
@@ -738,15 +738,6 @@
    "file": "prompts/lumina-footer.md",
    "chars": 5113,
    "sha256_8": "1f3e869d",
-   "source": "Motionsites.ai mirror (edge cache)",
-   "upstream": "https://github.com/xiiiabu/motionsites.ai"
-  },
-  {
-   "slug": "luminex-hero",
-   "title": "Luminex",
-   "file": "prompts/luminex-hero.md",
-   "chars": 162,
-   "sha256_8": "d0acf3c4",
    "source": "Motionsites.ai mirror (edge cache)",
    "upstream": "https://github.com/xiiiabu/motionsites.ai"
   },

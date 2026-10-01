@@ -1,19 +1,19 @@
 {
- "generated": "2026-09-30",
+ "generated": "2026-10-01",
  "db": "data/motion-db.json",
  "totals": {
   "entries": 751,
-  "withPromptRef": 467,
+  "withPromptRef": 466,
   "executableUrlOnly": 126,
-  "noExecutableSpec": 158
+  "noExecutableSpec": 159
  },
  "bySourceOfNoSpec": {
-  "Framesbase": 157,
+  "Framesbase": 158,
   "self-authored": 1
  },
  "byNatureOfNoSpec": {
   "frame": 4,
-  "visual": 153,
+  "visual": 154,
   "self-authored": 1
  },
  "missing": [
@@ -40,6 +40,14 @@
    "nature": "visual",
    "status": "valid",
    "id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae"
+  },
+  {
+   "name": "Luminex",
+   "source": "Framesbase",
+   "cat": "Sites",
+   "nature": "visual",
+   "status": "valid",
+   "id": "e7433dcb-6008-423c-991d-a69cc99c609d"
   },
   {
    "name": "Slam Dunk",

@@ -11,11 +11,11 @@ starting to build.
 
 | Class | Count | What you get | Can you implement from it? |
 |---|---|---|---|
-| **promptRef** | **467** | A full prompt text shipped in `data/prompts/` | Yes - read the file, then adapt it |
+| **promptRef** | **466** | A full prompt text shipped in `data/prompts/` | Yes - read the file, then adapt it |
 | **executable URL** | **126** | No prompt text, but an official component/demo URL in the `url` field (Aceternity UI, React Bits) | Yes - the official component page is the spec |
-| **no executable spec** | **158** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
+| **no executable spec** | **159** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
 
-The 158 are Framesbase showcase records (157) plus 1 self-authored entry. They are
+The 159 are Framesbase showcase records (158) plus 1 self-authored entry. They are
 `nature: frame` (4) or `nature: visual` (153): descriptions and tags distilled from a poster or a
 video frame. The full prompt text for these was never collected locally, and most of the upstream cards
 behind them are not free. **Nothing is invented to fill the gap** - `data/unrecoverable-entries.json`
@@ -35,13 +35,15 @@ opened). See [THIRD-PARTY-NOTICE.md](../THIRD-PARTY-NOTICE.md) for the source an
 prompt family before redistributing.
 
 A second recovery round followed the same day: 26 entries opened by card id, 8 from public crawl/mirror
-repositories, and 6 from an MCP re-sweep of the titled entries that were still uncovered. The 158 that
+repositories, and 6 from an MCP re-sweep of the titled entries that were still uncovered. The 159 that
 remain are closed out in [`data/unrecoverable-entries.json`](../data/unrecoverable-entries.json):
 **150 are degraded captures** with no name, no id and no key - there is nothing to search on - and
 **8 are titled cards that publish a link instead of prompt text or stay locked to another account**.
-All 158 carry a notes field saying so, so nobody mistakes one for a spec.
+All 159 carry a notes field saying so, so nobody mistakes one for a spec. One further entry (a
+162-byte description that had been counted as a prompt) was demoted in the same pass after the
+independent verifier caught it with a full-scan check.
 
-## If you need one of the 158
+## If you need one of the 159
 
 Three legitimate routes, in order of cost:
 
@@ -51,7 +53,7 @@ Three legitimate routes, in order of cost:
 3. **Write the spec yourself from the description + tags.** That is authoring, not sourcing - your
    acceptance record should say so, and the result is yours, not a mirrored prompt.
 
-Do not paste one of the 158 descriptions into a build as if it were a prompt. That is exactly the
+Do not paste one of the 159 descriptions into a build as if it were a prompt. That is exactly the
 failure mode this file exists to prevent.
 
 ## Provenance and licensing

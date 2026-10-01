@@ -2491,7 +2491,7 @@
       ],
       "nature": "visual",
       "status": "valid",
-      "promptRef": "data/prompts/luminex-hero.md"
+      "notes": "A former promptRef pointed at luminex-hero.md, which contains a 162-byte description, not a full prompt; the reference was removed on 2026-10-01."
     },
     {
       "cat": "Sites",
