@@ -9,6 +9,9 @@ dist/
 build/
 .cache/
 tmp/
+# local agent runtimes leave session state behind; never ship it
+.rivet/
+.rivet-*/
 *.tmp
 *.bak
 evidence-*/
