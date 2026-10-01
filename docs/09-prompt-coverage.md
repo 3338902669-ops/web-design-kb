@@ -15,10 +15,11 @@ starting to build.
 | **executable URL** | **126** | No prompt text, but an official component/demo URL in the `url` field (Aceternity UI, React Bits) | Yes - the official component page is the spec |
 | **no executable spec** | **158** | Metadata only: name, category, tags, motion description in words | **No** - treat it as direction, never as a spec |
 
-The 406 are Framesbase showcase records (405) plus 1 self-authored entry. They are
-`nature: frame` (110) or `nature: visual` (295): descriptions and tags distilled from a poster or a
+The 158 are Framesbase showcase records (157) plus 1 self-authored entry. They are
+`nature: frame` (4) or `nature: visual` (153): descriptions and tags distilled from a poster or a
 video frame. The full prompt text for these was never collected locally, and most of the upstream cards
-behind them are not free. **Nothing is invented to fill the gap** - the manifest lists them by name.
+behind them are not free. **Nothing is invented to fill the gap** - `data/unrecoverable-entries.json`
+lists every one of them; 150 have no name at all, the other 8 are listed by name and id.
 
 Check any single entry before you plan around it:
 
@@ -50,7 +51,7 @@ Three legitimate routes, in order of cost:
 3. **Write the spec yourself from the description + tags.** That is authoring, not sourcing - your
    acceptance record should say so, and the result is yours, not a mirrored prompt.
 
-Do not paste one of the 406 descriptions into a build as if it were a prompt. That is exactly the
+Do not paste one of the 158 descriptions into a build as if it were a prompt. That is exactly the
 failure mode this file exists to prevent.
 
 ## Provenance and licensing

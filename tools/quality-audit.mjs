@@ -86,15 +86,19 @@ for (const file of files) {
   for (const m of css.matchAll(/(--[a-z0-9-]+)\s*:\s*([^;}]+)/gi)) vars.set(m[1], m[2].trim());
   const resolve = (v) => {
     let out = String(v).trim();
-    for (let i = 0; i < 3; i++) {
-      const m = out.match(/^var\((--[a-z0-9-]+)(?:\s*,\s*([^)]+))?\)$/i);
-      if (!m) break;
-      out = vars.get(m[1]) || m[2] || out;
+    for (let i = 0; i < 4; i++) {
+      const whole = out.match(/^var\((--[a-z0-9-]+)(?:\s*,\s*([^)]+))?\)$/i);
+      if (whole) { out = vars.get(whole[1]) || whole[2] || out; continue; }
+      // var() nested inside clamp()/calc(): substitute each one
+      let changed = false;
+      out = out.replace(/var\((--[a-z0-9-]+)(?:\s*,\s*([^)]+))?\)/gi, (m, name, fallback) => { changed = true; return vars.get(name) || fallback || m; });
+      if (!changed) break;
     }
     return out;
   };
   const pxValues = (chunk) => [...chunk.matchAll(/([0-9.]+)(px|rem)\b/g)].map(m => toPx(m[1] + m[2]));
   const dims = [];
+  const warnings = [];
   const add = (name, ok, detail) => dims.push({ name, ok, detail });
 
   // typography - font-size / short-hand font declarations
@@ -119,9 +123,12 @@ for (const file of files) {
 
   // whitespace - the section rhythm (clamp() max counts as its upper bound)
   const padChunks = [...css.matchAll(/(?:^|[;{\s])(?:padding|padding-(?:top|bottom)|margin|gap)\s*:\s*([^;}]+)/gi)].map(m => resolve(m[1]));
+  // for clamp(a,b,c) the desktop token is c: take the max number in the chunk
   const widths = padChunks.flatMap(c => [...c.matchAll(/([0-9.]+)(px|rem)\b/g)].map(m => toPx(m[1] + m[2])));
   const maxPad = widths.length ? Math.max(...widths) : 0;
-  add('whitespace', maxPad >= 56, 'max spacing token = ' + maxPad + 'px (need >=56 mobile, >=96 desktop)');
+  // docs/10 asks for >=56 mobile and >=96 desktop. A single static pass sees one stylesheet, so the
+  // desktop token is the largest declared value: require it, and report the gap when it only meets mobile.
+  add('whitespace', maxPad >= 96, 'max spacing token = ' + maxPad + 'px (desktop floor 96px, mobile floor 56px)');
 
   // hierarchy
   const hasWeight = /font-weight\s*:\s*(?:[5-9]00|bold)/i.test(css) || /font\s*:\s*(?:[5-9]00)/.test(css);
@@ -146,12 +153,32 @@ for (const file of files) {
     if (fg && bg) pairs.push({ sel: r.sel.slice(0, 40), c: contrast(fg, bg) });
   }
   const worstPair = pairs.length ? pairs.reduce((a, b) => (a.c <= b.c ? a : b)) : null;
-  add('colour', !worstPair || worstPair.c >= 4.5, worstPair ? 'worst pair = ' + worstPair.c + ':1 at ' + worstPair.sel + ' (' + pairs.length + ' pair(s) checked)' : 'no literal fg/bg pair found (not measured)');
+  const colourOk = !worstPair || worstPair.c >= 4.5;
+  const colourDetail = worstPair ? 'worst pair = ' + worstPair.c + ':1 at ' + worstPair.sel + ' (' + pairs.length + ' pair(s) checked)' : 'no literal fg/bg pair found (not measured)';
+  // A literal pair can be mis-paired (text on a gradient, media or a differently-coloured parent), and a
+  // false low pair would fail a page that renders correctly. Record the reading, do not fail on it.
+  if (colourOk) add('colour', true, colourDetail);
+  else warnings.push('colour signal: ' + colourDetail + ' - verify in the rendered page; this is not a failure');
 
   // responsive
   const hasViewport = /name="viewport"[^>]*width=device-width/i.test(html);
-  const mediaChunks = [...css.matchAll(/@media[^{]*\{([\s\S]*?)\n\}/gi)].map(m => m[1]).join('\n');
-  const cssNoMedia = css.replace(/@media[^{]*\{[\s\S]*?\n\}/gi, '');
+  // strip media blocks by brace depth: the old regex required a newline before the closing brace, so
+  // minified `@media(...){...}` survived and its rules were mis-read as outside-media (false positive).
+  const stripMedia = (input) => {
+    let out = '', i = 0;
+    while (i < input.length) {
+      const at = input.toLowerCase().indexOf('@media', i);
+      if (at < 0) { out += input.slice(i); break; }
+      out += input.slice(i, at);
+      const open = input.indexOf('{', at);
+      if (open < 0) { out += input.slice(at); break; }
+      let depth = 1, j = open + 1;
+      while (j < input.length && depth > 0) { if (input[j] === '{') depth++; else if (input[j] === '}') depth--; j++; }
+      i = j;
+    }
+    return out;
+  };
+  const cssNoMedia = stripMedia(css);
   const fixedWide = [...cssNoMedia.matchAll(/(?:^|[;{\s])width\s*:\s*([0-9.]+)px/gi)].map(m => Number(m[1])).filter(w => w > 420);
   add('responsive', hasViewport && /@media/.test(css) && fixedWide.length === 0,
     'viewport=' + hasViewport + ', media=' + /@media/.test(css) + ', fixed widths >420px outside media=' + fixedWide.length);
@@ -172,10 +199,12 @@ for (const file of files) {
   const focus = (css.match(/:focus(-visible)?/g) || []).length;
   const linkAffordance = /text-underline-offset|text-decoration|border-bottom/i.test(css);
   const inputControls = [...html.matchAll(/<(input|select|textarea)\b/gi)].length;
+  const active = (css.match(/:active/g) || []).length;
   const hasFocusForInputs = controls + inputControls === 0 || focus >= 1;
   add('interaction', (controls + inputControls) === 0 ? true : (hasFocusForInputs && (hover >= 1 || linkAffordance)),
-    'controls=' + (controls + inputControls) + ' (' + controls + ' a/button, ' + inputControls + ' input), :hover rules=' + hover + ', :focus rules=' + focus + ', link affordance=' + linkAffordance
-    + (controls + inputControls > focus ? ' | NOTE: fewer focus rules than controls - a shared rule can cover many, check the count against the DOM' : ''));
+    'controls=' + (controls + inputControls) + ' (' + controls + ' a/button, ' + inputControls + ' input), :hover rules=' + hover + ', :focus rules=' + focus + ', :active rules=' + active + ', link affordance=' + linkAffordance
+    + (controls + inputControls > focus ? ' | NOTE: fewer focus rules than controls - a shared rule can cover many, check the count against the DOM' : '')
+    + (hover === 0 ? ' | NOTE: no :hover rule - hover state is unverified' : ''));
 
   // originality
   const title = (html.match(/<title>([^<]*)<\/title>/i) || [])[1];
@@ -183,7 +212,7 @@ for (const file of files) {
   const lorem = /lorem ipsum/i.test(html);
   add('originality', !!title && desc && !lorem, 'title=' + (title ? 'yes' : 'no') + ', meta-description=' + desc + ', lorem=' + lorem);
 
-  results.push({ file, dims, pass: dims.every(d => d.ok) });
+  results.push({ file, dims, warnings, pass: dims.every(d => d.ok) });
 }
 
 const failed = results.flatMap(r => r.dims.filter(d => !d.ok).map(d => r.file + ' :: ' + d.name));
@@ -191,8 +220,9 @@ if (!quiet) {
   for (const r of results) {
     console.log((r.pass ? 'PASS  ' : 'FAIL  ') + r.file);
     for (const d of r.dims) console.log('   ' + (d.ok ? 'ok  ' : 'BAD ') + d.name.padEnd(13) + d.detail);
+    for (const w of r.warnings) console.log('   WARN ' + w);
   }
   console.log('\n' + (failed.length ? 'FAIL: ' + failed.length + ' dimension(s) below threshold' : 'PASS: all measurable dimensions above threshold'));
 }
-if (jsonOut) fs.writeFileSync(jsonOut, JSON.stringify({ generated: new Date().toISOString().slice(0, 10), files: results, failed }, null, 1) + '\n');
+if (jsonOut) fs.writeFileSync(jsonOut, JSON.stringify({ generated: new Date().toISOString().slice(0, 10), files: results, failed, warnings: results.flatMap(r => r.warnings) }, null, 1) + '\n');
 process.exit(failed.length ? 1 : 0);

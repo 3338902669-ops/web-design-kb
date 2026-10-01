@@ -1,10 +1,12 @@
 {
- "generated": "2026-09-30T21:28:46",
+ "generated": "2026-10-01T04:51:12",
  "source": "web-design-kb data/motion-db.json",
  "totals": {
   "entriesWithoutPromptOrUrl": 158,
   "degradedNoName": 150,
-  "titledLinkOnlyOrLocked": 8
+  "titledLinkOnly": 6,
+  "titledOtherOrLocked": 2,
+  "titledTotal": 8
  },
  "degraded": [
   {
@@ -458,62 +460,64 @@
    "id": null
   }
  ],
- "titled": [
+ "titledLinkOnly": [
   {
    "name": "3D Future Flora",
    "cat": "Sites",
    "nature": "frame",
    "id": "9b0e79ff-3d63-41f4-aeee-b28528db6b32",
-   "reason": "card exists but publishes a link instead of prompt text, or is locked to another account"
+   "reason": "the card exists but publishes a link instead of prompt text; the link is not exposed by the catalog API"
   },
   {
    "name": "Glass Orb",
    "cat": "Sites",
    "nature": "frame",
    "id": "e399ab56-5fd5-4af6-a247-c4c3d5e7118e",
-   "reason": "card exists but publishes a link instead of prompt text, or is locked to another account"
+   "reason": "the card exists but publishes a link instead of prompt text; the link is not exposed by the catalog API"
   },
   {
    "name": "WISA Space",
    "cat": "Sites",
    "nature": "visual",
    "id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae",
-   "reason": "card exists but publishes a link instead of prompt text, or is locked to another account"
+   "reason": "the card exists but publishes a link instead of prompt text; the link is not exposed by the catalog API"
   },
   {
    "name": "Slam Dunk",
    "cat": "Sites",
    "nature": "visual",
    "id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
-   "reason": "card exists but publishes a link instead of prompt text, or is locked to another account"
+   "reason": "the card exists but publishes a link instead of prompt text; the link is not exposed by the catalog API"
   },
   {
    "name": "Cinematic Landing Page",
    "cat": "Sites",
    "nature": "visual",
    "id": "af51429c-9eb9-4cbe-82bd-758824901784",
-   "reason": "card exists but publishes a link instead of prompt text, or is locked to another account"
+   "reason": "the card exists but publishes a link instead of prompt text; the link is not exposed by the catalog API"
   },
   {
    "name": "3D Bloom Layer",
    "cat": "Sites",
    "nature": "frame",
    "id": "054b79f3-4db6-42bb-b8b3-4cd6f69c30a5",
-   "reason": "card exists but publishes a link instead of prompt text, or is locked to another account"
-  },
+   "reason": "the card exists but publishes a link instead of prompt text; the link is not exposed by the catalog API"
+  }
+ ],
+ "titledOtherOrLocked": [
   {
    "name": "Footballer Portfolio",
    "cat": "Apps",
    "nature": "frame",
    "id": "43e9e2d1-32e0-4a70-a9a9-a331d9549955",
-   "reason": "card exists but publishes a link instead of prompt text, or is locked to another account"
+   "reason": "no prompt text published (or locked to another account); nothing to fetch"
   },
   {
    "name": "Generative Listening Room (self-authored example)",
    "cat": "Backgrounds",
    "nature": "self-authored",
    "id": "self-authored-generative-listening-room",
-   "reason": "card exists but publishes a link instead of prompt text, or is locked to another account"
+   "reason": "no prompt text published (or locked to another account); nothing to fetch"
   }
  ]
 }
